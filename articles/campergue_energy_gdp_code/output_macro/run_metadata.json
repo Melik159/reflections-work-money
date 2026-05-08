@@ -1,0 +1,30 @@
+{
+  "countries": [
+    "WLD",
+    "USA",
+    "FRA",
+    "DEU",
+    "CHN",
+    "IND"
+  ],
+  "start_year": 1965,
+  "end_year": 2023,
+  "energy_method": "reconstructed_dimensionally",
+  "warnings": [],
+  "energy_formula": "energy = gdp_ppp_real / gdp_per_energy",
+  "gdp_ppp_source": "data/code/API_NY.GDP.MKTP.PP.KD.csv",
+  "gdp_per_energy_source": "data/code/API_EG.GDP.PUSE.KO.PP.KD.csv",
+  "n_observations": 204,
+  "year_min": 1990,
+  "year_max": 2023,
+  "outputs": [
+    "merged_energy_gdp.csv",
+    "regression_summary.csv",
+    "rolling_loglog_elasticity.csv",
+    "*_energy_gdp_level.png",
+    "*_energy_gdp_loglog.png",
+    "*_energy_gdp_dlog.png",
+    "*_indexed_series.png",
+    "rolling_loglog_elasticity.png"
+  ]
+}
