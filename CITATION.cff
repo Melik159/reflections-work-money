@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "If you use or reference this corpus, please cite Pierre Campergue's manuscript and preserve attribution to the original author."
+
+title: "Reflections on the Economic Power of Work and the Mechanical Power of Money"
+
+authors:
+  - family-names: "Campergue"
+    given-names: "Pierre"
+    affiliation: "Independent Consultant, Toulouse, France"
+
+abstract: >
+  Archival repository preserving the economic corpus of Pierre Campergue,
+  including the manuscript Reflections on the Economic Power of Work and
+  the Mechanical Power of Money. The corpus develops a formal economic
+  vocabulary centered on Economic Work, Money, Cash, Product, labour,
+  productivity, price formation, purchasing power, and the distinction
+  between accounting flows and real economic transformations.
+
+keywords:
+  - economics
+  - economic work
+  - money
+  - cash
+  - productivity
+  - purchasing power
+  - price formation
+  - productive transformation
+  - thermomechanical formalism
+  - Pierre Campergue
+
+repository-code: "https://github.com/Melik159/pierre-campergue-work-money"
+url: "https://github.com/Melik159/pierre-campergue-work-money"
+
+license: "LicenseRef-AllRightsReserved"
+
+preferred-citation:
+  type: generic
+  title: "Reflections on the Economic Power of Work and the Mechanical Power of Money"
+  authors:
+    - family-names: "Campergue"
+      given-names: "Pierre"
+      affiliation: "Independent Consultant, Toulouse, France"
+  abstract: >
+    Theoretical manuscript developing a formal analysis of economic Work,
+    Money, Cash, Product, labour, productivity, price formation and purchasing
+    power. The work uses the discipline of thermomechanical formalism as a
+    methodological framework for clarifying economic transformations, without
+    reducing economics to a simple thermodynamic analogy.
+  notes: >
+    Preserved archival edition. Repository maintained by Mélik Lemariey.
+    Copyright remains with Pierre Campergue and/or his legal rights holders.
