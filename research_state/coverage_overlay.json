@@ -1,0 +1,43 @@
+{
+  "pages_reread": [
+    108,
+    109,
+    110,
+    111,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    254,
+    255,
+    256,
+    257,
+    258,
+    384,
+    385,
+    386,
+    387,
+    466,
+    467,
+    468,
+    469
+  ],
+  "visual_pages": [
+    207,
+    386,
+    468
+  ],
+  "new_to_analytical_flag": [
+    254,
+    258
+  ],
+  "baseline_analytical_count": 447,
+  "baseline_not_modified": true,
+  "meaning": "Actual readings in this session; never inferred from retrieval hits or index building."
+}

@@ -1,0 +1,21 @@
+{
+  "cycle": "CYCLE-002",
+  "kind": "PROTOCOL_METADATA_GUARD",
+  "status": [
+    "BLOCKED_BY_MEASUREMENT",
+    "NON_DISCRIMINATING"
+  ],
+  "data_origin": "SYNTHETIC",
+  "empirical_observation": false,
+  "result": {
+    "proposed_design_accepted": true,
+    "circular_design_accepted": false,
+    "data_available": false,
+    "empirical_status": "BLOCKED_BY_MEASUREMENT",
+    "limitation": "Self-declared metadata require audit; no independent T sensor has been identified."
+  },
+  "claims_changed": [],
+  "questions_changed": [],
+  "finding": "Le changement d’unité était déjà traité dans EXP-09. La nouveauté de ce cycle est un filtre de protocole: exclure T construit par la loi testée, exiger étalonnage indépendant, unité de tâche et échantillon de contrôle. Ce filtre ne fournit aucun capteur.",
+  "confidence": "HIGH for conditional calculation; LOW for empirical identification"
+}

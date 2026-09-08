@@ -1,0 +1,105 @@
+{
+  "id": "ITER001-C05",
+  "target": [
+    "research_questions/RQ-09.01/conclusion.md",
+    "research_questions/RQ-09.02/conclusion.md",
+    "research_questions/RQ-12.02/conclusion.md"
+  ],
+  "current_state": {
+    "baseline": "CAMPERGUE-DOCUMENTARY-BASELINE-1.0",
+    "questions": [
+      {
+        "id": "RQ-09.01",
+        "status": "OPEN",
+        "target_path": "research_questions/RQ-09.01/conclusion.md",
+        "target_sha256": "6afaf1b835d23d99cdda0b3f85eaefd3afb56fb306fb9eb2995806b3ce59ad54"
+      },
+      {
+        "id": "RQ-09.02",
+        "status": "AMBIGUOUS",
+        "target_path": "research_questions/RQ-09.02/conclusion.md",
+        "target_sha256": "8ae7706934020b28d6eb675ce4aa610a7d3b35d8df3f7687dc0d963be410c6b2"
+      },
+      {
+        "id": "RQ-12.02",
+        "status": "OPEN",
+        "target_path": "research_questions/RQ-12.02/conclusion.md",
+        "target_sha256": "a97a4c2acfc4d9ccf8d98b9c699746b9c4fffbb5bd8052949a15db79bbe9715b"
+      }
+    ],
+    "claims": [
+      {
+        "id": "CPC-0003",
+        "statement": "L’étude compare la transformation du travail en monnaie à celle de la chaleur en travail, en les distinguant.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 2
+      },
+      {
+        "id": "CPC-0017",
+        "statement": "Une hausse de productivité exige nécessairement un travail supplémentaire assimilé ici à une énergie.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 19
+      },
+      {
+        "id": "CPC-0119",
+        "statement": "Le pont Tused=−Wcreated est restreint au travail mécanique économiquement utile, qui fait évoluer l’Utility du Product.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 455
+      },
+      {
+        "id": "CPC-0122",
+        "statement": "Les conservations économiques sont présentées avec des caractéristiques similaires, mais explicitement non mécaniques, avant leur application ceteris paribus.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 466
+      }
+    ],
+    "note": "État canonique inchangé; qualifications détaillées lues dans synthèse/remédiation/clôture."
+  },
+  "proposed_state": "Ajouter un plan factoriel documentaire disponibilité énergétique/procédé, unité assignation et interférences préspécifiées, effets intention de traiter locaux, médiateurs distingués. Rendre obligatoire grille sept niveaux énergie/PIB et comparaisons monde/pays/périodes/structures. Pont économique testé séparément avec référent T/Utility indépendant.",
+  "evidence": [
+    "agents/reports/ITER001-C05/specialist.md",
+    "agents/reports/ITER001-C05/adversarial.md",
+    "agents/reports/ITER001-C05/evidence.md",
+    "agents/reports/ITER001-C05/source_pages.txt",
+    "agents/reports/ITER001-C05/provenance.json",
+    "Reflections_PierreCampergue.pdf"
+  ],
+  "counterevidence": "Source455 impose Utility;456 admet énergie sans Money; interventions peuvent avoir débordements et adoption endogène. Effets et interactions compatibles avec plusieurs familles.",
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C05/specialist.md",
+    "adversarial": "agents/reports/ITER001-C05/adversarial.md",
+    "evidence": "agents/reports/ITER001-C05/evidence.md"
+  },
+  "confidence": "MEDIUM pour protocole, réalisation et portée externe inconnues",
+  "reason": "Protocole clarifie identification locale versus comparaison des théories; pas de prédiction numérique nouvelle ni exclusivité H3.",
+  "impact": "Sépare conversion physique, réponse productive et restriction propre au pont; statut académique inchangé",
+  "decision": "QUALIFY",
+  "finding_class": "NEW_SCENARIO",
+  "claims": [
+    "CPC-0003",
+    "CPC-0017",
+    "CPC-0119",
+    "CPC-0122"
+  ],
+  "questions": [
+    "RQ-09.01",
+    "RQ-09.02",
+    "RQ-12.02"
+  ],
+  "source_pages": [
+    203,
+    454,
+    455,
+    456,
+    466
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "negative_results": [
+    "NOT_IDENTIFIABLE",
+    "NON_DISCRIMINATING",
+    "REQUIRES_INDEPENDENT_T",
+    "REQUIRES_EXOGENOUS_VARIATION"
+  ],
+  "source_pages_policy": "Repères d’extraction; lecture effective et rôle du passage attestés séparément dans specialist.md et evidence.md, jamais par la seule préparation.",
+  "supporting_claims_policy": "Les claims sont liens de recherche; toutes les pages complémentaires ne sont pas leurs citations canoniques. Les rapports identifient les sources directes, notamment p112 pour C09 et p385–386 pour C03."
+}

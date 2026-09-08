@@ -1,0 +1,2425 @@
+{
+  "golden_questions": 66,
+  "methods": {
+    "baseline_bm25": {
+      "metrics": {
+        "Recall@1": 0.5,
+        "Recall@3": 0.7424242424242424,
+        "Recall@5": 0.8181818181818182,
+        "MRR": 0.6303030303030304
+      },
+      "details": [
+        {
+          "id": "GQ-001",
+          "metrics": {
+            "Recall@1": 0.5,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-002",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-003",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-004",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-005",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-006",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-007",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-008",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-009",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-010",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-011",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-012",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-013",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-014",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-015",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-016",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-017",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-018",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-019",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-020",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-021",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-022",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-023",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-024",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-025",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-026",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-027",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-028",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-029",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.25
+          }
+        },
+        {
+          "id": "GQ-030",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-031",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-032",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-033",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-034",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-035",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-036",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-037",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-038",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-039",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-040",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-041",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-042",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-043",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-044",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-045",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-046",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-047",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-048",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.25
+          }
+        },
+        {
+          "id": "GQ-049",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-050",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.2
+          }
+        },
+        {
+          "id": "GQ-051",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-052",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-053",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-054",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-055",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-056",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-057",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-058",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-059",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.2
+          }
+        },
+        {
+          "id": "GQ-060",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-061",
+          "metrics": {
+            "Recall@1": 0.5,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-062",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-063",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-064",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.2
+          }
+        },
+        {
+          "id": "GQ-065",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-066",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        }
+      ]
+    },
+    "separated_bm25": {
+      "metrics": {
+        "Recall@1": 0.5,
+        "Recall@3": 0.7424242424242424,
+        "Recall@5": 0.8181818181818182,
+        "MRR": 0.6303030303030304
+      },
+      "details": [
+        {
+          "id": "GQ-001",
+          "metrics": {
+            "Recall@1": 0.5,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-002",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-003",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-004",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-005",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-006",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-007",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-008",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-009",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-010",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-011",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-012",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-013",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-014",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-015",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-016",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-017",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-018",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-019",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-020",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-021",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-022",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-023",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-024",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-025",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-026",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-027",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-028",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-029",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.25
+          }
+        },
+        {
+          "id": "GQ-030",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-031",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-032",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-033",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-034",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-035",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-036",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-037",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-038",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-039",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-040",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-041",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-042",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-043",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-044",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-045",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-046",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-047",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-048",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.25
+          }
+        },
+        {
+          "id": "GQ-049",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-050",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.2
+          }
+        },
+        {
+          "id": "GQ-051",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-052",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-053",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-054",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-055",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-056",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-057",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-058",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-059",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.2
+          }
+        },
+        {
+          "id": "GQ-060",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-061",
+          "metrics": {
+            "Recall@1": 0.5,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-062",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-063",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-064",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.2
+          }
+        },
+        {
+          "id": "GQ-065",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-066",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        }
+      ]
+    },
+    "separated_tfidf": {
+      "metrics": {
+        "Recall@1": 0.48484848484848486,
+        "Recall@3": 0.6818181818181818,
+        "Recall@5": 0.803030303030303,
+        "MRR": 0.5979797979797981
+      },
+      "details": [
+        {
+          "id": "GQ-001",
+          "metrics": {
+            "Recall@1": 0.5,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-002",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-003",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-004",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-005",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-006",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-007",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-008",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-009",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-010",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-011",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.25
+          }
+        },
+        {
+          "id": "GQ-012",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-013",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.25
+          }
+        },
+        {
+          "id": "GQ-014",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-015",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-016",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.2
+          }
+        },
+        {
+          "id": "GQ-017",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-018",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-019",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-020",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-021",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-022",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-023",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-024",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-025",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-026",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-027",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-028",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-029",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.2
+          }
+        },
+        {
+          "id": "GQ-030",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-031",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-032",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-033",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-034",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-035",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-036",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-037",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-038",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-039",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-040",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-041",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-042",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-043",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-044",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-045",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.25
+          }
+        },
+        {
+          "id": "GQ-046",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-047",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-048",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-049",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-050",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.25
+          }
+        },
+        {
+          "id": "GQ-051",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.2
+          }
+        },
+        {
+          "id": "GQ-052",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-053",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-054",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-055",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-056",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-057",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-058",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-059",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-060",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-061",
+          "metrics": {
+            "Recall@1": 0.5,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-062",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-063",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-064",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-065",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.2
+          }
+        },
+        {
+          "id": "GQ-066",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        }
+      ]
+    },
+    "separated_hybrid": {
+      "metrics": {
+        "Recall@1": 0.4696969696969697,
+        "Recall@3": 0.6666666666666666,
+        "Recall@5": 0.8333333333333334,
+        "MRR": 0.6060606060606061
+      },
+      "details": [
+        {
+          "id": "GQ-001",
+          "metrics": {
+            "Recall@1": 0.5,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-002",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.2
+          }
+        },
+        {
+          "id": "GQ-003",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-004",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-005",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-006",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-007",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-008",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-009",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-010",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-011",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.25
+          }
+        },
+        {
+          "id": "GQ-012",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-013",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-014",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-015",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-016",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-017",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-018",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-019",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-020",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-021",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-022",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-023",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.2
+          }
+        },
+        {
+          "id": "GQ-024",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-025",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-026",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-027",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-028",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-029",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.25
+          }
+        },
+        {
+          "id": "GQ-030",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-031",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-032",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-033",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-034",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-035",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-036",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-037",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-038",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-039",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.25
+          }
+        },
+        {
+          "id": "GQ-040",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-041",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-042",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-043",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-044",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-045",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.25
+          }
+        },
+        {
+          "id": "GQ-046",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-047",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-048",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-049",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-050",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.25
+          }
+        },
+        {
+          "id": "GQ-051",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.25
+          }
+        },
+        {
+          "id": "GQ-052",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-053",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.5
+          }
+        },
+        {
+          "id": "GQ-054",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-055",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-056",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 0.3333333333333333
+          }
+        },
+        {
+          "id": "GQ-057",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-058",
+          "metrics": {
+            "Recall@1": 1.0,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-059",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.2
+          }
+        },
+        {
+          "id": "GQ-060",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-061",
+          "metrics": {
+            "Recall@1": 0.5,
+            "Recall@3": 1.0,
+            "Recall@5": 1.0,
+            "MRR": 1.0
+          }
+        },
+        {
+          "id": "GQ-062",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-063",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        },
+        {
+          "id": "GQ-064",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.2
+          }
+        },
+        {
+          "id": "GQ-065",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 1.0,
+            "MRR": 0.2
+          }
+        },
+        {
+          "id": "GQ-066",
+          "metrics": {
+            "Recall@1": 0.0,
+            "Recall@3": 0.0,
+            "Recall@5": 0.0,
+            "MRR": 0
+          }
+        }
+      ]
+    }
+  },
+  "scope": "Existing development set, page+exact-passage relevance. No derived-collection golden set or held-out evidence. Paragraph/section retrieval NOT benchmarked by these page comparisons.",
+  "index_sha256": "91e2acaa1dfd9c0b8da43e067e14470854b908e48005310bac077ddaa2ff271a",
+  "default": "bm25",
+  "embeddings": "UNAVAILABLE: no installed sentence-transformers or cached model; TF-IDF lexical vectors used, not semantic embeddings."
+}

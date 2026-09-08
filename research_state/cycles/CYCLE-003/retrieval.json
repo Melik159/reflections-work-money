@@ -1,0 +1,99 @@
+{
+  "query": "Utility measurement order ratio yield",
+  "hits": [
+    {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 170,
+      "section": "UNDETECTED",
+      "chunk_id": "SOURCE_CORPUS:Reflections_PierreCampergue.pdf:170:PAGE:UNDETECTED:2e906b8086fb",
+      "chunk": "SOURCE_CORPUS:Reflections_PierreCampergue.pdf:170:PAGE:UNDETECTED:2e906b8086fb",
+      "text": "170\nDimension, Magnitude, Measurement = number of units of the characteristic ×\nvalue of the unit of the characteristic\nThis definition is of course valid whatever the field studied and particularly in\nEconomics for the measurement of Money. So :\nMoney (M ) =number (n) of monetary units × value (u ) of the monetary unit\nthe relationship is written:\nM=n⋅u\n‹02-01›\nwhose differential is :\ndM=n.du+u.dn\n‹02-02›\nNormally, reason dictates that in order to compare two or more dimensions, it's\nimperative that the value of the unit (u) be invariable, i.e. that it remains constant\nin time and space. In fact and in principle, the dimension should only be a\nfunction of the number (n) of units. This is why measuring tools (balances,\nPesons, scales, surveyor's chains, rulers, goniometers, ammeters, voltmeters,\nthermometers, barometers, ...) must be checked and punched in order to guarantee\ntheir accuracy and this from standards whose dimensions have been fixed once\nand for all. At all times and in all places, the use of measuring instruments\nfalsified by altering the value of the unit has always been very severely\ncondemned.\nHowever, in Economy this rule, normally absolute, which decrees the fixity of\nthe unit is not valid. Indeed, the value of the monetary unit varies according to\nplace and time, which makes it difficult to understand economic exchanges. It is\nquite undeniable that the United States monetary unit is not identical to that of the\nEuropean, Japan, Paraguay, Malawi or any other country.\nSome will argue that in the Anglo-Saxon world, physical units of measurement\nare different from those of the metric system. However, the transformation\ncoefficients between these units have been definitively fixed, unlike those of\nmonetary units which vary daily by determination on the stock exchange.\nFurthermore, it's also indisputable that the Argentine Peso has varied greatly\nover the last few years and that the ratio of the value of the Dollar to the Euro has\n",
+      "level": "PAGE",
+      "collection": "SOURCE_CORPUS",
+      "source_type": "SOURCE_CORPUS",
+      "concepts": [],
+      "claims": [],
+      "questions": [],
+      "locator": null,
+      "metadata_origin": "Analyst links; not part of source quotation",
+      "score": 9.92535612396188
+    },
+    {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 394,
+      "section": "UNDETECTED",
+      "chunk_id": "SOURCE_CORPUS:Reflections_PierreCampergue.pdf:394:PAGE:UNDETECTED:964d53152314",
+      "chunk": "SOURCE_CORPUS:Reflections_PierreCampergue.pdf:394:PAGE:UNDETECTED:964d53152314",
+      "text": "394\nFor this example, it's proposed that the yields of the two transformations\nare respectively :\n•\nηTM\n = 0.73 for the angle = 15° (Figure 14-02a),\n•\nηMT\n = 0.42 for angle = 30° ( Figure 14-02b),\nin accordance with the results in the table. It follows that for this\nassumption the overall return is :\n•\nηg\n = 0.73 × 0.42 = 0.31 (Figure 14-02c)\nIt should be noted that when the yield of one transformation is equal to the\noptimal yield ( ηopt\n = 2√2), the yield of the other transformation is also\nobligatory.\nAt this stage and for each transformation, it's necessary to determine the\ndirection of evolution outside and under external constraints.\nGenerally speaking, i.e. whatever the discipline studied, we know that any\nyield is always defined as the ratio between what comes out of the system and\nwhat goes into it. There are therefore two possibilities for increasing efficiency,\nnamely :\n1.\nDecrease what enters,\n2.\nIncrease what goes out.\nFor the two transformations that interest us in this study, the yields are :\n",
+      "level": "PAGE",
+      "collection": "SOURCE_CORPUS",
+      "source_type": "SOURCE_CORPUS",
+      "concepts": [],
+      "claims": [],
+      "questions": [],
+      "locator": null,
+      "metadata_origin": "Analyst links; not part of source quotation",
+      "score": 9.058604268833157
+    },
+    {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 15,
+      "section": "UNDETECTED",
+      "chunk_id": "SOURCE_CORPUS:Reflections_PierreCampergue.pdf:15:PAGE:UNDETECTED:81fca6c60181",
+      "chunk": "SOURCE_CORPUS:Reflections_PierreCampergue.pdf:15:PAGE:UNDETECTED:81fca6c60181",
+      "text": "15\nWe are therefore in the presence of three different meanings. Therefore, two are\nwrong and only one is likely to be possibly correct. In order to solve this problem it's\ntherefore necessary to discriminate between these different hypotheses in order to\ndetermine which one, if any, would be correct.\nCoherent monetary developments\nBy definition (Larousse L3-1970), a measure is defined as :\n\n“the evaluation of a quantity made according to its relationship with a\nquantity of the same species, taken as a unit and as a term of\ncomparison”.\nThis means that in any discipline, any measurement of any quantity or dimension is\nalways determined as follows :\nMeasurement (M ) = number (n) of units × value (u) of the unit\nConsequently, in Economics the measurement of money, which cannot be an\nexception, is therefore defined by the relation :\nMoney (M )=number (n)of monetaryunits×value (u)of the monetaryunit\neither:\nM=n.u\nwhose differential :\ndM=n.du+u.dn\nSolving this equation returns all four, and only four, results:\n1.\ndn = 0\nand :\ndu = 0 ⇒\n(∂M)n,u  = 0\n⇒\nNo evolution\n2a.\ndn > 0\nand :\ndu < 0 ⇒\ndM = 0\n⇒\nNo evolution\n2b.\ndn < 0\nand :\ndu > 0 ⇒\ndM = 0\n⇒\nNo evolution\n3a.\ndn = 0\nand :\ndu > 0 ⇒\n(∂M)n, > 0\n⇒\nCreation of money\n",
+      "level": "PAGE",
+      "collection": "SOURCE_CORPUS",
+      "source_type": "SOURCE_CORPUS",
+      "concepts": [
+        "money",
+        "unit"
+      ],
+      "claims": [
+        "CPC-0010",
+        "CPC-0011"
+      ],
+      "questions": [
+        "RQ-06",
+        "RQ-06.01"
+      ],
+      "locator": null,
+      "metadata_origin": "Analyst links; not part of source quotation",
+      "score": 8.197687871217795
+    },
+    {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 109,
+      "section": "UNDETECTED",
+      "chunk_id": "SOURCE_CORPUS:Reflections_PierreCampergue.pdf:109:PAGE:UNDETECTED:4be930175255",
+      "chunk": "SOURCE_CORPUS:Reflections_PierreCampergue.pdf:109:PAGE:UNDETECTED:4be930175255",
+      "text": "109\nsomething, i.e. of a certain quantity of matter (solid, liquid,\ngas, plasma),\n\nit's impossible to determine the Utility of nothing, because\none can only speak of Utility of something, i.e. a certain\nquantity of Product (good, service).\nMoreover, an intensive characteristic must be associated with an extensive\ncharacteristic. For example, in physics :\n\ntemperature (intensive characteristic) is combined with\nentropy (extensive characteristic),\n\npressure (intensive characteristic) is matched to the volume (extensive\ncharacteristic).\nHowever, the product of these characteristics must give an extensive\ncharacteristic, namely :\n\ntemperature (int. cha.) × entropy (ext. cha.) = heat (ext. cha.)⇒\nT .dS=dQ\n\npressure (int. cha.) \n× volume (ext. cha.) \n= work (ext. cha.) ⇒\nP.dV=dW\nIt can only be the same in Economics and particularly in the case that concerns\nus. Of course, Utility is a completely intactable characteristic (like temperature)\nbut nevertheless perfectly real. If it's possible to measure need, the same cannot\nbe said for Utility. However, in physics, we had to wait until the 17th century with\nGalileo Galilei, but especially the 18th century with Réaumur, Fahrenheit,\nCelsius, to begin to apprehend the measurement of temperature. However, this\ndidn’t prevent individuals from having perceived and grasped the notions and\nconcepts of temperature (hot, warm, cold, icy, ...) and heat (quantity) long before\nthese scientists. Nevertheless, as one should never prejudge the future, there is\nnothing to say that this characteristic can never become measurable one day (in a\nstatistically similar way to the temperature based on the average energy of the\ncomponents). However, in the absence of measurement, it's always possible to\nclassify Products according to their Utility, just as in physics it's possible to order\nthem according to their temperature (very hot, hot, warm, cold, ...). \nMoreover, the laws of thermodynamics have existed since the “Big Bang”, i.e.\nlong before these laws were revealed and temperature could be measured. This\ndidn’t prevent individuals from applying these laws, without knowing them,\n",
+      "level": "PAGE",
+      "collection": "SOURCE_CORPUS",
+      "source_type": "SOURCE_CORPUS",
+      "concepts": [],
+      "claims": [],
+      "questions": [],
+      "locator": null,
+      "metadata_origin": "Analyst links; not part of source quotation",
+      "score": 7.902405496230687
+    },
+    {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 551,
+      "section": "UNDETECTED",
+      "chunk_id": "SOURCE_CORPUS:Reflections_PierreCampergue.pdf:551:PAGE:UNDETECTED:a10132ddb829",
+      "chunk": "SOURCE_CORPUS:Reflections_PierreCampergue.pdf:551:PAGE:UNDETECTED:a10132ddb829",
+      "text": "551\n•\nthe point of application is\ndefined by the coordinates on\nthe abscissa of labour l and the\nordinate of price p at time t0,\n•\nthe direction is determined by the angle formed by the variations dl and\ndp of the coordinates l+dl and p+dp at time t1,\n•\nthe standard is specified by the ratio of the variations dl and dp at time\nt0+dt.\nThis way of apprehending competitiveness thus makes it possible to make a\nvisual assessment:\n•\nits preferential dependence on labour or price,\n•\nits sense of evolution,\n•\nits rapidity of evolution.\nConsequently, considering competitiveness as a speed and no longer as a\nnumber must be an undeniable advantage. In conclusion :\n•\ncompetitiveness must be characterised as a speed.\nCompetitiveness and performance\nBy definition, the yield of the T→M transformation is defined as follows :\nη = −M\nT\nwhose differential is :\nd η = M ⋅dT −T ⋅dM\nT 2\n‹26-10›\n•\nConsidering a transformation to Constant Work, the relationship becomes\nafter simplification :\n∂ηT = −∂M\nT\n‹26-11›\n",
+      "level": "PAGE",
+      "collection": "SOURCE_CORPUS",
+      "source_type": "SOURCE_CORPUS",
+      "concepts": [],
+      "claims": [],
+      "questions": [],
+      "locator": null,
+      "metadata_origin": "Analyst links; not part of source quotation",
+      "score": 7.048417788348351
+    }
+  ]
+}

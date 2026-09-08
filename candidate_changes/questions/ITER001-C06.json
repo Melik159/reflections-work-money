@@ -1,0 +1,116 @@
+{
+  "id": "ITER001-C06",
+  "target": [
+    "research_questions/RQ-04.01/conclusion.md",
+    "research_questions/RQ-04.03/conclusion.md",
+    "research_questions/RQ-12.01/conclusion.md"
+  ],
+  "current_state": {
+    "baseline": "CAMPERGUE-DOCUMENTARY-BASELINE-1.0",
+    "questions": [
+      {
+        "id": "RQ-04.01",
+        "status": "OPEN",
+        "target_path": "research_questions/RQ-04.01/conclusion.md",
+        "target_sha256": "796004946ed6b6fe8d73be347876de741be8d3d50c3813478e4e83f5f26470ca"
+      },
+      {
+        "id": "RQ-04.03",
+        "status": "OPEN",
+        "target_path": "research_questions/RQ-04.03/conclusion.md",
+        "target_sha256": "32e5009e077df7ef052624a5fb3fb109ede0a007dfa0af77589e112a4edcc82b"
+      },
+      {
+        "id": "RQ-12.01",
+        "status": "PARTIALLY_RESOLVED",
+        "target_path": "research_questions/RQ-12.01/conclusion.md",
+        "target_sha256": "76668e71dde5d9164ab962b6feca5f72c44e0699d0278d59a9255ea824bd0600"
+      }
+    ],
+    "claims": [
+      {
+        "id": "CPC-0017",
+        "statement": "Une hausse de productivité exige nécessairement un travail supplémentaire assimilé ici à une énergie.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 19
+      },
+      {
+        "id": "CPC-0051",
+        "statement": "Labour désigne la tâche, constante pour un produit et une méthode de fabrication donnés.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 187
+      },
+      {
+        "id": "CPC-0052",
+        "statement": "Pour une tâche constante, Work dépend de sa vitesse d’exécution.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 188
+      },
+      {
+        "id": "CPC-0106",
+        "statement": "Substitution machine–salarié : Emploi salarié peut baisser tandis que contribution mécanique augmente.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 212
+      },
+      {
+        "id": "CPC-0112",
+        "statement": "Prix formé pendant fabrication versus prix entre copies : ω et varpi mesurent des vitesses sans stipuler leurs causes.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 198
+      }
+    ],
+    "note": "État canonique inchangé; qualifications détaillées lues dans synthèse/remédiation/clôture."
+  },
+  "proposed_state": "Ajouter comparaison PARTIAL_PARALLEL Romer et taxonomie de collecte Oslo, registre multi-mécanismes et étapes R&D/adoption/diffusion incluant échecs/sorties. Ne pas assimiler T à output/heure ni absence dans relations de vitesse à absence dans corpus entier. Nouveauté historique NOVELTY_UNRESOLVED.",
+  "evidence": [
+    "agents/reports/ITER001-C06/specialist.md",
+    "agents/reports/ITER001-C06/adversarial.md",
+    "agents/reports/ITER001-C06/evidence.md",
+    "agents/reports/ITER001-C06/source_pages.txt",
+    "agents/reports/ITER001-C06/provenance.json",
+    "Reflections_PierreCampergue.pdf",
+    "agents/reports/batch001_final_adversarial.md",
+    "agents/reports/ITER001-C06/literature/provenance.json",
+    "agents/reports/ITER001-C06/literature/romer_1990.pdf",
+    "agents/reports/ITER001-C06/literature/oslo_2018.pdf",
+    "agents/reports/ITER001-C06/rag_external.jsonl"
+  ],
+  "counterevidence": "Campergue198 reconnaît causes diverses et490 brevets/Utility/rente; Romer ne représente pas toute H2; Oslo taxonomie non causale; entrée/sortie et adoption endogène biaisent comparaison.",
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C06/specialist.md",
+    "adversarial": "agents/reports/ITER001-C06/adversarial.md",
+    "evidence": "agents/reports/ITER001-C06/evidence.md"
+  },
+  "confidence": "HIGH attribution passages consultés; MEDIUM comparaison locale; aucune preuve prédictive",
+  "reason": "Sources externes exactes acquises et pages pertinentes lues après retrieval distinct; lecture ciblée des introductions/définitions, pas revue historique complète.",
+  "impact": "Précise comparateur H2 et mécanismes à mesurer, sans changement de claims",
+  "decision": "QUALIFY",
+  "finding_class": "NEW_LITERATURE_PARALLEL",
+  "claims": [
+    "CPC-0017",
+    "CPC-0051",
+    "CPC-0052",
+    "CPC-0106",
+    "CPC-0112"
+  ],
+  "questions": [
+    "RQ-04.01",
+    "RQ-04.03",
+    "RQ-12.01"
+  ],
+  "source_pages": [
+    187,
+    188,
+    198,
+    212,
+    490
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "negative_results": [
+    "NON_DISCRIMINATING",
+    "REQUIRES_EXOGENOUS_VARIATION"
+  ],
+  "source_pages_policy": "Repères d’extraction; lecture effective et rôle du passage attestés séparément dans specialist.md et evidence.md, jamais par la seule préparation.",
+  "supporting_claims_policy": "Les claims sont liens de recherche; toutes les pages complémentaires ne sont pas leurs citations canoniques. Les rapports identifient les sources directes, notamment p112 pour C09 et p385–386 pour C03.",
+  "supplementary_review": "agents/reports/batch001_final_adversarial.md"
+}

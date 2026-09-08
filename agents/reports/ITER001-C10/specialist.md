@@ -1,0 +1,15 @@
+# ITER001-C10 — Contrat de test et programme méthodologique
+
+/root CORPUS/EPISTEMIC/FORMAL. État après C09; RAG séparé et source PDF63–65,79–80,198,301,561–562 lues intégralement. RQ-01.01/02.03/12.03; CPC-0003/0009/0042/0068. Référence : revue méthodologique de clôture déjà terminée, non refaite. Ce cycle organise les suites des résultats C01–09.
+
+METHODOLOGICAL_INTENT : p63 exige concordance factuelle et cohérence, distingue décisions humaines et lois; p64–65 recherche univocité; p79 critique substitution de l'autorité/opinion à explication, p80 distingue choix et contraintes; p562 expose recherche de raison contre évidence intuitive. Ce sont positions attribuées, pas normes scientifiques universelles établies par citation.
+
+METHODOLOGICAL_SUCCESS : p198 précise que mesurer une vitesse n'en explique pas la cause; p301 permet d'admettre Core Laws comme hypothèses simplificatrices. Ces concessions empêchent de lui attribuer un rejet général des approximations. L'applicabilité d'une forme mécanique à l'économie ne suit toutefois pas de son succès mécanique; le résultat empirique reste un objet de test séparé. Rien dans ce cycle ne refait ou ne promeut l'évaluation de clôture.
+
+Proposition CONFIRMS_EXISTING avec contrat d'expérience candidat, indépendant de tout statut global. Avant READY, renseigner (1) proposition source exacte et page, (2) reconstruction opérationnelle si différente, (3) type DEFINITION / CONDITIONAL_DERIVATION / EMPIRICAL_RESTRICTION, non exclusif par sous-énoncé, (4) grandeur/étalon/origine/frontière/horizon, (5) données de construction/calibration/test séparées, (6) domaine et paramètres gelés, (7) alternative et prédictions effectivement différentes, (8) observation possible conduisant à abandon/qualification de la restriction, (9) explications d'échec instrument/domaine, (10) chaîne vers question racine.
+
+Application aux cycles : C02 ne passe pas l'étalon; C03 ne fournit pas mesurande commun; C04 identité ne départage pas théories; C05/06 n'ont pas de prédictions incompatibles des familles; C07 n'identifie pas monde0 causal; C08 Z non borné bloque signe général; C09 n'a pas de grandeur dommage univoque. Ces obstacles sont conservés explicitement, pas remédiés par élévation du nombre de PASS. Un test descriptif ou métrologique utile peut rester NON_DISCRIMINATING et être exécuté dans son propre objectif; ne pas exiger discrimination pour tout travail.
+
+Le contrat distingue aussi domaine de loi et conditions choisies par les agents : la séparation méthodologique p63/80 peut laisser les décisions d'innovation comme conditions d'entrée, tandis que le comparateur Romer C06 les modélise en amont. C'est une différence de portée à comparer, pas une réfutation mutuelle ou une identité déjà établie. Ni toutes les décisions humaines ni leurs impacts ne sont supposés exclus du corpus entier.
+
+Lien racine : éviter de transformer une chaîne partiellement descriptive du passage à l'abondance en causalité historique complète. Aucune nouvelle réponse finale et aucune nouveauté épistémologique historique revendiquées.

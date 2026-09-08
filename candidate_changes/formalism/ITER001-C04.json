@@ -1,0 +1,104 @@
+{
+  "id": "ITER001-C04",
+  "target": [
+    "research_questions/RQ-08.02/conclusion.md",
+    "research_questions/RQ-09.03/conclusion.md"
+  ],
+  "current_state": {
+    "baseline": "CAMPERGUE-DOCUMENTARY-BASELINE-1.0",
+    "questions": [
+      {
+        "id": "RQ-08.02",
+        "status": "PARTIALLY_RESOLVED",
+        "target_path": "research_questions/RQ-08.02/conclusion.md",
+        "target_sha256": "ff13da44cadf626db42135f4237ab0e9f6f7cacf8b723f1a22c025a433b3c4c9"
+      },
+      {
+        "id": "RQ-09.03",
+        "status": "PARTIALLY_RESOLVED",
+        "target_path": "research_questions/RQ-09.03/conclusion.md",
+        "target_sha256": "f58cb1f229fffb3ca7369a5748b1deccdf24e6b604b7919008d4df219d488cf8"
+      }
+    ],
+    "claims": [
+      {
+        "id": "CPC-0043",
+        "statement": "Le principe d’équivalence est écrit M=g.T.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 36
+      },
+      {
+        "id": "CPC-0044",
+        "statement": "La constance du coefficient g n’est pas garantie en économie.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 36
+      },
+      {
+        "id": "CPC-0109",
+        "statement": "Coefficients de transformation variables : Même Work peut être associé à Money différent; compensation par g.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 526
+      },
+      {
+        "id": "CPC-0117",
+        "statement": "Le manuscrit suppose qu’agréger davantage de Products stabilise K, pourtant variable selon le produit, jusqu’à ne plus dépendre que des unités.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 559
+      },
+      {
+        "id": "CPC-0118",
+        "statement": "La fin du manuscrit propose GDP=K·Wconsumed comme couplage absolu, en absorbant dans K l’énergie sans création de Money.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 559
+      }
+    ],
+    "note": "État canonique inchangé; qualifications détaillées lues dans synthèse/remédiation/clôture."
+  },
+  "proposed_state": "Ajouter ΔK=ΣΔw k0+Σw0 Δk+ΣΔw Δk et publier les trois composantes, appariement produits, unités/frontières et incertitudes. Ne pas attribuer ces termes à des effets causaux ni appeler K macro mesuré indépendamment. Cas non appariés séparés.",
+  "evidence": [
+    "agents/reports/ITER001-C04/specialist.md",
+    "agents/reports/ITER001-C04/adversarial.md",
+    "agents/reports/ITER001-C04/evidence.md",
+    "agents/reports/ITER001-C04/source_pages.txt",
+    "agents/reports/ITER001-C04/provenance.json",
+    "Reflections_PierreCampergue.pdf",
+    "agents/reports/ITER001-C04/results.json",
+    "agents/reports/batch001_final_adversarial.md"
+  ],
+  "counterevidence": "Représentation additive elle-même conditionnelle; g, coefficients source et K macro non identifiés. Produits entrants et changements base compliquent raccord. Source p558 refuse déjà corrélation→causalité.",
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C04/specialist.md",
+    "adversarial": "agents/reports/ITER001-C04/adversarial.md",
+    "evidence": "agents/reports/ITER001-C04/evidence.md"
+  },
+  "confidence": "HIGH pour identité exacte; conditionnelle au raccord pour usage économique",
+  "reason": "Deux calculs synthétiques exécutés et contrôle omission interaction; nouvel outil local du programme, non preuve économique ni nouveauté historique.",
+  "impact": "Précise diagnostic RQ-08.02/09.03 sans refaire ancien test composition ni modifier baseline",
+  "decision": "QUALIFY",
+  "finding_class": "NEW_SCENARIO",
+  "claims": [
+    "CPC-0043",
+    "CPC-0044",
+    "CPC-0109",
+    "CPC-0117",
+    "CPC-0118"
+  ],
+  "questions": [
+    "RQ-08.02",
+    "RQ-09.03"
+  ],
+  "source_pages": [
+    36,
+    526,
+    558,
+    559
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "negative_results": [
+    "NOT_IDENTIFIABLE",
+    "NON_DISCRIMINATING"
+  ],
+  "source_pages_policy": "Repères d’extraction; lecture effective et rôle du passage attestés séparément dans specialist.md et evidence.md, jamais par la seule préparation.",
+  "supporting_claims_policy": "Les claims sont liens de recherche; toutes les pages complémentaires ne sont pas leurs citations canoniques. Les rapports identifient les sources directes, notamment p112 pour C09 et p385–386 pour C03.",
+  "supplementary_review": "agents/reports/batch001_final_adversarial.md"
+}

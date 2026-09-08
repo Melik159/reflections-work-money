@@ -1,0 +1,376 @@
+PDF PAGE 63
+63
+When we speak of Economy we always refer to phenomena that are the result
+of human intention. However, whatever the discipline studied, we know that a
+theory must be systematically and totally devoid of any character relating to
+Human. To consider any economic evolution whose cause is due to an explicit or
+implicit deliberate decision, formal or implied, can only emerge from the
+applications of an eventual theory but not from the theory stricto sensu, this
+obviously being a matter for sociology, anthropology, philosophy, etc. No one
+can dispute the fact that :
+
+all the theories are related to the “Natural Sciences”,
+
+all applications are related to “Human Sciences”.
+The Economy cannot escape this requirement. For example, an engineer
+defining the profile of a reactor combustion chamber exercises his free will in his
+choices but is always limited by the constraints imposed by the theory and only
+admissible within the framework of its validity, this being absolutely general.
+Therefore, it's only by freeing oneself of all references to projects, requests,
+resolutions, wills, decisions, human, that a subsequent economic theory can be
+proposed. This essay is therefore limited to the facts and, consequently, doesn’t
+advocate any economic policy at all, since it's free and exempt of any attribute
+relating to the Human Being. In the same way as in physics, where theory and its
+applications are never confused, the same is true here. The whole note should be
+looked at only in terms of its veracity, that is to say, its concordance with the facts
+and the coherence of the analytical model followed. A theory must derive from
+rational concepts, principles or axioms, the latter not being demonstrable but
+never questioned experimentally. However, the analytical canon used in this essay
+has already proved its relevance in thermomechanics and can therefore be applied
+normally without fear.
+The only criticism that can be made of this approach therefore concerns the
+initial concepts (Principles, Experimental Law, etc.). If these concepts are
+considered to be in conformity with the General Basic Principles of Relativity,
+Causality, Homogeneity, Isotropy as well as that of Least Action (Parsimony), it's
+then possible to use them without exacerbated scruples. However, the conformity
+of the results with the facts must be the essential, if not the only, criterion
+validating the approach followed. An additional justification for the approach
+employed can be sought in invariances (conservation laws), i.e. concordance with
+Noether's theorem.
+Any reading of this note with an anthropological, sociological, philosophical,
+ethical or other aim can only be prohibited, as it's then obligatorily relevant to the
+applications, which is beyond the interpretative and explanatory scope of this
+study. In the latter, reference is made to the “economy of Work” of the producer,
+
+
+PDF PAGE 64
+64
+manufacturer and supplier, i.e. these agents always seek to expend the minimum
+amount of energy, which seems contradictory, and therefore incompatible, with
+the above-mentioned statement that this study has no anthropic character.
+
+the presence of human beings must be denied for any
+theory and required for any application.
+If the first condition (absence of the Human Being) isn't acquired, the doctrine
+presented cannot be related to Natural Laws and consequently its validity cannot
+be recognised as an explanatory and predictive theory.
+Semantic
+More than two centuries ago, Condorcet was already showing that :
+
+“in meditating on the nature of the moral sciences, one
+cannot help but see that, based as the physical sciences are
+on the observation of facts, they must follow the same
+method, acquire an equally exact and precise language,
+reach the same degree of certainty”.
+In economics, as in physics, each characteristic must be named univocally and
+ideally monosemically. For example, each characteristic should be named in a
+monosemic way:
+
+The “dew point” is perfectly unambiguously defined in
+physics and only has this definition. There can be no
+confusion with anything else, so this term, this
+characteristic, is monosemic,
+
+the “second” (duration) is perfectly specified univocally in
+physics but also has a mathematical sense of angle
+measurement and a common sense of enumeration
+synonymous with “second”, all this without any relation to
+the physical definition. There can therefore be confusion
+with something else, so this term, this characteristic, is
+polysemic.
+Generally speaking, in science or technology, definitions are always sought
+that apply to a single object, entity, concept, etc., as opposed to the usual
+language where generality is aimed at. This is therefore the case in this note,
+
+
+PDF PAGE 65
+65
+where characteristics are named in a unique way. It is obvious that in Economics
+the basic characteristics, such as Money and Work are never defined in an “exact
+and precise” way as Condorcet recommends. First of all, therefore, it's necessary
+to define these concepts. Of course, everyone is convinced that they have
+mastered their meaning. However, what follows shows that this is far from being
+self-evident.
+
+Work
+ 
+ 
+Discussion during a meeting with a high school economics teacher:
+ 
+◦
+Me ─ Suppose you are a craftsman working 8 hours a
+day and I ask you to make a sofa like the one we are
+sitting on. Let's further suppose that you estimate the
+manufacturing time to be 5 days. You then admit that
+the work is something fixed, constant, corresponding
+to the sofa to be made.
+◦
+Him ─ Absolutely.
+◦
+Me ─ All right! Now, needing this furniture very
+quickly, I ask you to make it in 3, not 5 days. Is it the
+same work?
+◦
+Him ─ But, not at all!
+◦
+Me ─ However, you have just agreed that the sofa was
+the work to be done, so the work is the same
+regardless of how long it takes to make it. So, is the
+work something fixed or is it variable depending on
+the speed of production?
+Does the work correspond to a quantity of things to be
+done, a task, a labour, or should it be characterised as
+energy?
+◦
+Him ─ … ??? … …
+
+Money
+ 
+ 
+When we say :
+1.
+that bankers create money, it means that they increase the
+number (n) of monetary units circulating in the economic
+system of which they are a component.
+2.
+that each economic system has its own money, reference is
+made to the unit (u) of money. For example, the Yen for
+Japan, the Shekel for Israel, etc.
+3.
+that an individual from the USA has 17$ of money in his or
+her pocket, it's considered the product (n.u) of the number
+of monetary units (n) by the unit (u).
+
+
+PDF PAGE 79
+79
+
+the ball regulator allows a smooth operation of the steam engines,
+
+the accelerator and brake pedals on a car allow speed variations,
+
+the potentiometer adjusts the loudspeaker sound power,
+
+the variable capacitor tunes the receiving frequency to the
+broadcasting frequency of the transmitting station,
+
+the thermostat limits the temperature within the assigned range,
+
+etc.
+It is strictly the same for the other physical disciplines whose laws of evolution
+have been brought to light. It is quite obvious that if the laws governing these
+disciplines were still unknown, all the above-mentioned apparatuses would not
+exist and it would therefore be impossible to ensure the regulation of any
+phenomenon. The only possible thing would be to passively undergo the physical
+manifestation under consideration and its possible consequences. This is what
+happened from the dawn of time until the invention of differential calculus, which
+made the industrial revolution possible. However, in Economy we don’t know
+any Natural Laws that are exercised there, which doesn’t mean that they don’t
+exist at all. This lack of knowledge therefore implies the absolute impossibility of
+ensuring the efficient management of the Economy. Only a historical approach
+(econometrics is one of them) and a completely empirical one can provide a
+semblance of a solution. Consequently, there can only be a large number of
+opinions that anyone can formulate and amplify into doctrines. However, it's quite
+certain that those of the strongest, most powerful, most important institutions or
+individuals (thus forming an “Authority”), will be taken into consideration
+although their positions and theses are not necessarily the best and possibly the
+worst. Only when Natural Laws are correctly expressed will it then be possible to
+counter force with reason. Since it's necessary to regulate physical phenomena in
+order to make them available to us, economic phenomena must also and
+imperatively be subject to regulations most probably of the same essence, of the
+same species. Therefore, the Economy, in order to function properly, must be
+subordinated to regulations. These regulations, which must be applied at the level
+of a system such as a country, if not the whole world, can only be defined and
+elabourated at the level of these entities. The control and possibly the sanctioning
+of their application is therefore a matter for the States. But all this is outside the
+scope of this study and therefore doesn’t need to be discussed here.
+Suppose an engineer designing a small household appliance. It is completely
+free to exercise his free will as regards the material of the bodywork (aluminium,
+stainless steel, wood, plastic, etc.), the colour (bright, gradient, harmonious,
+contrasting, etc.), the ease of assembly and disassembly (screwing, fitting, gluing,
+welding, etc.), etc. But for any choice applied, it's obliged to comply with the
+natural laws that govern each stage of manufacture.
+
+
+PDF PAGE 80
+80
+For the motorway crossing of the Tarn valley, near Millau (France), several
+viaduct projects were presented which can be classified into five main types
+(cable-stayed, sub-banded, central arch, constant thickness deck, variable
+thickness deck). For each of these types, numerous variants were defined. As a
+result, the choice of project had to be made between several dozen variants. This
+choice could be made for various reasons (aesthetics, cost, ease of construction,
+local politics, prestige politics, ...). It is certain that the people who presided over
+the choice of the project did so according to their psychology, not all of them
+having the same opinions. As a result, they didn’t all propose the same solution.
+However, whichever solution was chosen, the viaduct was built according to the
+natural laws of resistance of materials which are immutable and which no one can
+evade.
+An extensive list of such examples could be presented. For example:
+
+the choice in the strict sense is a matter for the Human
+Sciences, the realisation of the choice is a matter for the
+Natural Sciences.
+In order to simplify subsequent entries, the notions of “goods” and “services”
+will henceforth be condensed by Product, because we know that laws must be
+general and apply without discrimination to any natural element. For any applied
+choice, i.e. whatever the solution defined by the engineer, the contractor
+manufacturing the small household appliance will always carry out the following
+three sequential operations, as follows :
+1.
+purchase of the raw Product to be manufactured as cheaply as possible,
+2.
+manufacture of the Product as economically as possible,
+3.
+sale of the Product elabourated as expensive as possible.
+It should be noted that the final consumer of this Product acts in exactly the
+same way. In fact, he will always carry out these three operations as follows:
+1.
+purchase of the Product to be used as cheaply as possible,
+2.
+use of the Product as economically as possible,
+3.
+possible sale of the most expensive second-hand Product possible.
+From these two enumerations it can already be seen that the terms “make”
+(manufacture) and “use” (utilization) are differentiated only according to the
+position of the agent. This is therefore covered by the General Principle of
+Relativity and will be better explained later in the paragraph devoted to it. It must
+therefore be admitted that whatever the actor (supplier or consumer), economic
+
+
+PDF PAGE 198
+198
+p = price
+ϖ= speed of price formation - tachyaxis
+it's possible to write :
+ϖ=dp
+dt
+‹04-02›
+  
+From these two relations (04-01 and 04-02), we see that labour and price are
+comparable to space (linear displacement) in physics. Moreover, they are valid
+whatever the case considered, i.e. whatever the economic system considered, at
+any time and in any place, and are therefore compatible with the Principle of
+Homogeneity. In fact, whether the labour is carried out in any country and the
+price of the Product is considered in any of them, the speeds will always be given
+by these relations. However, they only give a measure of these speeds and in no
+case do they stipulate for what reason (just as in mechanics the speed relationship
+only gives a measure of the speed). Whether productivity decreases or increases,
+i.e. the speed at which labour is carried out varies for any reason (too much or too
+little supply, faulty supply of raw materials, absence or lack of personnel,
+machinery or motor breakdown, new, faster manufacturing method, etc.) the 04-
+01 relationship will always give a faithful and accurate measure of the
+instantaneous speed. Whether the speed of execution of the labour is cancelled
+due to snacks, strikes, interruption of power supply, technical unemployment,
+weekends, holidays, etc., this speed will always be equal to zero, which is what
+the relation 04-01 gives, validating here again its total conformity to reality. In the
+same way, the relation 04-02 is exact whatever the reason for the price to evolve
+in this way. Indeed, whether it's due to an increase in wages, social security
+charges, various taxes, etc., or a decrease due to an increase in productivity or
+wear and tear on the Product during its use, the price always forms (increase or
+decrease) at a certain speed given by this relation.
+These two relations (04-01 and 04-02) can be written respectively :
+dl=−ω.dt
+and :
+dp=ϖ .dt
+
+
+PDF PAGE 301
+301
+FP1⋅l1=r A⋅UA1
+and :
+FP2⋅l2=r A⋅U A2
+or :
+FP1
+U A1
+=r A
+l1
+and :
+FP2
+U A2
+=r A
+l2
+since labour is constant (l1 = l2), then:
+FP1
+U A1
+= FP2
+U A2
+through constant labour.
+‹08-15›
+3.
+Core Law of Constant Utility of Cash
+ 
+ 
+From the core law (relation 08-12), for two different states indexed 1 and
+2, it's always possible to write :
+FP1⋅l1=r A⋅U A1
+and :
+FP2⋅l2=r A⋅U A2
+  since the Utility of Cash is constant (UA1 = UA2), then :
+FP1.l1=FP2.l2
+through constant Utility of Cash.
+‹08-16›
+Note
+At the end of this chapter, it should of course be noted that the main
+relationships (08-04, 08-12) known as "Core Laws" or "Market Laws",
+namely :
+
+for T→M transformation F A⋅p=r P⋅U P
+
+for M→T transformation FP⋅l=r A⋅U A
+each have an eminently empirical character. Nevertheless, without being
+violent, it's possible to formulate them, at least, as a simplifying hypothesis
+and certainly not a prohibitive one as to the validity of this approach.
+
+
+PDF PAGE 561
+561
+
+etc.
+The only references that can possibly be presented are only :
+
+courses in general mechanics ;
+
+courses in classical thermodynamics.
+5
+Introduction of the Author
+Born in Rouergat in a mining and steel industry area during the second world war,
+I sacrificed the conventional school obligations in the National Professional Schools
+(since disappeared), with a very particular educational curriculum.
+After some time spent in the French Forces in Germany, I started my civilian activ-
+ities as a metallurgist by my participation in the elaboration of very large pieces of
+forge (chemical synthesis tubes, turbines, alternators, nuclear reactor tanks, nuclear
+reactor vessels, nuclear submarine structures, ...) and especially in the improvement of
+their characteristics. I then worked in an oil refinery (monitoring, control, reception of
+material, definition of welding specifications, ...). I continued my peregrinations to
+manufacture zinc, copper and copper and cadmium until the first intrusion of the
+Katangese rebels in Shaba, which led me to which led me to return to France before
+the French Foreign Legion jumped on Kolwezi. Installed then as a as a freelancer, I
+took the plans of buildings, mainly historical or classified monuments before finishing
+by taking care of my vegetable garden, orchard and farmyard.
+It is useful to specify here, that at 14 years old, I found myself in front of a vice
+with a set of files, a square and a caliper and a few other tools, being required to make
+adjustments in a given time. But, not strong if not weak, I was happily exceeding the
+time limits, and as a result, I was systematically penalized for being late with reduced
+marks. I thus had the advantage and perhaps even the privilege of understanding very
+early on that one that nothing can be obtained for nothing; like all things, no good
+grades, no money, without work (energy); “ex nihilo nihil, in nihilum posse reverti”.
+During decades, ignorant in economy, I did like many: listen, read and see what the
+“makers of opinion makers” on the mass media, which did not satisfy my mind. Then,
+a quarter of a century ago, I wanted to understand. For this purpose I acquired a
+wheelbarrow of economics books, from school courses to books for professionals. Af-
+ter nine months of assiduous reading, I didn't know more than the first day, still hav-
+ing understood anything.
+
+
+PDF PAGE 562
+562
+Knowing that “scientific knowledge progresses by freeing itself from the
+fascination that exerts on the minds certain facts held for obvious and by there
+withdrawn from the criticism” (Jean-Michel BESNIER) and having forged me the
+motto “the common sense to banish, the reason to seek”, I applied myself to develop
+some similarities with physics, that sometimes I detected in a very fleeting way. It
+was not easy, because “the difficulty is not to understand the new ideas, but to escape
+from the old ideas which have pushed their ramifications in all the corners of the
+mind” (John Maynard KEYNES). Thus, it took me four years to identify the
+phenomena and two more to perfect the system analytically.

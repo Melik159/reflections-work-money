@@ -1,0 +1,17 @@
+# ITER001-C06 — Innovation : mécanismes et attribution
+
+/root, CORPUS/INNOVATION/LITERATURE. C05 clos; tâche RQ-04.01/04.03/12.01. SOURCE_CORPUS : PDF187,188,198,212,490 du manuscrit lues intégralement; RAG source et dérivé archivés. CPC-0017/0051/0052/0106/0112; p490 contexte complémentaire CPC-0125, non nouvelle modification de claim.
+
+EXTERNAL_LITERATURE séparée : recherche web préparée par rôle documentaire, fichiers PDF et empreintes dans literature/provenance.json. Query sur six blocs externes, cinq hits scorés dans rag_external.jsonl. Puis lecture des pages source intégrales Romer PDF2–3 (S71–72), Oslo PDF72 et74 (imprimées70 et72). Acquisition texte complet ne signifie pas lecture intégrale des modèles.
+
+SOURCE Campergue : p187 fixe labour à produit/méthode donnés; p188 oppose tâche/vitesse/Work; p198 précise que les vitesses ne déterminent pas leurs causes, tout en mentionnant procédé nouveau ou panne; p212 discute substitution machine/salarié; p490 mêle accroissement d'Utility et composante de rente de brevet. Il serait faux de réduire tout le corpus à une simple accélération à tâche identique.
+
+Comparateur primaire ciblé : Romer présente changement technique issu d'investissements intentionnels, connaissance non rivale partiellement excluable et coûts de création d'instructions réutilisables. Cela distingue décision de recherche et réemploi d'une méthode; les pages lues ne donnent pas une élasticité énergétique permettant de départager H1/H2/H3. PARTIAL_PARALLEL avec transformation productive; pas équivalence à T, cp ou Money. Source : [Romer 1990](https://web.stanford.edu/~klenow/Romer_1990.pdf), S71–72.
+
+Taxonomie primaire : Oslo2018 distingue produit et processus d'entreprise; ce dernier inclut des fonctions dépassant la fabrication. Les catégories peuvent se combiner et l'innovation peut être développée ailleurs puis adoptée. REFORMULATION uniquement pour l'étiquetage de collecte proposé ici; aucune équivalence complète avec les variables de Campergue. Source : [OECD/Eurostat 2018](https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/10/oslo-manual-2018_g1g9373b/9789264304604-en.pdf), pages imprimées70 et72.
+
+Protocole analyste : registre événements distinguant produit/qualité, procédé/réduction coût, substitution capital-travail, diffusion/adoption, entrée/sortie de produits et firmes. Un événement peut cocher plusieurs mécanismes. Associer date décision R&D, prototype, mise en usage et diffusion, coût fixe/variable, quantités conformes, tâches et moyens, prix/marges et intrants physiques. Ne pas convertir automatiquement output/heure en ω ni résidu de productivité en cp. Pour la destruction créatrice, le registre propose des observations d'entrée/sortie; aucune théorie spécialisée n'a été relue dans ce cycle.
+
+Question de contraste : à coûts initiaux de développement distincts, une méthode diffusée peut changer quantités, qualité et marges. Romer fournit un mécanisme amont et Campergue une description de transformation; mêmes observations possibles. NON_DISCRIMINATING tant qu'aucun paramètre/restriction propre à T n'est mesuré indépendamment. Comparer hors calibration une version restreinte de chaque modèle, pas un récit flexible contre une régression étroite.
+
+Finding NEW_LITERATURE_PARALLEL pour cette comparaison ciblée enregistrée; NOVELTY_UNRESOLVED historique. Lien racine : préciser pourquoi et comment les transformations apparaissent avant de suivre leurs gains et empreintes. Aucun fait empirique de croissance ajouté.

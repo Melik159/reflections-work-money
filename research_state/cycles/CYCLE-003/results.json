@@ -1,0 +1,22 @@
+{
+  "cycle": "CYCLE-003",
+  "kind": "PROTOCOL_METADATA_GUARD",
+  "status": [
+    "BLOCKED_BY_MEASUREMENT",
+    "NON_DISCRIMINATING"
+  ],
+  "data_origin": "SYNTHETIC",
+  "empirical_observation": false,
+  "result": {
+    "proposed_design_accepted": true,
+    "independent_scales_accepted": false,
+    "ordinal_accepted": false,
+    "data_available": false,
+    "empirical_status": "BLOCKED_BY_MEASUREMENT",
+    "limitation": "Protocol schema only. Shared ratio calibration has not been supplied by these flags."
+  },
+  "claims_changed": [],
+  "questions_changed": [],
+  "finding": "EXP-02 identifiait déjà le problème de comparabilité. La nouveauté documentaire est un filtre refusant une entrée ordinale ou des échelles de rapport non raccordées pour estimer le rendement p386. Aucun rendement économique n’est estimé.",
+  "confidence": "HIGH for conditional calculation; LOW for empirical identification"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ITER001-C08",
+  "task": "ITER001-P0-08",
+  "decision": "QUALIFY",
+  "finding_class": "NEW_SCENARIO",
+  "finding": "Seuil conditionnel s*=S/(Gm) précise annulation d’une économie physique hypothétique; effets omis Z et horizons empêchent un verdict global.",
+  "claims": [
+    "CPC-0084",
+    "CPC-0120",
+    "CPC-0127"
+  ],
+  "questions": [
+    "RQ-10.02",
+    "RQ-11.02",
+    "RQ-11.03"
+  ],
+  "sources": [
+    "agents/reports/ITER001-C08/specialist.md",
+    "agents/reports/ITER001-C08/adversarial.md",
+    "agents/reports/ITER001-C08/evidence.md",
+    "agents/reports/ITER001-C08/results.json",
+    "agents/reports/ITER001-C08/source_pages.txt",
+    "agents/reports/ITER001-C08/provenance.json"
+  ],
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C08/specialist.md",
+    "adversarial": "agents/reports/ITER001-C08/adversarial.md",
+    "evidence": "agents/reports/ITER001-C08/evidence.md"
+  },
+  "candidate_path": "candidate_changes/empirical/ITER001-C08.json",
+  "negative_results": [
+    "NON_DISCRIMINATING",
+    "NOT_IDENTIFIABLE"
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "tests": "FORMAL: seuil2/5; ΔF=-2,0,+2; intensité nulle et seuil4 hors domaine vérifiés PASS, données synthétiques.",
+  "experiment": "ITER001-EXP-08"
+}

@@ -1,0 +1,194 @@
+PDF PAGE 187
+187
+or other, etc., i.e. both a natural person and a legal entity,
+capable of either acquiring, processing or selling any
+Product (definition below). The verb to transform means to
+elabourate, to manufacture, to build as well as to consume,
+to use, to destroy. The fact that the verbs acquire and sell
+can be condensed by the verb exchange, shows that this
+discrimination is relative to the position of the agent
+(observer) to whom one refers (consumer or supplier),
+
+the Product represents any object, merchandise, product,
+good or service that an economic agent (as defined above)
+can either acquire, transform or sell. It can be raw
+materials, semi-finished products, manufactured objects,
+agricultural products, any goods, services, etc., provided
+that they can be either acquired, transformed or sold. In
+conventional microeconomics, the Product can be related
+to the “good”. The Product must be considered as the
+vector-support of Work, in the same way as in
+thermodynamics, gas is considered as the vector-support of
+heat,
+
+Cash is represented by banknotes, coins, gold and silver
+metal, cheques, credit cards, as well as shells (cowries), salt
+bars, feathers, teeth, nuggets of native copper in so-called
+“primitive” societies, etc., i.e. by everything that can be
+considered as containing an exchange value, a monetary
+value, of the Money. It should be noted that the inscription
+of a line of bank credit should not be considered as Money
+but only as Cash. In fact, the beneficiary of this line of
+credit will use notes, cheques, drafts, etc. to pay for his
+purchases in the same way as if he had possessed through
+him the quantity of Money corresponding to his credit.
+Cash must be considered as the vector-support of the
+Money, in the same way that in thermodynamics, gas is
+considered as the support vector of heat,
+
+labour (l) must be understood as the thing to be done, the
+task, the job to be done. It is constant for a given Product
+and manufacturing method. In fact, it's generally considered
+
+
+PDF PAGE 188
+188
+that the thing, the work, the Product to be made represents
+the Work to be done. However, everyone knows very well
+that the quicker the Product is made, the greater the Work.
+Work being a function of the speed of manufacture, it's
+therefore necessary and indispensable to discriminate
+between Work and labour. The more quickly the labour is
+performed, the greater the Work will be. In fact, painting a
+door or ploughing a field requires a certain amount of
+labour which is equal to itself but which can be done using
+different methods at different speeds. But in order to
+change this speed of execution it's necessary to vary a
+Force. More complete explanations are given in the chapter
+“Mechanics of Exchanges”. Labour in Economics is similar
+to space in physics,
+
+the Work (T) must be considered as included in the Product.
+The exact, analytical definition will be given later. Let us
+say for the moment that it's the variation in the speed of
+execution of the labour (definition above) under the effect
+of a Force that initiated it and therefore should not be
+confused with the Product. In fact, for a constant labour,
+the Work varies according to its speed of execution. This
+Work (T) must be considered with an economic vision and
+not a physical one (W) since it's related to a labour and not
+to a space, as will be specified later,
+
+the Money (M) is defined as the measure of the value of
+Cash, as it's quite obvious that a 100 franc note circulating
+in the year 2000 had absolutely no value at all as the one
+available a century earlier at ½. In the same way that a
+Product contains a certain amount of Work, it's possible to
+say that Cash contains a certain amount of Money that
+varies according to place and time. Cash should not be
+confused with Money, because just as it's necessary to have
+a support for the Work (which is the Product), it's also
+necessary that the Money be included in something (which
+is the Cash). This is so true that for any transfer of Money
+it's necessary to have banknotes, coins, credit cards,
+
+
+PDF PAGE 198
+198
+p = price
+ϖ= speed of price formation - tachyaxis
+it's possible to write :
+ϖ=dp
+dt
+‹04-02›
+  
+From these two relations (04-01 and 04-02), we see that labour and price are
+comparable to space (linear displacement) in physics. Moreover, they are valid
+whatever the case considered, i.e. whatever the economic system considered, at
+any time and in any place, and are therefore compatible with the Principle of
+Homogeneity. In fact, whether the labour is carried out in any country and the
+price of the Product is considered in any of them, the speeds will always be given
+by these relations. However, they only give a measure of these speeds and in no
+case do they stipulate for what reason (just as in mechanics the speed relationship
+only gives a measure of the speed). Whether productivity decreases or increases,
+i.e. the speed at which labour is carried out varies for any reason (too much or too
+little supply, faulty supply of raw materials, absence or lack of personnel,
+machinery or motor breakdown, new, faster manufacturing method, etc.) the 04-
+01 relationship will always give a faithful and accurate measure of the
+instantaneous speed. Whether the speed of execution of the labour is cancelled
+due to snacks, strikes, interruption of power supply, technical unemployment,
+weekends, holidays, etc., this speed will always be equal to zero, which is what
+the relation 04-01 gives, validating here again its total conformity to reality. In the
+same way, the relation 04-02 is exact whatever the reason for the price to evolve
+in this way. Indeed, whether it's due to an increase in wages, social security
+charges, various taxes, etc., or a decrease due to an increase in productivity or
+wear and tear on the Product during its use, the price always forms (increase or
+decrease) at a certain speed given by this relation.
+These two relations (04-01 and 04-02) can be written respectively :
+dl=−ω.dt
+and :
+dp=ϖ .dt
+
+
+PDF PAGE 212
+212
+At present in the “developed” countries, i.e. essentially since the industrial
+revolution, it's possible to consider the labour performed by slaves and animals as
+zero. As a result, the relationship becomes simpler and becomes :
+e=−cP. dli+dl s+dlm
+dt
+Moreover, the labour performed by the individual (craftsman, trader, self-
+employed, entrepreneur, ...) can be considered as constant. As a consequence, the
+relationship becomes even simpler and becomes :
+e=−cP. dl s+dlm
+dt
+which shows that if the labour to be performed by an employee is replaced by
+that of a machine, the employee will see his job deteriorate and will eventually be
+fired, which corresponds perfectly to reality. This will, of course, depend on the
+respective costs of the different labours to be done either by the employee or by
+the engine or the machine (or other means).
+Employment relations purchasing power
+We know the relationship between employment (04-17) and purchasing power
+(04-18), i.e. :
+e=cP.ω
+and :
+a=−cA.ϖ
+The speeds of labour ω  performance and price formation ϖ are vectorial
+characteristics, i.e. oriented, and each refers to a different transformation that
+takes place in different directions: Product (speed ω) and Cash (speed ϖ)
+circulating in opposite directions. In these relations, employment (e) is that of the
+supplier while purchasing power (a) is that of the consumer.
+Relationships 04-21 and 04-22, namely :
+
+
+PDF PAGE 490
+490
+For a monopoly that increases the Utility of a Product it produces, the price
+increases according to the Utility but also decreases according to the Work
+provided but less than previously or not at all. A typical example of this
+monopoly system is an agent or company that holds a patent and exploits it. It
+provides some Work in order to increase the Utility of the Product and it increases
+the price. But because of his monopoly position, he raises the price even more
+without having done any extra labour. Consequently, the Cash that he will
+receive in addition will necessarily be a transfer. It will necessarily have been
+created previously in another transformation and this because of the “time arrow”.
+The coefficient g, being always equal to 1, the additional Money that the
+consumer gives up can only come from a previous transformation.
+A monopoly that doesn't increase the Utility of the Product it “manufactures”
+doesn't perform any Work, but only labour doesn't create Money. The Cash that
+this agent receives is entirely transferred Cash.
+In daily reality all monopolistic systems can exist. It is therefore possible to
+differentiate between competitive systems whose transformation coefficient (g) is
+equal to 1, and monopolies whose coefficient (g) seems greater than unity.  It is
+possible to posit that the higher the transformation coefficient g seems to be, the
+more monopolistic the system is. The Work provided by the agent belonging to
+the monopoly is smaller and smaller and the Money included in the Money is
+more and more important.
+It is easy to see that the higher the coefficient g seems to be, the more there is a
+disconnection between the Work performed and the wage. This is so true that if
+one asks a person how much he or she is paid, one can know, without making too
+many mistakes, whether he or she is part of a competitive or monopolistic system
+only by his or her answer.
+•
+If the average citizen answers: “I'm a turner, a digger, a
+computer specialist, an accountant and I earn so much”, he
+is most certainly an agent who is part of a competitive
+system.
+•
+If the average citizen answers: “I have 10, 20 or 30 years of
+seniority and I earn so much”, the certainty of dealing with
+an agent who is part of a monopoly is almost total.
+For a single transformation, whether in the competitive sector or in the
+monopoly sector, labour decreases in time, that is to say, as the manufacture of
+the Product develops, but if we take several successive transformations,
+experience shows that in the first system (competitive) labour tends to be carried

@@ -1,0 +1,48 @@
+{
+  "task": "ITER001-P0-04",
+  "cycle": "ITER001-C04",
+  "stage": "DOCUMENTARY_PREPARATION_ONLY",
+  "reading_attestation": false,
+  "analysis_performed": false,
+  "decision_performed": false,
+  "pages_hint_extracted": [
+    36,
+    526,
+    558,
+    559
+  ],
+  "document": "Reflections_PierreCampergue.pdf",
+  "source_type": "SOURCE_CORPUS",
+  "input_sha256": {
+    "Reflections_PierreCampergue.pdf": "7981eca40bca1c5ce54d96b3c840eda34d0e7d01fdc89fe9748c3c047c6f3827",
+    "corpus/extracted/Reflections_PierreCampergue.pages.jsonl": "cc774cf5d62505450b50ba891fbd85d0d57a39750676e6b16459ea1056674239",
+    "rag/index/iterative.json": "91e2acaa1dfd9c0b8da43e067e14470854b908e48005310bac077ddaa2ff271a",
+    "research_state/iteration001/initial_tasks.json": "20c43c7ed94e2031ea42c2316ac2588b4c6a6ad113c381f4c1beffe501ef79f0"
+  },
+  "page_text_sha256": {
+    "36": "f5ea46eb498b7da78596d6d1d0a7a07d256e02590315fbb52bc1e94b981bf38d",
+    "526": "15a1dd1d7a804abe995d72860b41a83625e4ae1759c21949843a7a3c5b754e15",
+    "558": "1378312fa9b167e04fcca6c1bbf5f53ec8c85a47c4b268df5c76fe21876e6172",
+    "559": "34854e5fe62bc019f411bc83336a2e0f284e0a3243e30f4f19f81ababcd99447"
+  },
+  "source_pages_sha256": "c0f9c0d6a24b7edc5a8e2b3200e2815df86e7a5029d86124561231b8e7b4a701",
+  "retrieval": [
+    {
+      "collection": "SOURCE_CORPUS",
+      "query": "K : stabilité et agrégation Comment décomposer une dérive de K entre recomposition et variation des coefficients ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_source.jsonl",
+      "hits": 3
+    },
+    {
+      "collection": "DERIVED_ANALYSIS",
+      "query": "K : stabilité et agrégation Comment décomposer une dérive de K entre recomposition et variation des coefficients ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_derived.jsonl",
+      "hits": 3
+    }
+  ],
+  "note": "Extraction intégrale préparée pour lecture ultérieure. Ne constitue ni attestation de lecture ni preuve finale RAG."
+}

@@ -1,0 +1,314 @@
+- id: TASK-001
+  priority: 1
+  topic: Money / référents
+  question: Quelles unités et frontières distinguent Cash, Money, n, u et pouvoir
+    d’achat ?
+  related_rq:
+  - RQ-06.01
+  - RQ-06.04
+  - RQ-09.03
+  related_claims:
+  - CPC-0002
+  - CPC-0010
+  - CPC-0011
+  - CPC-0013
+  - CPC-0014
+  - CPC-0027
+  - CPC-0028
+  - CPC-0041
+  - CPC-0046
+  - CPC-0050
+  - CPC-0053
+  - CPC-0067
+  - CPC-0085
+  - CPC-0108
+  - CPC-0117
+  - CPC-0118
+  - CPC-0119
+  pages_hint:
+  - 204
+  - 205
+  - 206
+  - 207
+  - 208
+  - 254
+  - 255
+  - 256
+  - 257
+  - 258
+  - 466
+  - 467
+  - 468
+  - 469
+  required_sources:
+  - remediation/money_referents.md
+  - remediation/money_gdp_bridge.md
+  - external_review/02_formal_review.md
+  status: DONE
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+- id: TASK-002
+  priority: 2
+  topic: 'T / cp : changement de l’unité de tâche'
+  question: Quelles conventions réconcilient T, dT, Work restant, travail accumulé
+    et signes ?
+  related_rq: &id004
+  - RQ-03.02
+  - RQ-03.03
+  related_claims: &id005
+  - CPC-0023
+  - CPC-0039
+  - CPC-0040
+  - CPC-0043
+  - CPC-0044
+  - CPC-0045
+  - CPC-0052
+  - CPC-0054
+  - CPC-0062
+  - CPC-0063
+  - CPC-0066
+  - CPC-0068
+  - CPC-0121
+  pages_hint: &id006
+  - 201
+  - 202
+  - 203
+  - 204
+  - 205
+  - 206
+  - 207
+  - 208
+  - 209
+  - 210
+  required_sources:
+  - research_questions/RQ-03.03/conclusion.md
+  - research_questions/experiments/EXP-09/results.md
+  status: DONE
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+- id: TASK-003
+  priority: 3
+  topic: 'Utility : comparabilité entre référents'
+  question: Utility peut-elle être mesurée indépendamment du prix et de la quantité
+    pour comparer les scénarios ?
+  related_rq: &id001
+  - RQ-05.03
+  - RQ-08.01
+  - RQ-12.02
+  related_claims: &id002
+  - CPC-0001
+  - CPC-0009
+  - CPC-0018
+  - CPC-0029
+  - CPC-0034
+  - CPC-0037
+  - CPC-0055
+  - CPC-0056
+  - CPC-0057
+  - CPC-0058
+  - CPC-0059
+  - CPC-0076
+  - CPC-0077
+  - CPC-0078
+  - CPC-0079
+  - CPC-0089
+  - CPC-0111
+  - CPC-0113
+  - CPC-0114
+  - CPC-0118
+  - CPC-0120
+  - CPC-0126
+  pages_hint: &id003
+  - 108
+  - 109
+  - 110
+  - 111
+  - 384
+  - 385
+  - 386
+  - 387
+  required_sources:
+  - research_questions/RQ-05.03/conclusion.md
+  - research_questions/experiments/EXP-02/results.md
+  status: DONE
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+- id: TASK-004
+  priority: 4
+  topic: K
+  question: Un grand nombre de produits suffit-il à stabiliser K malgré des coefficients
+    et compositions hétérogènes ?
+  related_rq:
+  - RQ-08.02
+  related_claims:
+  - CPC-0043
+  - CPC-0044
+  - CPC-0109
+  - CPC-0116
+  - CPC-0117
+  - CPC-0118
+  pages_hint: []
+  required_sources:
+  - closure_review/final_open_questions.md
+  status: OPEN
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+- id: TASK-005
+  priority: 5
+  topic: Energy → Economic Work
+  question: Quel critère et quelle conversion séparent énergie consommée, travail
+    physique utile et Work économique ?
+  related_rq:
+  - RQ-09.02
+  related_claims:
+  - CPC-0003
+  - CPC-0017
+  - CPC-0039
+  - CPC-0042
+  - CPC-0067
+  - CPC-0119
+  - CPC-0122
+  pages_hint: []
+  required_sources:
+  - closure_review/final_open_questions.md
+  status: OPEN
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+- id: TASK-006
+  priority: 6
+  topic: Innovation / productivity
+  question: Quand accélérer une tâche constante réduit-il effectivement les intrants
+    nécessaires par produit ?
+  related_rq:
+  - RQ-04.01
+  related_claims:
+  - CPC-0017
+  - CPC-0019
+  - CPC-0052
+  - CPC-0094
+  - CPC-0110
+  - CPC-0112
+  pages_hint: []
+  required_sources:
+  - closure_review/final_open_questions.md
+  status: OPEN
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+- id: TASK-007
+  priority: 7
+  topic: Destination des gains
+  question: Quelle fraction du gain est épargnée, dépensée plus tard, consommée davantage
+    ou affectée à la qualité ?
+  related_rq:
+  - RQ-10.02
+  related_claims:
+  - CPC-0008
+  - CPC-0084
+  - CPC-0099
+  - CPC-0127
+  pages_hint: []
+  required_sources:
+  - closure_review/final_open_questions.md
+  status: OPEN
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+- id: TASK-008
+  priority: 8
+  topic: Dommages environnementaux
+  question: Quels maillons sourcés relient gains productifs, flux physiques et dommages,
+    et lesquels restent manquants ?
+  related_rq:
+  - RQ-11.01
+  related_claims:
+  - CPC-0001
+  - CPC-0018
+  - CPC-0031
+  - CPC-0120
+  - CPC-0127
+  pages_hint: []
+  required_sources:
+  - closure_review/final_open_questions.md
+  status: OPEN
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+- id: TASK-009
+  priority: 9
+  topic: Programme épistémologique
+  question: Le domaine annoncé couvre-t-il réellement les dommages environnementaux
+    de la question racine ?
+  related_rq:
+  - RQ-01.01
+  related_claims:
+  - CPC-0001
+  - CPC-0003
+  - CPC-0030
+  - CPC-0031
+  - CPC-0042
+  - CPC-0065
+  pages_hint: []
+  required_sources:
+  - closure_review/final_open_questions.md
+  status: OPEN
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+- id: TASK-010
+  priority: 10
+  topic: Review adversariale transversale
+  question: Quelles observations départageraient Campergue des explications concurrentes
+    à conditions comparables ?
+  related_rq:
+  - RQ-12.01
+  related_claims:
+  - CPC-0003
+  - CPC-0068
+  - CPC-0117
+  - CPC-0118
+  - CPC-0119
+  pages_hint: []
+  required_sources:
+  - closure_review/final_open_questions.md
+  status: OPEN
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+- id: TASK-012
+  priority: 1
+  topic: Calibration commune de Utility
+  question: Utility peut-elle être mesurée indépendamment du prix et de la quantité
+    pour comparer les scénarios ?
+  related_rq: *id001
+  related_claims: *id002
+  pages_hint: *id003
+  required_sources:
+  - research_state/calibration_protocols.md
+  status: BLOCKED
+  created_from: CYCLE-003
+  notes: 'NEEDS_DEFINITION: aucune mesure indépendante disponible; tâche scientifique
+    distincte du contrôle documentaire terminé.'
+- id: TASK-011
+  priority: 1
+  topic: Étalonnage indépendant T/cp
+  question: Quelles conventions réconcilient T, dT, Work restant, travail accumulé
+    et signes ?
+  related_rq: *id004
+  related_claims: *id005
+  pages_hint: *id006
+  required_sources:
+  - research_state/calibration_protocols.md
+  status: BLOCKED
+  created_from: CYCLE-002
+  notes: NEEDS_DEFINITION; ajout de suivi après clôture documentaire du cycle, pas
+    une mesure indépendante.
+- id: TASK-013
+  priority: 8
+  topic: Retrieval multi-niveaux et embeddings
+  question: La recherche de passages et collections gagne-t-elle sur un jeu tenu à
+    l’écart ?
+  related_rq: []
+  related_claims: []
+  pages_hint: []
+  required_sources:
+  - research_state/rag_benchmark.json
+  status: OPEN
+  created_from: Initial retrieval benchmark
+  notes: Golden set DERIVED_ANALYSIS et multi-niveaux manquant; modèle sémantique
+    local non installé. Ne pas appeler TF-IDF embeddings sémantiques.

@@ -1,0 +1,38 @@
+{
+  "id": "ITER001-C03",
+  "task": "ITER001-P0-03",
+  "decision": "QUALIFY",
+  "finding_class": "NEW_SCENARIO",
+  "finding": "Ajout d’un diagnostic de fermeture pour trois raccords multiplicatifs indépendants; cohérence algébrique nécessaire, comparabilité Utility non établie.",
+  "claims": [
+    "CPC-0055",
+    "CPC-0057",
+    "CPC-0062",
+    "CPC-0104"
+  ],
+  "questions": [
+    "RQ-05.03",
+    "RQ-04.04"
+  ],
+  "sources": [
+    "agents/reports/ITER001-C03/specialist.md",
+    "agents/reports/ITER001-C03/adversarial.md",
+    "agents/reports/ITER001-C03/evidence.md",
+    "agents/reports/ITER001-C03/formal_results.json",
+    "agents/reports/ITER001-C03/source_pages.txt",
+    "agents/reports/ITER001-C03/provenance.json"
+  ],
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C03/specialist.md",
+    "adversarial": "agents/reports/ITER001-C03/adversarial.md",
+    "evidence": "agents/reports/ITER001-C03/evidence.md"
+  },
+  "candidate_path": "candidate_changes/concepts/ITER001-C03.json",
+  "negative_results": [
+    "NOT_IDENTIFIABLE",
+    "NON_DISCRIMINATING"
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "tests": "FORMAL: formal_check.py exécuté par rôle code, deux scénarios exacts (fermeture/non fermeture) PASS; aucune mesure Utility.",
+  "experiment": "ITER001-EXP-03"
+}

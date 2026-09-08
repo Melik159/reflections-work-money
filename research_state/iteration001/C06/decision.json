@@ -1,0 +1,39 @@
+{
+  "id": "ITER001-C06",
+  "task": "ITER001-P0-06",
+  "decision": "QUALIFY",
+  "finding_class": "NEW_LITERATURE_PARALLEL",
+  "finding": "Romer1990 et Oslo2018 ajoutent un comparateur explicite de décisions techniques, réemploi, adoption et types innovation; vitesse seule ne distingue pas leurs causes.",
+  "claims": [
+    "CPC-0017",
+    "CPC-0051",
+    "CPC-0052",
+    "CPC-0106",
+    "CPC-0112"
+  ],
+  "questions": [
+    "RQ-04.01",
+    "RQ-04.03",
+    "RQ-12.01"
+  ],
+  "sources": [
+    "agents/reports/ITER001-C06/specialist.md",
+    "agents/reports/ITER001-C06/adversarial.md",
+    "agents/reports/ITER001-C06/evidence.md",
+    "agents/reports/ITER001-C06/source_pages.txt",
+    "agents/reports/ITER001-C06/provenance.json"
+  ],
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C06/specialist.md",
+    "adversarial": "agents/reports/ITER001-C06/adversarial.md",
+    "evidence": "agents/reports/ITER001-C06/evidence.md"
+  },
+  "candidate_path": "candidate_changes/questions/ITER001-C06.json",
+  "negative_results": [
+    "NON_DISCRIMINATING",
+    "REQUIRES_EXOGENOUS_VARIATION"
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "tests": "Aucun nouveau test exécuté; protocole seulement.",
+  "experiment": "ITER001-EXP-06"
+}

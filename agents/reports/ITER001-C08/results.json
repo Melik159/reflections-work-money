@@ -1,0 +1,54 @@
+{
+  "cycle": "ITER001-C08",
+  "category": "FORMAL",
+  "origin": "ANALYST_SYNTHETIC_MODEL",
+  "formula": "delta_F = -S + s*G*m; Z=0",
+  "parameters": {
+    "S": "4",
+    "G": "10",
+    "m": "1"
+  },
+  "threshold_s": "2/5",
+  "cases": [
+    {
+      "s": "1/5",
+      "delta_F": "-2"
+    },
+    {
+      "s": "2/5",
+      "delta_F": "0"
+    },
+    {
+      "s": "3/5",
+      "delta_F": "2"
+    }
+  ],
+  "zero_intensity": {
+    "m": "0",
+    "threshold_s": null,
+    "reason": "No finite threshold for positive S; G*m=0"
+  },
+  "low_intensity": {
+    "m": "1/10",
+    "threshold_s": "4",
+    "attainable_with_s_in_0_1": false
+  },
+  "units": {
+    "S": "physical_unit",
+    "G": "currency_unit",
+    "s": "dimensionless",
+    "m": "physical_unit/currency_unit",
+    "delta_F": "physical_unit"
+  },
+  "assumptions": [
+    "Fixed-service avoided flow S is hypothetical, not established by source.",
+    "One physical measurand only; energy, mass and damage are not added.",
+    "Constant marginal intensity m on the same boundary and period.",
+    "0 <= s <= 1 is imposed for this toy model, not a universal spending bound.",
+    "All other effects Z equal zero; no induced investment, income or equilibrium responses."
+  ],
+  "assertions": "PASS",
+  "empirical_observation": false,
+  "source_attribution": false,
+  "scientific_decision": null
+}

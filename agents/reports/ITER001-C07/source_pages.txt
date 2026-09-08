@@ -1,0 +1,215 @@
+PDF PAGE 19
+19
+Thus, in order to increase the wealth of any economic system, it's imperative to
+increase the value (u) of the monetary unit (possibility 3a). The only way to do this is
+to decrease the price of the Products (goods and services) put on the market. In fact,
+if yesterday a 1$ coin made it possible to buy 1 kg of pasta and today the price per
+kilogram falls to 0.9$, then the consumer keeps 0.1$ in his or her pocket, which he or
+she holds in addition, and has therefore become richer. This operation (price drop)
+causes the number (n) of units to remain constant (0.9 + 0.1 = 1), but also the unit (u)
+to increase by 11.1% since 1$ consents to the purchase of this extra pasta (1 / 9 =
+0.111). It is only later that the consumer will use the extra Money he holds after a
+price reduction to purchase another good or service.
+However, all conventional economic doctrines consider Money to be that which
+circulates from the consumer to the supplier in exchange for a good or service, which
+circulates in the opposite direction. As a result, they are always obliged to conceive,
+imagine, and construct “initial endowments” that allow consumers to acquire goods
+and services. A contrario, following this new approach, it's possible to write :
+
+The Money is what a consumer holds in addition after a price drop.
+It is only later that this Money will circulate from the consumer to the supplier in
+exchange for a Product (good or service). Thus, this new definition captures how
+these initial endowments could be generated and, as a result, wealth and increased
+purchasing power.
+Genesis of the money 
+To achieve this price reduction it's normally necessary and indispensable to
+increase productivity in order to manufacture the good or service as quickly as
+possible (caeteris paribus). However, this increase in productivity necessarily
+requires the execution of additional Work (defined here as energy and not as a task, a
+job, a labour, something to be done).
+Consequently, it's therefore possible to exhibit the following phenomenological
+sequence:
+
+Additional work of the supplier ⇒ increased productivity ⇒ price decline
+⇒ increase of monetary unit ⇒ creation of money ⇒ additional money of
+the consumer.
+It should be noted that this price reduction should not be used to feed dividends,
+salaries, profits or anything else. Indeed, in this case and as already mentioned, this
+
+
+PDF PAGE 33
+33
+
+The more Work is included in a Product, the more Money
+the consumer has at his disposal.
+This thesis shows that there is now a possible balance (conservation principle)
+between the additional amount of Work performed by the supplier and the additional
+amount of Money held by the consumer. Consequently :
+
+the Money created that can be taken into account is that
+which the consumer holds in addition after a price reduction
+and not that which circulates from the consumer to the
+supplier.
+The consumer can therefore use this Money at a later date, in principle at his
+convenience. It is this Money that moves a posteriori from the consumer to the
+supplier at the time of the acquisition of any Product. Consequently and beforehand,
+the consumer must have this Money at his disposal, which only comes from a price
+reduction prior to its use during a purchase. It follows from all this that :
+
+a WORK VARIATION is never used to manufacture a
+Product but exclusively to VARY its price.
+
+This Work is always a mechanical work (W) but its purpose,
+its goal, its objective, is no longer physical but economic (T).
+In fact, if two copies of the same Product are produced at different times, their cost
+price is different, but they are nevertheless totally indistinguishable.
+It has just been exposed that :
+
+the Additional Work performed by the supplier is
+TRANSFORMED into Additional Money held by the
+consumer.
+So we are indeed in the presence of a transformation and no longer a flow. This
+totally changes the conception of economic exchanges and therefore urges us to
+consider them as belonging to a model similar to that of thermodynamics. This is
+therefore strictly in accordance with the first principle stipulating that:
+
+nothing is created, nothing is lost, everything is transformed.
+But in addition, it should be noted that :
+
+
+PDF PAGE 400
+400
+Instead of considering the influences of variations in the causes of the
+transformations (variations in Avarice and Laziness), it's possible to present the
+influences of variations in their consequences (variations in Money and Work), as
+below, which is certainly much more telling.
+Hyp.
+RECIPROCAL INFLUENCES OF CHANGES IN CONSEQUENCES
+Causes
+Consumer
+Supplier
+1
+Money
+
+
+⇕
+⇕
+Work
+
+
+2
+Money
+
+
+⇕
+⇕
+Work
+
+
+3
+Work
+
+
+⇕
+⇕
+Money
+
+
+From the tables showing the reciprocal influences (causes and consequences),
+and as already mentioned several times, it can be said that if the Avarice (A) of
+the consumer increases, then the heat (Q) also increases. Indeed, if the consumer's
+Avarice (A) increases, the supplier's Laziness (dP) decreases, therefore his Work
+(dT) increases and, consequently, the energy needed for this increase. This
+corresponds well to reality. In fact, the greater the Work done by the supplier, the
+lower the price, which leads to a surplus of Money for the consumer and,
+therefore, allows him to acquire more and/or higher quality Products.
+•
+AN ECONOMIC DECISION IS NEVER NEUTRAL,
+NEITHER ON WORK NOR ON MONEY.
+◦
+it acts inversely for an actor,
+◦
+it acts identically for two actors.
+
+
+PDF PAGE 468
+468
+dM = −c A⋅dϖ
+dt ⋅ϖ⋅dt
+either :
+dM = −c A⋅ϖ⋅dϖ
+By integrating between two considered instants, either at the initial time
+t1 and at the final time t2, it comes:
+M = −(
+1
+2 ⋅c A⋅ϖ
+t 2
+2 −1
+2 ⋅c A⋅ϖ
+t 1
+2)
+By posing:
+Ecin = Kinetic energy
+either :
+Ecin = 1
+2 ⋅c A ⋅ϖ 2
+then it comes :
+M = −( Et 2
+cin −Et 1
+cin)
+But this difference of Kinetic Energy between the instants t2 and t1
+corresponds to the difference of transformed Potential Energy between
+the instants t1 and t2. By posing :
+Epot = Potential energy
+then :
+M = −( Et 1
+pot −Et 2
+pot)
+The presence of the minus sign (-) is quite logical, because all this is
+related to the transformation Work→Money. Indeed, the slower the speed
+(ϖ) of price formation, the higher the Money, i.e. the Kinetic Energy,
+held by the consumer. As a result, the consumer can keep in his wallet
+this sum, which can now be considered as Potential Energy, and which
+can be used for any future use (acquisition of a Product, payment of a
+debt, payment of taxes, ...).
+Consequently, the greater the Work done by the supplier, the more
+Potential Energy (Money saved) is available to the consumer. So, this
+Energy is normally higher at time t2 than at time t1. These last two
+relations can therefore be written as follows:
+
+
+PDF PAGE 523
+523
+2.25
+ Transformations coefficients
+ABSTRACT: The entire study was conducted considering the transformation coeffi-
+cients (gTM, gMT ) as constant, i.e. we assumed that a certain amount of Work provided
+would always result in the same amount of Money and vice versa. But, a priori, noth-
+ing allows us to affirm this, because it does not seem to be systematically true.
+This chapter therefore attempts to show that to ensure a correct, regular, unvaried
+functioning of an economic system, it is imperative that the constancy of the coeffi-
+cients be guaranteed. In this case, the different possibilities of evolution are coherent
+and incoherent in the opposite case (chapter 00 - monetary evolutions).
+Money and Work – Creation and expenditure
+We know the relations (05-01, 05-02) of the equivalence principles for each
+T→M and M→T  transformation respectively, namely :
+M = gTM ⋅T
+and :
+T = gMT⋅M
+Taking into account the cause (index d for spent) and the effect (index c for
+created), these relations are respectively written :
+M c = gTM⋅T d
+and :
+T c = gMT⋅M d
+⇒M d =
+T c
+gMT
+However, the Money spent Md was necessarily created prior to its use.
+However, the created Money Mc  can be hoarded, so :
+Mc ≥M d
+or :
+ gTM⋅T d ≥
+T c
+gMT
+:
+hence:

@@ -1,0 +1,38 @@
+{
+  "id": "ITER001-C02",
+  "task": "ITER001-P0-02",
+  "decision": "QUALIFY",
+  "finding_class": "CONFIRMS_EXISTING",
+  "finding": "Protocole T/cp prolongé: exposant en vitesse normalisée, origine et observations de niveau/variation séparées; liberté de cp ne doit pas absorber les échecs.",
+  "claims": [
+    "CPC-0035",
+    "CPC-0052",
+    "CPC-0054",
+    "CPC-0066"
+  ],
+  "questions": [
+    "RQ-03.03",
+    "RQ-04.02"
+  ],
+  "sources": [
+    "agents/reports/ITER001-C02/specialist.md",
+    "agents/reports/ITER001-C02/adversarial.md",
+    "agents/reports/ITER001-C02/evidence.md",
+    "agents/reports/ITER001-C02/source_pages.txt",
+    "agents/reports/ITER001-C02/provenance.json"
+  ],
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C02/specialist.md",
+    "adversarial": "agents/reports/ITER001-C02/adversarial.md",
+    "evidence": "agents/reports/ITER001-C02/evidence.md"
+  },
+  "candidate_path": "candidate_changes/formalism/ITER001-C02.json",
+  "negative_results": [
+    "NOT_IDENTIFIABLE",
+    "REQUIRES_INDEPENDENT_T",
+    "NON_DISCRIMINATING"
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "tests": "Aucun nouveau test exécuté; protocole seulement.",
+  "experiment": "ITER001-EXP-02"
+}

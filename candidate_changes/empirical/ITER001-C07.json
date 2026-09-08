@@ -1,0 +1,99 @@
+{
+  "id": "ITER001-C07",
+  "target": [
+    "research_questions/RQ-10.02/conclusion.md",
+    "research_questions/RQ-07.02/conclusion.md"
+  ],
+  "current_state": {
+    "baseline": "CAMPERGUE-DOCUMENTARY-BASELINE-1.0",
+    "questions": [
+      {
+        "id": "RQ-10.02",
+        "status": "PARTIALLY_RESOLVED",
+        "target_path": "research_questions/RQ-10.02/conclusion.md",
+        "target_sha256": "03aebee5fadc019aeaeb78c3839e44f55616cbfd017c81bad345c3a005ac434c"
+      },
+      {
+        "id": "RQ-07.02",
+        "status": "PARTIALLY_RESOLVED",
+        "target_path": "research_questions/RQ-07.02/conclusion.md",
+        "target_sha256": "6a986e016d26daa34a4bd1e5311a6df4dc39643ae324507f067a49d68b243493"
+      }
+    ],
+    "claims": [
+      {
+        "id": "CPC-0015",
+        "statement": "Money créé désigne le supplément détenu par le consommateur après une baisse de prix.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 19
+      },
+      {
+        "id": "CPC-0084",
+        "statement": "Money créé non entièrement dépensé : Pas d’égalité obligatoire création/dépense, sous les conditions du scénario SC-MONEY-22.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 523
+      },
+      {
+        "id": "CPC-0099",
+        "statement": "Création puis usage ultérieur du supplément : Le gain existe avant sa dépense ultérieure, laquelle n’est pas sa création.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 33
+      },
+      {
+        "id": "CPC-0127",
+        "statement": "Le supplément de Money issu du scénario de baisse de prix permet davantage de Products ou des Products de meilleure qualité.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 400
+      }
+    ],
+    "note": "État canonique inchangé; qualifications détaillées lues dans synthèse/remédiation/clôture."
+  },
+  "proposed_state": "Ajouter registre longitudinal avec δb entre changements de stocks, G panier fixe, X dépense signée aux prix réalisés et flux revenus/emprunts/actifs/principal/transferts séparés. Monnaie commune sans réévaluation ou correction explicite; horizon et solde terminal publiés. Pas de traçage causal de mêmes euros ni parts bornées par défaut.",
+  "evidence": [
+    "agents/reports/ITER001-C07/specialist.md",
+    "agents/reports/ITER001-C07/adversarial.md",
+    "agents/reports/ITER001-C07/evidence.md",
+    "agents/reports/ITER001-C07/source_pages.txt",
+    "agents/reports/ITER001-C07/provenance.json",
+    "Reflections_PierreCampergue.pdf",
+    "agents/reports/ITER001-C07/results.json",
+    "agents/reports/batch001_final_adversarial.md"
+  ],
+  "counterevidence": "Liquidités fongibles, contrefactuel absent; parts signées non bornées; effets change/reclassification exclus ou corrigés. Source523 interdit obligation dépense, pas empreinte épargne nulle.",
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C07/specialist.md",
+    "adversarial": "agents/reports/ITER001-C07/adversarial.md",
+    "evidence": "agents/reports/ITER001-C07/evidence.md"
+  },
+  "confidence": "HIGH bilan conditionnel; identification du gain causal indisponible",
+  "reason": "Diagnostic de double comptage temporel et contreparties exécuté; résultats synthétiques sans allocation économique mesurée.",
+  "impact": "Clarifie données nécessaires RQ-10.02 et point entrée empreintes, sans remplacer Money",
+  "decision": "QUALIFY",
+  "finding_class": "NEW_SCENARIO",
+  "claims": [
+    "CPC-0015",
+    "CPC-0084",
+    "CPC-0099",
+    "CPC-0127"
+  ],
+  "questions": [
+    "RQ-10.02",
+    "RQ-07.02"
+  ],
+  "source_pages": [
+    19,
+    33,
+    400,
+    468,
+    523
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "negative_results": [
+    "NOT_IDENTIFIABLE",
+    "NON_DISCRIMINATING",
+    "REQUIRES_EXOGENOUS_VARIATION"
+  ],
+  "source_pages_policy": "Repères d’extraction; lecture effective et rôle du passage attestés séparément dans specialist.md et evidence.md, jamais par la seule préparation.",
+  "supporting_claims_policy": "Les claims sont liens de recherche; toutes les pages complémentaires ne sont pas leurs citations canoniques. Les rapports identifient les sources directes, notamment p112 pour C09 et p385–386 pour C03.",
+  "supplementary_review": "agents/reports/batch001_final_adversarial.md"
+}

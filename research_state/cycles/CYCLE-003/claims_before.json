@@ -1,0 +1,810 @@
+[
+  {
+    "id": "CPC-0001",
+    "statement": "Comprendre le passage de la subsistance à l’abondance et les dommages environnementaux associés à la hausse du niveau de vie.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 2,
+      "pages": [
+        2,
+        3
+      ],
+      "quotation": "The key question is therefore to understand how the increase in living standards has led to these environmental damages, or how we have moved from a subsistence society to an affluent society.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 2,
+    "quotation": "The key question is therefore to understand how the increase in living standards has led to these environmental damages, or how we have moved from a subsistence society to an affluent society.",
+    "type": "OPEN_QUESTION",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "growth",
+      "environment",
+      "living"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "CORE",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0009",
+    "statement": "Seul le travail engendre un changement.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 14,
+      "pages": [
+        14
+      ],
+      "quotation": "only work generates change, all other criteria are inoperative.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 14,
+    "quotation": "only work generates change, all other criteria are inoperative.",
+    "type": "AXIOM",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "work",
+      "transformation"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "CORE",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0018",
+    "statement": "Les sources artificielles d’énergie peu coûteuses auraient permis le passage à l’abondance.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 20,
+      "pages": [
+        20
+      ],
+      "quotation": "It seems that it's the availability of these low-cost artificial sources of energy over the last two centuries that has made the transition possible:",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 20,
+    "quotation": "It seems that it's the availability of these low-cost artificial sources of energy over the last two centuries that has made the transition possible:",
+    "type": "HYPOTHESIS",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "energy",
+      "work",
+      "growth",
+      "living"
+    ],
+    "depends_on": [
+      "CPC-0016",
+      "CPC-0017"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "TO_OPERATIONALIZE",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0029",
+    "statement": "Le manuscrit affirme un niveau de vie constant du Néolithique au XVIIIe siècle sous sources naturelles limitées.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 29,
+      "pages": [
+        29
+      ],
+      "quotation": "purchasing power and, incidentally, the standard of living remained constant from the Neolithic period until the 18th century.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 29,
+    "quotation": "purchasing power and, incidentally, the standard of living remained constant from the Neolithic period until the 18th century.",
+    "type": "EMPIRICAL",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "living",
+      "energy",
+      "growth"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "TO_OPERATIONALIZE",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0034",
+    "statement": "Le troc est présenté comme un échange sans Money entre produits d’utilités égales.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 31,
+      "pages": [
+        31
+      ],
+      "quotation": "in a barter, there is no Money exchanged.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 31,
+    "quotation": "in a barter, there is no Money exchanged.",
+    "type": "AXIOM",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "barter",
+      "utility",
+      "money"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": []
+  },
+  {
+    "id": "CPC-0037",
+    "statement": "L’offre est définie comme un nombre de cycles de fabrication par unité de temps.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 34,
+      "pages": [
+        34
+      ],
+      "quotation": "The offer of a Product can be defined as the number of times the manufacturing cycle is performed per unit of time.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 34,
+    "quotation": "The offer of a Product can be defined as the number of times the manufacturing cycle is performed per unit of time.",
+    "type": "DEFINITION",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "supply",
+      "production"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0055",
+    "statement": "L’utilité peut être objective, subjective, exacte ou erronée et concerne les échanges.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 189,
+      "pages": [
+        189
+      ],
+      "quotation": "which can be both objective and subjective, accurate and erroneous",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 189,
+    "quotation": "which can be both objective and subjective, accurate and erroneous",
+    "type": "DEFINITION",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "utility",
+      "product"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0056",
+    "statement": "Le manuscrit écarte l’utilité marginale et revendique le sens de Walras.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 189,
+      "pages": [
+        189
+      ],
+      "quotation": "Utility should be taken, in this study, in the sense of Walras",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 189,
+    "quotation": "Utility should be taken, in this study, in the sense of Walras",
+    "type": "METHODOLOGICAL",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "utility"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0057",
+    "statement": "L’utilité varie selon l’agent et le moment ; l’exemple de l’air distingue abondance et manque.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 190,
+      "pages": [
+        190
+      ],
+      "quotation": "this Utility is variable according to the agents considered",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 190,
+    "quotation": "this Utility is variable according to the agents considered",
+    "type": "CONCEPTUAL",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "utility",
+      "product"
+    ],
+    "depends_on": [
+      "CPC-0055"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "SUPPORTING",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0058",
+    "statement": "Le manuscrit déduit une absence de baisse du prix des œuvres d’art de leur utilité presque constante.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 191,
+      "pages": [
+        191
+      ],
+      "quotation": "since its Utility is almost constant over time, its price will not decrease.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 191,
+    "quotation": "since its Utility is almost constant over time, its price will not decrease.",
+    "type": "HYPOTHESIS",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "utility",
+      "price"
+    ],
+    "depends_on": [
+      "CPC-0055"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "SUPPORTING",
+    "testability": "TO_OPERATIONALIZE",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": []
+  },
+  {
+    "id": "CPC-0059",
+    "statement": "L’utilité de Cash est donnée comme d’autant plus élevée que le revenu est bas.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 192,
+      "pages": [
+        192
+      ],
+      "quotation": "the lower an agent's income is, the higher the Utility of the Cash will be.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 192,
+    "quotation": "the lower an agent's income is, the higher the Utility of the Cash will be.",
+    "type": "HYPOTHESIS",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "utility",
+      "cash",
+      "purchasing"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "TO_OPERATIONALIZE",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": []
+  },
+  {
+    "id": "CPC-0076",
+    "statement": "Prix et utilité baissent : enrichissement : Enrichissement; rP constant dans le tableau, sous les conditions du scénario SC-MONEY-12.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 291,
+      "pages": [
+        291
+      ],
+      "quotation": "This hypothesis indicates that the majority of the agents under consideration see their purchasing power increase since they can acquire Products for which their need is of lower and lower priority than those they could previously purchase, since Utility decreases. If, for example, they could only buy, with the income they have, 50% of the Products put on",
+      "normalization": "whitespace",
+      "context_before": " the opposite. When analysing the table, it's implicit that the price or Utility can remain stable, which corresponds to a borderline situation between the different possibilities. 1. Possibility 1 ⇒ Price and Utility decrease ⇔ Enrichment ",
+      "context_after": " the market, they are now able to acquire 51%, 52% or more of these Products. Thus, this hypothesis corresponds to the enrichment of the economic system to which these agents belong, which is in principle the aim of any economic policy. 2. ",
+      "argument_function": "Extension des besoins satisfaits à revenu donné"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 291,
+    "quotation": "This hypothesis indicates that the majority of the agents under consideration see their purchasing power increase since they can acquire Products for which their need is of lower and lower priority than those they could previously purchase, since Utility decreases. If, for example, they could only buy, with the income they have, 50% of the Products put on",
+    "type": "HYPOTHESIS",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "money",
+      "unit",
+      "cash",
+      "purchasing"
+    ],
+    "depends_on": [
+      "CPC-0010"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "SCENARIO_CONDITIONAL_REVIEW_NOT_EMPIRICALLY_TESTED",
+    "root_question_relevance": "Distinguer enrichissement productif, mesure et redistribution avant de répondre à la question racine.",
+    "interpretation_notes": "Reconstruction ciblée, scénario SC-MONEY-12; ni citation française ni validation empirique.",
+    "confidence_in_reconstruction": 0.8,
+    "money_scenarios": [
+      "SC-MONEY-12"
+    ]
+  },
+  {
+    "id": "CPC-0077",
+    "statement": "Prix baisse et utilité augmente : déflation : Déflation, pas enrichissement automatique, sous les conditions du scénario SC-MONEY-13.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 291,
+      "pages": [
+        291
+      ],
+      "quotation": "despite a fall in prices, agents can only satisfy, with the income at their disposal, increasingly indispensable needs, which is what happens when the economic system is in deflation. 3. Possibility 3 ⇒ Price increases and Utility decreases ⇔ Inflation This hypothesis corresponds to the common case where agents see their purchasing power decrease by price",
+      "normalization": "whitespace",
+      "context_before": "o the enrichment of the economic system to which these agents belong, which is in principle the aim of any economic policy. 2. Possibility 2 ⇒ Price decreases and Utility increases ⇔ Deflation This hypothesis corresponds to the case where, ",
+      "context_after": " increases. However, they can always acquire Products whose Utility decreases. For example, if an agent already owns Products with a high Utility, he will buy with his income those with a lower Utility, but with increasing difficulty. 4. Po",
+      "argument_function": "Baisse de prix ne suffit pas; rP diminue pour rétablir la Core Law (292–293)"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 291,
+    "quotation": "despite a fall in prices, agents can only satisfy, with the income at their disposal, increasingly indispensable needs, which is what happens when the economic system is in deflation. 3. Possibility 3 ⇒ Price increases and Utility decreases ⇔ Inflation This hypothesis corresponds to the common case where agents see their purchasing power decrease by price",
+    "type": "HYPOTHESIS",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "money",
+      "unit",
+      "cash",
+      "purchasing"
+    ],
+    "depends_on": [
+      "CPC-0010"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "SCENARIO_CONDITIONAL_REVIEW_NOT_EMPIRICALLY_TESTED",
+    "root_question_relevance": "Distinguer enrichissement productif, mesure et redistribution avant de répondre à la question racine.",
+    "interpretation_notes": "Reconstruction ciblée, scénario SC-MONEY-13; ni citation française ni validation empirique.",
+    "confidence_in_reconstruction": 0.8,
+    "money_scenarios": [
+      "SC-MONEY-13"
+    ]
+  },
+  {
+    "id": "CPC-0078",
+    "statement": "Prix augmente et utilité baisse : inflation : Pouvoir d’achat décroissant dans ce passage, sous les conditions du scénario SC-MONEY-14.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 291,
+      "pages": [
+        291
+      ],
+      "quotation": "This hypothesis corresponds to the common case where agents see their purchasing power decrease by price increases. However, they can always acquire Products whose Utility decreases. For example, if an agent already owns Products with a high Utility, he will buy with his income those with a lower Utility, but with increasing difficulty. 4. Possibility 4 ⇒",
+      "normalization": "whitespace",
+      "context_before": "l in prices, agents can only satisfy, with the income at their disposal, increasingly indispensable needs, which is what happens when the economic system is in deflation. 3. Possibility 3 ⇒ Price increases and Utility decreases ⇔ Inflation ",
+      "context_after": " Price and Utility increase ⇔ Impoverishment Conversely to case 1, a development during which the Utility of the Products acquired as well as their price increases corresponds to an impoverishment of the system. Indeed, with the income they",
+      "argument_function": "Achats devenant difficiles; rP augmente (292–293)"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 291,
+    "quotation": "This hypothesis corresponds to the common case where agents see their purchasing power decrease by price increases. However, they can always acquire Products whose Utility decreases. For example, if an agent already owns Products with a high Utility, he will buy with his income those with a lower Utility, but with increasing difficulty. 4. Possibility 4 ⇒",
+    "type": "HYPOTHESIS",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "money",
+      "unit",
+      "cash",
+      "purchasing"
+    ],
+    "depends_on": [
+      "CPC-0010"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "SCENARIO_CONDITIONAL_REVIEW_NOT_EMPIRICALLY_TESTED",
+    "root_question_relevance": "Distinguer enrichissement productif, mesure et redistribution avant de répondre à la question racine.",
+    "interpretation_notes": "Reconstruction ciblée, scénario SC-MONEY-14; ni citation française ni validation empirique.",
+    "confidence_in_reconstruction": 0.8,
+    "money_scenarios": [
+      "SC-MONEY-14"
+    ]
+  },
+  {
+    "id": "CPC-0079",
+    "statement": "Prix et utilité augmentent : appauvrissement : Appauvrissement; rP constant dans le tableau, sous les conditions du scénario SC-MONEY-15.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 291,
+      "pages": [
+        291
+      ],
+      "quotation": "Conversely to case 1, a development during which the Utility of the Products acquired as well as their price increases corresponds to an impoverishment of the system. Indeed, with the income they have, agents can only acquire",
+      "normalization": "whitespace",
+      "context_before": "e Utility decreases. For example, if an agent already owns Products with a high Utility, he will buy with his income those with a lower Utility, but with increasing difficulty. 4. Possibility 4 ⇒ Price and Utility increase ⇔ Impoverishment ",
+      "context_after": "",
+      "argument_function": "Produits plus chers et priorités plus urgentes"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 291,
+    "quotation": "Conversely to case 1, a development during which the Utility of the Products acquired as well as their price increases corresponds to an impoverishment of the system. Indeed, with the income they have, agents can only acquire",
+    "type": "HYPOTHESIS",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "money",
+      "unit",
+      "cash",
+      "purchasing"
+    ],
+    "depends_on": [
+      "CPC-0010"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "SCENARIO_CONDITIONAL_REVIEW_NOT_EMPIRICALLY_TESTED",
+    "root_question_relevance": "Distinguer enrichissement productif, mesure et redistribution avant de répondre à la question racine.",
+    "interpretation_notes": "Reconstruction ciblée, scénario SC-MONEY-15; ni citation française ni validation empirique.",
+    "confidence_in_reconstruction": 0.8,
+    "money_scenarios": [
+      "SC-MONEY-15"
+    ]
+  },
+  {
+    "id": "CPC-0089",
+    "statement": "Prix local et nombre global N : Ne pas identifier un prix local au pouvoir d’achat national, sous les conditions du scénario SC-MONEY-28.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 537,
+      "pages": [
+        537
+      ],
+      "quotation": "However, the number n of units is the one involved in the transformation considered and only it. It is obvious that in a complex system, such as a country, it is necessary to take into account the total number N of units that exist there. The relationship becomes : (∂M )n ,N = n N ⋅∂u ‹26-01› But we also know the 04-08 relationship giving the Money",
+      "normalization": "whitespace",
+      "context_before": "537 The quantity of Money created or destroyed is therefore directly proportional to the variation du in the value of the unit u. ",
+      "context_after": " according to price, namely : dM = −F A⋅dp It is therefore possible to write : n N ⋅∂u = −FA ⋅∂p which gives: ∂u = −F A⋅N n ⋅∂p ‹26-02› This relationship (26-02) and the relationship 04-08 show that : • if the price decreases, wealth increa",
+      "argument_function": "Pondération locale/globale proposée; limite macro explicite page538"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 537,
+    "quotation": "However, the number n of units is the one involved in the transformation considered and only it. It is obvious that in a complex system, such as a country, it is necessary to take into account the total number N of units that exist there. The relationship becomes : (∂M )n ,N = n N ⋅∂u ‹26-01› But we also know the 04-08 relationship giving the Money",
+    "type": "HYPOTHESIS",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "money",
+      "unit",
+      "cash",
+      "purchasing"
+    ],
+    "depends_on": [
+      "CPC-0010"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "SCENARIO_CONDITIONAL_REVIEW_NOT_EMPIRICALLY_TESTED",
+    "root_question_relevance": "Distinguer enrichissement productif, mesure et redistribution avant de répondre à la question racine.",
+    "interpretation_notes": "Reconstruction ciblée, scénario SC-MONEY-28; ni citation française ni validation empirique.",
+    "confidence_in_reconstruction": 0.8,
+    "money_scenarios": [
+      "SC-MONEY-28"
+    ]
+  },
+  {
+    "id": "CPC-0111",
+    "statement": "Addition entre moyens productifs : Labour, T et emploi e déclarés additifs entre contributeurs.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 210,
+      "pages": [
+        210
+      ],
+      "quotation": "these characteristics being additive.",
+      "normalization": "whitespace",
+      "context_before": "eads of enterprises, e = slaves s = employees a = animals m = engines, machines it's possible to write : l=li+le+ls+la+lm T=T i+Te+T s+T a+T m e=ei+ee+es+ea+em ",
+      "context_after": ""
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 210,
+    "quotation": "these characteristics being additive.",
+    "type": "ASSUMPTION",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "work",
+      "productivity",
+      "price",
+      "money",
+      "transformation"
+    ],
+    "depends_on": [
+      "CPC-0052"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "CONDITIONAL_NOT_EMPIRICALLY_VALIDATED",
+    "root_question_relevance": "Préciser le mécanisme productif du passage à l’abondance, sans valider son exclusivité.",
+    "interpretation_notes": "Reconstruction ciblée; conditions et exceptions dans PM-18",
+    "confidence_in_reconstruction": 0.8
+  },
+  {
+    "id": "CPC-0113",
+    "statement": "Utility, négociation et complexité : Prix et quantités peuvent changer via appréciation/complexité, pas seulement coût.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 283,
+      "pages": [
+        283
+      ],
+      "quotation": "If the consumer is fooled by advertising into believing that a particular Product is very useful to him, the supplier may increase the price of the Product or sell more of it. The result of this relationship is that :",
+      "normalization": "whitespace",
+      "context_before": "ty of the Product (good or service) whose purchase they have the mission to incite. It isn't the intention here to discuss the means used to achieve this goal. ",
+      "context_after": ""
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 283,
+    "quotation": "If the consumer is fooled by advertising into believing that a particular Product is very useful to him, the supplier may increase the price of the Product or sell more of it. The result of this relationship is that :",
+    "type": "HYPOTHESIS",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "work",
+      "productivity",
+      "price",
+      "money",
+      "transformation"
+    ],
+    "depends_on": [
+      "CPC-0055",
+      "CPC-0060"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "CONDITIONAL_NOT_EMPIRICALLY_VALIDATED",
+    "root_question_relevance": "Préciser le mécanisme productif du passage à l’abondance, sans valider son exclusivité.",
+    "interpretation_notes": "Reconstruction ciblée; conditions et exceptions dans PM-20",
+    "confidence_in_reconstruction": 0.8
+  },
+  {
+    "id": "CPC-0114",
+    "statement": "La demande D est définie comme un débit de copies vendues, symétriquement à l’offre de copies fabriquées.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 403,
+      "pages": [
+        403
+      ],
+      "quotation": "In the same way as supply, demand D must be considered as speed, as it's necessary to specify the time during which a certain number of copies of the Product are sold.",
+      "normalization": "whitespace",
+      "context_before": "different speeds. Consequently, the number of copies produced QS is the number of times the labour or the task has been done during the time period considered (unit of time). Definition of the demand ",
+      "context_after": " Indeed, it's said, for example, that demand is 888 pairs of Charentaises per day. This number will be indicated by \"D\" as an index. However, as a general rule, there are several suppliers who do not "
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 403,
+    "quotation": "In the same way as supply, demand D must be considered as speed, as it's necessary to specify the time during which a certain number of copies of the Product are sold.",
+    "type": "DEFINITION",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "coefficient",
+      "utility",
+      "money"
+    ],
+    "depends_on": [
+      "CPC-0037"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "conditions": [
+      "Même Product et période; débit réalisé, pas courbe de demande contrefactuelle."
+    ],
+    "chapters": [
+      "CH-08"
+    ],
+    "testability": "CONDITIONAL_NOT_EMPIRICALLY_VALIDATED",
+    "root_question_relevance": "Relier transformations locales, richesse, consommation et environnement sans supposer leur agrégation automatique.",
+    "interpretation_notes": "Reconstruction française; citation anglaise seule verbatim. Voir revue27–29 et cas alternatifs.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0118",
+    "statement": "La fin du manuscrit propose GDP=K·Wconsumed comme couplage absolu, en absorbant dans K l’énergie sans création de Money.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 559,
+      "pages": [
+        559
+      ],
+      "quotation": "which shows the absolute coupling of the GDP of a system to the energy consumed in it.",
+      "normalization": "whitespace",
+      "context_before": "n the creation of Money, i.e, in the enrichment of the system. If we take into account this energy, which only influences the slope of the right-hand side, the relationship becomes : GDP=K⋅W consumed ",
+      "context_after": ""
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 559,
+    "quotation": "which shows the absolute coupling of the GDP of a system to the energy consumed in it.",
+    "type": "HYPOTHESIS",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "energy",
+      "work",
+      "money"
+    ],
+    "depends_on": [
+      "CPC-0117"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "conditions": [
+      "K stable; identification GDP/Money dépensé; équivalence des frontières, périodes, unités et énergies."
+    ],
+    "chapters": [
+      "CH-09"
+    ],
+    "testability": "CONDITIONAL_NOT_EMPIRICALLY_VALIDATED",
+    "root_question_relevance": "Relier transformations locales, richesse, consommation et environnement sans supposer leur agrégation automatique.",
+    "interpretation_notes": "Reconstruction française; citation anglaise seule verbatim. Voir revue27–29 et cas alternatifs.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0120",
+    "statement": "Campergue relie accélération productive, pertes croissant plus vite que la productivité, consommation accrue de combustibles et dommages environnementaux.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 460,
+      "pages": [
+        460
+      ],
+      "quotation": "This remark therefore highlights the increasing consumption of fuels induced by the acceleration of manufacturing processes, and consequently its inevitable increasingly intense impact on the environment.",
+      "normalization": "whitespace",
+      "context_before": ", social, health, etc. clashes, while the second doesn't. Knowing that losses increase faster than productivity, the final output of an economic system increases more slowly than productivity itself. ",
+      "context_after": " Note 2 Historical analysis shows that, in general, the more “advanced” a society is, the more the ratio between the number of productive people (performing economic work) and the number of unproducti"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 460,
+    "quotation": "This remark therefore highlights the increasing consumption of fuels induced by the acceleration of manufacturing processes, and consequently its inevitable increasingly intense impact on the environment.",
+    "type": "MECHANISM",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "energy",
+      "work",
+      "money"
+    ],
+    "depends_on": [
+      "CPC-0018",
+      "CPC-0119"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "conditions": [
+      "Évolution relative des pertes postulée; mix énergétique, matières et dommages spécifiques non quantifiés ici."
+    ],
+    "chapters": [
+      "CH-09"
+    ],
+    "testability": "CONDITIONAL_NOT_EMPIRICALLY_VALIDATED",
+    "root_question_relevance": "Relier transformations locales, richesse, consommation et environnement sans supposer leur agrégation automatique.",
+    "interpretation_notes": "Reconstruction française; citation anglaise seule verbatim. Voir revue27–29 et cas alternatifs.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0126",
+    "statement": "Le champ labour-prix juxtapose des vecteurs de compétitivité d’entreprises; il ne fournit pas à lui seul une somme macroéconomique de Work ou Money.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 558,
+      "pages": [
+        558
+      ],
+      "quotation": "Therefore, considering a group of enterprises, it would be possible to plot a set of vectors, each of which represents the competitiveness of each enterprise.",
+      "normalization": "whitespace",
+      "context_before": "mount of Work he does, the Money he receives can take any value. Consequently, the competitiveness Ω can vary in very large proportions. Now, a company (manufacturer) is assimilated to a Transformer. ",
+      "context_after": " This would be identical to a wind speed field in meteorology. These vectors would be defined : • by their point of application corresponding to the respective values of labour and price. • by their d"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 558,
+    "quotation": "Therefore, considering a group of enterprises, it would be possible to plot a set of vectors, each of which represents the competitiveness of each enterprise.",
+    "type": "METHODOLOGICAL",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "coefficient",
+      "utility",
+      "money"
+    ],
+    "depends_on": [
+      "CPC-0116"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "conditions": [
+      "Même Product pour l et p; normalisation des axes; distinguer ensemble de vecteurs et agrégat."
+    ],
+    "chapters": [
+      "CH-08"
+    ],
+    "testability": "CONDITIONAL_NOT_EMPIRICALLY_VALIDATED",
+    "root_question_relevance": "Relier transformations locales, richesse, consommation et environnement sans supposer leur agrégation automatique.",
+    "interpretation_notes": "Reconstruction française; citation anglaise seule verbatim. Voir revue27–29 et cas alternatifs.",
+    "confidence_in_reconstruction": 0.85
+  }
+]

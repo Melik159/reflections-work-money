@@ -1,0 +1,47 @@
+# ITER001-C01 — Raccord Money / valeur ajoutée / PIB
+
+Rôles : AGENT-CORPUS, AGENT-MONEY, AGENT-MEASUREMENT, exercés par le même sous-agent. Rapport spécialisé, aucune décision scientifique globale. Baseline documentaire 1.0 figée. Aucune nouvelle donnée empirique.
+
+## Question ciblée et différence avec le travail antérieur
+
+Quel tableau de passage permettrait de confronter le Money dépensé de PDF559 à une somme de valeurs ajoutées, sans confondre le gain de pouvoir d'achat de PDF204 avec les recettes, les transferts ou un stock d'épargne ? Le résultat nouveau proposé est un protocole de collecte et de contrôle à quatre portes, pas la redécouverte du raccord incomplet déjà établi dans remediation/money_gdp_bridge.md. CYCLE-001 portait sur la conservation conditionnelle de composantes ; ce cycle porte sur l'admissibilité des transactions au raccord de production.
+
+Lien racine : sans raccord explicite entre gains locaux, achats finals et production, le passage du niveau de vie aux flux physiques et dommages ne peut être quantifié par substitution de PIB à Money.
+
+Related claims : CPC-0010 (définition M=n u), CPC-0016 (mécanisme productif), CPC-0046 (Cash/Money), CPC-0050 (crédit), CPC-0107 (émission accompagnatrice), CPC-0117 (agrégation K), CPC-0118 (PIB-énergie), CPC-0122 (analogie non mécanique). Related RQ exacts : RQ-06.01, RQ-06.03, RQ-09.03 ; RQ-10 en aval. Ce sont des liens de recherche proposés, sans modification du graphe.
+
+## SOURCE CHECK
+
+RAG exécuté séparément SOURCE_CORPUS et DERIVED_ANALYSIS : requêtes et empreintes dans provenance.json, cinq résultats bruts par collection dans rag_source.jsonl et rag_derived.jsonl (document/page/section/chunk/score/source_type conservés). Les hits servent uniquement à localiser. Source effectivement lue : pages extraites intégrales du manuscrit PDF15,19,184,187,204–208,254–258,466–469,559, conservées dans source_pages.txt. Pas de nouvelle validation visuelle d'équation revendiquée ; aucune dérivation dépendante d'un symbole ambigu effectuée.
+
+SOURCE : PDF15 pose M=n u ; PDF19 et204 décrivent un gain au prix réduit, avec réemploi ultérieur p19. PDF184/187 distinguent Cash et sa valeur, crédit inclus. PDF205 restreint l'analyse au Transformer et à sa valeur ajoutée. PDF206 décrit le sens orienté des variations de cette valeur. PDF207–208 emploient Money cinétique et variation nulle à vitesse constante ; PDF254–257 différencient échange et réserve et posent la conservation sans pertes. PDF258 distingue dons et échanges et exclut les dons du domaine de transformations étudié. PDF466 précise la nature non mécanique de l'analogie ; PDF467–469 parlent du total composé et d'un usage ultérieur, dont remboursement de dette ou impôts. PDF559 passe du Money créé au Money dépensé et au PIB puis à l'énergie consommée.
+
+INTERPRETATION : ces référents ne forment pas encore une mesure opérationnelle unique. Le passage créé/dépensé ne fournit pas une règle générale d'alignement des dates ni une table d'inclusion des opérations. Il serait abusif de traiter toutes sorties de portefeuille mentionnées p468 comme valeur ajoutée nouvelle. Il serait également abusif de réfuter PDF205 par une addition brute d'intermédiaires.
+
+## Protocole proposé — DESIGN, analyste
+
+Registre par opération : event_id, product_id et qualité, vendeur et acheteur, résidence/frontière, date de production, livraison et paiement, quantité, prix unitaire, coût des intrants, usage intermédiaire/final, variation de stock de produit, transfert fiscal, principal/intérêt de dette séparés, unité monétaire, période et prix de référence. Registre complémentaire de gain : panier fixe, prix contrefactuel explicité, budget initial, somme conservée et destination ultérieure. Ne pas fusionner ces deux registres avant justification.
+
+1. Double comptage. Économie synthétique fermée de deux producteurs, sans taxes ni importations ni stocks : A vend un intrant 100 à B ; B vend le bien final 150 au ménage. Contrôle attendu du raccord net : 100+(150−100)=150, contre 250 pour les paiements commerciaux bruts. Cet exemple existe déjà dans la remédiation ; il devient ici un critère d'admission du registre. Répéter avec entreprise intégrée : même produit final et même production, ventes externes 150. Échec si le Money candidat varie seulement parce que la même chaîne est divisée entre deux personnes morales. Cela qualifie le raccord choisi, pas tout le corpus.
+2. Frontière. Identifier chaque contrepartie et consolider les opérations internes à chaque périmètre avant comparaison. Marquer explicitement impôts, don et remboursement de principal : ces sorties ne sont pas assimilées automatiquement à production dans ce protocole. Construire un cas avec intrant importé pour lequel les 100 relèvent d'un producteur extérieur ; conserver achat final, importation et valeur ajoutée intérieure dans des colonnes distinctes. Échec si un changement de résidence ou de consolidation n'est pas répercuté dans la frontière énergétique correspondante. Pour un pays réel, conventions statistiques et évaluations de services financiers/publics restent à documenter avec les sources officielles avant exécution.
+3. Horizon. Produire/livrer en période 1, payer en période 2, ou payer une production déjà comptée : tester séparément séries datées de production et de paiement. Suivre aussi les 0,1 conservés de l'exemple PDF204 jusqu'à dépense, épargne ou remboursement. Échec si le raccord compte une production deux fois à cause d'un délai de paiement, ou impose implicitement que tout gain soit dépensé pendant la période où il apparaît. Une temporalité différente est une hypothèse à estimer, pas une réfutation de l'existence du gain.
+4. Déflateur. Enregistrer prix et quantités des mêmes biens et qualité aux deux dates. Scénario analytique d'un bien : quantité finale inchangée, prix passant de 1 à 0,9 ; montant nominal final baisse, quantité physique reste constante, possibilité d'achat à budget inchangé augmente. Le gain budgétaire 0,1 n'est pas à additionner au montant nominal comme production additionnelle. Comparer une mesure aux prix de référence explicitement choisis et une mesure nominale ; ne pas décider que l'une est le u de l'auteur. Échec si le test de K mélange ces séries ou choisit après coup le déflateur qui stabilise K. Un simple changement d'unité monétaire exige conversion cohérente des niveaux et de K, sans lui-même porter d'information économique.
+
+Chaque porte doit rendre PASS/FAIL/UNRESOLVED avec colonnes responsables. PASS n'est que compatibilité du raccord proposé ; il ne valide ni M=n u comme mesure indépendante ni GDP=K W. Aucune porte n'est exécutée comme expérience empirique dans ce rapport.
+
+## Hypothèses concurrentes et données
+
+prediction_campergue : PDF559 propose un raccord agrégé ; aucune valeur numérique distincte n'est déduite pour les quatre opérations sans choix supplémentaires.
+prediction_alternative : le modèle comptable analytique par production nette et panier de référence satisfait les mêmes contrôles sous leurs hypothèses. Il n'a pas besoin de Money cinétique ni de K.
+observable_difference : aucune actuellement ; NON_DISCRIMINATING pour ce protocole de cohérence. Une différence ne pourrait être proposée qu'après prédéfinition indépendante de Money, T, K et de leur horizon.
+required_data : factures reliées aux unités productives, transactions intrants/produits, statut résident et importations, stocks physiques, prix/quantités/qualité, dates de livraison et règlement, flux de réemploi des gains ; pour un test environnemental futur, flux physiques sur même frontière et calendrier.
+identification_strategy : rapprochement transaction-production et consolidation, non identification causale. Éventuel test causal ultérieur requiert variation exogène et modèle concurrent explicite.
+failure_condition : échec de l'une des quatre portes ou impossibilité de classifier une opération = raccord non admissible / OPEN, sans réaffectation opportuniste du référent Money.
+
+## Counterevidence et limites
+
+PDF205 impose déjà la valeur ajoutée et protège contre une lecture brute de PDF559. PDF19 précise une dépense ultérieure, donc ne justifie pas de supposer simultanéité. PDF256–257 précise sans pertes et PDF466 non mécanique : ne pas attaquer une conservation physique universelle à partir de ces passages. PDF258 exclut les dons de l'analyse ; la présence d'un don dans un tableau de comptabilité générale doit être signalée comme extension externe. PDF467–469 permet plusieurs usages de l'épargne ; leur présence ne démontre pas qu'ils entrent tous dans le PIB de PDF559. Les conventions nationales effectives, les prix de base/marché, services non marchands, actifs, amortissements et chaînes de volumes ne sont pas arbitrés ici. Aucun fait externe ni nouveauté historique revendiqué.
+
+## Finding proposé pour revue
+
+Classe CONFIRMS_EXISTING concernant l'incomplétude du raccord ; extension procédurale candidate : quatre contrôles d'admissibilité et registre à deux niveaux, à déposer éventuellement dans candidate_changes/empirical/ après revue. Statuts proposés : NON_DISCRIMINATING ; AMBIGUOUS pour l'identification des référents ; empirie BLOCKED par registre et mesures absents. Confiance élevée sur l'attribution de l'incomplétude déjà reconnue ; conditionnelle sur le protocole, sans mesure validée. Aucun NEW_EMPIRICAL_RESULT, aucune prédiction indépendante, aucun changement de claim. Adversarial et evidence review restent à effectuer par d'autres rôles.

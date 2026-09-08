@@ -1,0 +1,13 @@
+# ITER001-C08 — Seuil de réemploi et empreinte marginale
+
+/root CORPUS/ENVIRONMENT/MEASUREMENT. État après C07; RAG source/dérivé archivé, PDF400/454/459/460/523 lus intégralement. RQ-10.02/11.02/11.03; CPC-0084/0120/0127. SOURCE : possibilités consommation/qualité p400, lien aux pertes et combustibles et formulation forte de dommage p460, thésaurisation p523. Aucun coefficient marginal d'empreinte n'est fourni par ces pages. Les nombres de rendement p459 ne sont pas substitués à une intensité de dépense.
+
+NEW_SCENARIO analyste, conditionnel à une économie physique S>0 pour un service maintenu — ce n'est pas un fait du corpus : pour UNE grandeur physique et une frontière/horizon communs, poser ΔF=−S+Σm_j x_j+Z. x_j est une variation de dépense par destination, m_j une intensité marginale physique par monnaie commune, Z les autres variations physiques (investissement initial, production induite extérieure au registre, effets différés). Pas addition de kWh, masse et dommages. Le découpage doit éviter de compter une même dépense ou énergie dans S et dans réemploi.
+
+Sous les hypothèses supplémentaires Z=0, G>0, x_j=sG a_j, s∈[0,1], a_j≥0 et Σa_j=1, et m=Σa_j m_j>0 fixé sur le domaine, seuil d'annulation s*=S/(Gm). ΔF reste négatif en dessous, zéro au seuil, positif au-dessus. Les parts bornées sont un scénario restreint, pas une conséquence du bilan C07 où les variations pouvaient être signées. Si m=0 et S>0, aucun réemploi ne compense dans ce sous-modèle; si s*>1, le renversement est impossible dans ce domaine, même en dépensant tout G.
+
+Exemple synthétique demandé au code : S=4 unités physiques, G=10 unités monétaires, m=1, seuil0,4; s0,2/0,4/0,6 donne−2/0/+2. Aucun de ces nombres n'est une donnée ou prédiction attribuée à Campergue. Condition falsifiable du sous-modèle : intensités et autres effets estimés indépendamment ne permettent pas les ΔF observés dans leurs incertitudes et le domaine déclaré.
+
+Protocole : collecter S à service/qualité fixés, allocation C07, intensités marginales locales par destination et origine des produits, production amont, capital et horizon. Une intensité moyenne nationale ne devient pas marginale par étiquetage. Pour variation finie importante, recalculer la relation non linéaire ou intégrer des intensités variables; aucune constance arbitraire. Le test des pressions n'est pas le test des dommages.
+
+NON_DISCRIMINATING : un budget et une technologie physique compatibles donnent le même seuil sans Work/Money. Aucun NEW_EMPIRICAL_RESULT et aucune nouveauté historique revendiquée; l'ancien parallèle au rebond reste acquis. Lien racine : préciser quand un gain pourrait réduire, annuler ou augmenter un flux physique plutôt que présumer son signe.

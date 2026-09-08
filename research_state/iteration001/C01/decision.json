@@ -1,0 +1,39 @@
+{
+  "id": "ITER001-C01",
+  "task": "ITER001-P0-01",
+  "decision": "QUALIFY",
+  "finding_class": "CONFIRMS_EXISTING",
+  "finding": "Quatre portes de raccord Money–VA–PIB précisées; diagnostic ancien prolongé par registre transaction/production et gain séparés, sans nouvelle mesure.",
+  "claims": [
+    "CPC-0010",
+    "CPC-0016",
+    "CPC-0046",
+    "CPC-0118"
+  ],
+  "questions": [
+    "RQ-06.01",
+    "RQ-06.03",
+    "RQ-09.03"
+  ],
+  "sources": [
+    "agents/reports/ITER001-C01/specialist.md",
+    "agents/reports/ITER001-C01/adversarial.md",
+    "agents/reports/ITER001-C01/evidence.md",
+    "agents/reports/ITER001-C01/source_pages.txt",
+    "agents/reports/ITER001-C01/provenance.json"
+  ],
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C01/specialist.md",
+    "adversarial": "agents/reports/ITER001-C01/adversarial.md",
+    "evidence": "agents/reports/ITER001-C01/evidence.md"
+  },
+  "candidate_path": "candidate_changes/empirical/ITER001-C01.json",
+  "negative_results": [
+    "AMBIGUOUS",
+    "NOT_IDENTIFIABLE",
+    "NON_DISCRIMINATING"
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "tests": "Aucun nouveau test exécuté; protocole seulement.",
+  "experiment": "ITER001-EXP-01"
+}

@@ -1,0 +1,74 @@
+{
+  "task": "ITER001-P0-02",
+  "cycle": "ITER001-C02",
+  "stage": "SPECIALIST_SOURCE_CHECK",
+  "reading_attestation": true,
+  "analysis_performed": true,
+  "decision_performed": false,
+  "pages_hint_extracted": [
+    32,
+    189,
+    201,
+    202,
+    203
+  ],
+  "document": "Reflections_PierreCampergue.pdf",
+  "source_type": "SOURCE_CORPUS",
+  "input_sha256": {
+    "Reflections_PierreCampergue.pdf": "7981eca40bca1c5ce54d96b3c840eda34d0e7d01fdc89fe9748c3c047c6f3827",
+    "corpus/extracted/Reflections_PierreCampergue.pages.jsonl": "cc774cf5d62505450b50ba891fbd85d0d57a39750676e6b16459ea1056674239",
+    "rag/index/iterative.json": "91e2acaa1dfd9c0b8da43e067e14470854b908e48005310bac077ddaa2ff271a",
+    "research_state/iteration001/initial_tasks.json": "20c43c7ed94e2031ea42c2316ac2588b4c6a6ad113c381f4c1beffe501ef79f0"
+  },
+  "page_text_sha256": {
+    "32": "09afca8b720dd2cf08cdcdb7c31950dba7a01365d69f2c86cbb79e5e63e69f48",
+    "189": "3ea345345d3716306c6cf26de597a04ee51157b9b63cdcb91cb508b79aca9eac",
+    "201": "5b6bdd1c378609fbdac6141bb1053f3ef1819ec6ab7f0cb6a31a7530746af6cd",
+    "202": "2557cfe34b38034d8884e5629fbb4c6c9d54cfc8a67edb86c33c69cefb1bef49",
+    "203": "2f4f3aa24025549ba11ebc0af302a0d2ad8adb4a86773281f4fe5b94b7c136b2",
+    "187": "e1ed65b063800fb30e05abf888399b7e1343e0ed17055e39f18caaf006771157",
+    "199": "8867effeef45e0fbc8937ca9af4a33f0606b47f9c6bd3f8f2adc5940196fbf70",
+    "200": "f87e74c20f90e6d6c1e2530d8c2ea04d99ac938da30d40ffdeb02382f7fc79b1",
+    "207": "c1cf359d9c6021812fed88b04b957b257321bf4b78d3289f284fe7adcb503236",
+    "208": "85e92cedb5a4c4416c5e7010fcc4200c9fb75957a996680e6948997b3e7074a7"
+  },
+  "source_pages_sha256": "bdfd37b1a77d0a2aa594bea1bc593303f9834da0c42fac4e2dca85ae87a74f46",
+  "retrieval": [
+    {
+      "collection": "SOURCE_CORPUS",
+      "query": "T et cp : mesure indépendante Quelles données minimales rendraient un exposant quadratique réfutable sans réestimer cp sur le test ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_source.jsonl",
+      "hits": 3
+    },
+    {
+      "collection": "DERIVED_ANALYSIS",
+      "query": "T et cp : mesure indépendante Quelles données minimales rendraient un exposant quadratique réfutable sans réestimer cp sur le test ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_derived.jsonl",
+      "hits": 3
+    }
+  ],
+  "note": "Pages extraites intégrales effectivement lues au cycle C02. Pas de nouveau contrôle visuel ni calcul dépendant des anomalies typographiques PDF200/202.",
+  "pages_actually_read": [
+    32,
+    189,
+    201,
+    202,
+    203,
+    187,
+    199,
+    200,
+    207,
+    208
+  ],
+  "additional_context_pages": [
+    187,
+    199,
+    200,
+    207,
+    208
+  ]
+}

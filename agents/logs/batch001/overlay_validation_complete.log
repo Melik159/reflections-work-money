@@ -1,0 +1,16 @@
+{
+  "category": "STRUCTURAL",
+  "scientific_evidence_established": false,
+  "complete_required": true,
+  "status": "FAIL",
+  "counts": {
+    "cycles": 10,
+    "tasks": 10,
+    "experiments": 10,
+    "manifest_entries": 961
+  },
+  "errors": [
+    "final report: missing file research_state/iteration_report_001.md"
+  ],
+  "limitations": "Checks presence, links, schemas, source provenance and hashes; contiguous cycle numbering and review dependency presence do not establish real-time review chronology, source meaning, review quality, independent measurement or scientific conclusions."
+}

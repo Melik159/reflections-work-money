@@ -1,0 +1,98 @@
+{
+  "id": "ITER001-C03",
+  "target": [
+    "research_questions/RQ-05.03/conclusion.md",
+    "research_questions/RQ-04.04/conclusion.md"
+  ],
+  "current_state": {
+    "baseline": "CAMPERGUE-DOCUMENTARY-BASELINE-1.0",
+    "questions": [
+      {
+        "id": "RQ-05.03",
+        "status": "AMBIGUOUS",
+        "target_path": "research_questions/RQ-05.03/conclusion.md",
+        "target_sha256": "fd41b00eea6bea16ec278be29f1852deaa3f0ada683df1afc2ee09d13000c2a0"
+      },
+      {
+        "id": "RQ-04.04",
+        "status": "PARTIALLY_RESOLVED",
+        "target_path": "research_questions/RQ-04.04/conclusion.md",
+        "target_sha256": "13c8aed4f1148046d94e46b2b1e4d7af5e591e98a8bda968a547aa555f4020f5"
+      }
+    ],
+    "claims": [
+      {
+        "id": "CPC-0055",
+        "statement": "L’utilité peut être objective, subjective, exacte ou erronée et concerne les échanges.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 189
+      },
+      {
+        "id": "CPC-0057",
+        "statement": "L’utilité varie selon l’agent et le moment ; l’exemple de l’air distingue abondance et manque.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 190
+      },
+      {
+        "id": "CPC-0062",
+        "statement": "Le signe des variations d’utilité dépend de la position de l’observateur dans la chaîne.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 193
+      },
+      {
+        "id": "CPC-0104",
+        "statement": "Cycles couplés et rendements : ηglobal défini comme produit; optimum annoncé à angles égaux.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 388
+      }
+    ],
+    "note": "État canonique inchangé; qualifications détaillées lues dans synthèse/remédiation/clôture."
+  },
+  "proposed_state": "Ajouter au protocole Utility un test r_AB r_BC r_CA=1 sous même mesurande/état non nul, conversions positives sans décalage et raccords mesurés séparément; contrôles ancres hors calibration et incertitude jointe. Échec vise ce raccord, pas le corpus. Aucun étalon commun n’est présumé.",
+  "evidence": [
+    "agents/reports/ITER001-C03/specialist.md",
+    "agents/reports/ITER001-C03/adversarial.md",
+    "agents/reports/ITER001-C03/evidence.md",
+    "agents/reports/ITER001-C03/source_pages.txt",
+    "agents/reports/ITER001-C03/provenance.json",
+    "Reflections_PierreCampergue.pdf",
+    "agents/reports/ITER001-C03/formal_results.json",
+    "agents/reports/batch001_final_adversarial.md"
+  ],
+  "counterevidence": "PDF190 admet Utility différente selon personne et temps. Fermeture peut être imposée par construction ou due à biais compensés. Rendement PDF386 est réversible et pas forcément interpersonnel.",
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C03/specialist.md",
+    "adversarial": "agents/reports/ITER001-C03/adversarial.md",
+    "evidence": "agents/reports/ITER001-C03/evidence.md"
+  },
+  "confidence": "HIGH pour identité conditionnelle; aucune preuve de mesurande commun Utility",
+  "reason": "Scénario formel additionnel; obstacle métrologique déjà connu. Réserves intégrées; aucun désaccord tranché.",
+  "impact": "Filtre candidat pour RQ-05.03/04.04, pas modification de rendements canoniques",
+  "decision": "QUALIFY",
+  "finding_class": "NEW_SCENARIO",
+  "claims": [
+    "CPC-0055",
+    "CPC-0057",
+    "CPC-0062",
+    "CPC-0104"
+  ],
+  "questions": [
+    "RQ-05.03",
+    "RQ-04.04"
+  ],
+  "source_pages": [
+    189,
+    190,
+    193,
+    385,
+    386
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "negative_results": [
+    "NOT_IDENTIFIABLE",
+    "NON_DISCRIMINATING"
+  ],
+  "source_pages_policy": "Repères d’extraction; lecture effective et rôle du passage attestés séparément dans specialist.md et evidence.md, jamais par la seule préparation.",
+  "supporting_claims_policy": "Les claims sont liens de recherche; toutes les pages complémentaires ne sont pas leurs citations canoniques. Les rapports identifient les sources directes, notamment p112 pour C09 et p385–386 pour C03.",
+  "supplementary_review": "agents/reports/batch001_final_adversarial.md"
+}

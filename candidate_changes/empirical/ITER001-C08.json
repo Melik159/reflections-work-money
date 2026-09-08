@@ -1,0 +1,100 @@
+{
+  "id": "ITER001-C08",
+  "target": [
+    "research_questions/RQ-10.02/conclusion.md",
+    "research_questions/RQ-11.02/conclusion.md",
+    "research_questions/RQ-11.03/conclusion.md"
+  ],
+  "current_state": {
+    "baseline": "CAMPERGUE-DOCUMENTARY-BASELINE-1.0",
+    "questions": [
+      {
+        "id": "RQ-10.02",
+        "status": "PARTIALLY_RESOLVED",
+        "target_path": "research_questions/RQ-10.02/conclusion.md",
+        "target_sha256": "03aebee5fadc019aeaeb78c3839e44f55616cbfd017c81bad345c3a005ac434c"
+      },
+      {
+        "id": "RQ-11.02",
+        "status": "PARTIALLY_RESOLVED",
+        "target_path": "research_questions/RQ-11.02/conclusion.md",
+        "target_sha256": "7f64ead34f79afcc0de09410462eae71ea1d135d8baa836977a9d5f7f1cbc838"
+      },
+      {
+        "id": "RQ-11.03",
+        "status": "OPEN",
+        "target_path": "research_questions/RQ-11.03/conclusion.md",
+        "target_sha256": "23e42dc250dfdd9ca4b777953811c1868aedecbae756be2e0f930e26fd853a09"
+      }
+    ],
+    "claims": [
+      {
+        "id": "CPC-0084",
+        "statement": "Money créé non entièrement dépensé : Pas d’égalité obligatoire création/dépense, sous les conditions du scénario SC-MONEY-22.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 523
+      },
+      {
+        "id": "CPC-0120",
+        "statement": "Campergue relie accélération productive, pertes croissant plus vite que la productivité, consommation accrue de combustibles et dommages environnementaux.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 460
+      },
+      {
+        "id": "CPC-0127",
+        "statement": "Le supplément de Money issu du scénario de baisse de prix permet davantage de Products ou des Products de meilleure qualité.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 400
+      }
+    ],
+    "note": "État canonique inchangé; qualifications détaillées lues dans synthèse/remédiation/clôture."
+  },
+  "proposed_state": "Ajouter modèle analyste ΔF=-S+Σm_jx_j+Z par grandeur physique, puis seuil uniquement si Z=0,S>0,G>0,m>0 et parts bornées explicitement. Inclure m=0,seuil>1, sensibilité Z et inconnues. Aucune prédiction sur dommages ni résultat empirique de rebond.",
+  "evidence": [
+    "agents/reports/ITER001-C08/specialist.md",
+    "agents/reports/ITER001-C08/adversarial.md",
+    "agents/reports/ITER001-C08/evidence.md",
+    "agents/reports/ITER001-C08/source_pages.txt",
+    "agents/reports/ITER001-C08/provenance.json",
+    "Reflections_PierreCampergue.pdf",
+    "agents/reports/ITER001-C08/results.json",
+    "agents/reports/batch001_final_adversarial.md"
+  ],
+  "counterevidence": "S positif non garanti par scénario de pertes p460; Z peut dominer; intensités moyennes non marginales; énergie/matières/dommages non additionnables.",
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C08/specialist.md",
+    "adversarial": "agents/reports/ITER001-C08/adversarial.md",
+    "evidence": "agents/reports/ITER001-C08/evidence.md"
+  },
+  "confidence": "HIGH conditionnel; paramètres économiques non estimés",
+  "reason": "Trois signes autour du seuil et deux limites calculés exactement; paramètres purement synthétiques, pas preuves de la loi de pertes du corpus.",
+  "impact": "Précise expérience destination→empreinte sans effacer consommation possible et épargne source",
+  "decision": "QUALIFY",
+  "finding_class": "NEW_SCENARIO",
+  "claims": [
+    "CPC-0084",
+    "CPC-0120",
+    "CPC-0127"
+  ],
+  "questions": [
+    "RQ-10.02",
+    "RQ-11.02",
+    "RQ-11.03"
+  ],
+  "source_pages": [
+    400,
+    454,
+    459,
+    460,
+    523
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "negative_results": [
+    "NON_DISCRIMINATING",
+    "NOT_IDENTIFIABLE"
+  ],
+  "source_pages_policy": "Repères d’extraction; lecture effective et rôle du passage attestés séparément dans specialist.md et evidence.md, jamais par la seule préparation.",
+  "supporting_claims_policy": "Les claims sont liens de recherche; toutes les pages complémentaires ne sont pas leurs citations canoniques. Les rapports identifient les sources directes, notamment p112 pour C09 et p385–386 pour C03.",
+  "supplementary_review": "agents/reports/batch001_final_adversarial.md",
+  "execution_limit": "Calcul exécuté uniquement Z=0. Sensibilité et bornage de Z proposés, NON EXÉCUTÉS."
+}

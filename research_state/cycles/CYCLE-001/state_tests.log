@@ -1,0 +1,13 @@
+test_baseline_guard (research_state.test_state.IterationTests.test_baseline_guard) ... ok
+test_closed_balance (research_state.test_state.IterationTests.test_closed_balance) ... ok
+test_closed_cycle_requires_evidence (research_state.test_state.IterationTests.test_closed_cycle_requires_evidence) ... ok
+test_collection_separation_and_mutation (research_state.test_state.IterationTests.test_collection_separation_and_mutation) ... ok
+test_source_text_not_claim_reformulation (research_state.test_state.IterationTests.test_source_text_not_claim_reformulation) ... ok
+test_task_links (research_state.test_state.IterationTests.test_task_links) ... ok
+test_task_unit_covariance (research_state.test_state.IterationTests.test_task_unit_covariance) ... ok
+test_utility_common_calibration (research_state.test_state.IterationTests.test_utility_common_calibration) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.480s
+
+OK

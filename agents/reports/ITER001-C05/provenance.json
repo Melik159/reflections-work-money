@@ -1,0 +1,50 @@
+{
+  "task": "ITER001-P0-05",
+  "cycle": "ITER001-C05",
+  "stage": "DOCUMENTARY_PREPARATION_ONLY",
+  "reading_attestation": false,
+  "analysis_performed": false,
+  "decision_performed": false,
+  "pages_hint_extracted": [
+    203,
+    454,
+    455,
+    456,
+    466
+  ],
+  "document": "Reflections_PierreCampergue.pdf",
+  "source_type": "SOURCE_CORPUS",
+  "input_sha256": {
+    "Reflections_PierreCampergue.pdf": "7981eca40bca1c5ce54d96b3c840eda34d0e7d01fdc89fe9748c3c047c6f3827",
+    "corpus/extracted/Reflections_PierreCampergue.pages.jsonl": "cc774cf5d62505450b50ba891fbd85d0d57a39750676e6b16459ea1056674239",
+    "rag/index/iterative.json": "91e2acaa1dfd9c0b8da43e067e14470854b908e48005310bac077ddaa2ff271a",
+    "research_state/iteration001/initial_tasks.json": "20c43c7ed94e2031ea42c2316ac2588b4c6a6ad113c381f4c1beffe501ef79f0"
+  },
+  "page_text_sha256": {
+    "203": "2f4f3aa24025549ba11ebc0af302a0d2ad8adb4a86773281f4fe5b94b7c136b2",
+    "454": "9f51e2269408ecf086e664f154485c6963102b7d850f30274201dcf665c81916",
+    "455": "5e68854be5f8cc6f26b2e4e4d3cd0ed5e86347dd80365bf377866827c8c15440",
+    "456": "f0b80d0825084f0feb1b72a72c5d560fd2d87ae5a485094bf7a82a4d16c9f213",
+    "466": "95346a750c2289e50928e0b91eeac053852ddc72e1d4023806c46faa70bbc05a"
+  },
+  "source_pages_sha256": "93249ee08caad1e4936f21f1900e41efa24971605d7a40e6f680403f8132c508",
+  "retrieval": [
+    {
+      "collection": "SOURCE_CORPUS",
+      "query": "Energy → useful work → Economic Work Quelles mesures et interventions séparent conversion physique et effet productif économique ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_source.jsonl",
+      "hits": 3
+    },
+    {
+      "collection": "DERIVED_ANALYSIS",
+      "query": "Energy → useful work → Economic Work Quelles mesures et interventions séparent conversion physique et effet productif économique ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_derived.jsonl",
+      "hits": 3
+    }
+  ],
+  "note": "Extraction intégrale préparée pour lecture ultérieure. Ne constitue ni attestation de lecture ni preuve finale RAG."
+}

@@ -1,0 +1,48 @@
+{
+  "task": "ITER001-P0-09",
+  "cycle": "ITER001-C09",
+  "stage": "DOCUMENTARY_PREPARATION_ONLY",
+  "reading_attestation": false,
+  "analysis_performed": false,
+  "decision_performed": false,
+  "pages_hint_extracted": [
+    68,
+    69,
+    112,
+    460
+  ],
+  "document": "Reflections_PierreCampergue.pdf",
+  "source_type": "SOURCE_CORPUS",
+  "input_sha256": {
+    "Reflections_PierreCampergue.pdf": "7981eca40bca1c5ce54d96b3c840eda34d0e7d01fdc89fe9748c3c047c6f3827",
+    "corpus/extracted/Reflections_PierreCampergue.pages.jsonl": "cc774cf5d62505450b50ba891fbd85d0d57a39750676e6b16459ea1056674239",
+    "rag/index/iterative.json": "91e2acaa1dfd9c0b8da43e067e14470854b908e48005310bac077ddaa2ff271a",
+    "research_state/iteration001/initial_tasks.json": "20c43c7ed94e2031ea42c2316ac2588b4c6a6ad113c381f4c1beffe501ef79f0"
+  },
+  "page_text_sha256": {
+    "68": "4ebfd18a1c50b0d4d75f039163cf2b0b3a5bfa238ad6bcd51e8cd96021a82f1e",
+    "69": "a449e99c73bd8b1e23567da446292dca7ba09c46f589fd5c4c9c2e2e31148760",
+    "112": "37d40e822b7dd16f17107c2f6fc88a7a2db8b3f5a06d76deadb17e4ec02a8997",
+    "460": "b359ad596991851e4a44f5005595f4f165bf6b959bb9b6a900245ba8381a1765"
+  },
+  "source_pages_sha256": "f5b2aa8977bc3e81631e39a5be552945dd1407c7cbdb3910263b0847f7d8a12b",
+  "retrieval": [
+    {
+      "collection": "SOURCE_CORPUS",
+      "query": "Dommages environnementaux Quelles observations distinguent pression physique et dommage selon lieu et horizon ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_source.jsonl",
+      "hits": 3
+    },
+    {
+      "collection": "DERIVED_ANALYSIS",
+      "query": "Dommages environnementaux Quelles observations distinguent pression physique et dommage selon lieu et horizon ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_derived.jsonl",
+      "hits": 3
+    }
+  ],
+  "note": "Extraction intégrale préparée pour lecture ultérieure. Ne constitue ni attestation de lecture ni preuve finale RAG."
+}

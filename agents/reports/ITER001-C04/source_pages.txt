@@ -1,0 +1,150 @@
+PDF PAGE 36
+36
+the use of the characteristics, variables and functions of
+physics.
+In particular, entropy doesn’t have to be used in this context. Indeed, in economics,
+there is neither heat nor temperature, which automatically prohibits the use of
+entropy.
+Therefore, by posing :
+M = Money
+T = Economic work to be performed (no longer mechanical work W - with always T <
+W)
+g = transformation coefficient
+it's always possible to write :
+M=g.T
+which can be considered as the “Equivalence Principle” and which can be compared
+to that of thermodynamics, i.e. :
+W =J .Q
+However, it's logical to think that the transformation coefficient g should be a
+constant, which isn't necessarily the case in Economics, but this is beyond the scope
+of this summary and abbreviated presentation.
+Furthermore, we know that a consumer always exerts a Force F (pressure) on the
+supplier to cause a decrease in the price dp. So the Money can be defined as follows:
+dM=−F.dp
+This relationship is to be compared to that of thermodynamics, i.e. :
+dW =−P.dV
+In considering the Work to be done (and not the Work done), it comes under
+the sense that it decreases as it's executed, while the Money realized increases
+accordingly (provided that g is constant), in the same way as in physics, the
+quantity of heat decreases while the mechanical work increases accordingly
+during the transformation. Therefore (in an isolated system), it's allowed to pose
+that :
+
+
+PDF PAGE 526
+526
+which give after integration (by measuring the characteristics with the same
+unit):
+P =
+r P
+ln p
+‹25-03›
+and :
+A =
+r A
+ln l
+‹25-04›
+Therefore in the T→M transformation, a variation in Laziness should normally
+generate a price variation and in the M→T transformation, a variation in Avarice
+should generate a labour variation, with the transformation coefficients remaining
+constant. This is in line with the coherent evolutions (1, 2a and 2b, 3a and 3b, 4a
+and 4b) because :
+•
+the Money created Mc is always proportional to the Work spent Td,
+•
+the Work created Tc is always proportional to the Money spent Md .
+However, it is possible to envisage other processes that correspond to the
+incoherent developments (2a1 and 2a2, 2b1 and 2b2). In these hypotheses, the
+transformation coefficients are therefore no longer constant and vary according to
+the laziness and avarice of the agents. However, it is of course understood that
+these transformations must normally be prohibited. It is therefore the coherent
+procedure which has been used throughout the trial since it is the only one which
+is rational.
+Egoism
+Let us assume any economic agent (individual, family, company,
+administration, ...) that we know, by principle, to be stingy when he acquires and
+lazy when he acts. He therefore has a certain Avarice A and Laziness P which
+have been defined in the study.
+So it is possible to pose a certain function G in the following way:
+G = A + P
+‹25-05›
+So :
+
+
+PDF PAGE 558
+558
+evolution is not represented by a circle. It has already been pointed out that this
+evolution is divided into four stages, namely :
+1.
+manufacture by the Seller or use by the Buyer,
+2.
+Seller-Transformer tractation,
+3.
+manufacture by the Transformer,
+4.
+Transformer-Acquirer tractation.
+The economic agents (Seller, Buyer, Transformer) can be more or less lazy
+during the manufacturing or use phases and more or less stingy during the
+negotiation episodes.So considering any manufacturer:
+•
+for a certain amount of Money he receives, the Work he
+performs can take any value,
+•
+for a certain amount of Work he does, the Money he
+receives can take any value.
+Consequently, the  competitiveness Ω can vary in very large proportions.
+Now, a company (manufacturer) is assimilated to a Transformer. Therefore,
+considering a group of enterprises, it would be possible to plot a set of vectors,
+each of which represents the competitiveness of each enterprise. This would be
+identical to a wind speed field in meteorology. These vectors would be defined :
+•
+by their point of application corresponding to the
+respective values of labour and price.
+•
+by their direction corresponding to the tangent of the
+angle formed by labour and price (relation 26-07),
+•
+by their norm corresponding to the competitiveness (relation 26-08).
+GDP – Energy Coupling
+Despite the microeconomic nature of the essay, this paragraph is an intrusion
+into the macroeconomic domain. All econometric studies unambiguously indicate
+a strong correlation (of the form: y = a.x) between the amount of energy
+consumed by any economic system and its Gross Domestic Product (GDP), but
+this relationship does not prove their causality.
+We know the following relationships (04-15 and 04-16):
+
+
+PDF PAGE 559
+559
+T=1
+2⋅cP⋅ω
+2
+and :
+M=−1
+2⋅c A⋅ϖ
+2
+We also know that the higher the speed of production ω
+ of a product, the
+slower the speed of price formation ϖ. It is therefore possible to write :
+M=−K⋅1
+2 ⋅cP⋅ω
+2
+As the two speeds are not necessarily equal, it is necessary to introduce a
+proportionality coefficient which is also a function of the units used for their
+respective measurement. This relationship is only valid for one product, the
+coefficient K being variablefor each. However, it is possible to design an average
+speed ωm . Then, the more Products are taken into account, the more the coefficient K
+can be considered constant, and therefore only a function of the units used. At the
+macroeconomic level, it is therefore possible to pose : 
+M CREATED=K⋅T SPENT
+We know that GDP is the sum of all the Money spent in a system for each
+Money→Work transformation, but also that all this Money had to be previously
+created in each Work→Money transformation. Consequently, it is possible to write: 
+GDP=K⋅T SPENT
+However, we also know that in any system, there is energy consumed that does not
+participate in the creation of Money, i.e, in the enrichment of the system. If we take
+into account this energy, which only influences the slope of the right-hand side, the
+relationship becomes : 
+GDP=K⋅W consumed
+which shows the absolute coupling of the GDP of a system to the energy consumed
+in it.

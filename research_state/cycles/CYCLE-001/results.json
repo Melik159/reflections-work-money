@@ -1,0 +1,40 @@
+{
+  "cycle": "CYCLE-001",
+  "kind": "LOCAL_FORMAL_DIAGNOSTIC",
+  "status": [
+    "FORMALLY_QUALIFIED",
+    "NON_DISCRIMINATING"
+  ],
+  "data_origin": "SYNTHETIC",
+  "empirical_observation": false,
+  "result": [
+    {
+      "injection": 0,
+      "loss": 0,
+      "total_change": 0,
+      "conserved": true
+    },
+    {
+      "injection": 3,
+      "loss": 0,
+      "total_change": 3,
+      "conserved": false
+    },
+    {
+      "injection": 0,
+      "loss": 2,
+      "total_change": -2,
+      "conserved": false
+    },
+    {
+      "injection": 2,
+      "loss": 2,
+      "total_change": 0,
+      "conserved": true
+    }
+  ],
+  "claims_changed": [],
+  "questions_changed": [],
+  "finding": "La conservation du total est conditionnée par un système sans pertes (256–257); 468–469 relient M à une différence puis à un transfert entre composantes. Conserver les référents séparés. Un bilan de composantes peut tester une hypothèse de clôture sans mesurer Money.",
+  "confidence": "HIGH for conditional calculation; LOW for empirical identification"
+}
