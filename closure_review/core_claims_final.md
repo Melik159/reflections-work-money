@@ -1,0 +1,579 @@
+# 24 CORE — état final de clôture
+
+9 CONFIRMED,14 QUALIFIED,1 UNDETERMINED,0 DISPUTED. La clôture confirme le reclassement documentaire proposé, non une observation nouvelle. CPC-0016 est conservé mais sa chaîne complète non identifiée.
+
+## CPC-0001
+
+id: CPC-0001
+
+claim: Comprendre le passage de la subsistance à l’abondance et les dommages environnementaux associés à la hausse du niveau de vie.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 2, 'pages': [2, 3], 'quotation': 'The key question is therefore to understand how the increase in living standards has led to these environmental damages, or how we have moved from a subsistence society to an affluent society.', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['NOT_IDENTIFIED']
+
+closure_status: CONFIRMED
+
+qualification: La question de p3 demeure racine; p29 restreint le préambule, pas tout le manuscrit. Les liens environnementaux existent p72/454/460.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: []
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0003
+
+id: CPC-0003
+
+claim: L’étude compare la transformation du travail en monnaie à celle de la chaleur en travail, en les distinguant.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 2, 'pages': [2], 'quotation': 'similar, but not identical, to the energy transformations of heat into work.', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['ASSUMPTION_DEPENDENT', 'NOT_IDENTIFIED']
+
+closure_status: QUALIFIED
+
+qualification: Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: []
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0005
+
+id: CPC-0005
+
+claim: Le manuscrit affirme que modifier seulement le nombre d’unités, sans Work productif, ne crée pas de richesse globale; il distingue cependant émission accompagnant une création, inertie et évolutions incohérentes.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 12, 'pages': [12], 'quotation': 'any variation in the number of monetary units can only derive from a human will and induces absolutely no overall change in the wealth of the system.', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['ASSUMPTION_DEPENDENT', 'NOT_IDENTIFIED']
+
+closure_status: QUALIFIED
+
+qualification: L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: []
+
+dependencies: ['CPC-0009', 'CPC-0011']
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0009
+
+id: CPC-0009
+
+claim: Seul le travail engendre un changement.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 14, 'pages': [14], 'quotation': 'only work generates change, all other criteria are inoperative.', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['ASSUMPTION_DEPENDENT', 'NOT_IDENTIFIED']
+
+closure_status: QUALIFIED
+
+qualification: Principe de création par transformation Utility, non exclusion de toute activité humaine/sociale. Technologie productive et rente coexistent; Core Laws admises comme hypothèses.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: []
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0010
+
+id: CPC-0010
+
+claim: Money est défini comme le nombre d’unités multiplié par la valeur de l’unité.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 15, 'pages': [15], 'quotation': 'M=n.u', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['DEFINITIONAL']
+
+closure_status: CONFIRMED
+
+qualification: Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: ['ER-003']
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0012
+
+id: CPC-0012
+
+claim: À Money global constant (hypothèse 1, possibilité 2), la variation de n est compensée inversement par u; l’attribution du crédit à cette branche et son extension finale sont des thèses distinctes.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 17, 'pages': [17], 'quotation': 'any variation in the number of monetary units automatically and inexorably generates the same inverse variation in the value of the unit, implying the impossibility of creating money.', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['FORMALLY_DERIVED', 'ASSUMPTION_DEPENDENT', 'NOT_IDENTIFIED']
+
+closure_status: QUALIFIED
+
+qualification: L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: []
+
+dependencies: ['CPC-0011', 'CPC-0005']
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0015
+
+id: CPC-0015
+
+claim: Money créé désigne le supplément détenu par le consommateur après une baisse de prix.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 19, 'pages': [19], 'quotation': 'The Money is what a consumer holds in addition after a price drop.', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['DEFINITIONAL', 'NON_DISCRIMINATING', 'NOT_IDENTIFIED']
+
+closure_status: QUALIFIED
+
+qualification: Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: ['ER-003']
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0016
+
+id: CPC-0016
+
+claim: Le mécanisme productif proposé relie Work supplémentaire, productivité et baisse de prix à Money accru : u augmente à n constant (3a), ou n est ensuite ajusté pour stabiliser u (4a).
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 19, 'pages': [19], 'quotation': 'Additional work of the supplier ⇒ increased productivity ⇒ price decline ⇒ increase of monetary unit ⇒ creation of money ⇒ additional money of the consumer.', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['ASSUMPTION_DEPENDENT', 'NON_DISCRIMINATING', 'NOT_IDENTIFIED']
+
+closure_status: QUALIFIED
+
+qualification: Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.
+
+remediation: NOT_IDENTIFIED pour Work→u→Money complet; les sous-relations descriptives ne le confirment pas.
+
+related_findings: ['ER-009']
+
+dependencies: ['CPC-0015', 'CPC-0017']
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0017
+
+id: CPC-0017
+
+claim: Une hausse de productivité exige nécessairement un travail supplémentaire assimilé ici à une énergie.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 19, 'pages': [19], 'quotation': 'this increase in productivity necessarily requires the execution of additional Work', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['ASSUMPTION_DEPENDENT', 'NOT_IDENTIFIED']
+
+closure_status: UNDETERMINED
+
+qualification: Nécessité énergétique et récit historique sont affirmations du corpus, non résultats indépendamment mesurés; énergie utile, pertes et énergie sans création distinguent les branches. Macro extrapolations non démontrées.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: []
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0022
+
+id: CPC-0022
+
+claim: L’auteur postule la transformation du travail supplémentaire du fournisseur en Money supplémentaire du consommateur.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 22, 'pages': [22], 'quotation': 'SUPPLEMENTARY WORK performed by the supplier is TRANSFORMED into SUPPLEMENTARY MONEY held by the consumer.', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['ASSUMPTION_DEPENDENT', 'NOT_IDENTIFIED']
+
+closure_status: CONFIRMED
+
+qualification: Principe de création par transformation Utility, non exclusion de toute activité humaine/sociale. Technologie productive et rente coexistent; Core Laws admises comme hypothèses.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: []
+
+dependencies: ['CPC-0016']
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0023
+
+id: CPC-0023
+
+claim: Dans un système isolé, la baisse du travail restant à faire compense la hausse de Money créé.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 22, 'pages': [22], 'quotation': 'the decrease (destruction) of the Work to be done is compensated by the increase (creation) of the Money generated and vice versa', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['ASSUMPTION_DEPENDENT', 'AMBIGUOUS', 'NOT_IDENTIFIED']
+
+closure_status: QUALIFIED
+
+qualification: Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: []
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0032
+
+id: CPC-0032
+
+claim: L’économie de travail augmente vers un maximum sous contraintes externes.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 31, 'pages': [31], 'quotation': 'the Economy of Work naturally always increases towards a maximum, limited by external constraints', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['ASSUMPTION_DEPENDENT', 'NON_DISCRIMINATING']
+
+closure_status: QUALIFIED
+
+qualification: Maximisation sous contraintes; antagonisme par copie, non par heure. Conditions et échelles des diagrammes indispensables; équilibre social supplémentaire.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: []
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0033
+
+id: CPC-0033
+
+claim: L’économie de Money augmente vers un maximum sous contraintes externes.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 31, 'pages': [31], 'quotation': 'the Economy of Money naturally always increases towards a maximum, limited by external constraints.', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['ASSUMPTION_DEPENDENT', 'NON_DISCRIMINATING']
+
+closure_status: QUALIFIED
+
+qualification: Maximisation sous contraintes; antagonisme par copie, non par heure. Conditions et échelles des diagrammes indispensables; équilibre social supplémentaire.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: []
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0035
+
+id: CPC-0035
+
+claim: L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 32, 'pages': [32], 'quotation': 'The second hypothesis therefore requires more Work than the first (about 78% more).', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['FORMALLY_DERIVED', 'ASSUMPTION_DEPENDENT', 'NOT_IDENTIFIED']
+
+closure_status: QUALIFIED
+
+qualification: +78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.
+
+remediation: NOT_GENERALIZED_EMPIRICALLY; p32 revendique une généralité sous homogénéité, non établie par 7/9.
+
+related_findings: ['ER-010']
+
+dependencies: ['CPC-0017']
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0039
+
+id: CPC-0039
+
+claim: Economic Work et Money sont posés comme deux formes d’énergie économique.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 35, 'pages': [35], 'quotation': 'Economic Work and Money are logically considered two different forms of Economic Energy', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['DEFINITIONAL', 'ASSUMPTION_DEPENDENT', 'NOT_IDENTIFIED']
+
+closure_status: CONFIRMED
+
+qualification: Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: []
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0040
+
+id: CPC-0040
+
+claim: Le modèle doit compter le travail à effectuer et non le travail déjà effectué.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 35, 'pages': [35], 'quotation': 'only the Work to be done must be taken into account and not the Work performed.', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['DEFINITIONAL', 'AMBIGUOUS']
+
+closure_status: QUALIFIED
+
+qualification: Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: []
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0041
+
+id: CPC-0041
+
+claim: Product supporte Work et Cash supporte Money.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 35, 'pages': [35], 'quotation': 'the Product as the vector-support of the economic Work,', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['DEFINITIONAL']
+
+closure_status: CONFIRMED
+
+qualification: Supports distingués de caractéristiques; conservation comptable d'un support ne prouve pas transformation productive.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: ['ER-011']
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0043
+
+id: CPC-0043
+
+claim: Le principe d’équivalence est écrit M=g.T.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 36, 'pages': [36], 'quotation': 'M=g.T', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['ASSUMPTION_DEPENDENT', 'NOT_IDENTIFIED']
+
+closure_status: QUALIFIED
+
+qualification: Équivalence avec coefficient, g variable admis puis égalité recherchée/posée. K agrégé n'est pas garanti constant par nombre de produits; pas confusion g/r/K.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: ['ER-003']
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0045
+
+id: CPC-0045
+
+claim: Le différentiel de Money est défini par dM=-F.dp.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 36, 'pages': [36], 'quotation': 'dM=−F.dp', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['DEFINITIONAL', 'ASSUMPTION_DEPENDENT', 'AMBIGUOUS', 'NOT_IDENTIFIED']
+
+closure_status: QUALIFIED
+
+qualification: dM=-Fdp sous Force et orientation définies; FA extérieur signé peut apparaître avec plus. Les normalisations locales/globales restent différentes.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: ['ER-003']
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0046
+
+id: CPC-0046
+
+claim: Money est la valeur de Cash, lequel en est le support.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 184, 'pages': [184], 'quotation': 'Money as the value of Cash,', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['DEFINITIONAL', 'NON_DISCRIMINATING']
+
+closure_status: CONFIRMED
+
+qualification: Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: []
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0048
+
+id: CPC-0048
+
+claim: Wealth désigne exclusivement la quantité de Money, sans inclure les actifs patrimoniaux.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 185, 'pages': [185], 'quotation': 'It never takes into account the assets that an economic agent', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['DEFINITIONAL']
+
+closure_status: CONFIRMED
+
+qualification: Wealth monétaire exclut patrimoine sans nier richesse sociale; épargne comme potentiel et PIB final exigent horizon. Ne pas conclure que tout service exclu est inutile.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: ['ER-011']
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0051
+
+id: CPC-0051
+
+claim: Labour désigne la tâche, constante pour un produit et une méthode de fabrication donnés.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 187, 'pages': [187, 188], 'quotation': 'labour (l) must be understood as the thing to be done, the task, the job to be done. It is constant for a given Product and manufacturing method.', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['DEFINITIONAL']
+
+closure_status: CONFIRMED
+
+qualification: Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: []
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0052
+
+id: CPC-0052
+
+claim: Pour une tâche constante, Work dépend de sa vitesse d’exécution.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 188, 'pages': [188], 'quotation': 'for a constant labour, the Work varies according to its speed of execution.', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['FORMALLY_DERIVED', 'ASSUMPTION_DEPENDENT', 'NOT_IDENTIFIED']
+
+closure_status: QUALIFIED
+
+qualification: Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: []
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.
+
+## CPC-0053
+
+id: CPC-0053
+
+claim: Money mesure la valeur de Cash ; cette valeur varie dans le temps et selon le lieu.
+
+source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 188, 'pages': [188], 'quotation': 'the Money (M) is defined as the measure of the value of Cash', 'normalization': 'whitespace; standalone leading page numbers removed'}
+
+scientific_status: ['DEFINITIONAL', 'NOT_IDENTIFIED']
+
+closure_status: CONFIRMED
+
+qualification: Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.
+
+remediation: Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.
+
+related_findings: []
+
+dependencies: []
+
+root_impact: Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.
+
+reason: Current scope matches sourced attribution and explicit limits; confirmation is not an empirical truth certificate.

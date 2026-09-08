@@ -1,0 +1,43 @@
+[
+  {
+    "id": "unproductive",
+    "field": "definition_by_campergue",
+    "old_value": "Le travail productif est défini par sa capacité à réduire le coût de revient.",
+    "new_value": "Le passage appelle « unproductive work » le travail qui ne permet pas de réduction du prix; ne pas effacer l’alternance coût/prix dans cette phrase.",
+    "reason": "Erreur de copie pour unproductive (source p20 relue); statut d’examen vieilli pour cycles/entropie, pas nouvelle définition attribuée.",
+    "source_pages": [
+      20
+    ],
+    "source_review": "NEW_PAGE_REVIEW"
+  },
+  {
+    "id": "cycle",
+    "field": "ambiguities",
+    "old_value": [
+      "Quatre étapes analogiques ; calculs ultérieurs non examinés."
+    ],
+    "new_value": [
+      "Quatre étapes analogiques; cycles examinés dans les passes productive et formelle. Le suivi intégral des usages et signes reste inachevé."
+    ],
+    "reason": "Erreur de copie pour unproductive (source p20 relue); statut d’examen vieilli pour cycles/entropie, pas nouvelle définition attribuée.",
+    "source_pages": [
+      34
+    ],
+    "source_review": "EXISTING_RESEARCH_RECONCILIATION"
+  },
+  {
+    "id": "entropy",
+    "field": "ambiguities",
+    "old_value": [
+      "Exclue dans le résumé p36 ; section Entropy annoncée p463 à examiner."
+    ],
+    "new_value": [
+      "Exclue du formalisme économique p36; section physique informative p463–464 examinée dans la passe terminale. Ne pas confondre ces périmètres."
+    ],
+    "reason": "Erreur de copie pour unproductive (source p20 relue); statut d’examen vieilli pour cycles/entropie, pas nouvelle définition attribuée.",
+    "source_pages": [
+      36
+    ],
+    "source_review": "EXISTING_RESEARCH_RECONCILIATION"
+  }
+]

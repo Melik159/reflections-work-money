@@ -1,0 +1,354 @@
+{
+  "energy": [
+    {
+      "country": "CHN",
+      "model": "level",
+      "max_absolute_difference": 2.2737367544323206e-12,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "CHN",
+      "model": "loglog",
+      "max_absolute_difference": 3.086420008457935e-14,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "CHN",
+      "model": "dlog",
+      "max_absolute_difference": 1.6653345369377348e-16,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "CHN",
+      "model": "per_capita_loglog",
+      "max_absolute_difference": 2.864375403532904e-14,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "CHN",
+      "model": "loglog_break_2007",
+      "max_absolute_difference": 5.204725539442734e-13,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "DEU",
+      "model": "level",
+      "max_absolute_difference": 1.0936673788819462e-10,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "DEU",
+      "model": "loglog",
+      "max_absolute_difference": 1.2003731342247193e-12,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "DEU",
+      "model": "dlog",
+      "max_absolute_difference": 1.1102230246251565e-16,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "DEU",
+      "model": "per_capita_loglog",
+      "max_absolute_difference": 1.460342957670946e-11,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "DEU",
+      "model": "loglog_break_2007",
+      "max_absolute_difference": 2.681801447579346e-09,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "FRA",
+      "model": "level",
+      "max_absolute_difference": 6.161826604511589e-11,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "FRA",
+      "model": "loglog",
+      "max_absolute_difference": 1.9609203150139365e-11,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "FRA",
+      "model": "dlog",
+      "max_absolute_difference": 5.551115123125783e-17,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "FRA",
+      "model": "per_capita_loglog",
+      "max_absolute_difference": 1.1042278202921807e-12,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "FRA",
+      "model": "loglog_break_2007",
+      "max_absolute_difference": 2.8471447421907214e-11,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "IND",
+      "model": "level",
+      "max_absolute_difference": 7.389644451905042e-13,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "IND",
+      "model": "loglog",
+      "max_absolute_difference": 7.016609515630989e-14,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "IND",
+      "model": "dlog",
+      "max_absolute_difference": 2.220446049250313e-16,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "IND",
+      "model": "per_capita_loglog",
+      "max_absolute_difference": 1.554312234475219e-14,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "IND",
+      "model": "loglog_break_2007",
+      "max_absolute_difference": 1.0192957589083562e-12,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "USA",
+      "model": "level",
+      "max_absolute_difference": 9.149516699835658e-10,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "USA",
+      "model": "loglog",
+      "max_absolute_difference": 1.730446896885951e-10,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "USA",
+      "model": "dlog",
+      "max_absolute_difference": 1.1102230246251565e-16,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "USA",
+      "model": "per_capita_loglog",
+      "max_absolute_difference": 4.312772361458883e-11,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "USA",
+      "model": "loglog_break_2007",
+      "max_absolute_difference": 1.3709566815123253e-10,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "WLD",
+      "model": "level",
+      "max_absolute_difference": 4.729372449219227e-11,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "WLD",
+      "model": "loglog",
+      "max_absolute_difference": 6.869504964868156e-13,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "WLD",
+      "model": "dlog",
+      "max_absolute_difference": 1.1102230246251565e-16,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "WLD",
+      "model": "per_capita_loglog",
+      "max_absolute_difference": 2.0955237545194905e-11,
+      "result": "RESULT_REPRODUCED"
+    },
+    {
+      "country": "WLD",
+      "model": "loglog_break_2007",
+      "max_absolute_difference": 5.735190100608634e-12,
+      "result": "RESULT_REPRODUCED"
+    }
+  ],
+  "micro": {
+    "result": "RESULT_REPRODUCED",
+    "actual": {
+      "coefficients": [
+        0.0312912208937873,
+        0.014281692705171444
+      ],
+      "se": [
+        0.007990577555702283,
+        0.010939311997622776
+      ],
+      "R2": 0.03189711194056233,
+      "N": 20
+    },
+    "N": 20
+  },
+  "formal": [
+    {
+      "id": "ERC-01",
+      "premise": "Produit fini : n=100,u=1,Δn=10,Δu=0.1",
+      "values": {
+        "exact": 21.000000000000014,
+        "linear": 20.0,
+        "cross": 1.0
+      },
+      "conclusion": "ΔnΔu doit être conservé pour variation finie; pas une faute du différentiel exact du corpus.",
+      "source_pages": [
+        15,
+        16
+      ],
+      "kind": "FORMAL_COUNTEREXAMPLE_OR_IDENTITY_NOT_EMPIRICAL"
+    },
+    {
+      "id": "ERC-02",
+      "premise": "cp:2→3, ω=2 fixe",
+      "values": {
+        "delta_state": 2.0,
+        "omega_only_integral": 0
+      },
+      "conclusion": "La relation différentielle proposée et la primitive à cp variable ne coïncident pas sans terme supplémentaire.",
+      "source_pages": [
+        207
+      ],
+      "kind": "FORMAL_COUNTEREXAMPLE_OR_IDENTITY_NOT_EMPIRICAL"
+    },
+    {
+      "id": "ERC-03",
+      "premise": "Utility positive4,2; recodage carré strictement croissant",
+      "values": {
+        "ratio_yield": 0.5,
+        "recoded": 0.75
+      },
+      "conclusion": "Ordinal seul insuffisant aux ratios; une échelle compatible est une hypothèse nécessaire.",
+      "source_pages": [
+        109,
+        386
+      ],
+      "kind": "FORMAL_COUNTEREXAMPLE_OR_IDENTITY_NOT_EMPIRICAL"
+    },
+    {
+      "id": "ERC-04",
+      "premise": "dA=ε,dB=2ε; chacun→0",
+      "values": {
+        "ratio": 2,
+        "claimed_ratio": 1
+      },
+      "conclusion": "Les limites nulles ne fixent pas le ratio à1; égalité peut être posée séparément, non dérivée ainsi.",
+      "source_pages": [
+        249,
+        250,
+        252
+      ],
+      "kind": "FORMAL_COUNTEREXAMPLE_OR_IDENTITY_NOT_EMPIRICAL"
+    },
+    {
+      "id": "ERC-05",
+      "premise": "F=2 constant, Δt=3",
+      "values": {
+        "impulse": 6,
+        "claimed_change": 0
+      },
+      "conclusion": "F constant non nul implique variation6 dans la relation imprimée; F net nul est une autre hypothèse.",
+      "source_pages": [
+        467,
+        470
+      ],
+      "kind": "FORMAL_COUNTEREXAMPLE_OR_IDENTITY_NOT_EMPIRICAL"
+    },
+    {
+      "id": "ERC-06",
+      "premise": "F·p=r·U avec r=2,U=3,p=4",
+      "values": {
+        "correct_F": 1.5,
+        "printed_F": 6.0
+      },
+      "conclusion": "L’expression imprimée page303 inverse r et p. Correction algébrique locale possible, pas validation de Core Law.",
+      "source_pages": [
+        301,
+        303
+      ],
+      "kind": "FORMAL_COUNTEREXAMPLE_OR_IDENTITY_NOT_EMPIRICAL"
+    },
+    {
+      "id": "ERC-07",
+      "premise": "cp=2, deux vitesses1 et3; comparaison2 et2",
+      "values": {
+        "mean_speed": 2,
+        "mean_square_first": 5,
+        "square_mean": 4,
+        "mean_square_second": 4
+      },
+      "conclusion": "À vitesse moyenne identique, variance différente : le passage à une vitesse moyenne perd un terme. Le test K pondéré ne suffit pas à auditer ce passage.",
+      "source_pages": [
+        559
+      ],
+      "kind": "FORMAL_COUNTEREXAMPLE_OR_IDENTITY_NOT_EMPIRICAL"
+    },
+    {
+      "id": "ERC-08",
+      "premise": "M=n·u n=u=1, ca=2,ϖ=1,C=0, même référent hypothétique",
+      "values": {
+        "balance_M": 1,
+        "kinetic_M": -1
+      },
+      "conclusion": "Incompatible sous un référent unique positif. Les conventions de flux/énergie relative peuvent lever le conflit seulement par un dictionnaire explicite.",
+      "source_pages": [
+        15,
+        207,
+        455,
+        467
+      ],
+      "kind": "FORMAL_COUNTEREXAMPLE_OR_IDENTITY_NOT_EMPIRICAL"
+    },
+    {
+      "id": "ERC-09",
+      "premise": "Seule borne η≥1−U2/U1, ratio=0.5",
+      "values": {
+        "eta": 1.5,
+        "lower_bound": 0.5
+      },
+      "conclusion": "Cette borne seule n’implique pas η≤1; vérifier conservation/signes ou ajouter restriction, ne pas rejeter le cycle entier.",
+      "source_pages": [
+        385,
+        386
+      ],
+      "kind": "FORMAL_COUNTEREXAMPLE_OR_IDENTITY_NOT_EMPIRICAL"
+    },
+    {
+      "id": "ERC-10",
+      "premise": "Deux stades production: intermédiaire100, final150, pas autres intrants",
+      "values": {
+        "gross_transactions": 250,
+        "value_added": 150
+      },
+      "conclusion": "Transactions brutes≠PIB. La lecture par valeurs ajoutées peut éviter le double compte, mais exige correspondance Money/V explicite.",
+      "source_pages": [
+        205,
+        420,
+        529,
+        559
+      ],
+      "kind": "FORMAL_COUNTEREXAMPLE_OR_IDENTITY_NOT_EMPIRICAL"
+    }
+  ],
+  "validator_challenges": {
+    "incorrect_semantic_statement_accepted": true,
+    "irrelevant_existing_source_accepted": true,
+    "files_modified": false
+  },
+  "no_scientific_global_verdict": true
+}

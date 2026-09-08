@@ -1,0 +1,17 @@
+{
+  "etl_commit": "3bad71c46a5810338b081bb95ebb0fe78501a9a0",
+  "acquisition_date": "2026-09-08",
+  "files": [
+    {
+      "file": "analysis/empirical/independent_energy/source/primary_energy_processing.py",
+      "url": "https://raw.githubusercontent.com/owid/etl/3bad71c46a5810338b081bb95ebb0fe78501a9a0/etl/steps/data/garden/energy/2025-06-27/primary_energy_consumption.py",
+      "sha256": "fd0f8ed590f4d26c16a869f23ce8851c090840f61f52638666a8d0095f58f404"
+    },
+    {
+      "file": "analysis/empirical/independent_energy/source/wb_energy_ratio_metadata.html",
+      "url": "https://databank.worldbank.org/metadataglossary/world-development-indicators/series/EG.GDP.PUSE.KO.PP.KD",
+      "sha256": "c0bb66bcad9d2b3b3c440ea41baa2c750bb58751dcc856f1f4673a5bf77d84e9"
+    }
+  ],
+  "note": "ETL reference implementation inspected, not a claim to have rerun all upstream ETL; WB live metadata snapshot, not proof of identical historical vintages."
+}

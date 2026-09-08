@@ -1,0 +1,5625 @@
+[
+  {
+    "page": 1,
+    "examined": true,
+    "reading_note": "p001_011.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TITLE_OR_CONTENTS"
+  },
+  {
+    "page": 2,
+    "examined": true,
+    "reading_note": "p001_011.md",
+    "claims": [
+      "CPC-0001",
+      "CPC-0003"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p001_p025.md"
+  },
+  {
+    "page": 3,
+    "examined": true,
+    "reading_note": "p001_011.md",
+    "claims": [
+      "CPC-0001",
+      "CPC-0002"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p001_p025.md"
+  },
+  {
+    "page": 4,
+    "examined": true,
+    "reading_note": "p001_011.md",
+    "claims": [
+      "CPC-0004"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p001_p025.md"
+  },
+  {
+    "page": 5,
+    "examined": true,
+    "reading_note": "p001_011.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TITLE_OR_CONTENTS"
+  },
+  {
+    "page": 6,
+    "examined": true,
+    "reading_note": "p001_011.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TITLE_OR_CONTENTS"
+  },
+  {
+    "page": 7,
+    "examined": true,
+    "reading_note": "p001_011.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TITLE_OR_CONTENTS"
+  },
+  {
+    "page": 8,
+    "examined": true,
+    "reading_note": "p001_011.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TITLE_OR_CONTENTS"
+  },
+  {
+    "page": 9,
+    "examined": true,
+    "reading_note": "p001_011.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TITLE_OR_CONTENTS"
+  },
+  {
+    "page": 10,
+    "examined": true,
+    "reading_note": "p001_011.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TITLE_OR_CONTENTS"
+  },
+  {
+    "page": 11,
+    "examined": true,
+    "reading_note": "p001_011.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TITLE_OR_CONTENTS"
+  },
+  {
+    "page": 12,
+    "examined": true,
+    "reading_note": "p012_025.md",
+    "claims": [
+      "CPC-0005",
+      "CPC-0006"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p001_p025.md"
+  },
+  {
+    "page": 13,
+    "examined": true,
+    "reading_note": "p012_025.md",
+    "claims": [
+      "CPC-0007",
+      "CPC-0008"
+    ],
+    "concepts": [
+      "production",
+      "creation",
+      "distribution",
+      "use"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED"
+  },
+  {
+    "page": 14,
+    "examined": true,
+    "reading_note": "p012_025.md",
+    "claims": [
+      "CPC-0009"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "SOURCE_LINKED"
+  },
+  {
+    "page": 15,
+    "examined": true,
+    "reading_note": "p012_025.md",
+    "claims": [
+      "CPC-0010",
+      "CPC-0011"
+    ],
+    "concepts": [
+      "unit"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p001_p025.md"
+  },
+  {
+    "page": 16,
+    "examined": true,
+    "reading_note": "p012_025.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "ARGUMENT_CONTINUATION_OR_REPETITION",
+    "global_pass_note": "../global_corpus_pass/blocks/p001_p025.md"
+  },
+  {
+    "page": 17,
+    "examined": true,
+    "reading_note": "p012_025.md",
+    "claims": [
+      "CPC-0012"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p001_p025.md"
+  },
+  {
+    "page": 18,
+    "examined": true,
+    "reading_note": "p012_025.md",
+    "claims": [
+      "CPC-0013",
+      "CPC-0014",
+      "CPC-0070",
+      "CPC-0086"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p001_p025.md"
+  },
+  {
+    "page": 19,
+    "examined": true,
+    "reading_note": "p012_025.md",
+    "claims": [
+      "CPC-0015",
+      "CPC-0016",
+      "CPC-0017"
+    ],
+    "concepts": [
+      "productivity",
+      "purchasing"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p001_p025.md"
+  },
+  {
+    "page": 20,
+    "examined": true,
+    "reading_note": "p012_025.md",
+    "claims": [
+      "CPC-0018",
+      "CPC-0019",
+      "CPC-0020",
+      "CPC-0097"
+    ],
+    "concepts": [
+      "cost",
+      "growth",
+      "productive",
+      "unproductive"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p001_p025.md"
+  },
+  {
+    "page": 21,
+    "examined": true,
+    "reading_note": "p012_025.md",
+    "claims": [
+      "CPC-0021"
+    ],
+    "concepts": [
+      "price"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p001_p025.md"
+  },
+  {
+    "page": 22,
+    "examined": true,
+    "reading_note": "p012_025.md",
+    "claims": [
+      "CPC-0022",
+      "CPC-0023",
+      "CPC-0024"
+    ],
+    "concepts": [
+      "transformation",
+      "accounting"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p001_p025.md"
+  },
+  {
+    "page": 23,
+    "examined": true,
+    "reading_note": "p012_025.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "ARGUMENT_CONTINUATION_OR_REPETITION",
+    "global_pass_note": "../global_corpus_pass/blocks/p001_p025.md"
+  },
+  {
+    "page": 24,
+    "examined": true,
+    "reading_note": "p012_025.md",
+    "claims": [
+      "CPC-0025"
+    ],
+    "concepts": [
+      "inflation"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p001_p025.md"
+  },
+  {
+    "page": 25,
+    "examined": true,
+    "reading_note": "p012_025.md",
+    "claims": [
+      "CPC-0026",
+      "CPC-0074",
+      "CPC-0075"
+    ],
+    "concepts": [
+      "deflation"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p001_p025.md"
+  },
+  {
+    "page": 26,
+    "examined": true,
+    "reading_note": "p026_037.md",
+    "claims": [
+      "CPC-0027",
+      "CPC-0083"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p026_p050.md"
+  },
+  {
+    "page": 27,
+    "examined": true,
+    "reading_note": "p026_037.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "ARGUMENT_CONTINUATION_OR_REPETITION"
+  },
+  {
+    "page": 28,
+    "examined": true,
+    "reading_note": "p026_037.md",
+    "claims": [
+      "CPC-0028"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "SOURCE_LINKED"
+  },
+  {
+    "page": 29,
+    "examined": true,
+    "reading_note": "p026_037.md",
+    "claims": [
+      "CPC-0029",
+      "CPC-0030",
+      "CPC-0031"
+    ],
+    "concepts": [
+      "living",
+      "environment"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p026_p050.md"
+  },
+  {
+    "page": 30,
+    "examined": true,
+    "reading_note": "p026_037.md",
+    "claims": [
+      "CPC-0088"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "ARGUMENT_CONTINUATION_OR_REPETITION",
+    "global_pass_note": "../global_corpus_pass/blocks/p026_p050.md"
+  },
+  {
+    "page": 31,
+    "examined": true,
+    "reading_note": "p026_037.md",
+    "claims": [
+      "CPC-0032",
+      "CPC-0033",
+      "CPC-0034"
+    ],
+    "concepts": [
+      "constraints",
+      "barter"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p026_p050.md"
+  },
+  {
+    "page": 32,
+    "examined": true,
+    "reading_note": "p026_037.md",
+    "claims": [
+      "CPC-0035",
+      "CPC-0096"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p026_p050.md"
+  },
+  {
+    "page": 33,
+    "examined": true,
+    "reading_note": "p026_037.md",
+    "claims": [
+      "CPC-0036",
+      "CPC-0099"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "SOURCE_LINKED"
+  },
+  {
+    "page": 34,
+    "examined": true,
+    "reading_note": "p026_037.md",
+    "claims": [
+      "CPC-0037",
+      "CPC-0038"
+    ],
+    "concepts": [
+      "supply",
+      "cycle"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED"
+  },
+  {
+    "page": 35,
+    "examined": true,
+    "reading_note": "p026_037.md",
+    "claims": [
+      "CPC-0039",
+      "CPC-0040",
+      "CPC-0041"
+    ],
+    "concepts": [
+      "energy",
+      "remaining"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p026_p050.md"
+  },
+  {
+    "page": 36,
+    "examined": true,
+    "reading_note": "p026_037.md",
+    "claims": [
+      "CPC-0042",
+      "CPC-0043",
+      "CPC-0044",
+      "CPC-0045"
+    ],
+    "concepts": [
+      "entropy",
+      "coefficient",
+      "force"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p026_p050.md"
+  },
+  {
+    "page": 37,
+    "examined": true,
+    "reading_note": "p026_037.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "ARGUMENT_CONTINUATION_OR_REPETITION"
+  },
+  {
+    "page": 38,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 39,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 40,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 41,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 42,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p026_p050.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p026_p050.md"
+  },
+  {
+    "page": 43,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "../global_corpus_pass/blocks/p026_p050.md"
+  },
+  {
+    "page": 44,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 45,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 46,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p026_p050.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p026_p050.md"
+  },
+  {
+    "page": 47,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p026_p050.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p026_p050.md"
+  },
+  {
+    "page": 48,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p026_p050.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p026_p050.md"
+  },
+  {
+    "page": 49,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p026_p050.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p026_p050.md"
+  },
+  {
+    "page": 50,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p026_p050.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p026_p050.md"
+  },
+  {
+    "page": 51,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p051_p075.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p051_p075.md"
+  },
+  {
+    "page": 52,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p051_p075.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p051_p075.md"
+  },
+  {
+    "page": 53,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 54,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 55,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p051_p075.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p051_p075.md"
+  },
+  {
+    "page": 56,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 57,
+    "examined": true,
+    "reading_note": "money_targeted_addendum.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p051_p075.md"
+  },
+  {
+    "page": 58,
+    "examined": true,
+    "reading_note": "money_targeted_addendum.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p051_p075.md"
+  },
+  {
+    "page": 59,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p051_p075.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p051_p075.md"
+  },
+  {
+    "page": 60,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 61,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p051_p075.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p051_p075.md"
+  },
+  {
+    "page": 62,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p051_p075.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p051_p075.md"
+  },
+  {
+    "page": 63,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 64,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p051_p075.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p051_p075.md"
+  },
+  {
+    "page": 65,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 66,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 67,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 68,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "../global_corpus_pass/blocks/p051_p075.md"
+  },
+  {
+    "page": 69,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "../global_corpus_pass/blocks/p051_p075.md"
+  },
+  {
+    "page": 70,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p051_p075.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p051_p075.md"
+  },
+  {
+    "page": 71,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p051_p075.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p051_p075.md"
+  },
+  {
+    "page": 72,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p051_p075.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p051_p075.md"
+  },
+  {
+    "page": 73,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p051_p075.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p051_p075.md"
+  },
+  {
+    "page": 74,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p051_p075.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p051_p075.md"
+  },
+  {
+    "page": 75,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p051_p075.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p051_p075.md"
+  },
+  {
+    "page": 76,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 77,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 78,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p076_p100.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p076_p100.md"
+  },
+  {
+    "page": 79,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 80,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 81,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p076_p100.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p076_p100.md"
+  },
+  {
+    "page": 82,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p076_p100.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p076_p100.md"
+  },
+  {
+    "page": 83,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 84,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p076_p100.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p076_p100.md"
+  },
+  {
+    "page": 85,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p076_p100.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p076_p100.md"
+  },
+  {
+    "page": 86,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 87,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p076_p100.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p076_p100.md"
+  },
+  {
+    "page": 88,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p076_p100.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p076_p100.md"
+  },
+  {
+    "page": 89,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p076_p100.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p076_p100.md"
+  },
+  {
+    "page": 90,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 91,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p076_p100.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p076_p100.md"
+  },
+  {
+    "page": 92,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p076_p100.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p076_p100.md"
+  },
+  {
+    "page": 93,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p076_p100.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p076_p100.md"
+  },
+  {
+    "page": 94,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p076_p100.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p076_p100.md"
+  },
+  {
+    "page": 95,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p076_p100.md"
+  },
+  {
+    "page": 96,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 97,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p076_p100.md"
+  },
+  {
+    "page": 98,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p076_p100.md"
+  },
+  {
+    "page": 99,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 100,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p076_p100.md"
+  },
+  {
+    "page": 101,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [
+      "CPC-0082"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 102,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 103,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 104,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p101_p125.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 105,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p101_p125.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 106,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p101_p125.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 107,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p101_p125.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 108,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 109,
+    "examined": true,
+    "reading_note": "third_pass_metrology.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_METROLOGY_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 110,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p101_p125.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 111,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p101_p125.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 112,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 113,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 114,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p101_p125.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 115,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 116,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p101_p125.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 117,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p101_p125.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 118,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p101_p125.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 119,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 120,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 121,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p101_p125.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 122,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p101_p125.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 123,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p101_p125.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 124,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p101_p125.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 125,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p101_p125.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p101_p125.md"
+  },
+  {
+    "page": 126,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p126_p150.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 127,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p126_p150.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 128,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p126_p150.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 129,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p126_p150.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 130,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p126_p150.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 131,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p126_p150.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 132,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p126_p150.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 133,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p126_p150.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 134,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 135,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p126_p150.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 136,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 137,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p126_p150.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 138,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 139,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p126_p150.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 140,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 141,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 142,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p126_p150.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 143,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p126_p150.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 144,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p126_p150.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 145,
+    "examined": true,
+    "reading_note": "money_targeted_addendum.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 146,
+    "examined": true,
+    "reading_note": "money_targeted_addendum.md",
+    "claims": [
+      "CPC-0090"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 147,
+    "examined": true,
+    "reading_note": "money_targeted_addendum.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 148,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p126_p150.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 149,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p126_p150.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 150,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p126_p150.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p126_p150.md"
+  },
+  {
+    "page": 151,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p151_p175.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 152,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p151_p175.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 153,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 154,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 155,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 156,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p151_p175.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 157,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 158,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p151_p175.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 159,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p151_p175.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 160,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p151_p175.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 161,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p151_p175.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 162,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p151_p175.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 163,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 164,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p151_p175.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 165,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 166,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p151_p175.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 167,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p151_p175.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 168,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 169,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 170,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 171,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 172,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [
+      "CPC-0069"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 173,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 174,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [
+      "CPC-0080"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 175,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [
+      "CPC-0081"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p151_p175.md"
+  },
+  {
+    "page": 176,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 177,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [
+      "CPC-0072"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 178,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [
+      "CPC-0071",
+      "CPC-0073"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 179,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 180,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 181,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 182,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 183,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [
+      "CPC-0085"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 184,
+    "examined": true,
+    "reading_note": "p184_194.md",
+    "claims": [
+      "CPC-0046"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 185,
+    "examined": true,
+    "reading_note": "p184_194.md",
+    "claims": [
+      "CPC-0047",
+      "CPC-0048"
+    ],
+    "concepts": [
+      "wealth"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 186,
+    "examined": true,
+    "reading_note": "p184_194.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "ARGUMENT_CONTINUATION_OR_REPETITION"
+  },
+  {
+    "page": 187,
+    "examined": true,
+    "reading_note": "p184_194.md",
+    "claims": [
+      "CPC-0049",
+      "CPC-0050",
+      "CPC-0051"
+    ],
+    "concepts": [
+      "labour",
+      "cash",
+      "product"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 188,
+    "examined": true,
+    "reading_note": "p184_194.md",
+    "claims": [
+      "CPC-0051",
+      "CPC-0052",
+      "CPC-0053"
+    ],
+    "concepts": [
+      "work",
+      "labour",
+      "money"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 189,
+    "examined": true,
+    "reading_note": "p184_194.md",
+    "claims": [
+      "CPC-0054",
+      "CPC-0055",
+      "CPC-0056"
+    ],
+    "concepts": [
+      "utility",
+      "complexity"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 190,
+    "examined": true,
+    "reading_note": "p184_194.md",
+    "claims": [
+      "CPC-0057"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 191,
+    "examined": true,
+    "reading_note": "p184_194.md",
+    "claims": [
+      "CPC-0058"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 192,
+    "examined": true,
+    "reading_note": "p184_194.md",
+    "claims": [
+      "CPC-0059",
+      "CPC-0060"
+    ],
+    "concepts": [
+      "agent"
+    ],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 193,
+    "examined": true,
+    "reading_note": "p184_194.md",
+    "claims": [
+      "CPC-0061",
+      "CPC-0062"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 194,
+    "examined": true,
+    "reading_note": "p184_194.md",
+    "claims": [
+      "CPC-0063"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "SOURCE_LINKED",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 195,
+    "examined": true,
+    "reading_note": "iteration1_directed.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "DIRECTED_READING"
+  },
+  {
+    "page": 196,
+    "examined": true,
+    "reading_note": "iteration1_directed.md",
+    "claims": [
+      "CPC-0094"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "DIRECTED_READING"
+  },
+  {
+    "page": 197,
+    "examined": true,
+    "reading_note": "iteration1_directed.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "DIRECTED_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 198,
+    "examined": true,
+    "reading_note": "iteration1_directed.md",
+    "claims": [
+      "CPC-0068",
+      "CPC-0112"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "DIRECTED_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 199,
+    "examined": true,
+    "reading_note": "iteration1_directed.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "DIRECTED_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 200,
+    "examined": true,
+    "reading_note": "iteration1_directed.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "DIRECTED_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p176_p200.md"
+  },
+  {
+    "page": 201,
+    "examined": true,
+    "reading_note": "iteration1_directed.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "DIRECTED_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 202,
+    "examined": true,
+    "reading_note": "iteration1_directed.md",
+    "claims": [
+      "CPC-0066"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "DIRECTED_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 203,
+    "examined": true,
+    "reading_note": "iteration1_directed.md",
+    "claims": [
+      "CPC-0064",
+      "CPC-0095"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "DIRECTED_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 204,
+    "examined": true,
+    "reading_note": "iteration1_directed.md",
+    "claims": [
+      "CPC-0065",
+      "CPC-0107"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "DIRECTED_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 205,
+    "examined": true,
+    "reading_note": "iteration1_directed.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "DIRECTED_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 206,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 207,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 208,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 209,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 210,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [
+      "CPC-0111"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 211,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 212,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [
+      "CPC-0106"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 213,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 214,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 215,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 216,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 217,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 218,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 219,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 220,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 221,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p201_p225.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 222,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 223,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p201_p225.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 224,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p201_p225.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 225,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "../global_corpus_pass/blocks/p201_p225.md"
+  },
+  {
+    "page": 226,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p226_p250.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p226_p250.md"
+  },
+  {
+    "page": 227,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 228,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 229,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p226_p250.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p226_p250.md"
+  },
+  {
+    "page": 230,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p226_p250.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p226_p250.md"
+  },
+  {
+    "page": 231,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 232,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p226_p250.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p226_p250.md"
+  },
+  {
+    "page": 233,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p226_p250.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p226_p250.md"
+  },
+  {
+    "page": 234,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p226_p250.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p226_p250.md"
+  },
+  {
+    "page": 235,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p226_p250.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p226_p250.md"
+  },
+  {
+    "page": 236,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p226_p250.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p226_p250.md"
+  },
+  {
+    "page": 237,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p226_p250.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p226_p250.md"
+  },
+  {
+    "page": 238,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p226_p250.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p226_p250.md"
+  },
+  {
+    "page": 239,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p226_p250.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p226_p250.md"
+  },
+  {
+    "page": 240,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 241,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 242,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p226_p250.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p226_p250.md"
+  },
+  {
+    "page": 243,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p226_p250.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p226_p250.md"
+  },
+  {
+    "page": 244,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 245,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 246,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 247,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p226_p250.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p226_p250.md"
+  },
+  {
+    "page": 248,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p226_p250.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p226_p250.md"
+  },
+  {
+    "page": 249,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p226_p250.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p226_p250.md"
+  },
+  {
+    "page": 250,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p226_p250.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p226_p250.md"
+  },
+  {
+    "page": 251,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p251_p275.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p251_p275.md"
+  },
+  {
+    "page": 252,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p251_p275.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p251_p275.md"
+  },
+  {
+    "page": 253,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 254,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 255,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS"
+  },
+  {
+    "page": 256,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "../global_corpus_pass/blocks/p251_p275.md"
+  },
+  {
+    "page": 257,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "../global_corpus_pass/blocks/p251_p275.md"
+  },
+  {
+    "page": 258,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 259,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 260,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p251_p275.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p251_p275.md"
+  },
+  {
+    "page": 261,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p251_p275.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p251_p275.md"
+  },
+  {
+    "page": 262,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p251_p275.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p251_p275.md"
+  },
+  {
+    "page": 263,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p251_p275.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p251_p275.md"
+  },
+  {
+    "page": 264,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 265,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p251_p275.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p251_p275.md"
+  },
+  {
+    "page": 266,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p251_p275.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p251_p275.md"
+  },
+  {
+    "page": 267,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p251_p275.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p251_p275.md"
+  },
+  {
+    "page": 268,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p251_p275.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p251_p275.md"
+  },
+  {
+    "page": 269,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 270,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p251_p275.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p251_p275.md"
+  },
+  {
+    "page": 271,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p251_p275.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p251_p275.md"
+  },
+  {
+    "page": 272,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p251_p275.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p251_p275.md"
+  },
+  {
+    "page": 273,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "../global_corpus_pass/blocks/p251_p275.md"
+  },
+  {
+    "page": 274,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 275,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "../global_corpus_pass/blocks/p251_p275.md"
+  },
+  {
+    "page": 276,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p276_p300.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 277,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p276_p300.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 278,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p276_p300.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 279,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 280,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p276_p300.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 281,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 282,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 283,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [
+      "CPC-0113"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 284,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 285,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 286,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 287,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p276_p300.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 288,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 289,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 290,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 291,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 292,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 293,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [
+      "CPC-0101"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 294,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 295,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 296,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 297,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 298,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 299,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 300,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [
+      "CPC-0102"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "../global_corpus_pass/blocks/p276_p300.md"
+  },
+  {
+    "page": 301,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p301_p325.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_ANALYTICAL_REVIEW",
+    "global_pass_note": "../global_corpus_pass/blocks/p301_p325.md"
+  },
+  {
+    "page": 302,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 303,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 304,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 305,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 306,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 307,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS"
+  },
+  {
+    "page": 308,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 309,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS"
+  },
+  {
+    "page": 310,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 311,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 312,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 313,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 314,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 315,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 316,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 317,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 318,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 319,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 320,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 321,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 322,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 323,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 324,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 325,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 326,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 327,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 328,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 329,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 330,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 331,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 332,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 333,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 334,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 335,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 336,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 337,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 338,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 339,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 340,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 341,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 342,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 343,
+    "examined": true,
+    "reading_note": "money_targeted_addendum.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 344,
+    "examined": true,
+    "reading_note": "money_targeted_addendum.md",
+    "claims": [
+      "CPC-0091",
+      "CPC-0092"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 345,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 346,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 347,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [
+      "CPC-0103"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 348,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 349,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [
+      "CPC-0100"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p326_p350.md"
+  },
+  {
+    "page": 350,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 351,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 352,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 353,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 354,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 355,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 356,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 357,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 358,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 359,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 360,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 361,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 362,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 363,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 364,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 365,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 366,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 367,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 368,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 369,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 370,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 371,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 372,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 373,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 374,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 375,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 376,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 377,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 378,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 379,
+    "examined": true,
+    "reading_note": "money_targeted_addendum.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 380,
+    "examined": true,
+    "reading_note": "money_targeted_addendum.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 381,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 382,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 383,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 384,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 385,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 386,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 387,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 388,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [
+      "CPC-0104"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 389,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 390,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 391,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 392,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 393,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 394,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 395,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 396,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 397,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 398,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 399,
+    "examined": true,
+    "reading_note": "money_targeted_addendum.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 400,
+    "examined": true,
+    "reading_note": "money_targeted_addendum.md",
+    "claims": [
+      "CPC-0093",
+      "CPC-0127"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 401,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 402,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 403,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [
+      "CPC-0114"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 404,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 405,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 406,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 407,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 408,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 409,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 410,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 411,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 412,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 413,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [
+      "CPC-0115"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 414,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 415,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 416,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 417,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 418,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 419,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 420,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 421,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 422,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 423,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 424,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 425,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 426,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS"
+  },
+  {
+    "page": 427,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS"
+  },
+  {
+    "page": 428,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 429,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS"
+  },
+  {
+    "page": 430,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 431,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 432,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 433,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 434,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p426_p450.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 435,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p426_p450.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 436,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p426_p450.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 437,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p426_p450.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 438,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 439,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p426_p450.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 440,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p426_p450.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 441,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [
+      "CPC-0116"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 442,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 443,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p426_p450.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 444,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p426_p450.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 445,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p426_p450.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 446,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 447,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p426_p450.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 448,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p426_p450.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 449,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p426_p450.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 450,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p426_p450.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p426_p450.md"
+  },
+  {
+    "page": 451,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 452,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 453,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 454,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 455,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [
+      "CPC-0119"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 456,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 457,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 458,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 459,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 460,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [
+      "CPC-0120"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 461,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [
+      "CPC-0105"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 462,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 463,
+    "examined": true,
+    "reading_note": "iteration1_directed.md",
+    "claims": [
+      "CPC-0067"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "DIRECTED_READING"
+  },
+  {
+    "page": 464,
+    "examined": true,
+    "reading_note": "iteration1_directed.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "DIRECTED_READING"
+  },
+  {
+    "page": 465,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 466,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [
+      "CPC-0122"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 467,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 468,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 469,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 470,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 471,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 472,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [
+      "CPC-0121"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 473,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 474,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 475,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 476,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 477,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [
+      "CPC-0123"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 478,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 479,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [
+      "CPC-0108"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING"
+  },
+  {
+    "page": 480,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 481,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 482,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 483,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 484,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 485,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 486,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 487,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 488,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [
+      "CPC-0124"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 489,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 490,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [
+      "CPC-0125"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 491,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 492,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 493,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 494,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 495,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 496,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 497,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 498,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 499,
+    "examined": false,
+    "reading_note": null,
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "NOT_YET_READ"
+  },
+  {
+    "page": 500,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p476_p500.md"
+  },
+  {
+    "page": 501,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 502,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [
+      "CPC-0110"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 503,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 504,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [
+      "CPC-0098"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 505,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 506,
+    "examined": true,
+    "reading_note": "productive_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 507,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p501_p525.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 508,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p501_p525.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 509,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p501_p525.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 510,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p501_p525.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 511,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p501_p525.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 512,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p501_p525.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 513,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p501_p525.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 514,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p501_p525.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 515,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p501_p525.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 516,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p501_p525.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 517,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p501_p525.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 518,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p501_p525.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 519,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p501_p525.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 520,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p501_p525.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 521,
+    "examined": true,
+    "reading_note": "../global_corpus_pass/blocks/p501_p525.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "GLOBAL_PASS_LOCAL_ANALYTICAL_NOTE",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 522,
+    "examined": true,
+    "reading_note": "second_question_pass.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_READING_SECOND_QUESTION_PASS",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 523,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [
+      "CPC-0084"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 524,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 525,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p501_p525.md"
+  },
+  {
+    "page": 526,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [
+      "CPC-0109"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 527,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 528,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 529,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 530,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 531,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 532,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 533,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [
+      "CPC-0087"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 534,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 535,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 536,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 537,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [
+      "CPC-0089"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 538,
+    "examined": true,
+    "reading_note": "money_targeted_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_ANALYTICAL_READING",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 539,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 540,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 541,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 542,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 543,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 544,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 545,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 546,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 547,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 548,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 549,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 550,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p526_p550.md"
+  },
+  {
+    "page": 551,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p551_p562.md"
+  },
+  {
+    "page": 552,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p551_p562.md"
+  },
+  {
+    "page": 553,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p551_p562.md"
+  },
+  {
+    "page": 554,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p551_p562.md"
+  },
+  {
+    "page": 555,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p551_p562.md"
+  },
+  {
+    "page": 556,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p551_p562.md"
+  },
+  {
+    "page": 557,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p551_p562.md"
+  },
+  {
+    "page": 558,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [
+      "CPC-0126"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p551_p562.md"
+  },
+  {
+    "page": 559,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [
+      "CPC-0117",
+      "CPC-0118"
+    ],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p551_p562.md"
+  },
+  {
+    "page": 560,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW",
+    "global_pass_note": "analysis/global_corpus_pass/blocks/p551_p562.md"
+  },
+  {
+    "page": 561,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  },
+  {
+    "page": 562,
+    "examined": true,
+    "reading_note": "energy_aggregation_agents_review.md",
+    "claims": [],
+    "concepts": [],
+    "excluded": false,
+    "reason": "TARGETED_SOURCE_REVIEW"
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "id": "INV-001",
+    "formulation": "Ne pas assimiler une émission de Cash à la création de Money définie par l’auteur.",
+    "concepts": [
+      "cash",
+      "money"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 184,
+        "pages": [
+          184
+        ],
+        "quotation": "Money as the value of Cash,",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 187,
+        "pages": [
+          187
+        ],
+        "quotation": "the inscription of a line of bank credit should not be considered as Money but only as Cash.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 188,
+        "pages": [
+          188
+        ],
+        "quotation": "the Money (M) is defined as the measure of the value of Cash",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0046",
+      "CPC-0050",
+      "CPC-0053"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "reviewed_passages_only"
+  },
+  {
+    "id": "INV-002",
+    "formulation": "Ne pas mesurer T par des heures de labour sans reconstruire la relation.",
+    "concepts": [
+      "labour",
+      "work"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 187,
+        "pages": [
+          187,
+          188
+        ],
+        "quotation": "labour (l) must be understood as the thing to be done, the task, the job to be done. It is constant for a given Product and manufacturing method.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 188,
+        "pages": [
+          188
+        ],
+        "quotation": "for a constant labour, the Work varies according to its speed of execution.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0051",
+      "CPC-0052"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "reviewed_passages_only"
+  },
+  {
+    "id": "INV-003",
+    "formulation": "Conserver distinction entre variation globale et redistribution interne.",
+    "concepts": [
+      "creation",
+      "distribution"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 13,
+        "pages": [
+          13
+        ],
+        "quotation": "points 1 (creation) and 3 (use) undeniably belong to the “Natural Sciences” and that point 2 (distribution) is systematically related to the “Human Sciences”.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 18,
+        "pages": [
+          18
+        ],
+        "quotation": "Any economic policy measure that doesn’t involve Work expenditure leaves the existing quantity of Money in the system constant",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0007",
+      "CPC-0014"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "reviewed_passages_only"
+  },
+  {
+    "id": "INV-004",
+    "formulation": "Un déplacement comptable ne doit pas être étiqueté transformation productive sans passage source.",
+    "concepts": [
+      "accounting",
+      "transformation"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 22,
+        "pages": [
+          22
+        ],
+        "quotation": "SUPPLEMENTARY WORK performed by the supplier is TRANSFORMED into SUPPLEMENTARY MONEY held by the consumer.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 22,
+        "pages": [
+          22
+        ],
+        "quotation": "a transformation, which is relative to physics, and no longer a flow, which is relative to accounting",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0022",
+      "CPC-0024"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "reviewed_passages_only"
+  },
+  {
+    "id": "INV-005",
+    "formulation": "Une baisse de coût ne garantit pas la même baisse du prix de vente.",
+    "concepts": [
+      "price",
+      "cost"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 20,
+        "pages": [
+          20
+        ],
+        "quotation": "if the selling price is kept constant despite this drop in cost price",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 21,
+        "pages": [
+          21
+        ],
+        "quotation": "They are the sole judge and person responsible for selling prices, but always subject to the external constraints (competition, regulations, etc.) to which they are subject.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0020",
+      "CPC-0021"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "reviewed_passages_only"
+  },
+  {
+    "id": "INV-006",
+    "formulation": "Conserver la distinction travail restant / travail accompli dans les bilans.",
+    "concepts": [
+      "remaining",
+      "work"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 22,
+        "pages": [
+          22
+        ],
+        "quotation": "the decrease (destruction) of the Work to be done is compensated by the increase (creation) of the Money generated and vice versa",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 35,
+        "pages": [
+          35
+        ],
+        "quotation": "only the Work to be done must be taken into account and not the Work performed.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0023",
+      "CPC-0040"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "reviewed_passages_only"
+  },
+  {
+    "id": "INV-007",
+    "formulation": "Ne pas confondre support et grandeur supportée.",
+    "concepts": [
+      "product",
+      "work"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 35,
+        "pages": [
+          35
+        ],
+        "quotation": "the Product as the vector-support of the economic Work,",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 187,
+        "pages": [
+          187
+        ],
+        "quotation": "the Product represents any object, merchandise, product, good or service that an economic agent",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0041",
+      "CPC-0049"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "reviewed_passages_only"
+  },
+  {
+    "id": "INV-008",
+    "formulation": "L’analogie ne rend pas identiques variables économiques et physiques.",
+    "concepts": [
+      "energy",
+      "entropy"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 2,
+        "pages": [
+          2
+        ],
+        "quotation": "similar, but not identical, to the energy transformations of heat into work.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 36,
+        "pages": [
+          36
+        ],
+        "quotation": "entropy doesn’t have to be used in this context.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0003",
+      "CPC-0042"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "reviewed_passages_only"
+  }
+]

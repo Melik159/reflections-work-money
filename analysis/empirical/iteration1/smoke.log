@@ -1,0 +1,15 @@
+
+[OK] Analysis complete
+Output directory: /tmp/campergue-reproduce-40ed4up3/tests/smoke_output
+
+Regression summary:
+country country_code  model                       formula  n     intercept       beta       r2
+  World          WLD  level             GDP_real ~ Energy 59 -8.245354e+03 134.327344 0.995516
+  World          WLD loglog   log(GDP_real) ~ log(Energy) 59  1.852384e+00   1.500000 1.000000
+  World          WLD   dlog Δlog(GDP_real) ~ Δlog(Energy) 58 -8.562506e-17   1.500000 1.000000
+[OK] Smoke test passed
+country country_code  model                       formula  n     intercept       beta       r2
+  World          WLD  level             GDP_real ~ Energy 59 -8.245354e+03 134.327344 0.995516
+  World          WLD loglog   log(GDP_real) ~ log(Energy) 59  1.852384e+00   1.500000 1.000000
+  World          WLD   dlog Δlog(GDP_real) ~ Δlog(Energy) 58 -8.562506e-17   1.500000 1.000000
+Outputs written to: /tmp/campergue-reproduce-40ed4up3/tests/smoke_output

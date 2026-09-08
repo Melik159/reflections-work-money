@@ -1,0 +1,24 @@
+
+[OK] Analysis complete
+Output directory: /tmp/campergue-reproduce-40ed4up3/macro
+
+Regression summary:
+      country country_code  model                       formula  n     intercept       beta       r2
+        China          CHN  level             GDP_real ~ Energy 34 -3.592327e+12   5.052849 0.970545
+        China          CHN loglog   log(GDP_real) ~ log(Energy) 34 -1.760862e+01   1.658893 0.978910
+        China          CHN   dlog Δlog(GDP_real) ~ Δlog(Energy) 33  7.294349e-02   0.276576 0.152465
+      Germany          DEU  level             GDP_real ~ Energy 34  7.401715e+12 -13.377842 0.673564
+      Germany          DEU loglog   log(GDP_real) ~ log(Energy) 34  6.240002e+01  -1.270003 0.610825
+      Germany          DEU   dlog Δlog(GDP_real) ~ Δlog(Energy) 33  1.656491e-02   0.274136 0.192611
+       France          FRA  level             GDP_real ~ Energy 34  1.829337e+12   1.417626 0.004981
+       France          FRA loglog   log(GDP_real) ~ log(Energy) 34  2.160587e+01   0.258951 0.012440
+       France          FRA   dlog Δlog(GDP_real) ~ Δlog(Energy) 33  1.552518e-02   0.294677 0.260133
+        India          IND  level             GDP_real ~ Energy 34 -6.033412e+11   3.409833 0.989558
+        India          IND loglog   log(GDP_real) ~ log(Energy) 34 -1.163122e+01   1.459280 0.996341
+        India          IND   dlog Δlog(GDP_real) ~ Δlog(Energy) 33  2.464105e-02   0.831043 0.478828
+United States          USA  level             GDP_real ~ Energy 34 -1.576079e+13  14.413427 0.187676
+United States          USA loglog   log(GDP_real) ~ log(Energy) 34 -4.142831e+01   2.526894 0.279913
+United States          USA   dlog Δlog(GDP_real) ~ Δlog(Energy) 33  2.269688e-02   0.567023 0.655453
+        World          WLD  level             GDP_real ~ Energy 34 -3.572554e+13   8.514244 0.986649
+        World          WLD loglog   log(GDP_real) ~ log(Energy) 34 -1.652852e+01   1.605203 0.990862
+        World          WLD   dlog Δlog(GDP_real) ~ Δlog(Energy) 33  1.539290e-02   0.808871 0.660860

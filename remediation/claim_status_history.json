@@ -1,0 +1,17 @@
+[
+  {
+    "id": "CPC-0016",
+    "old_status": [
+      "ASSUMPTION_DEPENDENT",
+      "EMPIRICALLY_COMPATIBLE",
+      "NON_DISCRIMINATING"
+    ],
+    "new_status": [
+      "ASSUMPTION_DEPENDENT",
+      "NON_DISCRIMINATING",
+      "NOT_IDENTIFIED"
+    ],
+    "finding": "ER-009",
+    "reason": "NOT_IDENTIFIED pour Work→u→Money complet; les sous-relations descriptives ne le confirment pas."
+  }
+]

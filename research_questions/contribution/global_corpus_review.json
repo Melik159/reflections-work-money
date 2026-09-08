@@ -1,0 +1,65 @@
+[
+  {
+    "id": "CC-01",
+    "status": "QUALIFIED_BY_FULL_CORPUS",
+    "pages": [
+      159,
+      271,
+      363,
+      468,
+      479,
+      490,
+      507,
+      523
+    ],
+    "reason": "Séparation production/paiement/destinataire utile, mais périmètre sectoriel variable et emploi du gain non automatique; pas supériorité empirique établie."
+  },
+  {
+    "id": "CC-02",
+    "status": "QUALIFIED_BY_FULL_CORPUS",
+    "pages": [
+      203,
+      207,
+      208,
+      341,
+      355,
+      467,
+      470,
+      501,
+      547
+    ],
+    "reason": "Distinction tâche/vitesse/variation conservée, mais T niveau/transfert et force constante/nulle exigent conventions locales; restriction formelle non mesure nouvelle."
+  },
+  {
+    "id": "CC-03",
+    "status": "STRENGTHENED",
+    "pages": [
+      111,
+      132,
+      249,
+      285,
+      301,
+      377,
+      392,
+      425,
+      511,
+      520
+    ],
+    "reason": "Diagnostic des exigences d’échelle renforcé par égalités interpersonnelles, dérivées et ratios. Renforcement de notre analyse métrologique, pas de nouveauté historique ni des lois du corpus."
+  },
+  {
+    "id": "CC-04",
+    "status": "QUALIFIED_BY_FULL_CORPUS",
+    "pages": [
+      72,
+      159,
+      271,
+      454,
+      455,
+      456,
+      479,
+      559
+    ],
+    "reason": "Critère Utility du travail physique utile confirmé; énergie totale/PIB ajoute un changement de frontière. Aucune conversion indépendante T/Utility trouvée."
+  }
+]

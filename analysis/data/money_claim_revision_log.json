@@ -1,0 +1,932 @@
+{
+  "date": "2026-09-08",
+  "reviewed": [
+    {
+      "claim_id": "CPC-0002",
+      "action": "KEEP",
+      "old_statement": "La valeur de l’unité monétaire varie dans le temps.",
+      "new_statement": "La valeur de l’unité monétaire varie dans le temps.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0003",
+      "action": "KEEP",
+      "old_statement": "L’étude compare la transformation du travail en monnaie à celle de la chaleur en travail, en les distinguant.",
+      "new_statement": "L’étude compare la transformation du travail en monnaie à celle de la chaleur en travail, en les distinguant.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0005",
+      "action": "QUALIFY",
+      "old_statement": "Changer le nombre d’unités monétaires ne change pas la richesse globale du système.",
+      "new_statement": "Le manuscrit affirme que modifier seulement le nombre d’unités, sans Work productif, ne crée pas de richesse globale; il distingue cependant émission accompagnant une création, inertie et évolutions incohérentes.",
+      "reason": "Retour au contexte et séparation des scénarios auparavant aplatis; citation initiale conservée comme preuve de la formulation forte du manuscrit.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 172,
+          "pages": [
+            172
+          ],
+          "quotation": "In this case the number of units is constant (dn = 0 - no issue of monetary units), which leads to the simplification of the relationship as follows : n ⋅∂u = 0 and one can write : if : M , n = constant so : u =constant (Constant Money) It is possible to consider this possibility as a system-wide case where nothing happens. Indeed, everything being",
+          "normalization": "whitespace",
+          "context_before": "eriod of time because the prices of products would themselves double. This would only be true if prices remained constant despite the doubling of Andorrans' income. The same would be true for any economic system envisaged. 1. Possibility 1 ",
+          "context_after": " constant, there is therefore no variation. However, this is only valid if the entire system is considered. This expresses that the total wealth of the system is constant, but this",
+          "argument_function": "Aucune variation globale; redistribution interne possible"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 172,
+          "pages": [
+            172
+          ],
+          "quotation": "Since the overall quantity of Money existing in the system is considered constant its variation is obviously zero and the differential relationship becomes : n.du+u.dn=0 In economic reality, it often happens that the remuneration of certain categories of economic agents (individuals, households, companies, associations, administrations, communities, ...) is",
+          "normalization": "whitespace",
+          "context_before": "172 overall quantity of Money that may or may not vary. This fact can be confusing and therefore requires special attention. Hypothesis 1 ⇒ The overall quantity of money is constant ",
+          "context_after": " increased. It is quite obvious that it's not because certain remunerations are increased that the wealth of the economic system under consideration is automatically increased. If, for example, all the wages, salaries, paycheck, etc. of the",
+          "argument_function": "Compensation inverse de u; interprétée comme ajustement des prix"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 175,
+          "pages": [
+            175
+          ],
+          "quotation": "Consequently, if nothing else changes, the modification of the number of monetary units by issuing paper money (by the State) or credits (by the banks) is pure fantasy because the value of the unit will vary in an inversely proportional way. Obviously, agents who will receive a surplus of monetary units will be favoured at the expense of those who will not",
+          "normalization": "whitespace",
+          "context_before": "s and from Francs to Euros corresponds to a destruction of Money, which nobody pronounces. In fact, bankers create monetary units (n) and the above-mentioned events have destroyed them: 100 n in the first case and 6.55 957 n in the second. ",
+          "context_after": " have received any, because the latter will see their income decrease at the same time as the value of the unit, which, as before, increases inequality. Of course, any economic system has a certain inertia (like any physical system), the in",
+          "argument_function": "Compensation inverse de u; interprétée comme ajustement des prix"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 177,
+          "pages": [
+            177
+          ],
+          "quotation": "Since by an increase of the Work performed a proportional quantity of Money is created, the State (or any other issuer of Money) has the right to issue as many monetary units (units of account in fiduciary or scriptural form) as Money created in order to keep the value of the monetary unit constant. In the same way as in the previous possibility, this",
+          "normalization": "whitespace",
+          "context_before": ". Possibility 4 In this case the number of units is variable (dn 0 - issue of monetary units), resulting in the relationship being written as follows : ∂nu= 1 u ⋅∂M and one can write : if : M ,n ≠constant so : u = constant (Current Money) ",
+          "context_after": " creation of Money increases the wealth of the system. However, it's quite obvious that the Money issued by the State must be equitably distributed among the agents composing the system, otherwise inequalities would be inevitably increased.",
+          "argument_function": "Émission proportionnée à Money déjà créé; distribution distincte"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 175,
+          "pages": [
+            175
+          ],
+          "quotation": "Of course, any economic system has a certain inertia (like any physical system), the increase in certain incomes being immediate and the increase in prices being delayed for a certain period of time because of this inertia, resulting in a momentary increase in wealth. But because of this inertia, this temporary enrichment will necessarily be followed, later",
+          "normalization": "whitespace",
+          "context_before": "ceive a surplus of monetary units will be favoured at the expense of those who will not have received any, because the latter will see their income decrease at the same time as the value of the unit, which, as before, increases inequality. ",
+          "context_after": " on, by a decrease in the latter, i.e. by an impoverishment, the overall final result of the system being absolutely and rigorously zero. This hypothesis (composed of constant money possibilities 1 and 2) shows that no monetary wealth is ne",
+          "argument_function": "Gain temporaire puis impoverishment compensatrice"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 182,
+          "pages": [
+            182
+          ],
+          "quotation": "In everyday reality, developments can be seen as being formed from different possibilities that have just been defined. In an isolated system, if for some reason part of the population sees its income increase, it's certain that the rest of the population will see its income decrease, all other things being equal. If the heads of companies and shareholders",
+          "normalization": "whitespace",
+          "context_before": " and, consequently, of reason. Moreover :  these four analytical possibilities identify all possible monetary developments,  all the monetary considerations that one can imagine necessarily reside there.  NO OTHER POSSIBILITY CAN EXIST. ",
+          "context_after": " are",
+          "argument_function": "Composition des possibilités 1–4 explicitement admise"
+        }
+      ],
+      "scenarios": [
+        "SC-MONEY-01",
+        "SC-MONEY-02",
+        "SC-MONEY-03",
+        "SC-MONEY-04",
+        "SC-MONEY-05",
+        "SC-MONEY-06",
+        "SC-MONEY-07",
+        "SC-MONEY-08",
+        "SC-MONEY-09",
+        "SC-MONEY-10",
+        "SC-MONEY-11"
+      ]
+    },
+    {
+      "claim_id": "CPC-0007",
+      "action": "KEEP",
+      "old_statement": "La création et l’usage relèvent des lois naturelles ; la distribution relève de décisions humaines.",
+      "new_statement": "La création et l’usage relèvent des lois naturelles ; la distribution relève de décisions humaines.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0008",
+      "action": "KEEP",
+      "old_statement": "La production précède la consommation.",
+      "new_statement": "La production précède la consommation.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0010",
+      "action": "KEEP",
+      "old_statement": "Money est défini comme le nombre d’unités multiplié par la valeur de l’unité.",
+      "new_statement": "Money est défini comme le nombre d’unités multiplié par la valeur de l’unité.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0011",
+      "action": "KEEP",
+      "old_statement": "Le différentiel du produit M=n.u est dM=n.du+u.dn.",
+      "new_statement": "Le différentiel du produit M=n.u est dM=n.du+u.dn.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0012",
+      "action": "SPLIT",
+      "old_statement": "Toute variation du nombre d’unités entraîne une variation inverse de leur valeur, empêchant de créer Money.",
+      "new_statement": "À Money global constant (hypothèse 1, possibilité 2), la variation de n est compensée inversement par u; l’attribution du crédit à cette branche et son extension finale sont des thèses distinctes.",
+      "reason": "Retour au contexte et séparation des scénarios auparavant aplatis; citation initiale conservée comme preuve de la formulation forte du manuscrit.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 172,
+          "pages": [
+            172
+          ],
+          "quotation": "In this case the number of units is constant (dn = 0 - no issue of monetary units), which leads to the simplification of the relationship as follows : n ⋅∂u = 0 and one can write : if : M , n = constant so : u =constant (Constant Money) It is possible to consider this possibility as a system-wide case where nothing happens. Indeed, everything being",
+          "normalization": "whitespace",
+          "context_before": "eriod of time because the prices of products would themselves double. This would only be true if prices remained constant despite the doubling of Andorrans' income. The same would be true for any economic system envisaged. 1. Possibility 1 ",
+          "context_after": " constant, there is therefore no variation. However, this is only valid if the entire system is considered. This expresses that the total wealth of the system is constant, but this",
+          "argument_function": "Aucune variation globale; redistribution interne possible"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 173,
+          "pages": [
+            173
+          ],
+          "quotation": "In this case the number of units is variable (dn 0 - issue of monetary units by the State, banks or possibly others), which leads to the writing of the relation as follows : n ⋅du = −u ⋅dn either : du u = −dn n whose integration gives : ln u = −ln n and one can write : if : M = constant , n≠constant so : u = 1 n (Constant Money )",
+          "normalization": "whitespace",
+          "context_before": "oach equilibrium, where in principle there are only fluctuations. In Economics, the functioning of a system should not be an exception to this rule. Increasing deviations necessarily imply a vitiated process in the system. 2. Possibility 2 ",
+          "context_after": "",
+          "argument_function": "Compensation inverse de u; interprétée comme ajustement des prix"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 172,
+          "pages": [
+            172
+          ],
+          "quotation": "Since the overall quantity of Money existing in the system is considered constant its variation is obviously zero and the differential relationship becomes : n.du+u.dn=0 In economic reality, it often happens that the remuneration of certain categories of economic agents (individuals, households, companies, associations, administrations, communities, ...) is",
+          "normalization": "whitespace",
+          "context_before": "172 overall quantity of Money that may or may not vary. This fact can be confusing and therefore requires special attention. Hypothesis 1 ⇒ The overall quantity of money is constant ",
+          "context_after": " increased. It is quite obvious that it's not because certain remunerations are increased that the wealth of the economic system under consideration is automatically increased. If, for example, all the wages, salaries, paycheck, etc. of the",
+          "argument_function": "Compensation inverse de u; interprétée comme ajustement des prix"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 175,
+          "pages": [
+            175
+          ],
+          "quotation": "Consequently, if nothing else changes, the modification of the number of monetary units by issuing paper money (by the State) or credits (by the banks) is pure fantasy because the value of the unit will vary in an inversely proportional way. Obviously, agents who will receive a surplus of monetary units will be favoured at the expense of those who will not",
+          "normalization": "whitespace",
+          "context_before": "s and from Francs to Euros corresponds to a destruction of Money, which nobody pronounces. In fact, bankers create monetary units (n) and the above-mentioned events have destroyed them: 100 n in the first case and 6.55 957 n in the second. ",
+          "context_after": " have received any, because the latter will see their income decrease at the same time as the value of the unit, which, as before, increases inequality. Of course, any economic system has a certain inertia (like any physical system), the in",
+          "argument_function": "Compensation inverse de u; interprétée comme ajustement des prix"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 177,
+          "pages": [
+            177
+          ],
+          "quotation": "Since by an increase of the Work performed a proportional quantity of Money is created, the State (or any other issuer of Money) has the right to issue as many monetary units (units of account in fiduciary or scriptural form) as Money created in order to keep the value of the monetary unit constant. In the same way as in the previous possibility, this",
+          "normalization": "whitespace",
+          "context_before": ". Possibility 4 In this case the number of units is variable (dn 0 - issue of monetary units), resulting in the relationship being written as follows : ∂nu= 1 u ⋅∂M and one can write : if : M ,n ≠constant so : u = constant (Current Money) ",
+          "context_after": " creation of Money increases the wealth of the system. However, it's quite obvious that the Money issued by the State must be equitably distributed among the agents composing the system, otherwise inequalities would be inevitably increased.",
+          "argument_function": "Émission proportionnée à Money déjà créé; distribution distincte"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 173,
+          "pages": [
+            173
+          ],
+          "quotation": "if some agents have increases in income (salary or other) this necessarily implies a loss (decrease) of income for other agents, because it will have been necessary to take the Money before it's redistributed to the agents whose salaries are increased. For example, if we consider an economic system made up of 20 million agents, and of these 200,000 (1%)",
+          "normalization": "whitespace",
+          "context_before": "173 doesn't mean that within the system there cannot be variations between the different parts of the system. In the case we are concerned with, ",
+          "context_after": " have their income increased by 5%, the average loss of other agents (19,800,000) will be 0.05%. In any case, this doesn't in any way increase the overall wealth of the system. However, in any system, physical or otherwise, gradients always",
+          "argument_function": "Gain de certains payé par les autres"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 175,
+          "pages": [
+            175
+          ],
+          "quotation": "Of course, any economic system has a certain inertia (like any physical system), the increase in certain incomes being immediate and the increase in prices being delayed for a certain period of time because of this inertia, resulting in a momentary increase in wealth. But because of this inertia, this temporary enrichment will necessarily be followed, later",
+          "normalization": "whitespace",
+          "context_before": "ceive a surplus of monetary units will be favoured at the expense of those who will not have received any, because the latter will see their income decrease at the same time as the value of the unit, which, as before, increases inequality. ",
+          "context_after": " on, by a decrease in the latter, i.e. by an impoverishment, the overall final result of the system being absolutely and rigorously zero. This hypothesis (composed of constant money possibilities 1 and 2) shows that no monetary wealth is ne",
+          "argument_function": "Gain temporaire puis impoverishment compensatrice"
+        }
+      ],
+      "scenarios": [
+        "SC-MONEY-02"
+      ]
+    },
+    {
+      "claim_id": "CPC-0013",
+      "action": "QUALIFY",
+      "old_statement": "Le crédit non couvert par des dépôts ne crée pas Money au sens de l’auteur.",
+      "new_statement": "Campergue classe le crédit non couvert uniquement dans la possibilité 2 : création de Cash, pas de Money; ce classement exclut la possibilité 4 pour le banquier et constitue une restriction causale.",
+      "reason": "Retour au contexte et séparation des scénarios auparavant aplatis; citation initiale conservée comme preuve de la formulation forte du manuscrit.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 175,
+          "pages": [
+            175
+          ],
+          "quotation": "Consequently, if nothing else changes, the modification of the number of monetary units by issuing paper money (by the State) or credits (by the banks) is pure fantasy because the value of the unit will vary in an inversely proportional way. Obviously, agents who will receive a surplus of monetary units will be favoured at the expense of those who will not",
+          "normalization": "whitespace",
+          "context_before": "s and from Francs to Euros corresponds to a destruction of Money, which nobody pronounces. In fact, bankers create monetary units (n) and the above-mentioned events have destroyed them: 100 n in the first case and 6.55 957 n in the second. ",
+          "context_after": " have received any, because the latter will see their income decrease at the same time as the value of the unit, which, as before, increases inequality. Of course, any economic system has a certain inertia (like any physical system), the in",
+          "argument_function": "Compensation inverse de u; interprétée comme ajustement des prix"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 177,
+          "pages": [
+            177
+          ],
+          "quotation": "Since by an increase of the Work performed a proportional quantity of Money is created, the State (or any other issuer of Money) has the right to issue as many monetary units (units of account in fiduciary or scriptural form) as Money created in order to keep the value of the monetary unit constant. In the same way as in the previous possibility, this",
+          "normalization": "whitespace",
+          "context_before": ". Possibility 4 In this case the number of units is variable (dn 0 - issue of monetary units), resulting in the relationship being written as follows : ∂nu= 1 u ⋅∂M and one can write : if : M ,n ≠constant so : u = constant (Current Money) ",
+          "context_after": " creation of Money increases the wealth of the system. However, it's quite obvious that the Money issued by the State must be equitably distributed among the agents composing the system, otherwise inequalities would be inevitably increased.",
+          "argument_function": "Émission proportionnée à Money déjà créé; distribution distincte"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 174,
+          "pages": [
+            174
+          ],
+          "quotation": "Two typical examples of this case are respectively the transition from the old to the new Francs in 1959 and, closer to us, the transition from Francs to Euros. Indeed, in the first example, the number of monetary units was divided by 100 and therefore the value of the monetary unit was multiplied by the same amount with 1 New Franc equal to 100 Old Francs.",
+          "normalization": "whitespace",
+          "context_before": "174 ",
+          "context_after": " The changeover to the Single European Money represents the same mechanism with the same coefficient. As the number of monetary units has been divided by 6.55 957 in relation to the Franc, the value of the unit has been multiplied by this c",
+          "argument_function": "Ancien/nouveau franc; franc/euro comme illustration de 2b"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 98,
+          "pages": [
+            98
+          ],
+          "quotation": "a banker's professional actions only comply with :  possibility N° 1 and only to this one, when he refuses a credit,  possibility N° 2 and only to this one, when granting a credit not covered by deposits. These two possibilities indicate the absolute constancy of the Money, i.e. the monetary wealth of the system under consideration. The only thing a",
+          "normalization": "whitespace",
+          "context_before": "ng four possibilities: 1. n is constant and : u is constant ⇒M is constant 2. n is variable and : u is variable ⇒M is constant 3. n is constant and : u is variable ⇒M is variable 4. n is variable and : u is constant ⇒M is variable However, ",
+          "context_after": " banker is",
+          "argument_function": "Banque crée Cash/n, pas Work; impossibilité de 3/4 affirmée page99"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 175,
+          "pages": [
+            175
+          ],
+          "quotation": "Of course, any economic system has a certain inertia (like any physical system), the increase in certain incomes being immediate and the increase in prices being delayed for a certain period of time because of this inertia, resulting in a momentary increase in wealth. But because of this inertia, this temporary enrichment will necessarily be followed, later",
+          "normalization": "whitespace",
+          "context_before": "ceive a surplus of monetary units will be favoured at the expense of those who will not have received any, because the latter will see their income decrease at the same time as the value of the unit, which, as before, increases inequality. ",
+          "context_after": " on, by a decrease in the latter, i.e. by an impoverishment, the overall final result of the system being absolutely and rigorously zero. This hypothesis (composed of constant money possibilities 1 and 2) shows that no monetary wealth is ne",
+          "argument_function": "Gain temporaire puis impoverishment compensatrice"
+        }
+      ],
+      "scenarios": [
+        "SC-MONEY-18"
+      ]
+    },
+    {
+      "claim_id": "CPC-0014",
+      "action": "QUALIFY",
+      "old_statement": "Sans dépense de Work, une politique ne fait que redistribuer Money dans le système.",
+      "new_statement": "Dans le système isolé et sans Work supplémentaire, une politique redistribue selon Campergue Money sans enrichissement global; les effets internes et transitoires ne sont pas niés.",
+      "reason": "Retour au contexte et séparation des scénarios auparavant aplatis; citation initiale conservée comme preuve de la formulation forte du manuscrit.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 173,
+          "pages": [
+            173
+          ],
+          "quotation": "In this case the number of units is variable (dn 0 - issue of monetary units by the State, banks or possibly others), which leads to the writing of the relation as follows : n ⋅du = −u ⋅dn either : du u = −dn n whose integration gives : ln u = −ln n and one can write : if : M = constant , n≠constant so : u = 1 n (Constant Money )",
+          "normalization": "whitespace",
+          "context_before": "oach equilibrium, where in principle there are only fluctuations. In Economics, the functioning of a system should not be an exception to this rule. Increasing deviations necessarily imply a vitiated process in the system. 2. Possibility 2 ",
+          "context_after": "",
+          "argument_function": "Compensation inverse de u; interprétée comme ajustement des prix"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 175,
+          "pages": [
+            175
+          ],
+          "quotation": "Consequently, if nothing else changes, the modification of the number of monetary units by issuing paper money (by the State) or credits (by the banks) is pure fantasy because the value of the unit will vary in an inversely proportional way. Obviously, agents who will receive a surplus of monetary units will be favoured at the expense of those who will not",
+          "normalization": "whitespace",
+          "context_before": "s and from Francs to Euros corresponds to a destruction of Money, which nobody pronounces. In fact, bankers create monetary units (n) and the above-mentioned events have destroyed them: 100 n in the first case and 6.55 957 n in the second. ",
+          "context_after": " have received any, because the latter will see their income decrease at the same time as the value of the unit, which, as before, increases inequality. Of course, any economic system has a certain inertia (like any physical system), the in",
+          "argument_function": "Compensation inverse de u; interprétée comme ajustement des prix"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 173,
+          "pages": [
+            173
+          ],
+          "quotation": "if some agents have increases in income (salary or other) this necessarily implies a loss (decrease) of income for other agents, because it will have been necessary to take the Money before it's redistributed to the agents whose salaries are increased. For example, if we consider an economic system made up of 20 million agents, and of these 200,000 (1%)",
+          "normalization": "whitespace",
+          "context_before": "173 doesn't mean that within the system there cannot be variations between the different parts of the system. In the case we are concerned with, ",
+          "context_after": " have their income increased by 5%, the average loss of other agents (19,800,000) will be 0.05%. In any case, this doesn't in any way increase the overall wealth of the system. However, in any system, physical or otherwise, gradients always",
+          "argument_function": "Gain de certains payé par les autres"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 175,
+          "pages": [
+            175
+          ],
+          "quotation": "Of course, any economic system has a certain inertia (like any physical system), the increase in certain incomes being immediate and the increase in prices being delayed for a certain period of time because of this inertia, resulting in a momentary increase in wealth. But because of this inertia, this temporary enrichment will necessarily be followed, later",
+          "normalization": "whitespace",
+          "context_before": "ceive a surplus of monetary units will be favoured at the expense of those who will not have received any, because the latter will see their income decrease at the same time as the value of the unit, which, as before, increases inequality. ",
+          "context_after": " on, by a decrease in the latter, i.e. by an impoverishment, the overall final result of the system being absolutely and rigorously zero. This hypothesis (composed of constant money possibilities 1 and 2) shows that no monetary wealth is ne",
+          "argument_function": "Gain temporaire puis impoverishment compensatrice"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 182,
+          "pages": [
+            182
+          ],
+          "quotation": "In everyday reality, developments can be seen as being formed from different possibilities that have just been defined. In an isolated system, if for some reason part of the population sees its income increase, it's certain that the rest of the population will see its income decrease, all other things being equal. If the heads of companies and shareholders",
+          "normalization": "whitespace",
+          "context_before": " and, consequently, of reason. Moreover :  these four analytical possibilities identify all possible monetary developments,  all the monetary considerations that one can imagine necessarily reside there.  NO OTHER POSSIBILITY CAN EXIST. ",
+          "context_after": " are",
+          "argument_function": "Composition des possibilités 1–4 explicitement admise"
+        }
+      ],
+      "scenarios": [
+        "SC-MONEY-17"
+      ]
+    },
+    {
+      "claim_id": "CPC-0015",
+      "action": "KEEP",
+      "old_statement": "Money créé désigne le supplément détenu par le consommateur après une baisse de prix.",
+      "new_statement": "Money créé désigne le supplément détenu par le consommateur après une baisse de prix.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0016",
+      "action": "QUALIFY",
+      "old_statement": "Le mécanisme proposé relie travail supplémentaire, productivité, baisse de prix, hausse de l’unité et supplément de Money.",
+      "new_statement": "Le mécanisme productif proposé relie Work supplémentaire, productivité et baisse de prix à Money accru : u augmente à n constant (3a), ou n est ensuite ajusté pour stabiliser u (4a).",
+      "reason": "Retour au contexte et séparation des scénarios auparavant aplatis; citation initiale conservée comme preuve de la formulation forte du manuscrit.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 18,
+          "pages": [
+            18
+          ],
+          "quotation": "Conversely, the repayment of a loan is similar to possibility 2b, with :  makes the number (n) of units to fall (dn < 0)  causes the value of the unit (u) increase (du > 0) Thus the increase in the number of monetary units (granting of a loan not covered by deposits) doesn’t create money and its decrease (repayment of a loan) doesn't destroy it. The",
+          "normalization": "whitespace",
+          "context_before": "es money would be a simplification instigating an abuse of language. The only thing that can be said is that bankers create monetary units and only monetary units, but by systematically varying the unit in an inversely proportional manner. ",
+          "context_after": " various developments represented by all the possibilities (1, 2, 3, 4) listed above exist and form a mixture that shapes daily reality. Whichever economic system is considered, it follows from this paragraph that any change in the number o",
+          "argument_function": "Retrait des unités; appréciation inverse postulée"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 177,
+          "pages": [
+            177
+          ],
+          "quotation": "Since by an increase of the Work performed a proportional quantity of Money is created, the State (or any other issuer of Money) has the right to issue as many monetary units (units of account in fiduciary or scriptural form) as Money created in order to keep the value of the monetary unit constant. In the same way as in the previous possibility, this",
+          "normalization": "whitespace",
+          "context_before": ". Possibility 4 In this case the number of units is variable (dn 0 - issue of monetary units), resulting in the relationship being written as follows : ∂nu= 1 u ⋅∂M and one can write : if : M ,n ≠constant so : u = constant (Current Money) ",
+          "context_after": " creation of Money increases the wealth of the system. However, it's quite obvious that the Money issued by the State must be equitably distributed among the agents composing the system, otherwise inequalities would be inevitably increased.",
+          "argument_function": "Émission proportionnée à Money déjà créé; distribution distincte"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 17,
+          "pages": [
+            17
+          ],
+          "quotation": "It should be noted that possibility 4 always results in the same phenomenon. If human doesn’t increase or decrease the number (n) of units, then we find ourselves in hypothesis 3. In this possibility (3a, 3b), it's clear that after a variation (u) in the unit, if the same inverse variation (n) in the number of units is made, it brings the unit back to its",
+          "normalization": "whitespace",
+          "context_before": "aper doesn't require 100 times as much energy as printing the number 10. A banker is no more tired (400 times) by granting a loan of 200,000 $ for the construction of a house than by granting a loan of 500 for the purchase of a dishwasher. ",
+          "context_after": " original value. Human is therefore authorised to emit or destroy a certain number (n) of monetary units in such a way that : Δu = 0 In conclusion, it can be argued that :  any variation in the number of monetary units automatically and in",
+          "argument_function": "Émission proportionnée à Money déjà créé; distribution distincte"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 18,
+          "pages": [
+            18
+          ],
+          "quotation": "Once this creation has taken place, it would possibly be possible for any issuer to strike, as far as necessary, a number (n) of monetary units in order to keep the unit (u) constant, which would correspond to possibility 4a, i.e. : 4a. ∂n > 0 and : du = 0 ⇒ ∂M >0",
+          "normalization": "whitespace",
+          "context_before": "plications Of all the possibilities for Money development listed above, only the one referred to in 3a, namely : 3a. dn = 0 and : ∂u > 0 ⇒ ∂M> 0 allows its creation, which is logically sought after since it's the one that increases wealth. ",
+          "context_after": "",
+          "argument_function": "Émission proportionnée à Money déjà créé; distribution distincte"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 18,
+          "pages": [
+            18
+          ],
+          "quotation": "The various developments represented by all the possibilities (1, 2, 3, 4) listed above exist and form a mixture that shapes daily reality. Whichever economic system is considered, it follows from this paragraph that any change in the number of monetary units doesn't alter the overall wealth of that system. This is due to the fact that no Work (energy)",
+          "normalization": "whitespace",
+          "context_before": "ll (dn < 0)  causes the value of the unit (u) increase (du > 0) Thus the increase in the number of monetary units (granting of a loan not covered by deposits) doesn’t create money and its decrease (repayment of a loan) doesn't destroy it. ",
+          "context_after": " commensurate with this change is required, as it derives from human initiative and behaviour following an accounting procedure. The result can only be a change strictly within the system, but without any global modification of the system. ",
+          "argument_function": "Composition des possibilités 1–4 explicitement admise"
+        }
+      ],
+      "scenarios": [
+        "SC-MONEY-04"
+      ]
+    },
+    {
+      "claim_id": "CPC-0019",
+      "action": "KEEP",
+      "old_statement": "Le travail productif est défini par sa capacité à réduire le coût de revient.",
+      "new_statement": "Le travail productif est défini par sa capacité à réduire le coût de revient.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0020",
+      "action": "KEEP",
+      "old_statement": "Une baisse du coût peut coexister avec un prix de vente constant.",
+      "new_statement": "Une baisse du coût peut coexister avec un prix de vente constant.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": [
+        "SC-MONEY-27"
+      ]
+    },
+    {
+      "claim_id": "CPC-0021",
+      "action": "KEEP",
+      "old_statement": "Le prix de vente relève du choix de l’entrepreneur sous contraintes de concurrence et de réglementation.",
+      "new_statement": "Le prix de vente relève du choix de l’entrepreneur sous contraintes de concurrence et de réglementation.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0022",
+      "action": "KEEP",
+      "old_statement": "L’auteur postule la transformation du travail supplémentaire du fournisseur en Money supplémentaire du consommateur.",
+      "new_statement": "L’auteur postule la transformation du travail supplémentaire du fournisseur en Money supplémentaire du consommateur.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0023",
+      "action": "KEEP",
+      "old_statement": "Dans un système isolé, la baisse du travail restant à faire compense la hausse de Money créé.",
+      "new_statement": "Dans un système isolé, la baisse du travail restant à faire compense la hausse de Money créé.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0024",
+      "action": "KEEP",
+      "old_statement": "Une transformation physique est distinguée du flux comptable.",
+      "new_statement": "Une transformation physique est distinguée du flux comptable.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0025",
+      "action": "QUALIFY",
+      "old_statement": "Dans le cas inflationniste décrit, le consommateur s’enrichit si la valeur unitaire baisse moins que le nombre d’unités ne croît.",
+      "new_statement": "Dans l’inflation dite incohérente 2a1, le consommateur gagne si la baisse de u ne compense pas sa hausse de n; le manuscrit distingue consommateurs, fournisseurs et épargnants et propose une correction ultérieure.",
+      "reason": "Retour au contexte et séparation des scénarios auparavant aplatis; citation initiale conservée comme preuve de la formulation forte du manuscrit.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 24,
+          "pages": [
+            24
+          ],
+          "quotation": "As the number n increases the consumer has more units available but the value of each unit decreases. But because the value decreases less as the number increases, the consumer gets richer. This fact encourages him to increase his consumption, which is well observed in reality. Little by little, the difference between the number n and the value of the unit",
+          "normalization": "whitespace",
+          "context_before": "d, without taking into account the value of the unit with which it's measured, makes it impossible to understand monetary developments.  Possibility 2a1 – Inflation The variables evolve as follows:  dn > 0 and : δu < 0 with : |dn| > |δu| ",
+          "context_after": " u increases. However, if the consumer wins, the supplier loses. This causes the company's income to decrease and encourages it first to separate from the manpower, and then eventually leads it to stop its activities, thus instigating an in",
+          "argument_function": "Gain consommateur, consommation accrue, perte fournisseur; g variable aux pages 526–532"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 532,
+          "pages": [
+            532
+          ],
+          "quotation": "It is very clear from these two tables that all coherent evolutions have a fixed transformation coefficient, whereas incoherent evolutions systematically have a variable coefficient. The chapter “00- Preamble - Monetary developments” provides information and explains the four incoherent developments of inflation and devaluation on the one hand, and",
+          "normalization": "whitespace",
+          "context_before": "532 ",
+          "context_after": " deflation and revaluation on the other. So to highlight the different possibilities, they can be presented as follows: Designation Rep. Transformation T→M Transformation M→T Work T D Coef. gTM Money M C Money M d Coef. gMT Work TC coherent",
+          "argument_function": "Gain consommateur, consommation accrue, perte fournisseur; g variable aux pages 526–532"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 25,
+          "pages": [
+            25
+          ],
+          "quotation": "It is therefore necessary for the unit u to decrease more than the number n increases in order to destroy unduly earned Money. It is possible to conceive of devaluation as a return of the value of the unit to its real level of reference, which favours and causes the economic system to be put back in order.  Possibility 2b1 – Deflation The variables evolve",
+          "normalization": "whitespace",
+          "context_before": "25 number n logically implies the same decrease in the unit u. But since inflation has increased the consumer's purchasing power, it's imperative that it should decrease so that he loses what he has previously gained. ",
+          "context_after": " as follows:  dn < 0 and : δu > 0 with : |dn| > |δu| Since the number n decreases the consumer has fewer units but the value of each unit increases. However, because the value increases less as the number decreases, the consumer becomes po",
+          "argument_function": "Perte compensant le gain jugé indu; retour obligatoire affirmé"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 25,
+          "pages": [
+            25
+          ],
+          "quotation": "Since the number n decreases the consumer has fewer units but the value of each unit increases. However, because the value increases less as the number decreases, the consumer becomes poorer. This fact encourages him to decrease his consumption, which is well observed in reality. Little by little, the difference between the number n and the unit u",
+          "normalization": "whitespace",
+          "context_before": "a return of the value of the unit to its real level of reference, which favours and causes the economic system to be put back in order.  Possibility 2b1 – Deflation The variables evolve as follows:  dn < 0 and : δu > 0 with : |dn| > |δu| ",
+          "context_after": " increases. However, if the consumer loses, the supplier wins. A priori, the entrepreneur is happy. However, since the consumer loses, he consumes less. This causes the company's income to decrease and encourages it first to separate from t",
+          "argument_function": "Consommation moindre malgré avantage initial fournisseur; g variable"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 25,
+          "pages": [
+            25
+          ],
+          "quotation": "The undervaluation of the Money due to deflation necessarily leads to its revaluation in the more or less long term. Normally, the decrease in the number n logically implies the same increase in the unit u. But since deflation has reduced the purchasing power of the consumer, it's imperative that it increases so that it gains what it has previously lost.",
+          "normalization": "whitespace",
+          "context_before": ". It is possible to conceive of deflation as an undervaluation of the monetary unit that can lead to the ruin of the economic system.  Possibility 2b2 – Revaluation The variables evolve as follows:  δn < 0 and : du > 0 with : |δn| < |du| ",
+          "context_after": "",
+          "argument_function": "Restitution du pouvoir d’achat antérieurement perdu"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 26,
+          "pages": [
+            26
+          ],
+          "quotation": "It is therefore necessary that the value of the unit u increases more than the number n decreases. It is possible to conceive of revaluation as a return of the value of the unit u to its real reference level, which favours and causes the economic system to be put back in order. Comparing the cases of inflation and deflation shows that the natural trend in",
+          "normalization": "whitespace",
+          "context_before": "26 ",
+          "context_after": " price evolution is inflation, since this is what consumers are looking for: this hypothesis allows them to acquire a Product supplement. This is indeed what has been observed historically: inflationary episodes, which are advantageous for ",
+          "argument_function": "Restitution du pouvoir d’achat antérieurement perdu"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 26,
+          "pages": [
+            26
+          ],
+          "quotation": "As long as the speed of price increases remains lower than that of consumption, all consumers are winners and savers are losers. But when the speed of inflation becomes higher, all consumers also lose out because they no longer have enough time to consume before prices rise again. They can therefore be described as savers. The latter hypothesis can be",
+          "normalization": "whitespace",
+          "context_before": " etc., of a correct and adequate functioning of the economic system. It is therefore possible to argue that :  only the balance between supply and demand policy is to be sought, so that developments remain coherent (possibilities 2a, 2b). ",
+          "context_after": " defined as a state of hyperinflation. Conclusion",
+          "argument_function": "Consommateurs gagnants deviennent perdants faute de dépenser assez vite"
+        }
+      ],
+      "scenarios": [
+        "SC-MONEY-08"
+      ]
+    },
+    {
+      "claim_id": "CPC-0026",
+      "action": "QUALIFY",
+      "old_statement": "Dans le cas déflationniste décrit, la baisse du nombre d’unités domine leur appréciation et appauvrit le consommateur.",
+      "new_statement": "Dans la déflation dite incohérente 2b1, l’appréciation de u ne compense pas la baisse de n du consommateur; une réévaluation correctrice 2b2 est ensuite affirmée.",
+      "reason": "Retour au contexte et séparation des scénarios auparavant aplatis; citation initiale conservée comme preuve de la formulation forte du manuscrit.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 532,
+          "pages": [
+            532
+          ],
+          "quotation": "It is very clear from these two tables that all coherent evolutions have a fixed transformation coefficient, whereas incoherent evolutions systematically have a variable coefficient. The chapter “00- Preamble - Monetary developments” provides information and explains the four incoherent developments of inflation and devaluation on the one hand, and",
+          "normalization": "whitespace",
+          "context_before": "532 ",
+          "context_after": " deflation and revaluation on the other. So to highlight the different possibilities, they can be presented as follows: Designation Rep. Transformation T→M Transformation M→T Work T D Coef. gTM Money M C Money M d Coef. gMT Work TC coherent",
+          "argument_function": "Gain consommateur, consommation accrue, perte fournisseur; g variable aux pages 526–532"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 25,
+          "pages": [
+            25
+          ],
+          "quotation": "It is therefore necessary for the unit u to decrease more than the number n increases in order to destroy unduly earned Money. It is possible to conceive of devaluation as a return of the value of the unit to its real level of reference, which favours and causes the economic system to be put back in order.  Possibility 2b1 – Deflation The variables evolve",
+          "normalization": "whitespace",
+          "context_before": "25 number n logically implies the same decrease in the unit u. But since inflation has increased the consumer's purchasing power, it's imperative that it should decrease so that he loses what he has previously gained. ",
+          "context_after": " as follows:  dn < 0 and : δu > 0 with : |dn| > |δu| Since the number n decreases the consumer has fewer units but the value of each unit increases. However, because the value increases less as the number decreases, the consumer becomes po",
+          "argument_function": "Perte compensant le gain jugé indu; retour obligatoire affirmé"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 25,
+          "pages": [
+            25
+          ],
+          "quotation": "Since the number n decreases the consumer has fewer units but the value of each unit increases. However, because the value increases less as the number decreases, the consumer becomes poorer. This fact encourages him to decrease his consumption, which is well observed in reality. Little by little, the difference between the number n and the unit u",
+          "normalization": "whitespace",
+          "context_before": "a return of the value of the unit to its real level of reference, which favours and causes the economic system to be put back in order.  Possibility 2b1 – Deflation The variables evolve as follows:  dn < 0 and : δu > 0 with : |dn| > |δu| ",
+          "context_after": " increases. However, if the consumer loses, the supplier wins. A priori, the entrepreneur is happy. However, since the consumer loses, he consumes less. This causes the company's income to decrease and encourages it first to separate from t",
+          "argument_function": "Consommation moindre malgré avantage initial fournisseur; g variable"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 25,
+          "pages": [
+            25
+          ],
+          "quotation": "The undervaluation of the Money due to deflation necessarily leads to its revaluation in the more or less long term. Normally, the decrease in the number n logically implies the same increase in the unit u. But since deflation has reduced the purchasing power of the consumer, it's imperative that it increases so that it gains what it has previously lost.",
+          "normalization": "whitespace",
+          "context_before": ". It is possible to conceive of deflation as an undervaluation of the monetary unit that can lead to the ruin of the economic system.  Possibility 2b2 – Revaluation The variables evolve as follows:  δn < 0 and : du > 0 with : |δn| < |du| ",
+          "context_after": "",
+          "argument_function": "Restitution du pouvoir d’achat antérieurement perdu"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 26,
+          "pages": [
+            26
+          ],
+          "quotation": "It is therefore necessary that the value of the unit u increases more than the number n decreases. It is possible to conceive of revaluation as a return of the value of the unit u to its real reference level, which favours and causes the economic system to be put back in order. Comparing the cases of inflation and deflation shows that the natural trend in",
+          "normalization": "whitespace",
+          "context_before": "26 ",
+          "context_after": " price evolution is inflation, since this is what consumers are looking for: this hypothesis allows them to acquire a Product supplement. This is indeed what has been observed historically: inflationary episodes, which are advantageous for ",
+          "argument_function": "Restitution du pouvoir d’achat antérieurement perdu"
+        },
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 26,
+          "pages": [
+            26
+          ],
+          "quotation": "As long as the speed of price increases remains lower than that of consumption, all consumers are winners and savers are losers. But when the speed of inflation becomes higher, all consumers also lose out because they no longer have enough time to consume before prices rise again. They can therefore be described as savers. The latter hypothesis can be",
+          "normalization": "whitespace",
+          "context_before": " etc., of a correct and adequate functioning of the economic system. It is therefore possible to argue that :  only the balance between supply and demand policy is to be sought, so that developments remain coherent (possibilities 2a, 2b). ",
+          "context_after": " defined as a state of hyperinflation. Conclusion",
+          "argument_function": "Consommateurs gagnants deviennent perdants faute de dépenser assez vite"
+        }
+      ],
+      "scenarios": [
+        "SC-MONEY-10"
+      ]
+    },
+    {
+      "claim_id": "CPC-0027",
+      "action": "KEEP",
+      "old_statement": "L’auteur préconise un équilibre entre politiques d’offre et de demande.",
+      "new_statement": "L’auteur préconise un équilibre entre politiques d’offre et de demande.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0028",
+      "action": "KEEP",
+      "old_statement": "L’incapacité attribuée aux banques à créer Money n’implique pas leur inutilité sociale.",
+      "new_statement": "L’incapacité attribuée aux banques à créer Money n’implique pas leur inutilité sociale.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0030",
+      "action": "KEEP",
+      "old_statement": "La recherche de la genèse de Money exclut selon l’auteur toute référence à l’être humain.",
+      "new_statement": "La recherche de la genèse de Money exclut selon l’auteur toute référence à l’être humain.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0032",
+      "action": "KEEP",
+      "old_statement": "L’économie de travail augmente vers un maximum sous contraintes externes.",
+      "new_statement": "L’économie de travail augmente vers un maximum sous contraintes externes.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0033",
+      "action": "KEEP",
+      "old_statement": "L’économie de Money augmente vers un maximum sous contraintes externes.",
+      "new_statement": "L’économie de Money augmente vers un maximum sous contraintes externes.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0034",
+      "action": "KEEP",
+      "old_statement": "Le troc est présenté comme un échange sans Money entre produits d’utilités égales.",
+      "new_statement": "Le troc est présenté comme un échange sans Money entre produits d’utilités égales.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0036",
+      "action": "KEEP",
+      "old_statement": "La variation de Work servirait exclusivement à varier le prix, non à fabriquer le produit.",
+      "new_statement": "La variation de Work servirait exclusivement à varier le prix, non à fabriquer le produit.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0039",
+      "action": "KEEP",
+      "old_statement": "Economic Work et Money sont posés comme deux formes d’énergie économique.",
+      "new_statement": "Economic Work et Money sont posés comme deux formes d’énergie économique.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0041",
+      "action": "KEEP",
+      "old_statement": "Product supporte Work et Cash supporte Money.",
+      "new_statement": "Product supporte Work et Cash supporte Money.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0043",
+      "action": "KEEP",
+      "old_statement": "Le principe d’équivalence est écrit M=g.T.",
+      "new_statement": "Le principe d’équivalence est écrit M=g.T.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0045",
+      "action": "KEEP",
+      "old_statement": "Le différentiel de Money est défini par dM=-F.dp.",
+      "new_statement": "Le différentiel de Money est défini par dM=-F.dp.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0046",
+      "action": "KEEP",
+      "old_statement": "Money est la valeur de Cash, lequel en est le support.",
+      "new_statement": "Money est la valeur de Cash, lequel en est le support.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0047",
+      "action": "KEEP",
+      "old_statement": "Les variations doivent être assez petites et proches dans le temps pour être traitées comme continues.",
+      "new_statement": "Les variations doivent être assez petites et proches dans le temps pour être traitées comme continues.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0048",
+      "action": "KEEP",
+      "old_statement": "Wealth désigne exclusivement la quantité de Money, sans inclure les actifs patrimoniaux.",
+      "new_statement": "Wealth désigne exclusivement la quantité de Money, sans inclure les actifs patrimoniaux.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0050",
+      "action": "KEEP",
+      "old_statement": "Une ligne de crédit bancaire est Cash, pas Money dans ce vocabulaire.",
+      "new_statement": "Une ligne de crédit bancaire est Cash, pas Money dans ce vocabulaire.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0053",
+      "action": "KEEP",
+      "old_statement": "Money mesure la valeur de Cash ; cette valeur varie dans le temps et selon le lieu.",
+      "new_statement": "Money mesure la valeur de Cash ; cette valeur varie dans le temps et selon le lieu.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0058",
+      "action": "KEEP",
+      "old_statement": "Le manuscrit déduit une absence de baisse du prix des œuvres d’art de leur utilité presque constante.",
+      "new_statement": "Le manuscrit déduit une absence de baisse du prix des œuvres d’art de leur utilité presque constante.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0059",
+      "action": "KEEP",
+      "old_statement": "L’utilité de Cash est donnée comme d’autant plus élevée que le revenu est bas.",
+      "new_statement": "L’utilité de Cash est donnée comme d’autant plus élevée que le revenu est bas.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0065",
+      "action": "KEEP",
+      "old_statement": "L’absence de création de richesse monétaire n’exclut pas les richesses culturelles ou les services non marchands.",
+      "new_statement": "L’absence de création de richesse monétaire n’exclut pas les richesses culturelles ou les services non marchands.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0066",
+      "action": "KEEP",
+      "old_statement": "Les complexités du Product et de Cash ne sont pas égales malgré une notation c parfois commune.",
+      "new_statement": "Les complexités du Product et de Cash ne sont pas égales malgré une notation c parfois commune.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    },
+    {
+      "claim_id": "CPC-0068",
+      "action": "KEEP",
+      "old_statement": "Les relations de vitesse mesurent les évolutions sans en déterminer les causes.",
+      "new_statement": "Les relations de vitesse mesurent les évolutions sans en déterminer les causes.",
+      "reason": "Énoncé local conservé; aucune neutralité générale ajoutée.",
+      "new_sources": [],
+      "scenarios": []
+    }
+  ],
+  "new_claims": [
+    "CPC-0069",
+    "CPC-0070",
+    "CPC-0071",
+    "CPC-0072",
+    "CPC-0073",
+    "CPC-0074",
+    "CPC-0075",
+    "CPC-0076",
+    "CPC-0077",
+    "CPC-0078",
+    "CPC-0079",
+    "CPC-0080",
+    "CPC-0081",
+    "CPC-0082",
+    "CPC-0083",
+    "CPC-0084",
+    "CPC-0085",
+    "CPC-0086",
+    "CPC-0087",
+    "CPC-0088",
+    "CPC-0089",
+    "CPC-0090",
+    "CPC-0091",
+    "CPC-0092",
+    "CPC-0093"
+  ],
+  "actions": {
+    "KEEP": 34,
+    "QUALIFY": 6,
+    "SPLIT": 1
+  },
+  "addendum_reason": "Additional full-page reading: speculation without n withdrawal, interest closure alternatives and reciprocal non-neutrality."
+}

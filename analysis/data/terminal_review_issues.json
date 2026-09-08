@@ -1,0 +1,95 @@
+[
+  {
+    "id": "TERM-01",
+    "pages": [
+      467,
+      470
+    ],
+    "status": "INCONSISTENT",
+    "scope": "Local displayed implication constant Force → constant a/e",
+    "reason": "F*Δt=Δa (ou Δe) requires F=0 or zero interval, not arbitrary nonzero constant F; prose no additional force may mean zero net force.",
+    "visual_checked_pages": [
+      467
+    ]
+  },
+  {
+    "id": "TERM-02",
+    "pages": [
+      413,
+      414,
+      464
+    ],
+    "status": "PARTIALLY_RESOLVED",
+    "scope": "État économique versus entropie physique",
+    "reason": "Hypothèse sans pertes conservée; dS=δQ/T exige chemin réversible ou bilan de production d’entropie, non fourni par simple insertion des rendements."
+  },
+  {
+    "id": "TERM-03",
+    "pages": [
+      203,
+      207,
+      471,
+      547,
+      553,
+      554,
+      556,
+      557
+    ],
+    "status": "AMBIGUOUS",
+    "scope": "T / dT / Tpos / Tneg",
+    "reason": "T intégré entre deux instants p471; état quadratique p207; Work restant p547; changement de référent explicite p553–554; aucune conversion globale univoque établie.",
+    "visual_checked_pages": [
+      554
+    ]
+  },
+  {
+    "id": "TERM-04",
+    "pages": [
+      384,
+      385,
+      388,
+      389,
+      551,
+      552
+    ],
+    "status": "PARTIALLY_RESOLVED",
+    "scope": "Rendements et signes",
+    "reason": "η=−M/T avec M sortant négatif; dérivée quotient cohérente. Domaine de maximum34% et signe des branches hors équilibre restent ouverts."
+  },
+  {
+    "id": "TERM-05",
+    "pages": [
+      548,
+      550,
+      553,
+      554
+    ],
+    "status": "AMBIGUOUS",
+    "scope": "Métrique du champ",
+    "reason": "Addition ω²+varpi² et seuil d’angle exigent échelles communes. Substitution e=cpω dans ω² donne e²/cp², tandis que p554 affiche des dénominateurs cp,ca; changement de normalisation non explicité.",
+    "visual_checked_pages": [
+      554
+    ]
+  },
+  {
+    "id": "TERM-06",
+    "pages": [
+      489,
+      490
+    ],
+    "status": "PARTIALLY_RESOLVED",
+    "scope": "Monopole ne crée jamais",
+    "reason": "La formule générale p489 doit conserver la branche brevet productif p490; pas de réfutation globale à partir du seul intitulé."
+  },
+  {
+    "id": "TERM-07",
+    "pages": [
+      538,
+      558,
+      559
+    ],
+    "status": "NOT_ESTABLISHED",
+    "scope": "Micro → macro et K",
+    "reason": "Réserve explicite locale puis hypothèse de stabilisation et identification GDP. Les données ne testent pas les variables T/M indépendamment."
+  }
+]

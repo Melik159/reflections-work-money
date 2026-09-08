@@ -1,0 +1,1341 @@
+{
+  "scope": "Overlay, no canonical edge silently changed",
+  "claim_annotations": [
+    {
+      "claim": "CPC-0001",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "La question de p3 demeure racine; p29 restreint le préambule, pas tout le manuscrit. Les liens environnementaux existent p72/454/460.",
+      "questions": [
+        "RQ-ROOT",
+        "RQ-01",
+        "RQ-01.01",
+        "RQ-01.02",
+        "RQ-11",
+        "RQ-11.01",
+        "RQ-12",
+        "RQ-12.02",
+        "RQ-12.03"
+      ]
+    },
+    {
+      "claim": "CPC-0002",
+      "review": "CONFIRMED",
+      "conditions": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.01"
+      ]
+    },
+    {
+      "claim": "CPC-0003",
+      "review": "QUALIFIED",
+      "conditions": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique.",
+      "questions": [
+        "RQ-ROOT",
+        "RQ-01",
+        "RQ-01.01",
+        "RQ-09",
+        "RQ-09.02",
+        "RQ-12",
+        "RQ-12.01",
+        "RQ-12.03"
+      ]
+    },
+    {
+      "claim": "CPC-0004",
+      "review": "CONFIRMED",
+      "conditions": "Continuité, quasi-staticité et régularité sont restrictions. Durées égales des cycles polaires sont une simplification supplémentaire limitée au remplacement.",
+      "questions": [
+        "RQ-08",
+        "RQ-08.03"
+      ]
+    },
+    {
+      "claim": "CPC-0005",
+      "review": "QUALIFIED",
+      "conditions": "L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02"
+      ]
+    },
+    {
+      "claim": "CPC-0006",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Product comprend services, manufacturer n'est pas toujours créateur. Transport effectif et marchand sont distingués; la catégorie professionnelle seule ne détermine pas Utility.",
+      "questions": [
+        "RQ-02",
+        "RQ-02.01"
+      ]
+    },
+    {
+      "claim": "CPC-0007",
+      "review": "QUALIFIED",
+      "conditions": "Création/usage/transfert gardent des frontières distinctes; commande et crédit peuvent précéder le travail considéré, mais l'auteur demande une origine antérieure du Money. Pertes utiles et redistribution reconnues.",
+      "questions": [
+        "RQ-02",
+        "RQ-02.02",
+        "RQ-07",
+        "RQ-07.01"
+      ]
+    },
+    {
+      "claim": "CPC-0008",
+      "review": "QUALIFIED",
+      "conditions": "Création/usage/transfert gardent des frontières distinctes; commande et crédit peuvent précéder le travail considéré, mais l'auteur demande une origine antérieure du Money. Pertes utiles et redistribution reconnues.",
+      "questions": [
+        "RQ-10",
+        "RQ-10.02"
+      ]
+    },
+    {
+      "claim": "CPC-0009",
+      "review": "QUALIFIED",
+      "conditions": "Principe de création par transformation Utility, non exclusion de toute activité humaine/sociale. Technologie productive et rente coexistent; Core Laws admises comme hypothèses.",
+      "questions": [
+        "RQ-02",
+        "RQ-02.02",
+        "RQ-02.03",
+        "RQ-12",
+        "RQ-12.02"
+      ]
+    },
+    {
+      "claim": "CPC-0010",
+      "review": "CONFIRMED",
+      "conditions": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.01"
+      ]
+    },
+    {
+      "claim": "CPC-0011",
+      "review": "CONFIRMED",
+      "conditions": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.01"
+      ]
+    },
+    {
+      "claim": "CPC-0012",
+      "review": "QUALIFIED",
+      "conditions": "L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02"
+      ]
+    },
+    {
+      "claim": "CPC-0013",
+      "review": "QUALIFIED",
+      "conditions": "L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.04"
+      ]
+    },
+    {
+      "claim": "CPC-0014",
+      "review": "QUALIFIED",
+      "conditions": "L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité.",
+      "questions": [
+        "RQ-02",
+        "RQ-02.02",
+        "RQ-06",
+        "RQ-06.04"
+      ]
+    },
+    {
+      "claim": "CPC-0015",
+      "review": "QUALIFIED",
+      "conditions": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.03",
+        "RQ-10",
+        "RQ-10.01"
+      ]
+    },
+    {
+      "claim": "CPC-0016",
+      "review": "QUALIFIED",
+      "conditions": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.03",
+        "RQ-10",
+        "RQ-10.01"
+      ]
+    },
+    {
+      "claim": "CPC-0017",
+      "review": "QUALIFIED",
+      "conditions": "Nécessité énergétique et récit historique sont affirmations du corpus, non résultats indépendamment mesurés; énergie utile, pertes et énergie sans création distinguent les branches. Macro extrapolations non démontrées.",
+      "questions": [
+        "RQ-04",
+        "RQ-04.01",
+        "RQ-09",
+        "RQ-09.01",
+        "RQ-09.02"
+      ]
+    },
+    {
+      "claim": "CPC-0018",
+      "review": "QUALIFIED",
+      "conditions": "Nécessité énergétique et récit historique sont affirmations du corpus, non résultats indépendamment mesurés; énergie utile, pertes et énergie sans création distinguent les branches. Macro extrapolations non démontrées.",
+      "questions": [
+        "RQ-01",
+        "RQ-01.03",
+        "RQ-09",
+        "RQ-09.01",
+        "RQ-10",
+        "RQ-10.03",
+        "RQ-11",
+        "RQ-11.01",
+        "RQ-11.03",
+        "RQ-12",
+        "RQ-12.02"
+      ]
+    },
+    {
+      "claim": "CPC-0019",
+      "review": "QUALIFIED",
+      "conditions": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+      "questions": [
+        "RQ-04",
+        "RQ-04.01",
+        "RQ-05",
+        "RQ-05.01"
+      ]
+    },
+    {
+      "claim": "CPC-0020",
+      "review": "QUALIFIED",
+      "conditions": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.01"
+      ]
+    },
+    {
+      "claim": "CPC-0021",
+      "review": "QUALIFIED",
+      "conditions": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.01",
+        "RQ-05.02"
+      ]
+    },
+    {
+      "claim": "CPC-0022",
+      "review": "QUALIFIED",
+      "conditions": "Principe de création par transformation Utility, non exclusion de toute activité humaine/sociale. Technologie productive et rente coexistent; Core Laws admises comme hypothèses.",
+      "questions": [
+        "RQ-02",
+        "RQ-02.02",
+        "RQ-02.03"
+      ]
+    },
+    {
+      "claim": "CPC-0023",
+      "review": "QUALIFIED",
+      "conditions": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.02",
+        "RQ-03.04"
+      ]
+    },
+    {
+      "claim": "CPC-0024",
+      "review": "QUALIFIED",
+      "conditions": "Création/usage/transfert gardent des frontières distinctes; commande et crédit peuvent précéder le travail considéré, mais l'auteur demande une origine antérieure du Money. Pertes utiles et redistribution reconnues.",
+      "questions": [
+        "RQ-02",
+        "RQ-02.02",
+        "RQ-07",
+        "RQ-07.02"
+      ]
+    },
+    {
+      "claim": "CPC-0025",
+      "review": "CONFIRMED",
+      "conditions": "Branches incohérentes et corrections effectivement annoncées; CONFIRMED porte sur leur présence textuelle, pas sur nécessité empirique de correction ni définition usuelle inflation.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02"
+      ]
+    },
+    {
+      "claim": "CPC-0026",
+      "review": "CONFIRMED",
+      "conditions": "Branches incohérentes et corrections effectivement annoncées; CONFIRMED porte sur leur présence textuelle, pas sur nécessité empirique de correction ni définition usuelle inflation.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02"
+      ]
+    },
+    {
+      "claim": "CPC-0027",
+      "review": "QUALIFIED",
+      "conditions": "Utilité sociale des banques admise. Équilibre et justice ajoutent une norme; ni g=1 ni égalité des ratios ne sont démontrés par le seul principe de conservation.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.04"
+      ]
+    },
+    {
+      "claim": "CPC-0028",
+      "review": "QUALIFIED",
+      "conditions": "Utilité sociale des banques admise. Équilibre et justice ajoutent une norme; ni g=1 ni égalité des ratios ne sont démontrés par le seul principe de conservation.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.04"
+      ]
+    },
+    {
+      "claim": "CPC-0029",
+      "review": "QUALIFIED",
+      "conditions": "Nécessité énergétique et récit historique sont affirmations du corpus, non résultats indépendamment mesurés; énergie utile, pertes et énergie sans création distinguent les branches. Macro extrapolations non démontrées.",
+      "questions": [
+        "RQ-01",
+        "RQ-01.03",
+        "RQ-09",
+        "RQ-09.01",
+        "RQ-12",
+        "RQ-12.02"
+      ]
+    },
+    {
+      "claim": "CPC-0030",
+      "review": "QUALIFIED",
+      "conditions": "Principe de création par transformation Utility, non exclusion de toute activité humaine/sociale. Technologie productive et rente coexistent; Core Laws admises comme hypothèses.",
+      "questions": [
+        "RQ-01",
+        "RQ-01.01",
+        "RQ-02",
+        "RQ-02.03"
+      ]
+    },
+    {
+      "claim": "CPC-0031",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Exclusion environnementale est celle du préambule économique; dommage explicitement traité ailleurs. Ne pas transformer ce claim local en absence totale du sujet.",
+      "questions": [
+        "RQ-ROOT",
+        "RQ-01",
+        "RQ-01.01",
+        "RQ-01.04",
+        "RQ-11",
+        "RQ-11.01",
+        "RQ-11.03",
+        "RQ-12",
+        "RQ-12.03"
+      ]
+    },
+    {
+      "claim": "CPC-0032",
+      "review": "QUALIFIED",
+      "conditions": "Maximisation sous contraintes; antagonisme par copie, non par heure. Conditions et échelles des diagrammes indispensables; équilibre social supplémentaire.",
+      "questions": [
+        "RQ-04",
+        "RQ-04.04"
+      ]
+    },
+    {
+      "claim": "CPC-0033",
+      "review": "QUALIFIED",
+      "conditions": "Maximisation sous contraintes; antagonisme par copie, non par heure. Conditions et échelles des diagrammes indispensables; équilibre social supplémentaire.",
+      "questions": [
+        "RQ-04",
+        "RQ-04.04"
+      ]
+    },
+    {
+      "claim": "CPC-0034",
+      "review": "REQUIRES_FURTHER_REVIEW",
+      "conditions": "Troc, Money et comparaison intra/inter-agents distingués. Égalité des Utility interpersonnelles non prouvée par deux variations tendant vers zéro; exemple800/1500 et compensation400/700 incohérent.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.03"
+      ]
+    },
+    {
+      "claim": "CPC-0035",
+      "review": "CONFIRMED",
+      "conditions": "+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.",
+      "questions": [
+        "RQ-04",
+        "RQ-04.02"
+      ]
+    },
+    {
+      "claim": "CPC-0036",
+      "review": "QUALIFIED",
+      "conditions": "Variation de Work change la vitesse/coût entre états, tandis que le labour réalise la copie. Ne pas nier consommation physique de fabrication à vitesse constante.",
+      "questions": [
+        "RQ-02",
+        "RQ-02.03"
+      ]
+    },
+    {
+      "claim": "CPC-0037",
+      "review": "QUALIFIED",
+      "conditions": "Débits définis; déduction D/S≤1 depuis totaux cumulés omet stocks et fenêtre temporelle. Offre/vente/demande désirée ne sont pas identiques.",
+      "questions": [
+        "RQ-01",
+        "RQ-01.03",
+        "RQ-08",
+        "RQ-08.01"
+      ]
+    },
+    {
+      "claim": "CPC-0038",
+      "review": "QUALIFIED",
+      "conditions": "Cycles conditionnels, non machine universelle. Table des rendements conserve deux facteurs; carré seulement à égalité, durées identiques seulement simplificatrices; signes locaux fautifs catalogués.",
+      "questions": [
+        "RQ-04",
+        "RQ-04.04",
+        "RQ-07",
+        "RQ-07.03"
+      ]
+    },
+    {
+      "claim": "CPC-0039",
+      "review": "QUALIFIED",
+      "conditions": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.03",
+        "RQ-03.04",
+        "RQ-09",
+        "RQ-09.02"
+      ]
+    },
+    {
+      "claim": "CPC-0040",
+      "review": "QUALIFIED",
+      "conditions": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.01",
+        "RQ-03.02"
+      ]
+    },
+    {
+      "claim": "CPC-0041",
+      "review": "CONFIRMED",
+      "conditions": "Supports distingués de caractéristiques; conservation comptable d'un support ne prouve pas transformation productive.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.01",
+        "RQ-06",
+        "RQ-06.01"
+      ]
+    },
+    {
+      "claim": "CPC-0042",
+      "review": "QUALIFIED",
+      "conditions": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique.",
+      "questions": [
+        "RQ-01",
+        "RQ-01.01",
+        "RQ-09",
+        "RQ-09.02"
+      ]
+    },
+    {
+      "claim": "CPC-0043",
+      "review": "QUALIFIED",
+      "conditions": "Équivalence avec coefficient, g variable admis puis égalité recherchée/posée. K agrégé n'est pas garanti constant par nombre de produits; pas confusion g/r/K.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.03",
+        "RQ-03.04",
+        "RQ-08",
+        "RQ-08.02"
+      ]
+    },
+    {
+      "claim": "CPC-0044",
+      "review": "QUALIFIED",
+      "conditions": "Équivalence avec coefficient, g variable admis puis égalité recherchée/posée. K agrégé n'est pas garanti constant par nombre de produits; pas confusion g/r/K.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.03",
+        "RQ-08",
+        "RQ-08.02"
+      ]
+    },
+    {
+      "claim": "CPC-0045",
+      "review": "QUALIFIED",
+      "conditions": "dM=-Fdp sous Force et orientation définies; FA extérieur signé peut apparaître avec plus. Les normalisations locales/globales restent différentes.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.02"
+      ]
+    },
+    {
+      "claim": "CPC-0046",
+      "review": "CONFIRMED",
+      "conditions": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.01"
+      ]
+    },
+    {
+      "claim": "CPC-0047",
+      "review": "CONFIRMED",
+      "conditions": "Continuité, quasi-staticité et régularité sont restrictions. Durées égales des cycles polaires sont une simplification supplémentaire limitée au remplacement.",
+      "questions": [
+        "RQ-08",
+        "RQ-08.03"
+      ]
+    },
+    {
+      "claim": "CPC-0048",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Wealth monétaire exclut patrimoine sans nier richesse sociale; épargne comme potentiel et PIB final exigent horizon. Ne pas conclure que tout service exclu est inutile.",
+      "questions": [
+        "RQ-01",
+        "RQ-01.02",
+        "RQ-02",
+        "RQ-02.01",
+        "RQ-12",
+        "RQ-12.03"
+      ]
+    },
+    {
+      "claim": "CPC-0049",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Product comprend services, manufacturer n'est pas toujours créateur. Transport effectif et marchand sont distingués; la catégorie professionnelle seule ne détermine pas Utility.",
+      "questions": [
+        "RQ-02",
+        "RQ-02.01"
+      ]
+    },
+    {
+      "claim": "CPC-0050",
+      "review": "CONFIRMED",
+      "conditions": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.01",
+        "RQ-06.04"
+      ]
+    },
+    {
+      "claim": "CPC-0051",
+      "review": "QUALIFIED",
+      "conditions": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.01"
+      ]
+    },
+    {
+      "claim": "CPC-0052",
+      "review": "QUALIFIED",
+      "conditions": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.01",
+        "RQ-03.03",
+        "RQ-04",
+        "RQ-04.01"
+      ]
+    },
+    {
+      "claim": "CPC-0053",
+      "review": "CONFIRMED",
+      "conditions": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.01",
+        "RQ-10",
+        "RQ-10.01"
+      ]
+    },
+    {
+      "claim": "CPC-0054",
+      "review": "QUALIFIED",
+      "conditions": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.03",
+        "RQ-04",
+        "RQ-04.03"
+      ]
+    },
+    {
+      "claim": "CPC-0055",
+      "review": "QUALIFIED",
+      "conditions": "Utility contextuelle, non proxy automatique de besoin/qualité/prix. Besoin satisfait donne Utility nulle p132 mais copies et fonction subsistent p108/111; ratio, égalité et dérivée exigent échelle et hypothèses propres.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.03"
+      ]
+    },
+    {
+      "claim": "CPC-0056",
+      "review": "QUALIFIED",
+      "conditions": "Utility contextuelle, non proxy automatique de besoin/qualité/prix. Besoin satisfait donne Utility nulle p132 mais copies et fonction subsistent p108/111; ratio, égalité et dérivée exigent échelle et hypothèses propres.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.03"
+      ]
+    },
+    {
+      "claim": "CPC-0057",
+      "review": "QUALIFIED",
+      "conditions": "Utility contextuelle, non proxy automatique de besoin/qualité/prix. Besoin satisfait donne Utility nulle p132 mais copies et fonction subsistent p108/111; ratio, égalité et dérivée exigent échelle et hypothèses propres.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.03"
+      ]
+    },
+    {
+      "claim": "CPC-0058",
+      "review": "QUALIFIED",
+      "conditions": "Utility contextuelle, non proxy automatique de besoin/qualité/prix. Besoin satisfait donne Utility nulle p132 mais copies et fonction subsistent p108/111; ratio, égalité et dérivée exigent échelle et hypothèses propres.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.03"
+      ]
+    },
+    {
+      "claim": "CPC-0059",
+      "review": "QUALIFIED",
+      "conditions": "Utility contextuelle, non proxy automatique de besoin/qualité/prix. Besoin satisfait donne Utility nulle p132 mais copies et fonction subsistent p108/111; ratio, égalité et dérivée exigent échelle et hypothèses propres.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.03"
+      ]
+    },
+    {
+      "claim": "CPC-0060",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Product comprend services, manufacturer n'est pas toujours créateur. Transport effectif et marchand sont distingués; la catégorie professionnelle seule ne détermine pas Utility.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.02",
+        "RQ-07",
+        "RQ-07.01"
+      ]
+    },
+    {
+      "claim": "CPC-0061",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Product comprend services, manufacturer n'est pas toujours créateur. Transport effectif et marchand sont distingués; la catégorie professionnelle seule ne détermine pas Utility.",
+      "questions": [
+        "RQ-07",
+        "RQ-07.01"
+      ]
+    },
+    {
+      "claim": "CPC-0062",
+      "review": "CONFIRMED",
+      "conditions": "Signes entrants/sortants et point de vue sont explicites; erreurs locales de cycles ne doivent pas effacer la convention générale ni devenir preuve contre elle.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.02",
+        "RQ-07",
+        "RQ-07.01"
+      ]
+    },
+    {
+      "claim": "CPC-0063",
+      "review": "CONFIRMED",
+      "conditions": "Signes entrants/sortants et point de vue sont explicites; erreurs locales de cycles ne doivent pas effacer la convention générale ni devenir preuve contre elle.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.02",
+        "RQ-07",
+        "RQ-07.01"
+      ]
+    },
+    {
+      "claim": "CPC-0064",
+      "review": "QUALIFIED",
+      "conditions": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.01"
+      ]
+    },
+    {
+      "claim": "CPC-0065",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Wealth monétaire exclut patrimoine sans nier richesse sociale; épargne comme potentiel et PIB final exigent horizon. Ne pas conclure que tout service exclu est inutile.",
+      "questions": [
+        "RQ-01",
+        "RQ-01.01",
+        "RQ-01.02",
+        "RQ-02",
+        "RQ-02.01",
+        "RQ-10",
+        "RQ-10.03"
+      ]
+    },
+    {
+      "claim": "CPC-0066",
+      "review": "QUALIFIED",
+      "conditions": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.03",
+        "RQ-04",
+        "RQ-04.03"
+      ]
+    },
+    {
+      "claim": "CPC-0067",
+      "review": "QUALIFIED",
+      "conditions": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique.",
+      "questions": [
+        "RQ-09",
+        "RQ-09.02",
+        "RQ-09.03"
+      ]
+    },
+    {
+      "claim": "CPC-0068",
+      "review": "CONFIRMED",
+      "conditions": "Vitesses descriptives distinguées de causes; prix au cours d'une copie et entre copies ne sont pas une seule variable temporelle.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.03",
+        "RQ-12",
+        "RQ-12.01"
+      ]
+    },
+    {
+      "claim": "CPC-0069",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02"
+      ]
+    },
+    {
+      "claim": "CPC-0070",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02"
+      ]
+    },
+    {
+      "claim": "CPC-0071",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02",
+        "RQ-06.03"
+      ]
+    },
+    {
+      "claim": "CPC-0072",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02",
+        "RQ-06.03"
+      ]
+    },
+    {
+      "claim": "CPC-0073",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02",
+        "RQ-06.03"
+      ]
+    },
+    {
+      "claim": "CPC-0074",
+      "review": "CONFIRMED",
+      "conditions": "Branches incohérentes et corrections effectivement annoncées; CONFIRMED porte sur leur présence textuelle, pas sur nécessité empirique de correction ni définition usuelle inflation.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02"
+      ]
+    },
+    {
+      "claim": "CPC-0075",
+      "review": "CONFIRMED",
+      "conditions": "Branches incohérentes et corrections effectivement annoncées; CONFIRMED porte sur leur présence textuelle, pas sur nécessité empirique de correction ni définition usuelle inflation.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02"
+      ]
+    },
+    {
+      "claim": "CPC-0076",
+      "review": "QUALIFIED",
+      "conditions": "Table prix/Utility possède plusieurs régimes; variation rP peut absorber un écart. Noms enrichissement/inflation ne sont pas des mesures usuelles automatiquement équivalentes.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.03",
+        "RQ-10",
+        "RQ-10.01"
+      ]
+    },
+    {
+      "claim": "CPC-0077",
+      "review": "QUALIFIED",
+      "conditions": "Table prix/Utility possède plusieurs régimes; variation rP peut absorber un écart. Noms enrichissement/inflation ne sont pas des mesures usuelles automatiquement équivalentes.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.03",
+        "RQ-10",
+        "RQ-10.01"
+      ]
+    },
+    {
+      "claim": "CPC-0078",
+      "review": "QUALIFIED",
+      "conditions": "Table prix/Utility possède plusieurs régimes; variation rP peut absorber un écart. Noms enrichissement/inflation ne sont pas des mesures usuelles automatiquement équivalentes.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.03",
+        "RQ-10",
+        "RQ-10.01"
+      ]
+    },
+    {
+      "claim": "CPC-0079",
+      "review": "QUALIFIED",
+      "conditions": "Table prix/Utility possède plusieurs régimes; variation rP peut absorber un écart. Noms enrichissement/inflation ne sont pas des mesures usuelles automatiquement équivalentes.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.03",
+        "RQ-10",
+        "RQ-10.01"
+      ]
+    },
+    {
+      "claim": "CPC-0080",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02"
+      ]
+    },
+    {
+      "claim": "CPC-0081",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02"
+      ]
+    },
+    {
+      "claim": "CPC-0082",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02"
+      ]
+    },
+    {
+      "claim": "CPC-0083",
+      "review": "CONFIRMED",
+      "conditions": "Branches incohérentes et corrections effectivement annoncées; CONFIRMED porte sur leur présence textuelle, pas sur nécessité empirique de correction ni définition usuelle inflation.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02"
+      ]
+    },
+    {
+      "claim": "CPC-0084",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Gain disponible avant dépense; autres produits, qualité, dette, impôt, épargne sont explicites. Aucune part marginale ni consommation immédiate universelle donnée.",
+      "questions": [
+        "RQ-07",
+        "RQ-07.02",
+        "RQ-10",
+        "RQ-10.02",
+        "RQ-11",
+        "RQ-11.02"
+      ]
+    },
+    {
+      "claim": "CPC-0085",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.04"
+      ]
+    },
+    {
+      "claim": "CPC-0086",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02"
+      ]
+    },
+    {
+      "claim": "CPC-0087",
+      "review": "QUALIFIED",
+      "conditions": "Spéculation et distribution séparées de fabrication; locations et biens de luxe montrent limites des exclusions catégorielles; ne pas qualifier toute finance identiquement.",
+      "questions": [
+        "RQ-07",
+        "RQ-07.02"
+      ]
+    },
+    {
+      "claim": "CPC-0088",
+      "review": "QUALIFIED",
+      "conditions": "Exclusion graphique est jugement de cohérence monétaire du corpus, pas impossibilité algébrique de dM=n.du+u.dn avec signes communs. Création accompagnée (u fixe) est autre branche.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02"
+      ]
+    },
+    {
+      "claim": "CPC-0089",
+      "review": "REQUIRES_FURTHER_REVIEW",
+      "conditions": "Trois normalisations du lien prix/unité emploient n,N,FA différemment; frontière nationale/locale ne réconcilie pas à elle seule tous les facteurs. Pas de correction silencieuse.",
+      "questions": [
+        "RQ-08",
+        "RQ-08.01",
+        "RQ-08.04"
+      ]
+    },
+    {
+      "claim": "CPC-0090",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02"
+      ]
+    },
+    {
+      "claim": "CPC-0091",
+      "review": "CONFIRMED",
+      "conditions": "Deux bouclages explicites : dévaluation et Work supplémentaire/intérêts. Ne pas réduire tout crédit à l'absence de transformation ultérieure.",
+      "questions": [
+        "RQ-07",
+        "RQ-07.03"
+      ]
+    },
+    {
+      "claim": "CPC-0092",
+      "review": "CONFIRMED",
+      "conditions": "Deux bouclages explicites : dévaluation et Work supplémentaire/intérêts. Ne pas réduire tout crédit à l'absence de transformation ultérieure.",
+      "questions": [
+        "RQ-07",
+        "RQ-07.03"
+      ]
+    },
+    {
+      "claim": "CPC-0093",
+      "review": "QUALIFIED",
+      "conditions": "Non-neutralité entre acteurs et par copie, pas impossibilité de gain horaire simultané ni absence de redistribution du surplus.",
+      "questions": [
+        "RQ-07",
+        "RQ-07.02"
+      ]
+    },
+    {
+      "claim": "CPC-0094",
+      "review": "QUALIFIED",
+      "conditions": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.01",
+        "RQ-04",
+        "RQ-04.01"
+      ]
+    },
+    {
+      "claim": "CPC-0095",
+      "review": "QUALIFIED",
+      "conditions": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.01"
+      ]
+    },
+    {
+      "claim": "CPC-0096",
+      "review": "CONFIRMED",
+      "conditions": "+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.",
+      "questions": [
+        "RQ-04",
+        "RQ-04.02"
+      ]
+    },
+    {
+      "claim": "CPC-0097",
+      "review": "QUALIFIED",
+      "conditions": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.01"
+      ]
+    },
+    {
+      "claim": "CPC-0098",
+      "review": "QUALIFIED",
+      "conditions": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.01"
+      ]
+    },
+    {
+      "claim": "CPC-0099",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Gain disponible avant dépense; autres produits, qualité, dette, impôt, épargne sont explicites. Aucune part marginale ni consommation immédiate universelle donnée.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.03",
+        "RQ-10",
+        "RQ-10.02",
+        "RQ-11",
+        "RQ-11.02"
+      ]
+    },
+    {
+      "claim": "CPC-0100",
+      "review": "QUALIFIED",
+      "conditions": "Variation Utility est critère revendiqué; transport peut la produire, commerce pur non. Tensions avec classement des ménagères et services à maintenir ouvertes.",
+      "questions": [
+        "RQ-02",
+        "RQ-02.02",
+        "RQ-07",
+        "RQ-07.02"
+      ]
+    },
+    {
+      "claim": "CPC-0101",
+      "review": "CONFIRMED",
+      "conditions": "Branches à variables fixes et adiabatique sont textuellement distinctes. Les intégrales exigent coefficients constants/domaines positifs et transfert interne/externe séparé.",
+      "questions": [
+        "RQ-04",
+        "RQ-04.04",
+        "RQ-07",
+        "RQ-07.03"
+      ]
+    },
+    {
+      "claim": "CPC-0102",
+      "review": "CONFIRMED",
+      "conditions": "Branches à variables fixes et adiabatique sont textuellement distinctes. Les intégrales exigent coefficients constants/domaines positifs et transfert interne/externe séparé.",
+      "questions": [
+        "RQ-04",
+        "RQ-04.04",
+        "RQ-07",
+        "RQ-07.03"
+      ]
+    },
+    {
+      "claim": "CPC-0103",
+      "review": "CONFIRMED",
+      "conditions": "Branches à variables fixes et adiabatique sont textuellement distinctes. Les intégrales exigent coefficients constants/domaines positifs et transfert interne/externe séparé.",
+      "questions": [
+        "RQ-04",
+        "RQ-04.04",
+        "RQ-07",
+        "RQ-07.03"
+      ]
+    },
+    {
+      "claim": "CPC-0104",
+      "review": "QUALIFIED",
+      "conditions": "Cycles conditionnels, non machine universelle. Table des rendements conserve deux facteurs; carré seulement à égalité, durées identiques seulement simplificatrices; signes locaux fautifs catalogués.",
+      "questions": [
+        "RQ-04",
+        "RQ-04.04",
+        "RQ-07",
+        "RQ-07.03"
+      ]
+    },
+    {
+      "claim": "CPC-0105",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Exemple France/Chine explicitement démonstratif et non numériquement validé par l'auteur; ne pas compter comme observation internationale.",
+      "questions": [
+        "RQ-04",
+        "RQ-04.03",
+        "RQ-05",
+        "RQ-05.01",
+        "RQ-09",
+        "RQ-09.01"
+      ]
+    },
+    {
+      "claim": "CPC-0106",
+      "review": "CONFIRMED",
+      "conditions": "Substitution machines/salariés explicite; effet sur emploi total non identifiable sans demande et composition.",
+      "questions": [
+        "RQ-04",
+        "RQ-04.03",
+        "RQ-09",
+        "RQ-09.01"
+      ]
+    },
+    {
+      "claim": "CPC-0107",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+      "questions": [
+        "RQ-06",
+        "RQ-06.03"
+      ]
+    },
+    {
+      "claim": "CPC-0108",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Pertes économiquement utiles versus inutiles et dommage environnemental sont trois catégories, non une équivalence. Renouvelables limitent les effets dans l'énoncé source.",
+      "questions": [
+        "RQ-04",
+        "RQ-04.04",
+        "RQ-07",
+        "RQ-07.01",
+        "RQ-09",
+        "RQ-09.03"
+      ]
+    },
+    {
+      "claim": "CPC-0109",
+      "review": "QUALIFIED",
+      "conditions": "Équivalence avec coefficient, g variable admis puis égalité recherchée/posée. K agrégé n'est pas garanti constant par nombre de produits; pas confusion g/r/K.",
+      "questions": [
+        "RQ-08",
+        "RQ-08.02"
+      ]
+    },
+    {
+      "claim": "CPC-0110",
+      "review": "CONFIRMED",
+      "conditions": "Accélération/stabilité/ralentissement entre copies; coûts et profits doivent être maintenus pour déduire prix dans ce scénario.",
+      "questions": [
+        "RQ-04",
+        "RQ-04.01",
+        "RQ-05",
+        "RQ-05.01"
+      ]
+    },
+    {
+      "claim": "CPC-0111",
+      "review": "QUALIFIED",
+      "conditions": "Addition de contributeurs n'autorise pas somme d'Utility hétérogènes; assemblage/réaction distinct de juxtaposition; composition et coefficients à fixer.",
+      "questions": [
+        "RQ-04",
+        "RQ-04.03",
+        "RQ-08",
+        "RQ-08.01"
+      ]
+    },
+    {
+      "claim": "CPC-0112",
+      "review": "CONFIRMED",
+      "conditions": "Vitesses descriptives distinguées de causes; prix au cours d'une copie et entre copies ne sont pas une seule variable temporelle.",
+      "questions": [
+        "RQ-04",
+        "RQ-04.01",
+        "RQ-08",
+        "RQ-08.04"
+      ]
+    },
+    {
+      "claim": "CPC-0113",
+      "review": "QUALIFIED",
+      "conditions": "Utility contextuelle, non proxy automatique de besoin/qualité/prix. Besoin satisfait donne Utility nulle p132 mais copies et fonction subsistent p108/111; ratio, égalité et dérivée exigent échelle et hypothèses propres.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.02",
+        "RQ-05.03"
+      ]
+    },
+    {
+      "claim": "CPC-0114",
+      "review": "QUALIFIED",
+      "conditions": "Débits définis; déduction D/S≤1 depuis totaux cumulés omet stocks et fenêtre temporelle. Offre/vente/demande désirée ne sont pas identiques.",
+      "questions": [
+        "RQ-08",
+        "RQ-08.01"
+      ]
+    },
+    {
+      "claim": "CPC-0115",
+      "review": "QUALIFIED",
+      "conditions": "Potentiels sans pertes et dérivées croisées C2; variables constantes, substitutions de contraintes et signes partiels sont limites. σ aliases non paramètres indépendants.",
+      "questions": [
+        "RQ-08",
+        "RQ-08.03"
+      ]
+    },
+    {
+      "claim": "CPC-0116",
+      "review": "QUALIFIED",
+      "conditions": "Potentiels sans pertes et dérivées croisées C2; variables constantes, substitutions de contraintes et signes partiels sont limites. σ aliases non paramètres indépendants.",
+      "questions": [
+        "RQ-08",
+        "RQ-08.02",
+        "RQ-08.03",
+        "RQ-08.04"
+      ]
+    },
+    {
+      "claim": "CPC-0117",
+      "review": "QUALIFIED",
+      "conditions": "LOCAL_CLAIM_BECOMES_GLOBAL : K stable, énergie totale et PIB ajoutent composition, rendement, horizon et frontières. Absorber résidu n'est pas expliquer indépendamment; corrélation reste non spécifique.",
+      "questions": [
+        "RQ-08",
+        "RQ-08.02",
+        "RQ-09",
+        "RQ-09.03",
+        "RQ-12",
+        "RQ-12.01"
+      ]
+    },
+    {
+      "claim": "CPC-0118",
+      "review": "QUALIFIED",
+      "conditions": "LOCAL_CLAIM_BECOMES_GLOBAL : K stable, énergie totale et PIB ajoutent composition, rendement, horizon et frontières. Absorber résidu n'est pas expliquer indépendamment; corrélation reste non spécifique.",
+      "questions": [
+        "RQ-08",
+        "RQ-08.02",
+        "RQ-09",
+        "RQ-09.03",
+        "RQ-10",
+        "RQ-10.03",
+        "RQ-12",
+        "RQ-12.01",
+        "RQ-12.02"
+      ]
+    },
+    {
+      "claim": "CPC-0119",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Pont utile explicitement restreint par Utility; chaînes énergie/coût/production/déchets antérieures retrouvées. Dommages non réduits à un indicateur quantifié; pertes physiques et économiques distinctes.",
+      "questions": [
+        "RQ-09",
+        "RQ-09.02",
+        "RQ-09.03",
+        "RQ-12",
+        "RQ-12.01"
+      ]
+    },
+    {
+      "claim": "CPC-0120",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Pont utile explicitement restreint par Utility; chaînes énergie/coût/production/déchets antérieures retrouvées. Dommages non réduits à un indicateur quantifié; pertes physiques et économiques distinctes.",
+      "questions": [
+        "RQ-ROOT",
+        "RQ-01",
+        "RQ-01.04",
+        "RQ-11",
+        "RQ-11.01",
+        "RQ-11.02",
+        "RQ-11.03",
+        "RQ-12",
+        "RQ-12.02",
+        "RQ-12.03"
+      ]
+    },
+    {
+      "claim": "CPC-0121",
+      "review": "QUALIFIED",
+      "conditions": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.02",
+        "RQ-03.04"
+      ]
+    },
+    {
+      "claim": "CPC-0122",
+      "review": "QUALIFIED",
+      "conditions": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.04",
+        "RQ-09",
+        "RQ-09.02"
+      ]
+    },
+    {
+      "claim": "CPC-0123",
+      "review": "REQUIRES_FURTHER_REVIEW",
+      "conditions": "Changement explicite vers work/cash usuels puis critères spécialisés; même signe dvarpi malgré prose opposée, travail domestique traité différemment. Classification sociale non univoque en l'état.",
+      "questions": [
+        "RQ-03",
+        "RQ-03.01",
+        "RQ-07",
+        "RQ-07.01"
+      ]
+    },
+    {
+      "claim": "CPC-0124",
+      "review": "CONFIRMED",
+      "conditions": "Cas pur à Utility fixe séparé du brevet innovant; monopole n'interdit pas toute amélioration productive. FAext=0 approximation de contrainte, pas monopole juridique universel.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.02",
+        "RQ-07",
+        "RQ-07.02"
+      ]
+    },
+    {
+      "claim": "CPC-0125",
+      "review": "CONFIRMED",
+      "conditions": "Cas pur à Utility fixe séparé du brevet innovant; monopole n'interdit pas toute amélioration productive. FAext=0 approximation de contrainte, pas monopole juridique universel.",
+      "questions": [
+        "RQ-05",
+        "RQ-05.02",
+        "RQ-07",
+        "RQ-07.02"
+      ]
+    },
+    {
+      "claim": "CPC-0126",
+      "review": "CONFIRMED",
+      "conditions": "Champ de vecteurs locaux ne fournit pas agrégateur macro; Utility coordonnée fixe distincte de variation temporelle, trajectoire et composition manquantes pour passer au total.",
+      "questions": [
+        "RQ-08",
+        "RQ-08.01",
+        "RQ-08.04"
+      ]
+    },
+    {
+      "claim": "CPC-0127",
+      "review": "SOURCE_EXTENDED",
+      "conditions": "Gain disponible avant dépense; autres produits, qualité, dette, impôt, épargne sont explicites. Aucune part marginale ni consommation immédiate universelle donnée.",
+      "questions": [
+        "RQ-01",
+        "RQ-01.02",
+        "RQ-10",
+        "RQ-10.02",
+        "RQ-10.03",
+        "RQ-11",
+        "RQ-11.01",
+        "RQ-11.02",
+        "RQ-11.03",
+        "RQ-12",
+        "RQ-12.03"
+      ]
+    }
+  ]
+}

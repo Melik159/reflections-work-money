@@ -1,0 +1,29 @@
+{
+  "core_compared": 24,
+  "concepts_compared": 21,
+  "concept_status_counts": {
+    "RECOMBINATION_OF_KNOWN_CONCEPTS": 4,
+    "DISTINCT_DECOMPOSITION": 3,
+    "KNOWN_WITH_DIFFERENT_TERMINOLOGY": 1,
+    "PARTIAL_PARALLEL": 7,
+    "DISTINCT_FORMAL_RESTRICTION": 3,
+    "KNOWN_EQUIVALENT": 3
+  },
+  "core_status_counts": {
+    "PARTIAL_PARALLEL": 9,
+    "HISTORICAL_NOVELTY_UNRESOLVED": 1,
+    "RECOMBINATION_OF_KNOWN_CONCEPTS": 4,
+    "KNOWN_WITH_DIFFERENT_TERMINOLOGY": 1,
+    "DISTINCT_FORMAL_RESTRICTION": 7,
+    "DISTINCT_DECOMPOSITION": 2
+  },
+  "novelty_unresolved_concepts": 21,
+  "novelty_unresolved_core": 24,
+  "library_entries": 24,
+  "new_sources": 11,
+  "new_verified": 6,
+  "new_partially_verified": 5,
+  "empirical_contributions_established": 0,
+  "new_measurements_established": 0,
+  "originality_asserted": false
+}

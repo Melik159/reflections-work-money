@@ -1,0 +1,16 @@
+{
+  "total": 120,
+  "primary_counts": {
+    "INTEGRITY_TEST": 15,
+    "PROVENANCE_TEST": 60,
+    "LOGIC_TEST": 27,
+    "FORMAL_TEST": 16,
+    "EMPIRICAL_REPRODUCTION_TEST": 2,
+    "SCIENTIFIC_VALIDITY_TEST": 0
+  },
+  "artifact_tests": 102,
+  "local_mathematical_tests": 16,
+  "empirical_reproduction_tests": 2,
+  "scientific_validity_tests": 0,
+  "classification_is_reviewer_judgment": true
+}

@@ -1,0 +1,28 @@
+{
+  "old_total": 93,
+  "new_total": 113,
+  "existing_statements_changed": [],
+  "new_claims": [
+    "CPC-0094",
+    "CPC-0095",
+    "CPC-0096",
+    "CPC-0097",
+    "CPC-0098",
+    "CPC-0099",
+    "CPC-0100",
+    "CPC-0101",
+    "CPC-0102",
+    "CPC-0103",
+    "CPC-0104",
+    "CPC-0105",
+    "CPC-0106",
+    "CPC-0107",
+    "CPC-0108",
+    "CPC-0109",
+    "CPC-0110",
+    "CPC-0111",
+    "CPC-0112",
+    "CPC-0113"
+  ],
+  "reason": "Add separately sourced productive branches without rewriting the monetary review."
+}

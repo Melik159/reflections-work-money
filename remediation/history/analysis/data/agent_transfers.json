@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ACT-01",
+    "from_actor": "Consommateur",
+    "to_actor": "Fournisseur",
+    "object": "Cash contre Product",
+    "page": 405,
+    "classification": "TRANSFER",
+    "conditions": [
+      "Transaction bilatérale; pas création globale du seul fait du paiement"
+    ],
+    "global_creation_from_transfer_alone": false
+  },
+  {
+    "id": "ACT-02",
+    "from_actor": "Fournisseur",
+    "to_actor": "Consommateur",
+    "object": "Baisse de prix / gain Money",
+    "page": 33,
+    "classification": "PRODUCTIVE_CREATION_CLAIM",
+    "conditions": [
+      "Work productif et branche de transmission; distinct de Cash transféré"
+    ],
+    "global_creation_from_transfer_alone": false
+  },
+  {
+    "id": "ACT-03",
+    "from_actor": "Cotisants",
+    "to_actor": "Retraités par répartition",
+    "object": "cash",
+    "page": 475,
+    "classification": "REDISTRIBUTION",
+    "conditions": [
+      "Flux de contributions, pas jugement sur utilité sociale"
+    ],
+    "global_creation_from_transfer_alone": false
+  },
+  {
+    "id": "ACT-04",
+    "from_actor": "Contribuables",
+    "to_actor": "État puis infrastructures et agents",
+    "object": "prélèvements",
+    "page": 479,
+    "classification": "DESTRUCTION_IN_AUTHOR_SENSE",
+    "conditions": [
+      "Pertes utiles; ne signifie pas disparition comptable de Cash ni absence de bénéfice social"
+    ],
+    "global_creation_from_transfer_alone": false
+  },
+  {
+    "id": "ACT-05",
+    "from_actor": "Acheteurs",
+    "to_actor": "Monopole sans variation Utility",
+    "object": "Supplément Cash",
+    "page": 488,
+    "classification": "TRANSFER",
+    "conditions": [
+      "Service et Work inchangés"
+    ],
+    "global_creation_from_transfer_alone": false
+  },
+  {
+    "id": "ACT-06",
+    "from_actor": "Acheteurs",
+    "to_actor": "Monopole de brevet",
+    "object": "Composantes productive et supplémentaire",
+    "page": 490,
+    "classification": "MIXED",
+    "conditions": [
+      "Séparer amélioration Utility et prix supplémentaire non productif"
+    ],
+    "global_creation_from_transfer_alone": false
+  },
+  {
+    "id": "ACT-07",
+    "from_actor": "Emprunteur",
+    "to_actor": "Prêteur",
+    "object": "Principal et intérêts",
+    "page": 344,
+    "classification": "CONDITIONAL_BRANCHES",
+    "conditions": [
+      "Voir SC-MONEY-30/31: dévaluation ou Work supplémentaire; pas une seule branche"
+    ],
+    "global_creation_from_transfer_alone": false
+  },
+  {
+    "id": "ACT-08",
+    "from_actor": "Détenteur Money",
+    "to_actor": "Même détenteur",
+    "object": "Épargne puis dépense",
+    "page": 468,
+    "classification": "INTERTEMPORAL_REALLOCATION",
+    "conditions": [
+      "Potentiel/cinétique économique, pas énergie mécanique littérale"
+    ],
+    "global_creation_from_transfer_alone": false
+  }
+]

@@ -1,0 +1,681 @@
+[
+  {
+    "id": "SYN-01",
+    "statement": "Cash, Money, création, transfert et redistribution doivent rester distingués. M=n·u est une identité; la neutralité dépend du scénario, de l'acteur et de l'horizon.",
+    "sources": [
+      "analysis/data/money_compensation_scenarios.json"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      19,
+      20,
+      349,
+      400
+    ],
+    "questions": [
+      "RQ-06.02",
+      "RQ-06.04"
+    ],
+    "claims": [
+      "CPC-0005",
+      "CPC-0012",
+      "CPC-0013",
+      "CPC-0014",
+      "CPC-0025",
+      "CPC-0026",
+      "CPC-0027",
+      "CPC-0028",
+      "CPC-0050",
+      "CPC-0069",
+      "CPC-0070",
+      "CPC-0071",
+      "CPC-0072",
+      "CPC-0073",
+      "CPC-0074",
+      "CPC-0075",
+      "CPC-0080",
+      "CPC-0081",
+      "CPC-0082",
+      "CPC-0083",
+      "CPC-0085",
+      "CPC-0086",
+      "CPC-0088",
+      "CPC-0090"
+    ],
+    "internal_coherence": "COHERENT_WITH_CONDITIONS",
+    "external_compatibility": "PARTIAL_PARALLEL",
+    "distinctive_explanation": "NO_DISTINCT_OBSERVABLE_ESTABLISHED",
+    "status": [
+      "COHERENT_WITH_CONDITIONS",
+      "PARTIAL_PARALLEL",
+      "NO_DISTINCT_OBSERVABLE_ESTABLISHED"
+    ],
+    "confidence": "MEDIUM",
+    "confidence_scope": "Conclusion locale de synthèse; pas confiance causale globale.",
+    "epistemic_kind": "INTERPRETATION_OF_EXISTING_RESULTS",
+    "global_validation": false
+  },
+  {
+    "id": "SYN-02",
+    "statement": "Economic Work n'est pas labour. À cp fixe, dT=cp·ω·dω admet T=½cp·ω²+C; dT nul à vitesse constante n'impose ni T nul ni dépense physique nulle.",
+    "sources": [
+      "research_questions/experiments/EXP-09/results.json"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      187,
+      203,
+      207,
+      471,
+      472
+    ],
+    "questions": [
+      "RQ-03.01",
+      "RQ-03.02",
+      "RQ-03.03"
+    ],
+    "claims": [
+      "CPC-0023",
+      "CPC-0039",
+      "CPC-0040",
+      "CPC-0041",
+      "CPC-0043",
+      "CPC-0044",
+      "CPC-0045",
+      "CPC-0051",
+      "CPC-0052",
+      "CPC-0054",
+      "CPC-0062",
+      "CPC-0063",
+      "CPC-0064",
+      "CPC-0066",
+      "CPC-0068",
+      "CPC-0094",
+      "CPC-0095",
+      "CPC-0121",
+      "CPC-0123"
+    ],
+    "internal_coherence": "LOCALLY_CONSISTENT",
+    "external_compatibility": "ECONOMIC_MEASUREMENT_NOT_IDENTIFIED",
+    "distinctive_explanation": "CONDITIONAL_FORMAL_RESTRICTION",
+    "status": [
+      "LOCALLY_CONSISTENT",
+      "ECONOMIC_MEASUREMENT_NOT_IDENTIFIED",
+      "CONDITIONAL_FORMAL_RESTRICTION"
+    ],
+    "confidence": "MEDIUM",
+    "confidence_scope": "Conclusion locale de synthèse; pas confiance causale globale.",
+    "epistemic_kind": "INTERPRETATION_OF_EXISTING_RESULTS",
+    "global_validation": false
+  },
+  {
+    "id": "SYN-03",
+    "statement": "La primitive quadratique ne fournit pas une mesure indépendante de T. Si cp varie, sa différentielle contient aussi ½ω²dcp. Réserve, état et transfert ne sont pas interchangeables.",
+    "sources": [
+      "research_questions/operationalization/circularity_review.md"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      207,
+      341,
+      471,
+      472
+    ],
+    "questions": [
+      "RQ-03.02",
+      "RQ-03.03"
+    ],
+    "claims": [
+      "CPC-0023",
+      "CPC-0039",
+      "CPC-0040",
+      "CPC-0043",
+      "CPC-0044",
+      "CPC-0045",
+      "CPC-0052",
+      "CPC-0054",
+      "CPC-0062",
+      "CPC-0063",
+      "CPC-0066",
+      "CPC-0068",
+      "CPC-0121"
+    ],
+    "internal_coherence": "ASSUMPTION_DEPENDENT",
+    "external_compatibility": "NOT_IDENTIFIED",
+    "distinctive_explanation": "BLOCKED_BY_MEASUREMENT",
+    "status": [
+      "ASSUMPTION_DEPENDENT",
+      "NOT_IDENTIFIED",
+      "BLOCKED_BY_MEASUREMENT"
+    ],
+    "confidence": "MEDIUM",
+    "confidence_scope": "Conclusion locale de synthèse; pas confiance causale globale.",
+    "epistemic_kind": "INTERPRETATION_OF_EXISTING_RESULTS",
+    "global_validation": false
+  },
+  {
+    "id": "SYN-04",
+    "statement": "Un ordre de Utility conserve des comparaisons, pas les rapports numériques utilisés dans certains rendements. Des différences pondérées peuvent covarier avec les coefficients; toutes les formules n'exigent donc pas la même échelle.",
+    "sources": [
+      "research_questions/experiments/EXP-02/results.json"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      108,
+      109,
+      283,
+      349,
+      386,
+      415
+    ],
+    "questions": [
+      "RQ-05.03"
+    ],
+    "claims": [
+      "CPC-0034",
+      "CPC-0055",
+      "CPC-0056",
+      "CPC-0057",
+      "CPC-0058",
+      "CPC-0059",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079",
+      "CPC-0113"
+    ],
+    "internal_coherence": "FORMALLY_QUALIFIED",
+    "external_compatibility": "MEASUREMENT_REQUIREMENT",
+    "distinctive_explanation": "REVIEW_DIAGNOSTIC_NOT_AUTHOR_NOVELTY",
+    "status": [
+      "FORMALLY_QUALIFIED",
+      "MEASUREMENT_REQUIREMENT",
+      "REVIEW_DIAGNOSTIC_NOT_AUTHOR_NOVELTY"
+    ],
+    "confidence": "MEDIUM",
+    "confidence_scope": "Conclusion locale de synthèse; pas confiance causale globale.",
+    "epistemic_kind": "INTERPRETATION_OF_EXISTING_RESULTS",
+    "global_validation": false
+  },
+  {
+    "id": "SYN-05",
+    "statement": "Une baisse de coût peut être transmise, retenue, partagée ou différée. Les pages tardives de partage empêchent d'attribuer au corpus une transmission automatique intégrale.",
+    "sources": [
+      "analysis/global_corpus_pass/findings.json"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      20,
+      21,
+      363,
+      364,
+      468,
+      504,
+      507,
+      508,
+      523
+    ],
+    "questions": [
+      "RQ-05.01",
+      "RQ-06.04",
+      "RQ-10.01"
+    ],
+    "claims": [
+      "CPC-0013",
+      "CPC-0014",
+      "CPC-0015",
+      "CPC-0016",
+      "CPC-0019",
+      "CPC-0020",
+      "CPC-0021",
+      "CPC-0027",
+      "CPC-0028",
+      "CPC-0050",
+      "CPC-0053",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079",
+      "CPC-0085",
+      "CPC-0097",
+      "CPC-0098",
+      "CPC-0105",
+      "CPC-0110"
+    ],
+    "internal_coherence": "CONDITIONAL_BRANCHES",
+    "external_compatibility": "PARTIAL_PARALLEL",
+    "distinctive_explanation": "NON_DISCRIMINATING",
+    "status": [
+      "CONDITIONAL_BRANCHES",
+      "PARTIAL_PARALLEL",
+      "NON_DISCRIMINATING"
+    ],
+    "confidence": "MEDIUM",
+    "confidence_scope": "Conclusion locale de synthèse; pas confiance causale globale.",
+    "epistemic_kind": "INTERPRETATION_OF_EXISTING_RESULTS",
+    "global_validation": false
+  },
+  {
+    "id": "SYN-06",
+    "statement": "Le +78% reproduit (8/6)²−1 à tâche et cp fixés. Le calcul ne mesure ni une loi générale de productivité ni un rendement énergétique empirique.",
+    "sources": [
+      "analysis/25_productive_review_report.md"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      32,
+      196,
+      197,
+      198,
+      207
+    ],
+    "questions": [
+      "RQ-04.02",
+      "RQ-04.04"
+    ],
+    "claims": [
+      "CPC-0032",
+      "CPC-0033",
+      "CPC-0035",
+      "CPC-0038",
+      "CPC-0096",
+      "CPC-0101",
+      "CPC-0102",
+      "CPC-0103",
+      "CPC-0104",
+      "CPC-0108"
+    ],
+    "internal_coherence": "FORMALLY_DERIVED_WITH_ASSUMPTIONS",
+    "external_compatibility": "NOT_EMPIRICALLY_TESTED",
+    "distinctive_explanation": "REQUIRES_INDEPENDENT_T",
+    "status": [
+      "FORMALLY_DERIVED_WITH_ASSUMPTIONS",
+      "NOT_EMPIRICALLY_TESTED",
+      "REQUIRES_INDEPENDENT_T"
+    ],
+    "confidence": "MEDIUM",
+    "confidence_scope": "Conclusion locale de synthèse; pas confiance causale globale.",
+    "epistemic_kind": "INTERPRETATION_OF_EXISTING_RESULTS",
+    "global_validation": false
+  },
+  {
+    "id": "SYN-07",
+    "statement": "Sous additivité, unités communes et coefficients locaux fixes, K est une moyenne pondérée. Composition fixe est suffisante, pas nécessaire; invariance à toute composition exige des coefficients identiques sur les composantes actives.",
+    "sources": [
+      "research_questions/experiments/EXP-03/results.json"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      538,
+      559
+    ],
+    "questions": [
+      "RQ-08.01",
+      "RQ-08.02",
+      "RQ-08.04"
+    ],
+    "claims": [
+      "CPC-0037",
+      "CPC-0043",
+      "CPC-0044",
+      "CPC-0089",
+      "CPC-0109",
+      "CPC-0111",
+      "CPC-0112",
+      "CPC-0114",
+      "CPC-0116",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0126"
+    ],
+    "internal_coherence": "FORMALLY_SUPPORTED_WITHIN_RECONSTRUCTION",
+    "external_compatibility": "NOT_STRUCTURAL_K_ESTIMATE",
+    "distinctive_explanation": "GENERAL_AGGREGATION_PROBLEM",
+    "status": [
+      "FORMALLY_SUPPORTED_WITHIN_RECONSTRUCTION",
+      "NOT_STRUCTURAL_K_ESTIMATE",
+      "GENERAL_AGGREGATION_PROBLEM"
+    ],
+    "confidence": "MEDIUM",
+    "confidence_scope": "Conclusion locale de synthèse; pas confiance causale globale.",
+    "epistemic_kind": "INTERPRETATION_OF_EXISTING_RESULTS",
+    "global_validation": false
+  },
+  {
+    "id": "SYN-08",
+    "statement": "Des erreurs ou sauts locaux restent documentés: égalité interpersonnelle issue de 0/0, force constante assimilée à force nette nulle, primitives, signes et passage d'inégalités de niveaux aux dérivées. Leur portée doit rester locale.",
+    "sources": [
+      "analysis/global_corpus_pass/formal_checks.json",
+      "analysis/global_corpus_pass/final_report.md"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      249,
+      250,
+      251,
+      252,
+      467,
+      470,
+      525,
+      526,
+      528
+    ],
+    "questions": [
+      "RQ-05.03",
+      "RQ-08.03",
+      "RQ-03.02"
+    ],
+    "claims": [
+      "CPC-0004",
+      "CPC-0023",
+      "CPC-0034",
+      "CPC-0040",
+      "CPC-0045",
+      "CPC-0047",
+      "CPC-0055",
+      "CPC-0056",
+      "CPC-0057",
+      "CPC-0058",
+      "CPC-0059",
+      "CPC-0062",
+      "CPC-0063",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079",
+      "CPC-0113",
+      "CPC-0115",
+      "CPC-0116",
+      "CPC-0121"
+    ],
+    "internal_coherence": "LOCALLY_PROBLEMATIC",
+    "external_compatibility": "DOES_NOT_TEST_EMPIRICAL_SYSTEM",
+    "distinctive_explanation": "NOT_A_GLOBAL_REJECTION",
+    "status": [
+      "LOCALLY_PROBLEMATIC",
+      "DOES_NOT_TEST_EMPIRICAL_SYSTEM",
+      "NOT_A_GLOBAL_REJECTION"
+    ],
+    "confidence": "MEDIUM",
+    "confidence_scope": "Conclusion locale de synthèse; pas confiance causale globale.",
+    "epistemic_kind": "INTERPRETATION_OF_EXISTING_RESULTS",
+    "global_validation": false
+  },
+  {
+    "id": "SYN-09",
+    "statement": "Une corrélation avec une énergie reconstituée depuis un ratio incorporant le PIB demande un audit de filiation. La présence du PIB dans le ratio ne prouve pas seule une circularité si une mesure énergétique indépendante est restituée.",
+    "sources": [
+      "analysis/27_energy_data_independence.md"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      558,
+      559
+    ],
+    "questions": [
+      "RQ-09.03"
+    ],
+    "claims": [
+      "CPC-0067",
+      "CPC-0108",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119"
+    ],
+    "internal_coherence": "PROVENANCE_QUALIFICATION",
+    "external_compatibility": "INDEPENDENCE_REQUIRES_SOURCE_AUDIT",
+    "distinctive_explanation": "METHODOLOGICAL_NOT_SPECIFIC",
+    "status": [
+      "PROVENANCE_QUALIFICATION",
+      "INDEPENDENCE_REQUIRES_SOURCE_AUDIT",
+      "METHODOLOGICAL_NOT_SPECIFIC"
+    ],
+    "confidence": "MEDIUM",
+    "confidence_scope": "Conclusion locale de synthèse; pas confiance causale globale.",
+    "epistemic_kind": "INTERPRETATION_OF_EXISTING_RESULTS",
+    "global_validation": false
+  },
+  {
+    "id": "SYN-10",
+    "statement": "La série primaire indépendante montre une association monde PIB–énergie et des régimes différents en France/Allemagne. Une association ou un co-mouvement ne démontre ni causalité ni conversion énergie→Money.",
+    "sources": [
+      "analysis/27_energy_results.md"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      455,
+      456,
+      558,
+      559
+    ],
+    "questions": [
+      "RQ-09.03",
+      "RQ-12.01"
+    ],
+    "claims": [
+      "CPC-0003",
+      "CPC-0067",
+      "CPC-0068",
+      "CPC-0108",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119"
+    ],
+    "internal_coherence": "PROXIES_NOT_SOURCE_VARIABLES",
+    "external_compatibility": "EMPIRICALLY_SUPPORTED_WITHIN_DESCRIPTIVE_SCOPE",
+    "distinctive_explanation": "NON_DISCRIMINATING",
+    "status": [
+      "PROXIES_NOT_SOURCE_VARIABLES",
+      "EMPIRICALLY_SUPPORTED_WITHIN_DESCRIPTIVE_SCOPE",
+      "NON_DISCRIMINATING"
+    ],
+    "confidence": "MEDIUM",
+    "confidence_scope": "Conclusion locale de synthèse; pas confiance causale globale.",
+    "epistemic_kind": "INTERPRETATION_OF_EXISTING_RESULTS",
+    "global_validation": false
+  },
+  {
+    "id": "SYN-11",
+    "statement": "GDP=K·W avec K strictement constant et W identifié à l'énergie primaire ne décrit pas les ratios observés. Cela qualifie cette identification forte, pas toutes les versions du coefficient économique.",
+    "sources": [
+      "analysis/27_energy_results.md"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      559
+    ],
+    "questions": [
+      "RQ-08.02",
+      "RQ-09.03",
+      "RQ-12.02"
+    ],
+    "claims": [
+      "CPC-0001",
+      "CPC-0009",
+      "CPC-0018",
+      "CPC-0029",
+      "CPC-0043",
+      "CPC-0044",
+      "CPC-0067",
+      "CPC-0108",
+      "CPC-0109",
+      "CPC-0116",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119",
+      "CPC-0120"
+    ],
+    "internal_coherence": "CONDITIONAL_OPERATIONALIZATION",
+    "external_compatibility": "EMPIRICALLY_QUALIFIED",
+    "distinctive_explanation": "REJECTS_PROXY_RESTRICTION_ONLY",
+    "status": [
+      "CONDITIONAL_OPERATIONALIZATION",
+      "EMPIRICALLY_QUALIFIED",
+      "REJECTS_PROXY_RESTRICTION_ONLY"
+    ],
+    "confidence": "MEDIUM",
+    "confidence_scope": "Conclusion locale de synthèse; pas confiance causale globale.",
+    "epistemic_kind": "INTERPRETATION_OF_EXISTING_RESULTS",
+    "global_validation": false
+  },
+  {
+    "id": "SYN-12",
+    "statement": "Le cas électrique compare des frontières de coût et de prix non appariées. Il ne permet ni transmission structurelle, ni marge totale, ni mesure de Utility ou Money; les données négatives sont conservées.",
+    "sources": [
+      "analysis/34_micro_empirical_results.md"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      363,
+      364,
+      349,
+      400
+    ],
+    "questions": [
+      "RQ-05.01",
+      "RQ-05.03",
+      "RQ-12.02"
+    ],
+    "claims": [
+      "CPC-0001",
+      "CPC-0009",
+      "CPC-0018",
+      "CPC-0019",
+      "CPC-0020",
+      "CPC-0021",
+      "CPC-0029",
+      "CPC-0034",
+      "CPC-0055",
+      "CPC-0056",
+      "CPC-0057",
+      "CPC-0058",
+      "CPC-0059",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079",
+      "CPC-0097",
+      "CPC-0098",
+      "CPC-0105",
+      "CPC-0110",
+      "CPC-0113",
+      "CPC-0118",
+      "CPC-0120"
+    ],
+    "internal_coherence": "BOUNDARIES_UNMATCHED",
+    "external_compatibility": "NOT_IDENTIFIABLE",
+    "distinctive_explanation": "NON_DISCRIMINATING",
+    "status": [
+      "BOUNDARIES_UNMATCHED",
+      "NOT_IDENTIFIABLE",
+      "NON_DISCRIMINATING"
+    ],
+    "confidence": "MEDIUM",
+    "confidence_scope": "Conclusion locale de synthèse; pas confiance causale globale.",
+    "epistemic_kind": "INTERPRETATION_OF_EXISTING_RESULTS",
+    "global_validation": false
+  },
+  {
+    "id": "SYN-13",
+    "statement": "Le pont entre travail physique et Economic Work comporte une condition sur Utility. Toute énergie consommée ne devient donc pas automatiquement richesse; les pertes et usages non productifs restent distincts.",
+    "sources": [
+      "analysis/global_corpus_pass/concept_consistency.md"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      159,
+      203,
+      455,
+      456
+    ],
+    "questions": [
+      "RQ-09.02",
+      "RQ-09.03"
+    ],
+    "claims": [
+      "CPC-0003",
+      "CPC-0017",
+      "CPC-0039",
+      "CPC-0042",
+      "CPC-0067",
+      "CPC-0108",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119",
+      "CPC-0122"
+    ],
+    "internal_coherence": "EXPLICIT_CONDITIONAL_CONSTRUCTION",
+    "external_compatibility": "ECONOMIC_BRIDGE_NOT_MEASURED",
+    "distinctive_explanation": "POTENTIALLY_DISTINCT_CLASSIFICATION",
+    "status": [
+      "EXPLICIT_CONDITIONAL_CONSTRUCTION",
+      "ECONOMIC_BRIDGE_NOT_MEASURED",
+      "POTENTIALLY_DISTINCT_CLASSIFICATION"
+    ],
+    "confidence": "MEDIUM",
+    "confidence_scope": "Conclusion locale de synthèse; pas confiance causale globale.",
+    "epistemic_kind": "INTERPRETATION_OF_EXISTING_RESULTS",
+    "global_validation": false
+  },
+  {
+    "id": "SYN-14",
+    "statement": "La chaîne vers les dommages est effectivement présente. Restent absentes une allocation marginale précise du gain et une fonction de dommage pour le panier hétérogène; les usages épargnés empêchent une consommation automatique.",
+    "sources": [
+      "analysis/global_corpus_pass/root_question_chain.md"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      52,
+      72,
+      112,
+      163,
+      164,
+      165,
+      454,
+      460,
+      523
+    ],
+    "questions": [
+      "RQ-10.01",
+      "RQ-10.02",
+      "RQ-11.01",
+      "RQ-11.02",
+      "RQ-11.03",
+      "RQ-12.01"
+    ],
+    "claims": [
+      "CPC-0001",
+      "CPC-0003",
+      "CPC-0008",
+      "CPC-0015",
+      "CPC-0016",
+      "CPC-0018",
+      "CPC-0031",
+      "CPC-0053",
+      "CPC-0068",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079",
+      "CPC-0084",
+      "CPC-0099",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119",
+      "CPC-0120",
+      "CPC-0127"
+    ],
+    "internal_coherence": "EXPLICIT_LINKS_WITH_MISSING_CLOSURE",
+    "external_compatibility": "GENERAL_COMPATIBILITY_NOT_ATTRIBUTION",
+    "distinctive_explanation": "SPECIFIC_CAUSAL_EXPLANATION_NOT_IDENTIFIED",
+    "status": [
+      "EXPLICIT_LINKS_WITH_MISSING_CLOSURE",
+      "GENERAL_COMPATIBILITY_NOT_ATTRIBUTION",
+      "SPECIFIC_CAUSAL_EXPLANATION_NOT_IDENTIFIED"
+    ],
+    "confidence": "MEDIUM",
+    "confidence_scope": "Conclusion locale de synthèse; pas confiance causale globale.",
+    "epistemic_kind": "INTERPRETATION_OF_EXISTING_RESULTS",
+    "global_validation": false
+  }
+]

@@ -1,0 +1,355 @@
+{
+  "timestamp": "2026-09-08T13:18:10.034025+00:00",
+  "branch": "research/corpus-validation",
+  "head": "a697345c427fca8de0521108a17aa2b76f267654",
+  "pdf_sha256": "7981eca40bca1c5ce54d96b3c840eda34d0e7d01fdc89fe9748c3c047c6f3827",
+  "pages": 562,
+  "claims": 127,
+  "criticality": {
+    "CORE": 24,
+    "MAJOR": 96,
+    "SUPPORTING": 7
+  },
+  "questions": 53,
+  "question_statuses": {
+    "OPEN": 29,
+    "PARTIALLY_RESOLVED": 18,
+    "AMBIGUOUS": 6
+  },
+  "historical_analytically_reviewed": 272,
+  "new_pass_scanned": 0,
+  "baseline_verify": {
+    "tests_run": 94,
+    "passed": 94,
+    "failed": 0,
+    "errors": 0,
+    "skipped": 0,
+    "passed_tests": [
+      "test_contribution.ContributionTests.test_conceptual_difference_not_empirical_prediction",
+      "test_contribution.ContributionTests.test_core_complete_and_original_source_preserved",
+      "test_contribution.ContributionTests.test_matrix_and_scenario_crosswalk",
+      "test_contribution.ContributionTests.test_originality_needs_historical_evidence",
+      "test_contribution.ContributionTests.test_question_scope_and_partial_sources",
+      "test_contribution.ContributionTests.test_terminology_not_substantive_automatically",
+      "test_fourth_pass.FourthPassTests.test_K_composition_conditions",
+      "test_fourth_pass.FourthPassTests.test_K_normalization_covariant",
+      "test_fourth_pass.FourthPassTests.test_T_models_no_independent_measurement",
+      "test_fourth_pass.FourthPassTests.test_protocols_frozen_before_execution",
+      "test_fourth_pass.FourthPassTests.test_ratio_requirements_and_negative_control",
+      "test_fourth_pass.FourthPassTests.test_result_snapshots",
+      "test_fourth_pass.FourthPassTests.test_scoped_evidence_and_preserved_claims",
+      "test_fourth_pass.FourthPassTests.test_utility_covariance_not_just_ordinals",
+      "test_metrology.MetrologyTests.test_coverage_snapshot_and_no_new_claims",
+      "test_metrology.MetrologyTests.test_experiment_variables_levels_and_execution",
+      "test_metrology.MetrologyTests.test_formal_results_reproduced_not_law_evidence",
+      "test_metrology.MetrologyTests.test_low_maturity_cannot_be_observed",
+      "test_metrology.MetrologyTests.test_proxy_must_remain_explicit",
+      "test_metrology.MetrologyTests.test_ten_question_links_and_history_preserved",
+      "test_metrology.MetrologyTests.test_utility_admission_exact_on_page",
+      "test_metrology.MetrologyTests.test_variable_schema_and_maturity",
+      "test_micro_review.MicroReviewTests.test_budget_gain_is_not_surplus_or_Money",
+      "test_micro_review.MicroReviewTests.test_conditional_predictions_preserved",
+      "test_micro_review.MicroReviewTests.test_dimensions_and_non_equivalence",
+      "test_micro_review.MicroReviewTests.test_raw_integrity_design_and_numerical_snapshot",
+      "test_micro_review.MicroReviewTests.test_sample_breaks_and_causal_limits",
+      "test_micro_review.MicroReviewTests.test_screening_is_not_identified_pass_through",
+      "test_micro_review.MicroReviewTests.test_two_product_consistent_normalization",
+      "test_micro_review.MicroReviewTests.test_utility_scale_and_composition_conditions",
+      "test_money_review.MoneyReview.test_conditional_algebra_not_empirical_validation",
+      "test_money_review.MoneyReview.test_definition_not_automatic_external_mapping",
+      "test_money_review.MoneyReview.test_finding_and_claim_change_history",
+      "test_money_review.MoneyReview.test_no_identity_to_general_neutrality_shortcut",
+      "test_money_review.MoneyReview.test_scenario_inventory_locked",
+      "test_money_review.MoneyReview.test_scenario_provenance_and_levels",
+      "test_money_review.MoneyReview.test_visual_and_textual_discrepancies_not_erased",
+      "test_phase2.Reconstruction.test_01_source_hashes",
+      "test_phase2.Reconstruction.test_02_pages_unique_complete_nonempty",
+      "test_phase2.Reconstruction.test_03_root_cross_page_and_associated_sentence",
+      "test_phase2.Reconstruction.test_04_claim_schemas_and_ids",
+      "test_phase2.Reconstruction.test_05_all_claim_quotations",
+      "test_phase2.Reconstruction.test_06_dependencies_and_derived",
+      "test_phase2.Reconstruction.test_07_concept_references",
+      "test_phase2.Reconstruction.test_08_all_current_claims_and_core_classified",
+      "test_phase2.Reconstruction.test_09_semantic_invariants_retained",
+      "test_phase2.Reconstruction.test_10_open_issues_retained",
+      "test_phase2.Reconstruction.test_11_graph_endpoints_and_acyclic_dependencies",
+      "test_phase2.Reconstruction.test_12_coverage_and_note_evidence",
+      "test_phase2.Reconstruction.test_13_golden_sources",
+      "test_phase2.Reconstruction.test_14_wrong_passage_fails_retrieval",
+      "test_phase2.Reconstruction.test_15_index_source_fidelity",
+      "test_phase2.Reconstruction.test_16_benchmark_current_and_nonregressing",
+      "test_phase2.Reconstruction.test_17_no_unsupported_empirical_validation",
+      "test_phase2.Reconstruction.test_18_chapters_root_and_questions",
+      "test_phase2.Reconstruction.test_19_schema_rejects_missing_source_and_bad_type",
+      "test_phase2.Reconstruction.test_20_retrieval_determinism",
+      "test_phase2.Reconstruction.test_21_phase2_exit_criteria",
+      "test_phase2.Reconstruction.test_22_core_reviews_and_literature_links",
+      "test_phase2.Reconstruction.test_23_secondary_pdfs_indexed_and_french_improved",
+      "test_phase2.Reconstruction.test_24_empirical_results_reproduced_and_inputs_intact",
+      "test_phase2.Reconstruction.test_25_five_substantive_chapter_files",
+      "test_productive_review.ProductiveReview.test_01_mechanisms_sources_conditions",
+      "test_productive_review.ProductiveReview.test_02_work_level_not_increment",
+      "test_productive_review.ProductiveReview.test_03_transmission_not_automatic",
+      "test_productive_review.ProductiveReview.test_04_formulas_epistemic_separation",
+      "test_productive_review.ProductiveReview.test_05_productive_calculations_reproduced",
+      "test_productive_review.ProductiveReview.test_06_data_not_identifying_causality",
+      "test_productive_review.ProductiveReview.test_07_chapters_and_claim_links",
+      "test_productive_review.ProductiveReview.test_08_monetray_and_new_rules_retained",
+      "test_research_questions.QuestionTreeTests.test_dossiers_source_interpretation_status",
+      "test_research_questions.QuestionTreeTests.test_history_and_legacy_namespaces_preserved",
+      "test_research_questions.QuestionTreeTests.test_matrix_matches_graph_and_evidence",
+      "test_research_questions.QuestionTreeTests.test_rejects_missing_parent_and_duplicate_id",
+      "test_research_questions.QuestionTreeTests.test_rejects_nonexistent_and_cyclic_dependency",
+      "test_research_questions.QuestionTreeTests.test_resolution_and_contradiction_require_evidence",
+      "test_research_questions.QuestionTreeTests.test_root_exact_and_open_not_failure",
+      "test_research_questions.QuestionTreeTests.test_tree_structure_dependencies_and_core_coverage",
+      "test_second_question_pass.SecondQuestionPassTests.test_confidence_literature_and_status_history",
+      "test_second_question_pass.SecondQuestionPassTests.test_coverage_and_claims_not_inflated",
+      "test_second_question_pass.SecondQuestionPassTests.test_formal_snapshot_and_three_product_weights",
+      "test_second_question_pass.SecondQuestionPassTests.test_money_ledger_retains_all_original_conditions",
+      "test_second_question_pass.SecondQuestionPassTests.test_potential_and_metric_conditions",
+      "test_second_question_pass.SecondQuestionPassTests.test_source_fidelity_and_explicit_counterevidence",
+      "test_second_question_pass.SecondQuestionPassTests.test_ten_dossiers_and_last_discrimination",
+      "test_second_question_pass.SecondQuestionPassTests.test_utility_nonadditive_is_a_source_distinction",
+      "test_terminal_review.TerminalReview.test_01_energy_and_audit_source_integrity",
+      "test_terminal_review.TerminalReview.test_02_energy_not_constructed_from_gdp",
+      "test_terminal_review.TerminalReview.test_03_empirical_results_numerically_reproduced",
+      "test_terminal_review.TerminalReview.test_04_exactly_three_noncausal_experiments",
+      "test_terminal_review.TerminalReview.test_05_aggregation_keeps_all_conditions",
+      "test_terminal_review.TerminalReview.test_06_physical_economic_and_actor_distinctions",
+      "test_terminal_review.TerminalReview.test_07_environment_source_interpretation_separated",
+      "test_terminal_review.TerminalReview.test_08_history_chapters_and_references"
+    ],
+    "failures": [],
+    "status": "PASS",
+    "coverage": {
+      "examined": 272,
+      "total": 562
+    },
+    "warnings": [
+      "COVERAGE_IN_PROGRESS",
+      "LITERATURE_PARTIAL",
+      "CHAPTERS_IN_PROGRESS",
+      "HYPOTHESES_NOT_ALL_TESTED"
+    ]
+  },
+  "artifacts": [
+    {
+      "path": "analysis/data/argument_graph.json",
+      "size": 256115,
+      "sha256": "cb85c49d56f8564bc3757ed3cfd10d6b00f4f31b8438ef35d37c1986e0e3cb98"
+    },
+    {
+      "path": "analysis/data/claims.jsonl",
+      "size": 205883,
+      "sha256": "ec76de4663cea1c242df514a568284304eac10366478c247b8a16aa640e27ad0"
+    },
+    {
+      "path": "analysis/data/concepts.json",
+      "size": 47222,
+      "sha256": "6e06ad00fad611fbf0de02eca012d19d9f0b08f23f2fb6230633e2120452172b"
+    },
+    {
+      "path": "analysis/data/page_coverage.json",
+      "size": 105419,
+      "sha256": "3d24ae485e21cefee3a04e6e27fc7413da7ee51c8dc19460a56e817dd3c18ebe"
+    },
+    {
+      "path": "research_questions/README.md",
+      "size": 6764,
+      "sha256": "63acf43117efa95fbc78528c3c4aec0573bee9e546e08c999d9500e18b9ee68d"
+    },
+    {
+      "path": "research_questions/contribution/README.md",
+      "size": 1366,
+      "sha256": "49c333edf79cd118daa101f1d72a77f182c42976bd62c5b8e391b84eed791471"
+    },
+    {
+      "path": "research_questions/contribution/candidate_contributions.md",
+      "size": 6937,
+      "sha256": "99263c8ca0b6421a6706f44b40fd494a551668735148c5287148af68eda8bda2"
+    },
+    {
+      "path": "research_questions/contribution/cash_money_crosswalk.md",
+      "size": 2773,
+      "sha256": "4bbc0bd6c6067727d34389baa8f5c4916296ef1348488ff9b7b00dbc0e2652ee"
+    },
+    {
+      "path": "research_questions/contribution/claim_comparisons.md",
+      "size": 26067,
+      "sha256": "ec59782a92fdbe21792e328e4b187dd09753e3d3e27287c0868164dc1e801c34"
+    },
+    {
+      "path": "research_questions/contribution/concept_comparisons.md",
+      "size": 27060,
+      "sha256": "6f5ef14ea9a06b5e69bffb066a8cd6580e4adb38a7d1899063b7fc6f1c95bab4"
+    },
+    {
+      "path": "research_questions/contribution/concepts.json",
+      "size": 41896,
+      "sha256": "da54a4eacf91da46030b70f7cb9e0df0409f51e5d7d07f1ea49fb678c02e5d86"
+    },
+    {
+      "path": "research_questions/contribution/contribution_matrix.csv",
+      "size": 25219,
+      "sha256": "13e4b1d557b5202fee2b0c91c54247820c30e7cbe5f0a46ded73d995a6fb4ad8"
+    },
+    {
+      "path": "research_questions/contribution/core_comparisons.json",
+      "size": 37230,
+      "sha256": "1fd29f1cbec002bf9142b4b30d9d0b78ce390feb07928e530861103a23c03fc9"
+    },
+    {
+      "path": "research_questions/contribution/creation_accounts_comparison.md",
+      "size": 2617,
+      "sha256": "d210fd36748a995f310f9651a63acae4d1f0f6ef761cf181e96f3ceb8f2671a4"
+    },
+    {
+      "path": "research_questions/contribution/false_novelty_risks.md",
+      "size": 1838,
+      "sha256": "89ef12668f771221943922b129a412bcd43d929285075a727f268ad2a759a78c"
+    },
+    {
+      "path": "research_questions/contribution/literature.json",
+      "size": 15985,
+      "sha256": "1ee11b09d2bcec1f732beda572fc4b11d58203ecd5fb3b7b88b8aba6ee432cdf"
+    },
+    {
+      "path": "research_questions/contribution/literature.md",
+      "size": 10052,
+      "sha256": "4acdfab36012a63a4a8a92466fac1518fc63c8ca71135538abd175942780a003"
+    },
+    {
+      "path": "research_questions/contribution/manifest.json",
+      "size": 942,
+      "sha256": "8a6efad42774f179b47f86b9ee19a0e4d4e45df77b55c5fa592e731ef28aefe2"
+    },
+    {
+      "path": "research_questions/contribution/money_scenario_comparisons.json",
+      "size": 84958,
+      "sha256": "53cb54f7a5eb4ac038e4e6e260f72b4b59d1920a5b245ba4debc62f9bc46abcc"
+    },
+    {
+      "path": "research_questions/contribution/money_scenario_comparisons.md",
+      "size": 5551,
+      "sha256": "79761abaca3d25be1080ad72ab289b3d70e95b691693834844b79255284942cc"
+    },
+    {
+      "path": "research_questions/contribution/question_links.json",
+      "size": 3714,
+      "sha256": "97f2abc5c28e7f038f5327e4544c9d0c1564b4d7e10e6efd26bb3179d80ecebf"
+    },
+    {
+      "path": "research_questions/contribution/underappreciated_distinctions.md",
+      "size": 1797,
+      "sha256": "37fb4ed6a8030e29af74e5e5a7e655366a95b4c182150492c9bd048c3aaa0c6b"
+    },
+    {
+      "path": "research_questions/contribution/unresolved_novelty.md",
+      "size": 2185,
+      "sha256": "e37d7cea35083d6242a98ffca105dfc6af2e86ab31eddef41db5a72bf060d2bf"
+    },
+    {
+      "path": "research_questions/contribution/utility_comparison.md",
+      "size": 2293,
+      "sha256": "b6e75f252b434a57f3431c30c95164f820f673fcfddaa529feee23d9c2f77643"
+    },
+    {
+      "path": "research_questions/evidence_matrix.csv",
+      "size": 3771,
+      "sha256": "f3e0d691b3c6d57a4c5306211c3b11bd9ee5f06db031d0e191dd84d6610ebcb6"
+    },
+    {
+      "path": "research_questions/fifth_pass_report.md",
+      "size": 10485,
+      "sha256": "141d4eee3ebf8dd7a42ce8e36868b14f17336002378dfbd7c36be61228a936bd"
+    },
+    {
+      "path": "research_questions/operationalization/README.md",
+      "size": 623,
+      "sha256": "ea64854e902387357efc0b52ffc7a33195a116c97c89d057fce482a04cb8b0ec"
+    },
+    {
+      "path": "research_questions/operationalization/circularity_review.md",
+      "size": 2764,
+      "sha256": "5707fead4242f60178b3154f323112131b58662d22c86ede23f749448afc5ed5"
+    },
+    {
+      "path": "research_questions/operationalization/experiments.json",
+      "size": 11861,
+      "sha256": "3caa35cd6689917a22ffd42a8ca7626fd17b41e055c81e96374dd6542d0d3f3b"
+    },
+    {
+      "path": "research_questions/operationalization/experiments.md",
+      "size": 2880,
+      "sha256": "f46ea152422d61bc0e790c72c1d716220b43df422bcb73427c912c96cee1e858"
+    },
+    {
+      "path": "research_questions/operationalization/formal_results.json",
+      "size": 1887,
+      "sha256": "b34c677a66ff08c0dc66e51857b9268ea8e42cd8bc5033a1cc7db3ced8e9fdaf"
+    },
+    {
+      "path": "research_questions/operationalization/literature.md",
+      "size": 1743,
+      "sha256": "d42360448d0bdf204ab2fae82df06e203640ee34dc19367245b7eda30550c595"
+    },
+    {
+      "path": "research_questions/operationalization/manifest.json",
+      "size": 13330,
+      "sha256": "26ddd7f8cdf4ad4765d955869255363eb666e40bf716c00ad27aeb8260204983"
+    },
+    {
+      "path": "research_questions/operationalization/measurement_literature.json",
+      "size": 2190,
+      "sha256": "e6831cc72cb43c71f656b97f37f03db124f60e40f8658c26f458e611d8f84773"
+    },
+    {
+      "path": "research_questions/operationalization/measurement_matrix.csv",
+      "size": 7156,
+      "sha256": "f4d3eeb0f9f0fe084db99efd4ece6750fab4545e75f30eb2ba11e4911e4413cc"
+    },
+    {
+      "path": "research_questions/operationalization/money_observable_implications.md",
+      "size": 2050,
+      "sha256": "b4059f12fa0ac293a7ac9a28da6c8b512b2808ced8830aedde00d18c63f42c9f"
+    },
+    {
+      "path": "research_questions/operationalization/variables.json",
+      "size": 34372,
+      "sha256": "969d8043a3912e5d5cdcff3735e70518429c2d99bc2792945bfa188f7fc4febf"
+    },
+    {
+      "path": "research_questions/operationalization/variables.md",
+      "size": 6027,
+      "sha256": "bcefb29dc4356cf52312b8bd6641ac3b6ea7842988960eacceabf1fb79149add"
+    },
+    {
+      "path": "research_questions/question_graph.json",
+      "size": 872838,
+      "sha256": "31ce40435d8f95c11f8834d2e112d02313054a564b8920bd05a26319332a540f"
+    },
+    {
+      "path": "research_questions/questions.md",
+      "size": 27573,
+      "sha256": "704e1ccd294eec47ef1458a603170c06b1152c129dff3ab787ab6e52aa689687"
+    },
+    {
+      "path": "validation/phase2_regression_results.json",
+      "size": 8052,
+      "sha256": "dba26ae290875c8c0b368f5829a57ef446d25460ba03078d43066c2cd7076047"
+    },
+    {
+      "path": "verify.sh",
+      "size": 1942,
+      "sha256": "bac8902c38e7c1fc36f5ef062088ed21ec4c8be5edb9f73439284ebfa965f4fa"
+    },
+    {
+      "path": "analysis/data/phase2_progress.json",
+      "size": 1076,
+      "sha256": "5fd5dc4da01334eb28be198118a4d39bc1298d3851cf16342c47b03095683584",
+      "archive_note": "Added before this metric was modified"
+    }
+  ],
+  "audit_scope": "Structural inventory of all listed artifacts; analytical reading prioritized reports, definitions, claims and research map. Not a full semantic audit of every archived field."
+}

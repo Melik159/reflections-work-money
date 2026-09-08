@@ -1,0 +1,39 @@
+{
+  "scope": "Three descriptive experiments; historical hypotheses and prior non-identification results retained in their original scope",
+  "mappings": [
+    {
+      "experiment": "TEST-E1",
+      "claims": ["CPC-0018", "CPC-0118", "CPC-0119"],
+      "observables": ["real GDP constant2015 USD", "primary energy TWh substitution convention"],
+      "result_file": "analysis/empirical/independent_energy/results.json",
+      "relations": ["COMPATIBLE_WITH_CAMPERGUE", "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"],
+      "compatibility_scope": "Broad energy-production relevance, not universal positive slope or a physical-economic conversion law",
+      "not_identified": ["Tused=−Wcreated", "Money from physical energy", "causal direction", "predictive performance"],
+      "causal_identified": false
+    },
+    {
+      "experiment": "TEST-E2",
+      "claims": ["CPC-0018", "CPC-0120"],
+      "observables": ["real PPP GDP per person", "primary energy kWh per person"],
+      "result_file": "analysis/empirical/independent_energy/results.json",
+      "relations": ["ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"],
+      "conditions": ["Within-country comparisons", "GDP is an imperfect living-standard proxy", "Common population denominator", "Not an environmental footprint"],
+      "not_identified": ["Household wellbeing distribution", "rebound", "environmental damage chain"],
+      "causal_identified": false
+    },
+    {
+      "experiment": "TEST-E3",
+      "claims": ["CPC-0117", "CPC-0118"],
+      "observables": ["Subperiod loglog slopes", "real GDP / primary energy ratio"],
+      "result_files": ["analysis/empirical/independent_energy/results.json", "analysis/empirical/independent_energy/stability_ratios.json"],
+      "relations": ["QUALIFIES", "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"],
+      "specific_restriction_status": "CONTRADICTED_IN_CHOSEN_PROXY_OPERATIONALIZATION",
+      "specific_restriction": "GDP=K*Wconsumed with K constant over time and energy measured by this primary-energy series",
+      "conditions": ["Same GDP definition", "Same energy boundary and convention", "K depends only on units", "No appeal to free time-varying yields or composition after observing results"],
+      "scope_limit": "Does not contradict all versions of Campergue; free variable K can absorb the discrepancy but removes this discriminating restriction",
+      "not_identified": ["Independent economic K", "Specific micro mechanism", "Cause of slope changes"],
+      "causal_identified": false
+    }
+  ],
+  "global_theory_verdict": null
+}

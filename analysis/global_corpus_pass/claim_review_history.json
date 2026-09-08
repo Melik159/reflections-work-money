@@ -1,0 +1,3224 @@
+[
+  {
+    "id": "CPC-0001",
+    "old_statement": "Comprendre le passage de la subsistance à l’abondance et les dommages environnementaux associés à la hausse du niveau de vie.",
+    "new_statement": "Comprendre le passage de la subsistance à l’abondance et les dommages environnementaux associés à la hausse du niveau de vie.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "La question de p3 demeure racine; p29 restreint le préambule, pas tout le manuscrit. Les liens environnementaux existent p72/454/460.",
+    "new_sources": [
+      2,
+      3,
+      29,
+      72,
+      454,
+      460,
+      559
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0002",
+    "old_statement": "La valeur de l’unité monétaire varie dans le temps.",
+    "new_statement": "La valeur de l’unité monétaire varie dans le temps.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+    "new_sources": [
+      3,
+      15,
+      170,
+      184,
+      187,
+      537
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0003",
+    "old_statement": "L’étude compare la transformation du travail en monnaie à celle de la chaleur en travail, en les distinguant.",
+    "new_statement": "L’étude compare la transformation du travail en monnaie à celle de la chaleur en travail, en les distinguant.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique.",
+    "new_sources": [
+      2,
+      35,
+      36,
+      159,
+      235,
+      454,
+      455,
+      463,
+      464,
+      466
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0004",
+    "old_statement": "Le formalisme suppose des comportements suffisamment lents et réguliers.",
+    "new_statement": "Le formalisme suppose des comportements suffisamment lents et réguliers.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Continuité, quasi-staticité et régularité sont restrictions. Durées égales des cycles polaires sont une simplification supplémentaire limitée au remplacement.",
+    "new_sources": [
+      4,
+      185,
+      275,
+      496,
+      498
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0005",
+    "old_statement": "Le manuscrit affirme que modifier seulement le nombre d’unités, sans Work productif, ne crée pas de richesse globale; il distingue cependant émission accompagnant une création, inertie et évolutions incohérentes.",
+    "new_statement": "Le manuscrit affirme que modifier seulement le nombre d’unités, sans Work productif, ne crée pas de richesse globale; il distingue cependant émission accompagnant une création, inertie et évolutions incohérentes.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité.",
+    "new_sources": [
+      12,
+      17,
+      18,
+      175,
+      177,
+      183,
+      344,
+      520,
+      523,
+      559
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0006",
+    "old_statement": "Product englobe biens et services produits par l’être humain.",
+    "new_statement": "Product englobe biens et services produits par l’être humain.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Product comprend services, manufacturer n'est pas toujours créateur. Transport effectif et marchand sont distingués; la catégorie professionnelle seule ne détermine pas Utility.",
+    "new_sources": [
+      12,
+      158,
+      159,
+      187,
+      192,
+      193,
+      261,
+      271,
+      276,
+      477
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0007",
+    "old_statement": "La création et l’usage relèvent des lois naturelles ; la distribution relève de décisions humaines.",
+    "new_statement": "La création et l’usage relèvent des lois naturelles ; la distribution relève de décisions humaines.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Création/usage/transfert gardent des frontières distinctes; commande et crédit peuvent précéder le travail considéré, mais l'auteur demande une origine antérieure du Money. Pertes utiles et redistribution reconnues.",
+    "new_sources": [
+      13,
+      246,
+      266,
+      366,
+      468,
+      479
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0008",
+    "old_statement": "La production précède la consommation.",
+    "new_statement": "La production précède la consommation.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Création/usage/transfert gardent des frontières distinctes; commande et crédit peuvent précéder le travail considéré, mais l'auteur demande une origine antérieure du Money. Pertes utiles et redistribution reconnues.",
+    "new_sources": [
+      13,
+      246,
+      266,
+      366,
+      468,
+      479
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0009",
+    "old_statement": "Seul le travail engendre un changement.",
+    "new_statement": "Seul le travail engendre un changement.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Principe de création par transformation Utility, non exclusion de toute activité humaine/sociale. Technologie productive et rente coexistent; Core Laws admises comme hypothèses.",
+    "new_sources": [
+      14,
+      29,
+      157,
+      159,
+      303,
+      455,
+      479,
+      490
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0010",
+    "old_statement": "Money est défini comme le nombre d’unités multiplié par la valeur de l’unité.",
+    "new_statement": "Money est défini comme le nombre d’unités multiplié par la valeur de l’unité.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+    "new_sources": [
+      15,
+      170,
+      184,
+      187,
+      537
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0011",
+    "old_statement": "Le différentiel du produit M=n.u est dM=n.du+u.dn.",
+    "new_statement": "Le différentiel du produit M=n.u est dM=n.du+u.dn.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+    "new_sources": [
+      15,
+      170,
+      184,
+      187,
+      537
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0012",
+    "old_statement": "À Money global constant (hypothèse 1, possibilité 2), la variation de n est compensée inversement par u; l’attribution du crédit à cette branche et son extension finale sont des thèses distinctes.",
+    "new_statement": "À Money global constant (hypothèse 1, possibilité 2), la variation de n est compensée inversement par u; l’attribution du crédit à cette branche et son extension finale sont des thèses distinctes.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité.",
+    "new_sources": [
+      17,
+      18,
+      175,
+      177,
+      183,
+      344,
+      520,
+      523,
+      559
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0013",
+    "old_statement": "Campergue classe le crédit non couvert uniquement dans la possibilité 2 : création de Cash, pas de Money; ce classement exclut la possibilité 4 pour le banquier et constitue une restriction causale.",
+    "new_statement": "Campergue classe le crédit non couvert uniquement dans la possibilité 2 : création de Cash, pas de Money; ce classement exclut la possibilité 4 pour le banquier et constitue une restriction causale.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité.",
+    "new_sources": [
+      17,
+      18,
+      175,
+      177,
+      183,
+      344,
+      520,
+      523,
+      559
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0014",
+    "old_statement": "Dans le système isolé et sans Work supplémentaire, une politique redistribue selon Campergue Money sans enrichissement global; les effets internes et transitoires ne sont pas niés.",
+    "new_statement": "Dans le système isolé et sans Work supplémentaire, une politique redistribue selon Campergue Money sans enrichissement global; les effets internes et transitoires ne sont pas niés.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité.",
+    "new_sources": [
+      17,
+      18,
+      175,
+      177,
+      183,
+      344,
+      520,
+      523,
+      559
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0015",
+    "old_statement": "Money créé désigne le supplément détenu par le consommateur après une baisse de prix.",
+    "new_statement": "Money créé désigne le supplément détenu par le consommateur après une baisse de prix.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+    "new_sources": [
+      19,
+      20,
+      128,
+      361,
+      363,
+      364,
+      400,
+      504,
+      507,
+      508
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0016",
+    "old_statement": "Le mécanisme productif proposé relie Work supplémentaire, productivité et baisse de prix à Money accru : u augmente à n constant (3a), ou n est ensuite ajusté pour stabiliser u (4a).",
+    "new_statement": "Le mécanisme productif proposé relie Work supplémentaire, productivité et baisse de prix à Money accru : u augmente à n constant (3a), ou n est ensuite ajusté pour stabiliser u (4a).",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+    "new_sources": [
+      19,
+      20,
+      128,
+      361,
+      363,
+      364,
+      400,
+      504,
+      507,
+      508
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0017",
+    "old_statement": "Une hausse de productivité exige nécessairement un travail supplémentaire assimilé ici à une énergie.",
+    "new_statement": "Une hausse de productivité exige nécessairement un travail supplémentaire assimilé ici à une énergie.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Nécessité énergétique et récit historique sont affirmations du corpus, non résultats indépendamment mesurés; énergie utile, pertes et énergie sans création distinguent les branches. Macro extrapolations non démontrées.",
+    "new_sources": [
+      19,
+      20,
+      62,
+      72,
+      112,
+      163,
+      165,
+      455,
+      456,
+      459,
+      460
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0018",
+    "old_statement": "Les sources artificielles d’énergie peu coûteuses auraient permis le passage à l’abondance.",
+    "new_statement": "Les sources artificielles d’énergie peu coûteuses auraient permis le passage à l’abondance.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Nécessité énergétique et récit historique sont affirmations du corpus, non résultats indépendamment mesurés; énergie utile, pertes et énergie sans création distinguent les branches. Macro extrapolations non démontrées.",
+    "new_sources": [
+      19,
+      20,
+      62,
+      72,
+      112,
+      163,
+      165,
+      455,
+      456,
+      459,
+      460
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0019",
+    "old_statement": "Le travail productif est défini par sa capacité à réduire le coût de revient.",
+    "new_statement": "Le travail productif est défini par sa capacité à réduire le coût de revient.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+    "new_sources": [
+      19,
+      20,
+      128,
+      361,
+      363,
+      364,
+      400,
+      504,
+      507,
+      508
+    ],
+    "previous_review": {
+      "local_review_status": "CONFIRMED",
+      "global_review_status": null,
+      "reason": "Critère coût préservé; corriger notice unproductive, pas ce claim.",
+      "pages_reviewed": [
+        20
+      ]
+    }
+  },
+  {
+    "id": "CPC-0020",
+    "old_statement": "Une baisse du coût peut coexister avec un prix de vente constant.",
+    "new_statement": "Une baisse du coût peut coexister avec un prix de vente constant.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+    "new_sources": [
+      19,
+      20,
+      128,
+      361,
+      363,
+      364,
+      400,
+      504,
+      507,
+      508
+    ],
+    "previous_review": {
+      "local_review_status": "CONFIRMED",
+      "global_review_status": null,
+      "reason": "Prix maintenu compatible avec partage du gain; pas transmission automatique.",
+      "pages_reviewed": [
+        20,
+        507
+      ]
+    }
+  },
+  {
+    "id": "CPC-0021",
+    "old_statement": "Le prix de vente relève du choix de l’entrepreneur sous contraintes de concurrence et de réglementation.",
+    "new_statement": "Le prix de vente relève du choix de l’entrepreneur sous contraintes de concurrence et de réglementation.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+    "new_sources": [
+      19,
+      20,
+      21,
+      128,
+      361,
+      363,
+      364,
+      400,
+      504,
+      507,
+      508
+    ],
+    "previous_review": {
+      "local_review_status": "SOURCE_NEEDS_EXTENSION",
+      "global_review_status": null,
+      "reason": "Trois bénéficiaires explicités: fournisseur, salarié, partage.",
+      "pages_reviewed": [
+        507,
+        508
+      ]
+    }
+  },
+  {
+    "id": "CPC-0022",
+    "old_statement": "L’auteur postule la transformation du travail supplémentaire du fournisseur en Money supplémentaire du consommateur.",
+    "new_statement": "L’auteur postule la transformation du travail supplémentaire du fournisseur en Money supplémentaire du consommateur.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Principe de création par transformation Utility, non exclusion de toute activité humaine/sociale. Technologie productive et rente coexistent; Core Laws admises comme hypothèses.",
+    "new_sources": [
+      14,
+      22,
+      29,
+      157,
+      159,
+      303,
+      455,
+      479,
+      490
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0023",
+    "old_statement": "Dans un système isolé, la baisse du travail restant à faire compense la hausse de Money créé.",
+    "new_statement": "Dans un système isolé, la baisse du travail restant à faire compense la hausse de Money créé.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat.",
+    "new_sources": [
+      22,
+      35,
+      203,
+      207,
+      208,
+      232,
+      234,
+      340,
+      342,
+      355,
+      467,
+      470,
+      472,
+      501,
+      547
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0024",
+    "old_statement": "Une transformation physique est distinguée du flux comptable.",
+    "new_statement": "Une transformation physique est distinguée du flux comptable.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Création/usage/transfert gardent des frontières distinctes; commande et crédit peuvent précéder le travail considéré, mais l'auteur demande une origine antérieure du Money. Pertes utiles et redistribution reconnues.",
+    "new_sources": [
+      13,
+      22,
+      246,
+      266,
+      366,
+      468,
+      479
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0025",
+    "old_statement": "Dans l’inflation dite incohérente 2a1, le consommateur gagne si la baisse de u ne compense pas sa hausse de n; le manuscrit distingue consommateurs, fournisseurs et épargnants et propose une correction ultérieure.",
+    "new_statement": "Dans l’inflation dite incohérente 2a1, le consommateur gagne si la baisse de u ne compense pas sa hausse de n; le manuscrit distingue consommateurs, fournisseurs et épargnants et propose une correction ultérieure.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Branches incohérentes et corrections effectivement annoncées; CONFIRMED porte sur leur présence textuelle, pas sur nécessité empirique de correction ni définition usuelle inflation.",
+    "new_sources": [
+      24,
+      25,
+      26,
+      175,
+      291
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0026",
+    "old_statement": "Dans la déflation dite incohérente 2b1, l’appréciation de u ne compense pas la baisse de n du consommateur; une réévaluation correctrice 2b2 est ensuite affirmée.",
+    "new_statement": "Dans la déflation dite incohérente 2b1, l’appréciation de u ne compense pas la baisse de n du consommateur; une réévaluation correctrice 2b2 est ensuite affirmée.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Branches incohérentes et corrections effectivement annoncées; CONFIRMED porte sur leur présence textuelle, pas sur nécessité empirique de correction ni définition usuelle inflation.",
+    "new_sources": [
+      24,
+      25,
+      26,
+      175,
+      291
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0027",
+    "old_statement": "L’auteur préconise un équilibre entre politiques d’offre et de demande.",
+    "new_statement": "L’auteur préconise un équilibre entre politiques d’offre et de demande.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Utilité sociale des banques admise. Équilibre et justice ajoutent une norme; ni g=1 ni égalité des ratios ne sont démontrés par le seul principe de conservation.",
+    "new_sources": [
+      26,
+      28,
+      377,
+      380,
+      401,
+      479
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0028",
+    "old_statement": "L’incapacité attribuée aux banques à créer Money n’implique pas leur inutilité sociale.",
+    "new_statement": "L’incapacité attribuée aux banques à créer Money n’implique pas leur inutilité sociale.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Utilité sociale des banques admise. Équilibre et justice ajoutent une norme; ni g=1 ni égalité des ratios ne sont démontrés par le seul principe de conservation.",
+    "new_sources": [
+      26,
+      28,
+      377,
+      380,
+      401,
+      479
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0029",
+    "old_statement": "Le manuscrit affirme un niveau de vie constant du Néolithique au XVIIIe siècle sous sources naturelles limitées.",
+    "new_statement": "Le manuscrit affirme un niveau de vie constant du Néolithique au XVIIIe siècle sous sources naturelles limitées.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Nécessité énergétique et récit historique sont affirmations du corpus, non résultats indépendamment mesurés; énergie utile, pertes et énergie sans création distinguent les branches. Macro extrapolations non démontrées.",
+    "new_sources": [
+      19,
+      20,
+      29,
+      62,
+      72,
+      112,
+      163,
+      165,
+      455,
+      456,
+      459,
+      460
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0030",
+    "old_statement": "La recherche de la genèse de Money exclut selon l’auteur toute référence à l’être humain.",
+    "new_statement": "La recherche de la genèse de Money exclut selon l’auteur toute référence à l’être humain.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Principe de création par transformation Utility, non exclusion de toute activité humaine/sociale. Technologie productive et rente coexistent; Core Laws admises comme hypothèses.",
+    "new_sources": [
+      14,
+      29,
+      157,
+      159,
+      303,
+      455,
+      479,
+      490
+    ],
+    "previous_review": {
+      "local_review_status": "QUALIFIED",
+      "global_review_status": null,
+      "reason": "Exclusion méthodologique des décisions humaines coexiste avec prescriptions réglementaires tardives.",
+      "pages_reviewed": [
+        507,
+        535
+      ]
+    }
+  },
+  {
+    "id": "CPC-0031",
+    "old_statement": "Le préambule limite explicitement son propos économique en excluant les répercussions environnementales.",
+    "new_statement": "Le préambule limite explicitement son propos économique en excluant les répercussions environnementales.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Exclusion environnementale est celle du préambule économique; dommage explicitement traité ailleurs. Ne pas transformer ce claim local en absence totale du sujet.",
+    "new_sources": [
+      29,
+      72,
+      112,
+      163,
+      454,
+      460
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0032",
+    "old_statement": "L’économie de travail augmente vers un maximum sous contraintes externes.",
+    "new_statement": "L’économie de travail augmente vers un maximum sous contraintes externes.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Maximisation sous contraintes; antagonisme par copie, non par heure. Conditions et échelles des diagrammes indispensables; équilibre social supplémentaire.",
+    "new_sources": [
+      31,
+      219,
+      227,
+      373,
+      377,
+      380,
+      382,
+      398
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0033",
+    "old_statement": "L’économie de Money augmente vers un maximum sous contraintes externes.",
+    "new_statement": "L’économie de Money augmente vers un maximum sous contraintes externes.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Maximisation sous contraintes; antagonisme par copie, non par heure. Conditions et échelles des diagrammes indispensables; équilibre social supplémentaire.",
+    "new_sources": [
+      31,
+      219,
+      227,
+      373,
+      377,
+      380,
+      382,
+      398
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0034",
+    "old_statement": "Le troc est présenté comme un échange sans Money entre produits d’utilités égales.",
+    "new_statement": "Le troc est présenté comme un échange sans Money entre produits d’utilités égales.",
+    "action": "UNCHANGED",
+    "global_review_status": "REQUIRES_FURTHER_REVIEW",
+    "reason": "Troc, Money et comparaison intra/inter-agents distingués. Égalité des Utility interpersonnelles non prouvée par deux variations tendant vers zéro; exemple800/1500 et compensation400/700 incohérent.",
+    "new_sources": [
+      31,
+      142,
+      143,
+      249,
+      250,
+      252,
+      335,
+      336
+    ],
+    "previous_review": {
+      "local_review_status": "SOURCE_NEEDS_EXTENSION",
+      "global_review_status": null,
+      "reason": "Égalisation et addition de Utility entre Product/Cash et agents méritent fiche distincte.",
+      "pages_reviewed": [
+        520
+      ]
+    }
+  },
+  {
+    "id": "CPC-0035",
+    "old_statement": "L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "new_statement": "L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.",
+    "new_sources": [
+      32,
+      33,
+      207
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0036",
+    "old_statement": "La variation de Work servirait exclusivement à varier le prix, non à fabriquer le produit.",
+    "new_statement": "La variation de Work servirait exclusivement à varier le prix, non à fabriquer le produit.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Variation de Work change la vitesse/coût entre états, tandis que le labour réalise la copie. Ne pas nier consommation physique de fabrication à vitesse constante.",
+    "new_sources": [
+      33,
+      198,
+      203,
+      207,
+      455
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0037",
+    "old_statement": "L’offre est définie comme un nombre de cycles de fabrication par unité de temps.",
+    "new_statement": "L’offre est définie comme un nombre de cycles de fabrication par unité de temps.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Débits définis; déduction D/S≤1 depuis totaux cumulés omet stocks et fenêtre temporelle. Offre/vente/demande désirée ne sont pas identiques.",
+    "new_sources": [
+      34,
+      121,
+      211,
+      402,
+      403,
+      404
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0038",
+    "old_statement": "Le cycle économique est mis en correspondance avec quatre étapes thermodynamiques.",
+    "new_statement": "Le cycle économique est mis en correspondance avec quatre étapes thermodynamiques.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Cycles conditionnels, non machine universelle. Table des rendements conserve deux facteurs; carré seulement à égalité, durées identiques seulement simplificatrices; signes locaux fautifs catalogués.",
+    "new_sources": [
+      34,
+      344,
+      355,
+      371,
+      377,
+      385,
+      388,
+      392,
+      494,
+      496,
+      498
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0039",
+    "old_statement": "Economic Work et Money sont posés comme deux formes d’énergie économique.",
+    "new_statement": "Economic Work et Money sont posés comme deux formes d’énergie économique.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique.",
+    "new_sources": [
+      35,
+      36,
+      159,
+      235,
+      454,
+      455,
+      463,
+      464,
+      466
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0040",
+    "old_statement": "Le modèle doit compter le travail à effectuer et non le travail déjà effectué.",
+    "new_statement": "Le modèle doit compter le travail à effectuer et non le travail déjà effectué.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat.",
+    "new_sources": [
+      22,
+      35,
+      203,
+      207,
+      208,
+      232,
+      234,
+      340,
+      342,
+      355,
+      467,
+      470,
+      472,
+      501,
+      547
+    ],
+    "previous_review": {
+      "local_review_status": "QUALIFIED",
+      "global_review_status": null,
+      "reason": "Work restant règle par défaut, mais travail accompli employé explicitement localement.",
+      "pages_reviewed": [
+        501,
+        547,
+        553
+      ]
+    }
+  },
+  {
+    "id": "CPC-0041",
+    "old_statement": "Product supporte Work et Cash supporte Money.",
+    "new_statement": "Product supporte Work et Cash supporte Money.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Supports distingués de caractéristiques; conservation comptable d'un support ne prouve pas transformation productive.",
+    "new_sources": [
+      35,
+      184,
+      187,
+      266
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0042",
+    "old_statement": "L’emploi du formalisme thermodynamique exclut ici les variables physiques et notamment l’entropie.",
+    "new_statement": "L’emploi du formalisme thermodynamique exclut ici les variables physiques et notamment l’entropie.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique.",
+    "new_sources": [
+      35,
+      36,
+      159,
+      235,
+      454,
+      455,
+      463,
+      464,
+      466
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0043",
+    "old_statement": "Le principe d’équivalence est écrit M=g.T.",
+    "new_statement": "Le principe d’équivalence est écrit M=g.T.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Équivalence avec coefficient, g variable admis puis égalité recherchée/posée. K agrégé n'est pas garanti constant par nombre de produits; pas confusion g/r/K.",
+    "new_sources": [
+      36,
+      216,
+      265,
+      380,
+      526,
+      528,
+      559
+    ],
+    "previous_review": {
+      "local_review_status": "SOURCE_NEEDS_EXTENSION",
+      "global_review_status": null,
+      "reason": "Équivalence ne suffit ni aux inégalités de différentiels ni à la constance des coefficients.",
+      "pages_reviewed": [
+        523,
+        525,
+        528
+      ]
+    }
+  },
+  {
+    "id": "CPC-0044",
+    "old_statement": "La constance du coefficient g n’est pas garantie en économie.",
+    "new_statement": "La constance du coefficient g n’est pas garantie en économie.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Équivalence avec coefficient, g variable admis puis égalité recherchée/posée. K agrégé n'est pas garanti constant par nombre de produits; pas confusion g/r/K.",
+    "new_sources": [
+      36,
+      216,
+      265,
+      380,
+      526,
+      528,
+      559
+    ],
+    "previous_review": {
+      "local_review_status": "CONFIRMED",
+      "global_review_status": null,
+      "reason": "Constance des g reconnue non systématique; exigence de fonctionnement rationnel différente de constat.",
+      "pages_reviewed": [
+        523,
+        526
+      ]
+    }
+  },
+  {
+    "id": "CPC-0045",
+    "old_statement": "Le différentiel de Money est défini par dM=-F.dp.",
+    "new_statement": "Le différentiel de Money est défini par dM=-F.dp.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "dM=-Fdp sous Force et orientation définies; FA extérieur signé peut apparaître avec plus. Les normalisations locales/globales restent différentes.",
+    "new_sources": [
+      36,
+      206,
+      207,
+      214,
+      537
+    ],
+    "previous_review": {
+      "local_review_status": "SOURCE_NEEDS_EXTENSION",
+      "global_review_status": null,
+      "reason": "Signes de création/point de vue à conserver; pas correction automatique de la source p36.",
+      "pages_reviewed": [
+        525,
+        549
+      ]
+    }
+  },
+  {
+    "id": "CPC-0046",
+    "old_statement": "Money est la valeur de Cash, lequel en est le support.",
+    "new_statement": "Money est la valeur de Cash, lequel en est le support.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+    "new_sources": [
+      15,
+      170,
+      184,
+      187,
+      537
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0047",
+    "old_statement": "Les variations doivent être assez petites et proches dans le temps pour être traitées comme continues.",
+    "new_statement": "Les variations doivent être assez petites et proches dans le temps pour être traitées comme continues.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Continuité, quasi-staticité et régularité sont restrictions. Durées égales des cycles polaires sont une simplification supplémentaire limitée au remplacement.",
+    "new_sources": [
+      4,
+      185,
+      275,
+      496,
+      498
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0048",
+    "old_statement": "Wealth désigne exclusivement la quantité de Money, sans inclure les actifs patrimoniaux.",
+    "new_statement": "Wealth désigne exclusivement la quantité de Money, sans inclure les actifs patrimoniaux.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Wealth monétaire exclut patrimoine sans nier richesse sociale; épargne comme potentiel et PIB final exigent horizon. Ne pas conclure que tout service exclu est inutile.",
+    "new_sources": [
+      185,
+      204,
+      468,
+      479,
+      534,
+      559
+    ],
+    "previous_review": {
+      "local_review_status": "SOURCE_NEEDS_EXTENSION",
+      "global_review_status": null,
+      "reason": "Exclusion PIB et réintroduction finale: deux périmètres et saut à expliciter.",
+      "pages_reviewed": [
+        529,
+        537,
+        540,
+        559
+      ]
+    }
+  },
+  {
+    "id": "CPC-0049",
+    "old_statement": "Product est défini par sa capacité à être acquis, transformé ou vendu et comme support de Work.",
+    "new_statement": "Product est défini par sa capacité à être acquis, transformé ou vendu et comme support de Work.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Product comprend services, manufacturer n'est pas toujours créateur. Transport effectif et marchand sont distingués; la catégorie professionnelle seule ne détermine pas Utility.",
+    "new_sources": [
+      158,
+      159,
+      187,
+      192,
+      193,
+      261,
+      271,
+      276,
+      477
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0050",
+    "old_statement": "Une ligne de crédit bancaire est Cash, pas Money dans ce vocabulaire.",
+    "new_statement": "Une ligne de crédit bancaire est Cash, pas Money dans ce vocabulaire.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+    "new_sources": [
+      15,
+      170,
+      184,
+      187,
+      537
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0051",
+    "old_statement": "Labour désigne la tâche, constante pour un produit et une méthode de fabrication donnés.",
+    "new_statement": "Labour désigne la tâche, constante pour un produit et une méthode de fabrication donnés.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver.",
+    "new_sources": [
+      187,
+      188,
+      189,
+      196,
+      202,
+      207,
+      210,
+      322
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0052",
+    "old_statement": "Pour une tâche constante, Work dépend de sa vitesse d’exécution.",
+    "new_statement": "Pour une tâche constante, Work dépend de sa vitesse d’exécution.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver.",
+    "new_sources": [
+      187,
+      188,
+      189,
+      196,
+      202,
+      207,
+      210,
+      322
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0053",
+    "old_statement": "Money mesure la valeur de Cash ; cette valeur varie dans le temps et selon le lieu.",
+    "new_statement": "Money mesure la valeur de Cash ; cette valeur varie dans le temps et selon le lieu.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+    "new_sources": [
+      15,
+      170,
+      184,
+      187,
+      188,
+      537
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0054",
+    "old_statement": "La complexité désigne l’inertie du produit face au changement de vitesse d’exécution de la tâche.",
+    "new_statement": "La complexité désigne l’inertie du produit face au changement de vitesse d’exécution de la tâche.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver.",
+    "new_sources": [
+      187,
+      188,
+      189,
+      196,
+      202,
+      207,
+      210,
+      322
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0055",
+    "old_statement": "L’utilité peut être objective, subjective, exacte ou erronée et concerne les échanges.",
+    "new_statement": "L’utilité peut être objective, subjective, exacte ou erronée et concerne les échanges.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Utility contextuelle, non proxy automatique de besoin/qualité/prix. Besoin satisfait donne Utility nulle p132 mais copies et fonction subsistent p108/111; ratio, égalité et dérivée exigent échelle et hypothèses propres.",
+    "new_sources": [
+      104,
+      108,
+      109,
+      111,
+      132,
+      189,
+      190,
+      191,
+      192,
+      249,
+      283,
+      285,
+      287,
+      292,
+      299,
+      301,
+      303
+    ],
+    "previous_review": {
+      "local_review_status": "CONFIRMED",
+      "global_review_status": null,
+      "reason": "Hétérogénéité et faim montrent contextualité, pas mesure indépendante.",
+      "pages_reviewed": [
+        512,
+        517
+      ]
+    }
+  },
+  {
+    "id": "CPC-0056",
+    "old_statement": "Le manuscrit écarte l’utilité marginale et revendique le sens de Walras.",
+    "new_statement": "Le manuscrit écarte l’utilité marginale et revendique le sens de Walras.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Utility contextuelle, non proxy automatique de besoin/qualité/prix. Besoin satisfait donne Utility nulle p132 mais copies et fonction subsistent p108/111; ratio, égalité et dérivée exigent échelle et hypothèses propres.",
+    "new_sources": [
+      104,
+      108,
+      109,
+      111,
+      132,
+      189,
+      190,
+      191,
+      192,
+      249,
+      283,
+      285,
+      287,
+      292,
+      299,
+      301,
+      303
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0057",
+    "old_statement": "L’utilité varie selon l’agent et le moment ; l’exemple de l’air distingue abondance et manque.",
+    "new_statement": "L’utilité varie selon l’agent et le moment ; l’exemple de l’air distingue abondance et manque.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Utility contextuelle, non proxy automatique de besoin/qualité/prix. Besoin satisfait donne Utility nulle p132 mais copies et fonction subsistent p108/111; ratio, égalité et dérivée exigent échelle et hypothèses propres.",
+    "new_sources": [
+      104,
+      108,
+      109,
+      111,
+      132,
+      189,
+      190,
+      191,
+      192,
+      249,
+      283,
+      285,
+      287,
+      292,
+      299,
+      301,
+      303
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0058",
+    "old_statement": "Le manuscrit déduit une absence de baisse du prix des œuvres d’art de leur utilité presque constante.",
+    "new_statement": "Le manuscrit déduit une absence de baisse du prix des œuvres d’art de leur utilité presque constante.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Utility contextuelle, non proxy automatique de besoin/qualité/prix. Besoin satisfait donne Utility nulle p132 mais copies et fonction subsistent p108/111; ratio, égalité et dérivée exigent échelle et hypothèses propres.",
+    "new_sources": [
+      104,
+      108,
+      109,
+      111,
+      132,
+      189,
+      190,
+      191,
+      192,
+      249,
+      283,
+      285,
+      287,
+      292,
+      299,
+      301,
+      303
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0059",
+    "old_statement": "L’utilité de Cash est donnée comme d’autant plus élevée que le revenu est bas.",
+    "new_statement": "L’utilité de Cash est donnée comme d’autant plus élevée que le revenu est bas.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Utility contextuelle, non proxy automatique de besoin/qualité/prix. Besoin satisfait donne Utility nulle p132 mais copies et fonction subsistent p108/111; ratio, égalité et dérivée exigent échelle et hypothèses propres.",
+    "new_sources": [
+      104,
+      108,
+      109,
+      111,
+      132,
+      189,
+      190,
+      191,
+      192,
+      249,
+      283,
+      285,
+      287,
+      292,
+      299,
+      301,
+      303
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0060",
+    "old_statement": "Le terme manufacturer inclut fournisseur et revendeur, même sans modification du produit.",
+    "new_statement": "Le terme manufacturer inclut fournisseur et revendeur, même sans modification du produit.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Product comprend services, manufacturer n'est pas toujours créateur. Transport effectif et marchand sont distingués; la catégorie professionnelle seule ne détermine pas Utility.",
+    "new_sources": [
+      158,
+      159,
+      187,
+      192,
+      193,
+      261,
+      271,
+      276,
+      477
+    ],
+    "previous_review": {
+      "local_review_status": "QUALIFIED",
+      "global_review_status": null,
+      "reason": "Définition large de manufacturer versus exclusion catégorielle des services; critère Utility doit rester explicite.",
+      "pages_reviewed": [
+        349,
+        534,
+        540
+      ]
+    }
+  },
+  {
+    "id": "CPC-0061",
+    "old_statement": "Le Transformer est interne au système ; Seller et Acquirer sont externes.",
+    "new_statement": "Le Transformer est interne au système ; Seller et Acquirer sont externes.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Product comprend services, manufacturer n'est pas toujours créateur. Transport effectif et marchand sont distingués; la catégorie professionnelle seule ne détermine pas Utility.",
+    "new_sources": [
+      158,
+      159,
+      187,
+      192,
+      193,
+      261,
+      271,
+      276,
+      477
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0062",
+    "old_statement": "Le signe des variations d’utilité dépend de la position de l’observateur dans la chaîne.",
+    "new_statement": "Le signe des variations d’utilité dépend de la position de l’observateur dans la chaîne.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Signes entrants/sortants et point de vue sont explicites; erreurs locales de cycles ne doivent pas effacer la convention générale ni devenir preuve contre elle.",
+    "new_sources": [
+      193,
+      194,
+      247,
+      271,
+      355,
+      501,
+      547,
+      553
+    ],
+    "previous_review": {
+      "local_review_status": "CONFIRMED",
+      "global_review_status": null,
+      "reason": "Référent Transformer et coordonnées différentes explicitement précisés.",
+      "pages_reviewed": [
+        546,
+        547
+      ]
+    }
+  },
+  {
+    "id": "CPC-0063",
+    "old_statement": "Les flux entrants du Transformer sont comptés positivement, les sortants négativement.",
+    "new_statement": "Les flux entrants du Transformer sont comptés positivement, les sortants négativement.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Signes entrants/sortants et point de vue sont explicites; erreurs locales de cycles ne doivent pas effacer la convention générale ni devenir preuve contre elle.",
+    "new_sources": [
+      193,
+      194,
+      247,
+      271,
+      355,
+      501,
+      547,
+      553
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0064",
+    "old_statement": "À vitesse d’exécution constante, Economic Work effectué est nul, même si le travail physique est important.",
+    "new_statement": "À vitesse d’exécution constante, Economic Work effectué est nul, même si le travail physique est important.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat.",
+    "new_sources": [
+      22,
+      35,
+      203,
+      207,
+      208,
+      232,
+      234,
+      340,
+      342,
+      355,
+      467,
+      470,
+      472,
+      501,
+      547
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0065",
+    "old_statement": "L’absence de création de richesse monétaire n’exclut pas les richesses culturelles ou les services non marchands.",
+    "new_statement": "L’absence de création de richesse monétaire n’exclut pas les richesses culturelles ou les services non marchands.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Wealth monétaire exclut patrimoine sans nier richesse sociale; épargne comme potentiel et PIB final exigent horizon. Ne pas conclure que tout service exclu est inutile.",
+    "new_sources": [
+      185,
+      204,
+      468,
+      479,
+      534,
+      559
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0066",
+    "old_statement": "Les complexités du Product et de Cash ne sont pas égales malgré une notation c parfois commune.",
+    "new_statement": "Les complexités du Product et de Cash ne sont pas égales malgré une notation c parfois commune.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver.",
+    "new_sources": [
+      187,
+      188,
+      189,
+      196,
+      202,
+      207,
+      210,
+      322
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0067",
+    "old_statement": "Une section informative réintroduit une relation avec l’entropie physique via le rendement global.",
+    "new_statement": "Une section informative réintroduit une relation avec l’entropie physique via le rendement global.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique.",
+    "new_sources": [
+      35,
+      36,
+      159,
+      235,
+      454,
+      455,
+      463,
+      464,
+      466
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0068",
+    "old_statement": "Les relations de vitesse mesurent les évolutions sans en déterminer les causes.",
+    "new_statement": "Les relations de vitesse mesurent les évolutions sans en déterminer les causes.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Vitesses descriptives distinguées de causes; prix au cours d'une copie et entre copies ne sont pas une seule variable temporelle.",
+    "new_sources": [
+      198,
+      209,
+      502
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0069",
+    "old_statement": "Stabilité globale : u constant, sous les conditions du scénario SC-MONEY-01.",
+    "new_statement": "Stabilité globale : u constant, sous les conditions du scénario SC-MONEY-01.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+    "new_sources": [
+      18,
+      101,
+      146,
+      170,
+      172,
+      173,
+      174,
+      175,
+      177,
+      178,
+      183,
+      204,
+      523
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0070",
+    "old_statement": "Retrait et remboursement à Money constant : u augmente; pas de destruction de Money, sous les conditions du scénario SC-MONEY-03.",
+    "new_statement": "Retrait et remboursement à Money constant : u augmente; pas de destruction de Money, sous les conditions du scénario SC-MONEY-03.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+    "new_sources": [
+      18,
+      101,
+      146,
+      170,
+      172,
+      173,
+      174,
+      175,
+      177,
+      178,
+      183,
+      204,
+      523
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0071",
+    "old_statement": "Destruction à nombre constant : u et M diminuent, sous les conditions du scénario SC-MONEY-05.",
+    "new_statement": "Destruction à nombre constant : u et M diminuent, sous les conditions du scénario SC-MONEY-05.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+    "new_sources": [
+      18,
+      101,
+      146,
+      170,
+      172,
+      173,
+      174,
+      175,
+      177,
+      178,
+      183,
+      204,
+      523
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0072",
+    "old_statement": "Émission accompagnant une création préalable : n et M augmentent, u constant, sous les conditions du scénario SC-MONEY-06.",
+    "new_statement": "Émission accompagnant une création préalable : n et M augmentent, u constant, sous les conditions du scénario SC-MONEY-06.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+    "new_sources": [
+      18,
+      101,
+      146,
+      170,
+      172,
+      173,
+      174,
+      175,
+      177,
+      178,
+      183,
+      204,
+      523
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0073",
+    "old_statement": "Retrait accompagnant une destruction : n et M diminuent, u constant, sous les conditions du scénario SC-MONEY-07.",
+    "new_statement": "Retrait accompagnant une destruction : n et M diminuent, u constant, sous les conditions du scénario SC-MONEY-07.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+    "new_sources": [
+      18,
+      101,
+      146,
+      170,
+      172,
+      173,
+      174,
+      175,
+      177,
+      178,
+      183,
+      204,
+      523
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0074",
+    "old_statement": "Dévaluation correctrice : Destruction du supplément, retour de référence, sous les conditions du scénario SC-MONEY-09.",
+    "new_statement": "Dévaluation correctrice : Destruction du supplément, retour de référence, sous les conditions du scénario SC-MONEY-09.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Branches incohérentes et corrections effectivement annoncées; CONFIRMED porte sur leur présence textuelle, pas sur nécessité empirique de correction ni définition usuelle inflation.",
+    "new_sources": [
+      24,
+      25,
+      26,
+      175,
+      291
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0075",
+    "old_statement": "Réévaluation correctrice : Retour au niveau de référence affirmé, sous les conditions du scénario SC-MONEY-11.",
+    "new_statement": "Réévaluation correctrice : Retour au niveau de référence affirmé, sous les conditions du scénario SC-MONEY-11.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Branches incohérentes et corrections effectivement annoncées; CONFIRMED porte sur leur présence textuelle, pas sur nécessité empirique de correction ni définition usuelle inflation.",
+    "new_sources": [
+      24,
+      25,
+      26,
+      175,
+      291
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0076",
+    "old_statement": "Prix et utilité baissent : enrichissement : Enrichissement; rP constant dans le tableau, sous les conditions du scénario SC-MONEY-12.",
+    "new_statement": "Prix et utilité baissent : enrichissement : Enrichissement; rP constant dans le tableau, sous les conditions du scénario SC-MONEY-12.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Table prix/Utility possède plusieurs régimes; variation rP peut absorber un écart. Noms enrichissement/inflation ne sont pas des mesures usuelles automatiquement équivalentes.",
+    "new_sources": [
+      290,
+      291,
+      292,
+      293
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0077",
+    "old_statement": "Prix baisse et utilité augmente : déflation : Déflation, pas enrichissement automatique, sous les conditions du scénario SC-MONEY-13.",
+    "new_statement": "Prix baisse et utilité augmente : déflation : Déflation, pas enrichissement automatique, sous les conditions du scénario SC-MONEY-13.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Table prix/Utility possède plusieurs régimes; variation rP peut absorber un écart. Noms enrichissement/inflation ne sont pas des mesures usuelles automatiquement équivalentes.",
+    "new_sources": [
+      290,
+      291,
+      292,
+      293
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0078",
+    "old_statement": "Prix augmente et utilité baisse : inflation : Pouvoir d’achat décroissant dans ce passage, sous les conditions du scénario SC-MONEY-14.",
+    "new_statement": "Prix augmente et utilité baisse : inflation : Pouvoir d’achat décroissant dans ce passage, sous les conditions du scénario SC-MONEY-14.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Table prix/Utility possède plusieurs régimes; variation rP peut absorber un écart. Noms enrichissement/inflation ne sont pas des mesures usuelles automatiquement équivalentes.",
+    "new_sources": [
+      290,
+      291,
+      292,
+      293
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0079",
+    "old_statement": "Prix et utilité augmentent : appauvrissement : Appauvrissement; rP constant dans le tableau, sous les conditions du scénario SC-MONEY-15.",
+    "new_statement": "Prix et utilité augmentent : appauvrissement : Appauvrissement; rP constant dans le tableau, sous les conditions du scénario SC-MONEY-15.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Table prix/Utility possède plusieurs régimes; variation rP peut absorber un écart. Noms enrichissement/inflation ne sont pas des mesures usuelles automatiquement équivalentes.",
+    "new_sources": [
+      290,
+      291,
+      292,
+      293
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0080",
+    "old_statement": "Changement de dénomination : n divisé, u multiplié; richesse inchangée, sous les conditions du scénario SC-MONEY-16.",
+    "new_statement": "Changement de dénomination : n divisé, u multiplié; richesse inchangée, sous les conditions du scénario SC-MONEY-16.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+    "new_sources": [
+      18,
+      101,
+      146,
+      170,
+      172,
+      173,
+      174,
+      175,
+      177,
+      178,
+      183,
+      204,
+      523
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0081",
+    "old_statement": "Inertie et compensation différée : Résultat final rigoureusement nul affirmé, non instantané, sous les conditions du scénario SC-MONEY-19.",
+    "new_statement": "Inertie et compensation différée : Résultat final rigoureusement nul affirmé, non instantané, sous les conditions du scénario SC-MONEY-19.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+    "new_sources": [
+      18,
+      101,
+      146,
+      170,
+      172,
+      173,
+      174,
+      175,
+      177,
+      178,
+      183,
+      204,
+      523
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0082",
+    "old_statement": "Support métallique, surémission et confiance : M supposé constant quelle que soit la nature de Cash, sous les conditions du scénario SC-MONEY-20.",
+    "new_statement": "Support métallique, surémission et confiance : M supposé constant quelle que soit la nature de Cash, sous les conditions du scénario SC-MONEY-20.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+    "new_sources": [
+      18,
+      101,
+      146,
+      170,
+      172,
+      173,
+      174,
+      175,
+      177,
+      178,
+      183,
+      204,
+      523
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0083",
+    "old_statement": "Vitesse des prix dépassant la consommation : Hyperinflation définie comme limite temporelle, sous les conditions du scénario SC-MONEY-21.",
+    "new_statement": "Vitesse des prix dépassant la consommation : Hyperinflation définie comme limite temporelle, sous les conditions du scénario SC-MONEY-21.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Branches incohérentes et corrections effectivement annoncées; CONFIRMED porte sur leur présence textuelle, pas sur nécessité empirique de correction ni définition usuelle inflation.",
+    "new_sources": [
+      24,
+      25,
+      26,
+      175,
+      291
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0084",
+    "old_statement": "Money créé non entièrement dépensé : Pas d’égalité obligatoire création/dépense, sous les conditions du scénario SC-MONEY-22.",
+    "new_statement": "Money créé non entièrement dépensé : Pas d’égalité obligatoire création/dépense, sous les conditions du scénario SC-MONEY-22.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Gain disponible avant dépense; autres produits, qualité, dette, impôt, épargne sont explicites. Aucune part marginale ni consommation immédiate universelle donnée.",
+    "new_sources": [
+      33,
+      52,
+      180,
+      400,
+      468,
+      523,
+      559
+    ],
+    "previous_review": {
+      "local_review_status": "CONFIRMED",
+      "global_review_status": null,
+      "reason": "Créé peut être thésaurisé; priorité chronologique ne donne pas égalité annuelle.",
+      "pages_reviewed": [
+        523
+      ]
+    }
+  },
+  {
+    "id": "CPC-0085",
+    "old_statement": "Revenu et prix fixes : intérieur et extérieur : Avantage intérieur opposé à compensation extérieure, sous les conditions du scénario SC-MONEY-23.",
+    "new_statement": "Revenu et prix fixes : intérieur et extérieur : Avantage intérieur opposé à compensation extérieure, sous les conditions du scénario SC-MONEY-23.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+    "new_sources": [
+      18,
+      101,
+      146,
+      170,
+      172,
+      173,
+      174,
+      175,
+      177,
+      178,
+      183,
+      204,
+      523
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0086",
+    "old_statement": "Combinaison quotidienne des possibilités : n,u,M observés agrégés peuvent combiner plusieurs effets, sous les conditions du scénario SC-MONEY-24.",
+    "new_statement": "Combinaison quotidienne des possibilités : n,u,M observés agrégés peuvent combiner plusieurs effets, sous les conditions du scénario SC-MONEY-24.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+    "new_sources": [
+      18,
+      101,
+      146,
+      170,
+      172,
+      173,
+      174,
+      175,
+      177,
+      178,
+      183,
+      204,
+      523
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0087",
+    "old_statement": "Couplage spéculateur–fournisseur et coefficients : Transfert et inégalités accrus, sous les conditions du scénario SC-MONEY-25.",
+    "new_statement": "Couplage spéculateur–fournisseur et coefficients : Transfert et inégalités accrus, sous les conditions du scénario SC-MONEY-25.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Spéculation et distribution séparées de fabrication; locations et biens de luxe montrent limites des exclusions catégorielles; ne pas qualifier toute finance identiquement.",
+    "new_sources": [
+      520,
+      522,
+      533,
+      534,
+      540
+    ],
+    "previous_review": {
+      "local_review_status": "SOURCE_NEEDS_EXTENSION",
+      "global_review_status": null,
+      "reason": "Généralisation aux secteurs dépasse le scénario spéculateur-fournisseur.",
+      "pages_reviewed": [
+        533,
+        534,
+        535
+      ]
+    }
+  },
+  {
+    "id": "CPC-0088",
+    "old_statement": "Variations simultanées de même signe exclues : Cas déclaré strictement impossible, sous les conditions du scénario SC-MONEY-26.",
+    "new_statement": "Variations simultanées de même signe exclues : Cas déclaré strictement impossible, sous les conditions du scénario SC-MONEY-26.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Exclusion graphique est jugement de cohérence monétaire du corpus, pas impossibilité algébrique de dM=n.du+u.dn avec signes communs. Création accompagnée (u fixe) est autre branche.",
+    "new_sources": [
+      30,
+      177,
+      178,
+      526,
+      531
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0089",
+    "old_statement": "Prix local et nombre global N : Ne pas identifier un prix local au pouvoir d’achat national, sous les conditions du scénario SC-MONEY-28.",
+    "new_statement": "Prix local et nombre global N : Ne pas identifier un prix local au pouvoir d’achat national, sous les conditions du scénario SC-MONEY-28.",
+    "action": "UNCHANGED",
+    "global_review_status": "REQUIRES_FURTHER_REVIEW",
+    "reason": "Trois normalisations du lien prix/unité emploient n,N,FA différemment; frontière nationale/locale ne réconcilie pas à elle seule tous les facteurs. Pas de correction silencieuse.",
+    "new_sources": [
+      23,
+      214,
+      537,
+      538
+    ],
+    "previous_review": {
+      "local_review_status": "QUALIFIED",
+      "global_review_status": null,
+      "reason": "Link explicitement non relation agrégée et division par N à interpréter.",
+      "pages_reviewed": [
+        536,
+        537,
+        538
+      ]
+    }
+  },
+  {
+    "id": "CPC-0090",
+    "old_statement": "Appréciation spéculative de u sans retrait de n : Gain transitoire puis crise rétablissant M constant, sous les conditions du scénario SC-MONEY-29.",
+    "new_statement": "Appréciation spéculative de u sans retrait de n : Gain transitoire puis crise rétablissant M constant, sous les conditions du scénario SC-MONEY-29.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+    "new_sources": [
+      18,
+      101,
+      146,
+      170,
+      172,
+      173,
+      174,
+      175,
+      177,
+      178,
+      183,
+      204,
+      523
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0091",
+    "old_statement": "Bouclage par dévaluation : Égalité recherchée au prix d’une distorsion, sous les conditions du scénario SC-MONEY-30.",
+    "new_statement": "Bouclage par dévaluation : Égalité recherchée au prix d’une distorsion, sous les conditions du scénario SC-MONEY-30.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Deux bouclages explicites : dévaluation et Work supplémentaire/intérêts. Ne pas réduire tout crédit à l'absence de transformation ultérieure.",
+    "new_sources": [
+      344,
+      366,
+      520
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0092",
+    "old_statement": "Bouclage par Work supplémentaire pour les intérêts : Surplus productif pour payer les intérêts, voie dite valide, sous les conditions du scénario SC-MONEY-31.",
+    "new_statement": "Bouclage par Work supplémentaire pour les intérêts : Surplus productif pour payer les intérêts, voie dite valide, sous les conditions du scénario SC-MONEY-31.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Deux bouclages explicites : dévaluation et Work supplémentaire/intérêts. Ne pas réduire tout crédit à l'absence de transformation ultérieure.",
+    "new_sources": [
+      344,
+      366,
+      520
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0093",
+    "old_statement": "Non-neutralité réciproque entre acteurs : Décision déclarée non neutre sur Work et Money, sans identité avec neutralité monétaire agrégée, sous les conditions du scénario SC-MONEY-32.",
+    "new_statement": "Non-neutralité réciproque entre acteurs : Décision déclarée non neutre sur Work et Money, sans identité avec neutralité monétaire agrégée, sous les conditions du scénario SC-MONEY-32.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Non-neutralité entre acteurs et par copie, pas impossibilité de gain horaire simultané ni absence de redistribution du surplus.",
+    "new_sources": [
+      380,
+      382,
+      398,
+      400,
+      507,
+      508
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0094",
+    "old_statement": "Tâche fixe, vitesse variable : Labour fixe; Work varie avec la vitesse, pas avec les seules heures.",
+    "new_statement": "Tâche fixe, vitesse variable : Labour fixe; Work varie avec la vitesse, pas avec les seules heures.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver.",
+    "new_sources": [
+      187,
+      188,
+      189,
+      196,
+      202,
+      207,
+      210,
+      322
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0095",
+    "old_statement": "Vitesse constante sans Work supplémentaire : dω=0 conduit à dT=0; labour et W physique peuvent rester importants.",
+    "new_statement": "Vitesse constante sans Work supplémentaire : dω=0 conduit à dT=0; labour et W physique peuvent rester importants.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat.",
+    "new_sources": [
+      22,
+      35,
+      203,
+      207,
+      208,
+      232,
+      234,
+      340,
+      342,
+      355,
+      467,
+      470,
+      472,
+      501,
+      547
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0096",
+    "old_statement": "Accélération et coût horaire inchangé : 8h→6h : coût160→120; T relatif augmente sous loi quadratique.",
+    "new_statement": "Accélération et coût horaire inchangé : 8h→6h : coût160→120; T relatif augmente sous loi quadratique.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.",
+    "new_sources": [
+      32,
+      33,
+      207
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0097",
+    "old_statement": "Prix de vente maintenu, gain retenu : Baisse productive puis hausse comptable dans la reconstruction de l’auteur.",
+    "new_statement": "Prix de vente maintenu, gain retenu : Baisse productive puis hausse comptable dans la reconstruction de l’auteur.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+    "new_sources": [
+      19,
+      20,
+      128,
+      361,
+      363,
+      364,
+      400,
+      504,
+      507,
+      508
+    ],
+    "previous_review": {
+      "local_review_status": "CONFIRMED",
+      "global_review_status": null,
+      "reason": "Branches marge/salaire et redistribution internes explicites.",
+      "pages_reviewed": [
+        507,
+        508
+      ]
+    }
+  },
+  {
+    "id": "CPC-0098",
+    "old_statement": "Transmission en chaîne à profit absolu constant : Coûts moindres donnent prix de vente moindres; gains amont et aval.",
+    "new_statement": "Transmission en chaîne à profit absolu constant : Coûts moindres donnent prix de vente moindres; gains amont et aval.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+    "new_sources": [
+      19,
+      20,
+      128,
+      361,
+      363,
+      364,
+      400,
+      504,
+      507,
+      508
+    ],
+    "previous_review": {
+      "local_review_status": "SOURCE_NEEDS_EXTENSION",
+      "global_review_status": null,
+      "reason": "Profit constant délibérément conditionnel, exceptions p507.",
+      "pages_reviewed": [
+        504,
+        505,
+        507
+      ]
+    }
+  },
+  {
+    "id": "CPC-0099",
+    "old_statement": "Création puis usage ultérieur du supplément : Le gain existe avant sa dépense ultérieure, laquelle n’est pas sa création.",
+    "new_statement": "Création puis usage ultérieur du supplément : Le gain existe avant sa dépense ultérieure, laquelle n’est pas sa création.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Gain disponible avant dépense; autres produits, qualité, dette, impôt, épargne sont explicites. Aucune part marginale ni consommation immédiate universelle donnée.",
+    "new_sources": [
+      33,
+      52,
+      180,
+      400,
+      468,
+      523,
+      559
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0100",
+    "old_statement": "Création via différence d’Utility : Différence d’Utility associée à Money; intermédiaire sans variation : transfert seul.",
+    "new_statement": "Création via différence d’Utility : Différence d’Utility associée à Money; intermédiaire sans variation : transfert seul.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Variation Utility est critère revendiqué; transport peut la produire, commerce pur non. Tensions avec classement des ménagères et services à maintenir ouvertes.",
+    "new_sources": [
+      111,
+      159,
+      261,
+      271,
+      276,
+      349,
+      455,
+      477
+    ],
+    "previous_review": {
+      "local_review_status": "QUALIFIED",
+      "global_review_status": null,
+      "reason": "Condition sans Utility ne suffit pas à exclure une profession sans examen du service rendu.",
+      "pages_reviewed": [
+        349,
+        534,
+        540
+      ]
+    }
+  },
+  {
+    "id": "CPC-0101",
+    "old_statement": "Trois transformations T→M à caractéristique constante : Isobare, isoaxiale et isophèle donnent des branches différentes.",
+    "new_statement": "Trois transformations T→M à caractéristique constante : Isobare, isoaxiale et isophèle donnent des branches différentes.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Branches à variables fixes et adiabatique sont textuellement distinctes. Les intégrales exigent coefficients constants/domaines positifs et transfert interne/externe séparé.",
+    "new_sources": [
+      275,
+      276,
+      277,
+      293,
+      300,
+      345,
+      347,
+      350,
+      353
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0102",
+    "old_statement": "Trois transformations M→T symétriques : Isobare, isoergue et isophèle; Utility de Cash, pas du Product.",
+    "new_statement": "Trois transformations M→T symétriques : Isobare, isoergue et isophèle; Utility de Cash, pas du Product.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Branches à variables fixes et adiabatique sont textuellement distinctes. Les intégrales exigent coefficients constants/domaines positifs et transfert interne/externe séparé.",
+    "new_sources": [
+      275,
+      276,
+      277,
+      293,
+      300,
+      345,
+      347,
+      350,
+      353
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0103",
+    "old_statement": "Transformation adiabatique et frontière du système : Utility évolue; intégration interne de FA.dp malgré absence de transfert externe.",
+    "new_statement": "Transformation adiabatique et frontière du système : Utility évolue; intégration interne de FA.dp malgré absence de transfert externe.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Branches à variables fixes et adiabatique sont textuellement distinctes. Les intégrales exigent coefficients constants/domaines positifs et transfert interne/externe séparé.",
+    "new_sources": [
+      275,
+      276,
+      277,
+      293,
+      300,
+      345,
+      347,
+      350,
+      353
+    ],
+    "previous_review": {
+      "local_review_status": "SOURCE_NEEDS_EXTENSION",
+      "global_review_status": null,
+      "reason": "Gradient selon coordonnées différent de variation temporelle en isophèle.",
+      "pages_reviewed": [
+        546
+      ]
+    }
+  },
+  {
+    "id": "CPC-0104",
+    "old_statement": "Cycles couplés et rendements : ηglobal défini comme produit; optimum annoncé à angles égaux.",
+    "new_statement": "Cycles couplés et rendements : ηglobal défini comme produit; optimum annoncé à angles égaux.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Cycles conditionnels, non machine universelle. Table des rendements conserve deux facteurs; carré seulement à égalité, durées identiques seulement simplificatrices; signes locaux fautifs catalogués.",
+    "new_sources": [
+      34,
+      344,
+      355,
+      371,
+      377,
+      385,
+      388,
+      392,
+      494,
+      496,
+      498
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0105",
+    "old_statement": "Coût d’énergie absorbant les gains relatifs : Rapport des coûts .60 devient5.10/5.50; avantage salarial relatif réduit.",
+    "new_statement": "Coût d’énergie absorbant les gains relatifs : Rapport des coûts .60 devient5.10/5.50; avantage salarial relatif réduit.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Exemple France/Chine explicitement démonstratif et non numériquement validé par l'auteur; ne pas compter comme observation internationale.",
+    "new_sources": [
+      461,
+      462
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0106",
+    "old_statement": "Substitution machine–salarié : Emploi salarié peut baisser tandis que contribution mécanique augmente.",
+    "new_statement": "Substitution machine–salarié : Emploi salarié peut baisser tandis que contribution mécanique augmente.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Substitution machines/salariés explicite; effet sur emploi total non identifiable sans demande et composition.",
+    "new_sources": [
+      72,
+      163,
+      164,
+      212,
+      460
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0107",
+    "old_statement": "Création productive avec émission de Cash calibrée : Variante4 : n varie, u reste constant; ne pas ajouter deux fois le même gain.",
+    "new_statement": "Création productive avec émission de Cash calibrée : Variante4 : n varie, u reste constant; ne pas ajouter deux fois le même gain.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Scénarios multiples conservés avec bilan global/local, délais, émission accompagnatrice et numéraire. Libellés Constant/Current Money ne garantissent pas u fixe; compensation finale reste assertion conditionnelle.",
+    "new_sources": [
+      18,
+      101,
+      146,
+      170,
+      172,
+      173,
+      174,
+      175,
+      177,
+      178,
+      183,
+      204,
+      523
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0108",
+    "old_statement": "Pertes utiles et inutiles : Prélèvements utiles aux infrastructures : optimum recherché; pertes inutiles : minimum.",
+    "new_statement": "Pertes utiles et inutiles : Prélèvements utiles aux infrastructures : optimum recherché; pertes inutiles : minimum.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Pertes économiquement utiles versus inutiles et dommage environnemental sont trois catégories, non une équivalence. Renouvelables limitent les effets dans l'énoncé source.",
+    "new_sources": [
+      343,
+      454,
+      479,
+      482
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0109",
+    "old_statement": "Coefficients de transformation variables : Même Work peut être associé à Money différent; compensation par g.",
+    "new_statement": "Coefficients de transformation variables : Même Work peut être associé à Money différent; compensation par g.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Équivalence avec coefficient, g variable admis puis égalité recherchée/posée. K agrégé n'est pas garanti constant par nombre de produits; pas confusion g/r/K.",
+    "new_sources": [
+      36,
+      216,
+      265,
+      380,
+      526,
+      528,
+      559
+    ],
+    "previous_review": {
+      "local_review_status": "QUALIFIED",
+      "global_review_status": null,
+      "reason": "g variable explicitement permis; dérivations tardives contiennent défauts locaux à isoler.",
+      "pages_reviewed": [
+        523,
+        525,
+        526,
+        527,
+        528,
+        529
+      ]
+    }
+  },
+  {
+    "id": "CPC-0110",
+    "old_statement": "Ralentissement, stabilité, accélération entre exemplaires : Trois signes d’évolution de la vitesse : prix monte, reste, baisse.",
+    "new_statement": "Ralentissement, stabilité, accélération entre exemplaires : Trois signes d’évolution de la vitesse : prix monte, reste, baisse.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Accélération/stabilité/ralentissement entre copies; coûts et profits doivent être maintenus pour déduire prix dans ce scénario.",
+    "new_sources": [
+      198,
+      502,
+      507
+    ],
+    "previous_review": {
+      "local_review_status": "CONFIRMED",
+      "global_review_status": null,
+      "reason": "Cas ceteris paribus et profits constants, pas règle sans condition.",
+      "pages_reviewed": [
+        502,
+        503,
+        507
+      ]
+    }
+  },
+  {
+    "id": "CPC-0111",
+    "old_statement": "Addition entre moyens productifs : Labour, T et emploi e déclarés additifs entre contributeurs.",
+    "new_statement": "Addition entre moyens productifs : Labour, T et emploi e déclarés additifs entre contributeurs.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Addition de contributeurs n'autorise pas somme d'Utility hétérogènes; assemblage/réaction distinct de juxtaposition; composition et coefficients à fixer.",
+    "new_sources": [
+      111,
+      210,
+      305,
+      320,
+      383,
+      559
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0112",
+    "old_statement": "Prix formé pendant fabrication versus prix entre copies : ω et varpi mesurent des vitesses sans stipuler leurs causes.",
+    "new_statement": "Prix formé pendant fabrication versus prix entre copies : ω et varpi mesurent des vitesses sans stipuler leurs causes.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Vitesses descriptives distinguées de causes; prix au cours d'une copie et entre copies ne sont pas une seule variable temporelle.",
+    "new_sources": [
+      198,
+      209,
+      502
+    ],
+    "previous_review": {
+      "local_review_status": "SOURCE_NEEDS_EXTENSION",
+      "global_review_status": null,
+      "reason": "Coût horaire moyen et dérivée instantanée ne sont égaux que sous profil adéquat.",
+      "pages_reviewed": [
+        500,
+        501
+      ]
+    }
+  },
+  {
+    "id": "CPC-0113",
+    "old_statement": "Utility, négociation et complexité : Prix et quantités peuvent changer via appréciation/complexité, pas seulement coût.",
+    "new_statement": "Utility, négociation et complexité : Prix et quantités peuvent changer via appréciation/complexité, pas seulement coût.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Utility contextuelle, non proxy automatique de besoin/qualité/prix. Besoin satisfait donne Utility nulle p132 mais copies et fonction subsistent p108/111; ratio, égalité et dérivée exigent échelle et hypothèses propres.",
+    "new_sources": [
+      104,
+      108,
+      109,
+      111,
+      132,
+      189,
+      190,
+      191,
+      192,
+      249,
+      283,
+      285,
+      287,
+      292,
+      299,
+      301,
+      303
+    ],
+    "previous_review": {
+      "local_review_status": "SOURCE_NEEDS_EXTENSION",
+      "global_review_status": null,
+      "reason": "Ratios de choix et comparaisons intersupports supplémentaires.",
+      "pages_reviewed": [
+        511,
+        512,
+        513,
+        520
+      ]
+    }
+  },
+  {
+    "id": "CPC-0114",
+    "old_statement": "La demande D est définie comme un débit de copies vendues, symétriquement à l’offre de copies fabriquées.",
+    "new_statement": "La demande D est définie comme un débit de copies vendues, symétriquement à l’offre de copies fabriquées.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Débits définis; déduction D/S≤1 depuis totaux cumulés omet stocks et fenêtre temporelle. Offre/vente/demande désirée ne sont pas identiques.",
+    "new_sources": [
+      34,
+      121,
+      211,
+      402,
+      403,
+      404
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0115",
+    "old_statement": "Les potentiels économiques sont présentés comme fonctions d’état sous une restriction explicite d’absence de pertes.",
+    "new_statement": "Les potentiels économiques sont présentés comme fonctions d’état sous une restriction explicite d’absence de pertes.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Potentiels sans pertes et dérivées croisées C2; variables constantes, substitutions de contraintes et signes partiels sont limites. σ aliases non paramètres indépendants.",
+    "new_sources": [
+      312,
+      315,
+      322,
+      323,
+      330,
+      413,
+      421,
+      422,
+      425,
+      435,
+      439,
+      441,
+      444,
+      445,
+      453
+    ],
+    "previous_review": {
+      "local_review_status": "SOURCE_NEEDS_EXTENSION",
+      "global_review_status": null,
+      "reason": "Dérivées partielles et potentiels doivent conserver contraintes et indépendance locale.",
+      "pages_reviewed": [
+        427,
+        429,
+        441,
+        442
+      ]
+    }
+  },
+  {
+    "id": "CPC-0116",
+    "old_statement": "Le calcul des coefficients écométriques emploie deux variables parmi FA, V, UP, avec rP constant dans la Core Law.",
+    "new_statement": "Le calcul des coefficients écométriques emploie deux variables parmi FA, V, UP, avec rP constant dans la Core Law.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Potentiels sans pertes et dérivées croisées C2; variables constantes, substitutions de contraintes et signes partiels sont limites. σ aliases non paramètres indépendants.",
+    "new_sources": [
+      312,
+      315,
+      322,
+      323,
+      330,
+      413,
+      421,
+      422,
+      425,
+      435,
+      439,
+      441,
+      444,
+      445,
+      453
+    ],
+    "previous_review": {
+      "local_review_status": "QUALIFIED",
+      "global_review_status": null,
+      "reason": "Deux degrés de liberté; erreurs intermédiaires et de transcription ne réfutent pas toutes les formules finales.",
+      "pages_reviewed": [
+        431,
+        435,
+        436,
+        439,
+        441,
+        444,
+        445
+      ]
+    }
+  },
+  {
+    "id": "CPC-0117",
+    "old_statement": "Le manuscrit suppose qu’agréger davantage de Products stabilise K, pourtant variable selon le produit, jusqu’à ne plus dépendre que des unités.",
+    "new_statement": "Le manuscrit suppose qu’agréger davantage de Products stabilise K, pourtant variable selon le produit, jusqu’à ne plus dépendre que des unités.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "LOCAL_CLAIM_BECOMES_GLOBAL : K stable, énergie totale et PIB ajoutent composition, rendement, horizon et frontières. Absorber résidu n'est pas expliquer indépendamment; corrélation reste non spécifique.",
+    "new_sources": [
+      454,
+      455,
+      456,
+      523,
+      528,
+      529,
+      538,
+      558,
+      559
+    ],
+    "previous_review": {
+      "local_review_status": "CONFIRMED",
+      "global_review_status": null,
+      "reason": "Hypothèse d’agrégation retrouvée, non conséquence d’un simple grand nombre.",
+      "pages_reviewed": [
+        559
+      ]
+    }
+  },
+  {
+    "id": "CPC-0118",
+    "old_statement": "La fin du manuscrit propose GDP=K·Wconsumed comme couplage absolu, en absorbant dans K l’énergie sans création de Money.",
+    "new_statement": "La fin du manuscrit propose GDP=K·Wconsumed comme couplage absolu, en absorbant dans K l’énergie sans création de Money.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "LOCAL_CLAIM_BECOMES_GLOBAL : K stable, énergie totale et PIB ajoutent composition, rendement, horizon et frontières. Absorber résidu n'est pas expliquer indépendamment; corrélation reste non spécifique.",
+    "new_sources": [
+      454,
+      455,
+      456,
+      523,
+      528,
+      529,
+      538,
+      558,
+      559
+    ],
+    "previous_review": {
+      "local_review_status": "QUALIFIED",
+      "global_review_status": null,
+      "reason": "Contexte micro limité, thésaurisation et pertes variables empêchent d’inférer égalité sans conditions supplémentaires.",
+      "pages_reviewed": [
+        523,
+        529,
+        538,
+        558,
+        559
+      ]
+    }
+  },
+  {
+    "id": "CPC-0119",
+    "old_statement": "Le pont Tused=−Wcreated est restreint au travail mécanique économiquement utile, qui fait évoluer l’Utility du Product.",
+    "new_statement": "Le pont Tused=−Wcreated est restreint au travail mécanique économiquement utile, qui fait évoluer l’Utility du Product.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Pont utile explicitement restreint par Utility; chaînes énergie/coût/production/déchets antérieures retrouvées. Dommages non réduits à un indicateur quantifié; pertes physiques et économiques distinctes.",
+    "new_sources": [
+      72,
+      112,
+      159,
+      163,
+      165,
+      454,
+      455,
+      456,
+      459,
+      460,
+      464
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0120",
+    "old_statement": "Campergue relie accélération productive, pertes croissant plus vite que la productivité, consommation accrue de combustibles et dommages environnementaux.",
+    "new_statement": "Campergue relie accélération productive, pertes croissant plus vite que la productivité, consommation accrue de combustibles et dommages environnementaux.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Pont utile explicitement restreint par Utility; chaînes énergie/coût/production/déchets antérieures retrouvées. Dommages non réduits à un indicateur quantifié; pertes physiques et économiques distinctes.",
+    "new_sources": [
+      72,
+      112,
+      159,
+      163,
+      165,
+      454,
+      455,
+      456,
+      459,
+      460,
+      464
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0121",
+    "old_statement": "La conservation du Work total est obtenue en compensant la variation cinétique par la variation de Work potentiel restant.",
+    "new_statement": "La conservation du Work total est obtenue en compensant la variation cinétique par la variation de Work potentiel restant.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat.",
+    "new_sources": [
+      22,
+      35,
+      203,
+      207,
+      208,
+      232,
+      234,
+      340,
+      342,
+      355,
+      467,
+      470,
+      472,
+      501,
+      547
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0122",
+    "old_statement": "Les conservations économiques sont présentées avec des caractéristiques similaires, mais explicitement non mécaniques, avant leur application ceteris paribus.",
+    "new_statement": "Les conservations économiques sont présentées avec des caractéristiques similaires, mais explicitement non mécaniques, avant leur application ceteris paribus.",
+    "action": "UNCHANGED",
+    "global_review_status": "QUALIFIED",
+    "reason": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique.",
+    "new_sources": [
+      35,
+      36,
+      159,
+      235,
+      454,
+      455,
+      463,
+      464,
+      466
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0123",
+    "old_statement": "Les Makers réalisent du labour sans création de Money; les Workers sont distingués par Force et variation d’Utility, non par simple utilité sociale.",
+    "new_statement": "Les Makers réalisent du labour sans création de Money; les Workers sont distingués par Force et variation d’Utility, non par simple utilité sociale.",
+    "action": "UNCHANGED",
+    "global_review_status": "REQUIRES_FURTHER_REVIEW",
+    "reason": "Changement explicite vers work/cash usuels puis critères spécialisés; même signe dvarpi malgré prose opposée, travail domestique traité différemment. Classification sociale non univoque en l'état.",
+    "new_sources": [
+      159,
+      271,
+      473,
+      475,
+      477,
+      479,
+      480,
+      484,
+      485
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0124",
+    "old_statement": "Dans le scénario monopolistique à service et Utility inchangés, la hausse de prix est attribuée à un transfert de Cash depuis les acheteurs.",
+    "new_statement": "Dans le scénario monopolistique à service et Utility inchangés, la hausse de prix est attribuée à un transfert de Cash depuis les acheteurs.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Cas pur à Utility fixe séparé du brevet innovant; monopole n'interdit pas toute amélioration productive. FAext=0 approximation de contrainte, pas monopole juridique universel.",
+    "new_sources": [
+      487,
+      488,
+      489,
+      490,
+      491,
+      492
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0125",
+    "old_statement": "Le monopole de brevet peut combiner un Work augmentant l’Utility et une hausse supplémentaire de prix sans travail supplémentaire, attribuée au transfert.",
+    "new_statement": "Le monopole de brevet peut combiner un Work augmentant l’Utility et une hausse supplémentaire de prix sans travail supplémentaire, attribuée au transfert.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Cas pur à Utility fixe séparé du brevet innovant; monopole n'interdit pas toute amélioration productive. FAext=0 approximation de contrainte, pas monopole juridique universel.",
+    "new_sources": [
+      487,
+      488,
+      489,
+      490,
+      491,
+      492
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  },
+  {
+    "id": "CPC-0126",
+    "old_statement": "Le champ labour-prix juxtapose des vecteurs de compétitivité d’entreprises; il ne fournit pas à lui seul une somme macroéconomique de Work ou Money.",
+    "new_statement": "Le champ labour-prix juxtapose des vecteurs de compétitivité d’entreprises; il ne fournit pas à lui seul une somme macroéconomique de Work ou Money.",
+    "action": "UNCHANGED",
+    "global_review_status": "CONFIRMED",
+    "reason": "Champ de vecteurs locaux ne fournit pas agrégateur macro; Utility coordonnée fixe distincte de variation temporelle, trajectoire et composition manquantes pour passer au total.",
+    "new_sources": [
+      546,
+      547,
+      554,
+      558,
+      559
+    ],
+    "previous_review": {
+      "local_review_status": "CONFIRMED",
+      "global_review_status": null,
+      "reason": "Champ comparative firmes, non somme macro démontrée.",
+      "pages_reviewed": [
+        536,
+        538,
+        558
+      ]
+    }
+  },
+  {
+    "id": "CPC-0127",
+    "old_statement": "Le supplément de Money issu du scénario de baisse de prix permet davantage de Products ou des Products de meilleure qualité.",
+    "new_statement": "Le supplément de Money issu du scénario de baisse de prix permet davantage de Products ou des Products de meilleure qualité.",
+    "action": "UNCHANGED",
+    "global_review_status": "SOURCE_EXTENDED",
+    "reason": "Gain disponible avant dépense; autres produits, qualité, dette, impôt, épargne sont explicites. Aucune part marginale ni consommation immédiate universelle donnée.",
+    "new_sources": [
+      33,
+      52,
+      180,
+      400,
+      468,
+      523,
+      559
+    ],
+    "previous_review": {
+      "local_review_status": null,
+      "global_review_status": null,
+      "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+      "pages_reviewed": []
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "status": "QUALIFIED",
+  "scenarios": 32,
+  "claims_reviewed": 41,
+  "actions": {
+    "KEEP": 34,
+    "QUALIFY": 6,
+    "SPLIT": 1
+  },
+  "new_claims": 25,
+  "total_claims": 93,
+  "coverage": 121,
+  "previous_finding_status": "OVER_SIMPLIFIED",
+  "graph_nodes": 126,
+  "graph_edges": 138,
+  "unresolved": [
+    "Exhaustivité ciblée non garantie",
+    "Libellés Constant/Current",
+    "Tableaux 531/532",
+    "Variations absolues versus relatives",
+    "Horizon du retour exact",
+    "Agrégation n/N",
+    "Causalité crédit/production",
+    "Inflation et pouvoir d’achat aux pages24/291"
+  ]
+}

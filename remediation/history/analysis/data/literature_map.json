@@ -1,0 +1,628 @@
+{
+  "sources": [
+    {
+      "id": "BIB-0001",
+      "authors": "Michael McLeay and Amar Radia and Ryland Thomas",
+      "title": "Money creation in the modern economy",
+      "year": 2014,
+      "url": "https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy",
+      "doi": null,
+      "status": "VERIFIED",
+      "access": "Institutional article; official page introduction read",
+      "summary": "Les prêts bancaires créent des dépôts. Ce mécanisme institutionnel ne prouve pas une création instantanée de richesse réelle.",
+      "locator": "Official introduction, published 14 March 2014",
+      "verification": "Actual primary site or primary indexed excerpt inspected during this iteration; not necessarily full text."
+    },
+    {
+      "id": "BIB-0002",
+      "authors": "OECD",
+      "title": "Measuring Productivity - OECD Manual",
+      "year": 2001,
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2001/07/measuring-productivity-oecd-manual_g1gh2484/9789264194519-en.pdf",
+      "doi": "10.1787/9789264194519-en",
+      "status": "VERIFIED",
+      "access": "Institutional manual; selected passages inspected",
+      "summary": "Le manuel distingue productivité, facteurs de production, changements techniques et organisationnels. Il fournit une approche des coûts, sans loi universelle imposant plus d’énergie à toute amélioration.",
+      "locator": "PDF pp12,116–119; printed pp11,115–118; sections 2.1 and 10",
+      "verification": "Actual primary site or primary indexed excerpt inspected during this iteration; not necessarily full text."
+    },
+    {
+      "id": "BIB-0003",
+      "authors": "European Commission and International Monetary Fund and OECD and United Nations and World Bank",
+      "title": "System of National Accounts 2008",
+      "year": 2009,
+      "url": "https://unstats.un.org/unsd/nationalaccount/docs/SNA2008.pdf",
+      "doi": null,
+      "status": "VERIFIED",
+      "access": "Statistical framework; chapter 13 inspected directly with PyMuPDF",
+      "summary": "La richesse nationale et les bilans comprennent actifs non financiers et positions financières nettes. Ce périmètre diffère de wealth restreint à Money chez Campergue.",
+      "locator": "Chapter 13, paragraphs 13.1–13.5, printed p257 / PDF p315",
+      "verification": "Actual primary site or primary indexed excerpt inspected during this iteration; not necessarily full text."
+    },
+    {
+      "id": "BIB-0004",
+      "authors": "IPCC",
+      "title": "Climate Change 2022: Mitigation of Climate Change, Chapter 2: Emissions trends and drivers",
+      "year": 2022,
+      "url": "https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-2/",
+      "doi": null,
+      "status": "VERIFIED",
+      "access": "Assessment chapter; primary-source indexed passages inspected, direct opening intermittent",
+      "summary": "Les trajectoires globales relient activité, énergie et émissions, avec des évolutions d’intensité et des cas de découplage. Énergie, CO2 et ensemble des dommages environnementaux ne sont pas interchangeables.",
+      "locator": "Chapter 2, drivers and decoupling; primary search excerpts",
+      "verification": "Actual primary site or primary indexed excerpt inspected during this iteration; not necessarily full text."
+    },
+    {
+      "id": "BIB-0005",
+      "authors": "Òscar Jordà and Sanjay R. Singh and Alan M. Taylor",
+      "title": "The Long-Run Effects of Monetary Policy",
+      "year": 2020,
+      "url": "https://www.nber.org/papers/w26666",
+      "doi": "10.3386/w26666",
+      "status": "VERIFIED",
+      "access": "NBER working paper; official abstract and metadata inspected; revision September 2024",
+      "summary": "Les auteurs rapportent des effets réels persistants de chocs monétaires restrictifs. Leur identification n’équivaut pas à une expérience isolant le nombre d’unités de Campergue.",
+      "locator": "NBER Working Paper 26666, abstract; revision September 2024",
+      "verification": "Actual primary site or primary indexed excerpt inspected during this iteration; not necessarily full text."
+    },
+    {
+      "id": "BIB-0006",
+      "authors": "Herbert A. Simon",
+      "title": "Rational Decision-Making in Business Organizations",
+      "year": 1978,
+      "url": "https://www.nobelprize.org/uploads/2018/06/simon-lecture.pdf",
+      "doi": null,
+      "status": "VERIFIED",
+      "access": "Nobel lecture; official metadata and indexed empirical passage inspected; direct PDF opening intermittent",
+      "summary": "La rationalité limitée et les observations organisationnelles invitent à tester les hypothèses de maximisation plutôt qu’à les poser comme lois comportementales universelles.",
+      "locator": "Lecture 8 December 1978; Empirical Studies, printed p354",
+      "verification": "Actual primary site or primary indexed excerpt inspected during this iteration; not necessarily full text."
+    },
+    {
+      "id": "BIB-0007",
+      "authors": "Nicholas Georgescu-Roegen",
+      "title": "The Entropy Law and the Economic Process",
+      "year": 1971,
+      "url": "https://www.degruyterbrill.com/document/doi/10.4159/harvard.9780674281653/html",
+      "doi": "10.4159/harvard.9780674281653",
+      "status": "PARTIALLY_VERIFIED",
+      "access": "Publisher bibliographic record verified; full text not inspected",
+      "summary": "Piste bibliographique sur économie et entropie ; aucune équivalence avec les équations de Campergue n’est établie par cette vérification bibliographique.",
+      "locator": "Publisher metadata only",
+      "verification": "Actual primary site or primary indexed excerpt inspected during this iteration; not necessarily full text."
+    },
+    {
+      "id": "BIB-0008",
+      "authors": "International Monetary Fund and partner statistical organizations",
+      "title": "Consumer Price Index Manual: Concepts and Methods",
+      "year": 2020,
+      "url": "https://www.imf.org/-/media/Files/Data/CPI/cpi-manual-concepts-and-methods.ashx",
+      "doi": null,
+      "status": "VERIFIED",
+      "access": "Institutional manual; official indexed passages inspected",
+      "summary": "La déflation d’un revenu nominal par un indice de prix permet une mesure du revenu réel. Le choix du panier et la qualité des produits restent déterminants.",
+      "locator": "Chapter 2; real income and current purchasing power accounts, paragraph 2.39",
+      "verification": "Actual primary site or primary indexed excerpt inspected during this iteration; not necessarily full text."
+    },
+    {
+      "id": "BIB-0009",
+      "authors": "Lucia Foster and John Haltiwanger and Chad Syverson",
+      "title": "Reallocation, Firm Turnover, and Efficiency: Selection on Productivity or Profitability?",
+      "year": 2005,
+      "doi": "10.3386/w11555",
+      "url": "https://www.nber.org/papers/w11555",
+      "verification_url": "https://www.census.gov/library/working-papers/2005/adrm/ces-wp-05-11.html",
+      "status": "VERIFIED",
+      "access": "Primary metadata and abstract read; full study and microdata not reproduced",
+      "summary": "Physical and revenue productivity have different price correlations; not evidence for a universal speed-squared law."
+    },
+    {
+      "id": "BIB-0010",
+      "authors": "Cyrille Schwellnus and Andreas Kappeler and Pierre-Alain Pionnier",
+      "title": "Decoupling of wages from productivity: Macro-level facts",
+      "year": 2017,
+      "doi": "10.1787/d4764493-en",
+      "url": "https://www.oecd.org/en/publications/decoupling-of-wages-from-productivity_d4764493-en.html",
+      "status": "VERIFIED",
+      "access": "Official DOI, authors, date and abstract read; full study not reproduced",
+      "summary": "Labour shares and wage distribution qualify transmission to real median compensation."
+    },
+    {
+      "id": "BIB-0011",
+      "authors": "World Bank",
+      "title": "GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent): metadata",
+      "year": 2026,
+      "doi": null,
+      "url": "https://databank.worldbank.org/metadataglossary/world-development-indicators/series/EG.GDP.PUSE.KO.PP.KD",
+      "status": "VERIFIED",
+      "access": "Full official metadata read and HTML archived; historical vintage consistency not verified",
+      "locator": "Long definition; methodology; limitations"
+    },
+    {
+      "id": "BIB-0012",
+      "authors": "Our World in Data",
+      "title": "Energy dataset, pinned 2025 release",
+      "year": 2025,
+      "doi": null,
+      "url": "https://github.com/owid/energy-data/tree/4249f7c21c2c833d76741e757be92a639517caa3",
+      "status": "VERIFIED",
+      "access": "CSV, codebook, README archived; upstream processing inspected at pinned ETL revision",
+      "locator": "primary_energy_consumption; README Data sources and processing"
+    },
+    {
+      "id": "BIB-0013",
+      "authors": "David I. Stern",
+      "title": "The role of energy in economic growth",
+      "year": 2011,
+      "doi": "10.1111/j.1749-6632.2010.05921.x",
+      "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/4535717f-80cb-429d-88d6-f7bc90c5f946/content",
+      "status": "VERIFIED",
+      "access": "Author institutional full PDF accessible; abstract and opening sections inspected, not exhaustive reading",
+      "locator": "Annals of the New York Academy of Sciences 1219, 26–51; abstract and pp26–28"
+    },
+    {
+      "id": "BIB-0014",
+      "authors": "Steve Sorrell",
+      "title": "The Rebound Effect: An Assessment of the Evidence for Economy-wide Energy Savings from Improved Energy Efficiency",
+      "year": 2007,
+      "doi": null,
+      "url": "https://ukerc.rl.ac.uk/publications/research_report/The_Rebound_Effect_An_Assessment_of_the_Evidence_for_Economy-wide_Energy_Savings_from_Improved_Energy_Efficiency.pdf",
+      "status": "VERIFIED",
+      "access": "UKERC metadata and report PDF inspected; sections1.1, boxes1.1–1.2, not entire report",
+      "locator": "PDF15–18 / printed1–4; no DOI minted according to official catalog"
+    },
+    {
+      "id": "BIB-0015",
+      "authors": "David Baqaee and Emmanuel Farhi",
+      "title": "The Microeconomic Foundations of Aggregate Production Functions",
+      "year": 2018,
+      "doi": "10.3386/w25293",
+      "url": "https://www.nber.org/papers/w25293",
+      "status": "PARTIALLY_VERIFIED",
+      "access": "Official indexed title, authors, DOI and abstract verified; direct page/PDF fetch failed403; no detailed theorem attributed",
+      "locator": "NBER working paper25293 indexed abstract only"
+    },
+    {
+      "id": "BIB-0016",
+      "authors": "Samuel J. Ling and William Moebs and Jeff Sanny",
+      "title": "University Physics Volume 2, section 4.6 Entropy",
+      "year": 2016,
+      "doi": null,
+      "url": "https://openstax.org/books/university-physics-volume-2/pages/4-6-entropy",
+      "status": "VERIFIED",
+      "access": "Official section and metadata inspected",
+      "locator": "State function and Example4.5: reversible path for irreversible cooling"
+    },
+    {
+      "id": "BIB-0017",
+      "authors": "William Moebs and Samuel J. Ling and Jeff Sanny",
+      "year": 2016,
+      "title": "University Physics Volume 1 — 7.3 Work-Energy Theorem",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/7-3-work-energy-theorem",
+      "doi": null,
+      "status": "VERIFIED",
+      "access": "Section7.3, theorem and derivation; net work is change, not level.",
+      "locator": "Section7.3, theorem and derivation; net work is change, not level.",
+      "verification": "Targeted primary page or institutional index inspected during second pass; access extent explicit."
+    },
+    {
+      "id": "BIB-0018",
+      "authors": "Gilbert Strang and Edwin Herman",
+      "year": 2016,
+      "title": "Calculus Volume 3 — 6.3 Conservative Vector Fields",
+      "url": "https://openstax.org/books/calculus-volume-3/pages/6-3-conservative-vector-fields",
+      "doi": null,
+      "status": "VERIFIED",
+      "access": "Section6.3, path independence and potentials; selected theorems inspected.",
+      "locator": "Section6.3, path independence and potentials; selected theorems inspected.",
+      "verification": "Targeted primary page or institutional index inspected during second pass; access extent explicit."
+    },
+    {
+      "id": "BIB-0019",
+      "authors": "Bureau International des Poids et Mesures",
+      "year": 2026,
+      "title": "The International System of Units, 9th edition, updated2026",
+      "url": "https://www.bipm.org/en/publications/si-brochure",
+      "doi": "10.59161/AUEZ1291",
+      "status": "VERIFIED",
+      "access": "Official edition metadata inspected; dimensional conventions, not calibration of economic units.",
+      "locator": "Official edition metadata inspected; dimensional conventions, not calibration of economic units.",
+      "verification": "Targeted primary page or institutional index inspected during second pass; access extent explicit."
+    },
+    {
+      "id": "BIB-0020",
+      "authors": "European Central Bank",
+      "year": 2024,
+      "title": "What is money? (2015, updated19June2024)",
+      "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me-more/html/what_is_money.en.html",
+      "doi": null,
+      "status": "VERIFIED",
+      "access": "How is money created; loans create deposits, repayment removes them; sections read.",
+      "locator": "How is money created; loans create deposits, repayment removes them; sections read.",
+      "verification": "Targeted primary page or institutional index inspected during second pass; access extent explicit."
+    },
+    {
+      "id": "BIB-0021",
+      "authors": "Kenneth Gillingham and David Rapson and Gernot Wagner",
+      "year": 2016,
+      "title": "The Rebound Effect and Energy Efficiency Policy",
+      "url": "https://itspubs.ucdavis.edu/publication_detail.php?id=2603",
+      "doi": "10.1093/reep/rev017",
+      "status": "VERIFIED",
+      "access": "Author university metadata and abstract read; REEP10(1),68–88; not full paper.",
+      "locator": "Author university metadata and abstract read; REEP10(1),68–88; not full paper.",
+      "verification": "Targeted primary page or institutional index inspected during second pass; access extent explicit."
+    },
+    {
+      "id": "BIB-0022",
+      "authors": "Thomas O. Wiedmann and others",
+      "year": 2015,
+      "title": "The material footprint of nations",
+      "url": "https://escholarship.org/uc/item/6t9794zp",
+      "doi": "10.1073/pnas.1220362110",
+      "status": "PARTIALLY_VERIFIED",
+      "access": "Institutional indexed metadata and PubMed indexed abstract; direct institutional page blocked by JS, full article not read. Comparison limited to consumption-based boundary.",
+      "locator": "Institutional indexed metadata and PubMed indexed abstract; direct institutional page blocked by JS, full article not read. Comparison limited to consumption-based boundary.",
+      "verification": "Targeted primary page or institutional index inspected during second pass; access extent explicit."
+    },
+    {
+      "id": "BIB-0023",
+      "authors": "UNEP and International Resource Panel",
+      "year": 2024,
+      "title": "Global Resources Outlook 2024",
+      "url": "https://www.unep.org/resources/Global-Resource-Outlook-2024",
+      "doi": null,
+      "status": "VERIFIED",
+      "access": "Official overview and summary read; resource use, distribution and impacts, not full report.",
+      "locator": "Official overview and summary read; resource use, distribution and impacts, not full report.",
+      "verification": "Targeted primary page or institutional index inspected during second pass; access extent explicit."
+    }
+  ],
+  "relations": [
+    {
+      "claim_id": "CPC-0001",
+      "source_id": "BIB-0004",
+      "relation": "PARTIALLY_SUPPORTS",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0003",
+      "source_id": "BIB-0007",
+      "relation": "UNCLEAR",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0005",
+      "source_id": "BIB-0001",
+      "relation": "QUALIFIES",
+      "scope": "Cash/dépôts ≠ Money. Bilan bancaire ne teste pas compensation de u. Effet réel d’un choc monétaire ne réfute ni redistribution ni inertie déjà admises; il faut distinguer création productive ultérieure, horizon et invariant revendiqué.",
+      "assessment_status": "TARGETED_REVISION",
+      "interpretive": true,
+      "conceptual_translation_required": true
+    },
+    {
+      "claim_id": "CPC-0005",
+      "source_id": "BIB-0005",
+      "relation": "UNCLEAR",
+      "scope": "Cash/dépôts ≠ Money. Bilan bancaire ne teste pas compensation de u. Effet réel d’un choc monétaire ne réfute ni redistribution ni inertie déjà admises; il faut distinguer création productive ultérieure, horizon et invariant revendiqué.",
+      "assessment_status": "TARGETED_REVISION",
+      "interpretive": true,
+      "conceptual_translation_required": true
+    },
+    {
+      "claim_id": "CPC-0009",
+      "source_id": "BIB-0002",
+      "relation": "QUALIFIES",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0010",
+      "source_id": "BIB-0008",
+      "relation": "PARALLEL",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0012",
+      "source_id": "BIB-0005",
+      "relation": "UNCLEAR",
+      "scope": "Cash/dépôts ≠ Money. Bilan bancaire ne teste pas compensation de u. Effet réel d’un choc monétaire ne réfute ni redistribution ni inertie déjà admises; il faut distinguer création productive ultérieure, horizon et invariant revendiqué.",
+      "assessment_status": "TARGETED_REVISION",
+      "interpretive": true,
+      "conceptual_translation_required": true
+    },
+    {
+      "claim_id": "CPC-0012",
+      "source_id": "BIB-0001",
+      "relation": "QUALIFIES",
+      "scope": "Cash/dépôts ≠ Money. Bilan bancaire ne teste pas compensation de u. Effet réel d’un choc monétaire ne réfute ni redistribution ni inertie déjà admises; il faut distinguer création productive ultérieure, horizon et invariant revendiqué.",
+      "assessment_status": "TARGETED_REVISION",
+      "interpretive": true,
+      "conceptual_translation_required": true
+    },
+    {
+      "claim_id": "CPC-0015",
+      "source_id": "BIB-0008",
+      "relation": "PARTIALLY_SUPPORTS",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0016",
+      "source_id": "BIB-0002",
+      "relation": "PARTIALLY_SUPPORTS",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0016",
+      "source_id": "BIB-0008",
+      "relation": "QUALIFIES",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0017",
+      "source_id": "BIB-0002",
+      "relation": "QUALIFIES",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0022",
+      "source_id": "BIB-0007",
+      "relation": "UNCLEAR",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0023",
+      "source_id": "BIB-0007",
+      "relation": "UNCLEAR",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0032",
+      "source_id": "BIB-0006",
+      "relation": "QUALIFIES",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0033",
+      "source_id": "BIB-0006",
+      "relation": "QUALIFIES",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0035",
+      "source_id": "BIB-0002",
+      "relation": "QUALIFIES",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0039",
+      "source_id": "BIB-0007",
+      "relation": "UNCLEAR",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0040",
+      "source_id": "BIB-0002",
+      "relation": "QUALIFIES",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0041",
+      "source_id": "BIB-0001",
+      "relation": "PARALLEL",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0043",
+      "source_id": "BIB-0007",
+      "relation": "UNCLEAR",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0045",
+      "source_id": "BIB-0008",
+      "relation": "QUALIFIES",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0046",
+      "source_id": "BIB-0001",
+      "relation": "QUALIFIES",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0046",
+      "source_id": "BIB-0008",
+      "relation": "PARALLEL",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0048",
+      "source_id": "BIB-0003",
+      "relation": "QUALIFIES",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0051",
+      "source_id": "BIB-0002",
+      "relation": "QUALIFIES",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0052",
+      "source_id": "BIB-0002",
+      "relation": "QUALIFIES",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "claim_id": "CPC-0053",
+      "source_id": "BIB-0008",
+      "relation": "PARALLEL",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "source_id": "BIB-0009",
+      "claim_id": "CPC-0096",
+      "relation": "SUPPORTS",
+      "scope": "Only compatible negative correlation physical productivity/price; not causal or universal confirmation",
+      "assessment_status": "PRODUCTIVE_TARGETED_REVIEW_ABSTRACT_ONLY",
+      "interpretive": true
+    },
+    {
+      "source_id": "BIB-0009",
+      "claim_id": "CPC-0098",
+      "relation": "QUALIFIES",
+      "scope": "Separate prices, quantities and demand before inferring transmission",
+      "assessment_status": "PRODUCTIVE_TARGETED_REVIEW_ABSTRACT_ONLY",
+      "interpretive": true
+    },
+    {
+      "source_id": "BIB-0009",
+      "claim_id": "CPC-0035",
+      "relation": "DOES_NOT_TEST",
+      "scope": "No independent test of Campergue Economic Work or quadratic law in inspected abstract",
+      "assessment_status": "PRODUCTIVE_TARGETED_REVIEW_ABSTRACT_ONLY",
+      "interpretive": true
+    },
+    {
+      "source_id": "BIB-0010",
+      "claim_id": "CPC-0016",
+      "relation": "QUALIFIES",
+      "scope": "Median worker remuneration is not identical to consumer gain at fixed income",
+      "assessment_status": "PRODUCTIVE_TARGETED_REVIEW_ABSTRACT_ONLY",
+      "interpretive": true
+    },
+    {
+      "source_id": "BIB-0010",
+      "claim_id": "CPC-0064",
+      "relation": "DOES_NOT_TEST",
+      "scope": "Statistical labour productivity not independent measurement of T",
+      "assessment_status": "PRODUCTIVE_TARGETED_REVIEW_ABSTRACT_ONLY",
+      "interpretive": true
+    },
+    {
+      "source_id": "BIB-0011",
+      "claim_id": "CPC-0118",
+      "relation": "DOES_NOT_TEST",
+      "scope": "Data provenance only; ratio can recover a physical energy input, not identify causality.",
+      "assessment_status": "TARGETED_TERMINAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "source_id": "BIB-0012",
+      "claim_id": "CPC-0118",
+      "relation": "DOES_NOT_TEST",
+      "scope": "Dataset for E1–E3; primary energy is not independently measured Campergue Money or Work.",
+      "assessment_status": "TARGETED_TERMINAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "source_id": "BIB-0013",
+      "claim_id": "CPC-0018",
+      "relation": "SUPPORTS",
+      "scope": "Broad enabling role of fossil energy; not exclusive explanation of living standards.",
+      "assessment_status": "TARGETED_TERMINAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "source_id": "BIB-0013",
+      "claim_id": "CPC-0118",
+      "relation": "QUALIFIES",
+      "scope": "Energy/output linkage can vary with technology, composition and substitution; no constant Money/joule equivalence established.",
+      "assessment_status": "TARGETED_TERMINAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "source_id": "BIB-0013",
+      "claim_id": "CPC-0119",
+      "relation": "DOES_NOT_TEST",
+      "scope": "No independent measurement of Tused=−Wcreated in Campergue units.",
+      "assessment_status": "TARGETED_TERMINAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "source_id": "BIB-0014",
+      "claim_id": "CPC-0127",
+      "relation": "PARALLELS",
+      "scope": "Partial parallel: use of cost savings can increase demand elsewhere; not automatic backfire or exact same definition of productivity.",
+      "assessment_status": "TARGETED_TERMINAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "source_id": "BIB-0014",
+      "claim_id": "CPC-0120",
+      "relation": "QUALIFIES",
+      "scope": "Rebound need not erase all efficiency savings; horizon and counterfactual matter.",
+      "assessment_status": "TARGETED_TERMINAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "source_id": "BIB-0015",
+      "claim_id": "CPC-0117",
+      "relation": "QUALIFIES",
+      "scope": "Methodological parallel only: aggregation depends on micro structure; no detailed theorem used from inaccessible PDF.",
+      "assessment_status": "TARGETED_TERMINAL_REVIEW",
+      "interpretive": true
+    },
+    {
+      "source_id": "BIB-0016",
+      "claim_id": "CPC-0067",
+      "relation": "QUALIFIES",
+      "scope": "Entropy equation requires reversible-path or entropy-production accounting for actual irreversibility.",
+      "assessment_status": "TARGETED_TERMINAL_REVIEW",
+      "interpretive": true
+    }
+  ],
+  "limitations": [
+    "Initial targeted review, no originality verdict.",
+    "Publication dates do not establish priority relative to an undated original manuscript.",
+    "Relations labelled CONTRADICTS concern an explicitly stated stronger interpretation only."
+  ]
+}

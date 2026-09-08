@@ -1,0 +1,97 @@
+{
+  "status": "SYNTHESIS_COMPLETE",
+  "questions": 53,
+  "question_statuses": {
+    "OPEN": 29,
+    "PARTIALLY_RESOLVED": 18,
+    "AMBIGUOUS": 6
+  },
+  "core_claims": 24,
+  "core_classification_counts": {
+    "NOT_IDENTIFIED": 16,
+    "ASSUMPTION_DEPENDENT": 15,
+    "DEFINITIONAL": 10,
+    "FORMALLY_DERIVED": 3,
+    "NON_DISCRIMINATING": 5,
+    "AMBIGUOUS": 3
+  },
+  "classification_counts_are_nonexclusive": true,
+  "contributions": 4,
+  "source_pages": 562,
+  "scanned_pages": 562,
+  "analytically_reviewed_cumulative": 447,
+  "source_commit": "a697345c427fca8de0521108a17aa2b76f267654",
+  "source_root_question_pages": [
+    2,
+    3
+  ],
+  "global_validation": false,
+  "ready_for_external_review": true,
+  "readiness_scope": "Documentary and reproducibility review readiness, not empirical resolution.",
+  "scientific_status_changes": [
+    {
+      "id": "CPC-0016",
+      "old_status": [
+        "ASSUMPTION_DEPENDENT",
+        "EMPIRICALLY_COMPATIBLE",
+        "NON_DISCRIMINATING"
+      ],
+      "new_status": [
+        "ASSUMPTION_DEPENDENT",
+        "NON_DISCRIMINATING",
+        "NOT_IDENTIFIED"
+      ],
+      "finding": "ER-009",
+      "reason": "NOT_IDENTIFIED pour Work→u→Money complet; les sous-relations descriptives ne le confirment pas."
+    }
+  ],
+  "canonical_claim_changes": [
+    {
+      "id": "CPC-0016",
+      "kind": "METADATA_OR_CONTEXT_EXTENSION_ONLY",
+      "history": "remediation/history/analysis/data/claims.jsonl"
+    },
+    {
+      "id": "CPC-0035",
+      "kind": "METADATA_OR_CONTEXT_EXTENSION_ONLY",
+      "history": "remediation/history/analysis/data/claims.jsonl"
+    },
+    {
+      "id": "CPC-0041",
+      "kind": "METADATA_OR_CONTEXT_EXTENSION_ONLY",
+      "history": "remediation/history/analysis/data/claims.jsonl"
+    },
+    {
+      "id": "CPC-0048",
+      "kind": "METADATA_OR_CONTEXT_EXTENSION_ONLY",
+      "history": "remediation/history/analysis/data/claims.jsonl"
+    }
+  ],
+  "new_empirical_experiments": 0,
+  "input_policy": "Current graph statuses + canonical source quotations + full-corpus qualifications; historic targeted absences superseded.",
+  "literature_policy": "Inherited verification scopes; no new external verification claimed.",
+  "source_sha256": "7981eca40bca1c5ce54d96b3c840eda34d0e7d01fdc89fe9748c3c047c6f3827",
+  "verification": {
+    "command": "./verify.sh",
+    "exit_code": 0,
+    "tests_run": 128,
+    "passed": 128,
+    "failed": 0,
+    "errors": 0,
+    "skipped": 0,
+    "new_synthesis_tests": 14,
+    "result_artifact": "research_questions/synthesis/verification_results.json",
+    "warnings": [
+      "SCIENTIFIC_QUESTIONS_OPEN",
+      "MEASUREMENT_INCOMPLETE",
+      "LITERATURE_PARTIAL",
+      "CAUSAL_IDENTIFICATION_NOT_ESTABLISHED"
+    ],
+    "scientific_validation": false,
+    "new_remediation_tests": 8,
+    "classification_artifact": "remediation/test_classification.json"
+  },
+  "remediation_history": "remediation/claim_status_history.json",
+  "remediation_status": "REMEDIATION_COMPLETE_WITH_SCIENTIFIC_LIMITS",
+  "ready_for_closure_review": true
+}

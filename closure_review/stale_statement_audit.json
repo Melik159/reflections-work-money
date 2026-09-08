@@ -1,0 +1,2786 @@
+[
+  {
+    "path": "analysis/25_productive_review_report.md",
+    "line": 30,
+    "excerpt": "## +78%",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/25_productive_review_report.md",
+    "line": 56,
+    "excerpt": "5. Le +78% a une dérivation interne, mais dépend des identifications économiques et du carré de la vitesse.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/25_formal_empirical_review.md",
+    "line": 1,
+    "excerpt": "# Calculs, +78 %, énergie et littérature ciblée",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/25_formal_empirical_review.md",
+    "line": 3,
+    "excerpt": "## Le +78 % : six niveaux à conserver",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/25_formal_empirical_review.md",
+    "line": 5,
+    "excerpt": "**A — Arithmétique.** Pour une même tâche, vitesse multipliée par8/6. Sous T proportionnel au carré de cette vitesse : T₂/T₁=(8/6)²=16/9; supplément7/9=77,777…%. Le coût horaire20$ donne160→120$, soit−25%; ce n’est pas une baisse du coût de78%.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/25_formal_empirical_review.md",
+    "line": 17,
+    "excerpt": "Statuts simultanés : **ARITHMETICALLY_REPRODUCED**, **FORMALLY_DERIVED** sous les hypothèses, **ASSUMPTION_DEPENDENT**, **NOT_EMPIRICALLY_TESTED**. Ni EMPIRICALLY_SUPPORTED ni CONTRADICTED attribué globalement au +78%.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/25_formal_empirical_review.md",
+    "line": 21,
+    "excerpt": "`analysis/run_productive_checks.py` exécute cinq contrôles formels : +78%; substitution couplée des variables de24-03; valeur34,3146%; non-implication à partir de la borne de rendement; coûts relatifs stylisés de461. Les sorties sont dans `analysis/empirical/productive/results.json`.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/23_iteration1_report.md",
+    "line": 28,
+    "excerpt": "6. Le 78 % est reproduit arithmétiquement, sous loi quadratique supposée.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/31_micro_test_design.md",
+    "line": 51,
+    "excerpt": "Source : CPC-0095,0096,0119 ; PDF203,207,455. La branche quadratique demande dT=cp·ω·dω, cp fixé et travail utile à l'évolution d'Utility. Il faut cp, ω et T indépendamment mesurés, pas un T construit depuis ω pour ensuite tester l'identité. Horizon : transformation comparable, non simple somme annuelle de secteurs. Observation incompatible : une mesure indépendante de T ne suit pas la formule lorsque ses conditions sont remplies. Sans ces mesures : NOT_IDENTIFIABLE. Alternatives : progrès technique, substitution capital/travail, mix et rendements techniques classiques.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/24_money_compensation_scenarios.md",
+    "line": 981,
+    "excerpt": "Journal old/new/action/reason/sources : `data/money_claim_revision_log.json`. Les IDs anciens sont préservés, 25 claims ajoutés pour séparer les branches manquantes. Le graphe comporte des nœuds SC-MONEY et des conditions explicites; aucun lien ne certifie une neutralité générale depuis la seule identité. Archives avant révision : `history/pre_money_review/`.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/24_money_compensation_scenarios.md",
+    "line": 1010,
+    "excerpt": "E — Généralisation : voir périmètre du scénario; pas de neutralité générale déduite.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/24_money_compensation_scenarios.md",
+    "line": 1026,
+    "excerpt": "E — Généralisation : voir périmètre du scénario; pas de neutralité générale déduite.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/24_money_compensation_scenarios.md",
+    "line": 1042,
+    "excerpt": "E — Généralisation : voir périmètre du scénario; pas de neutralité générale déduite.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/24_money_compensation_scenarios.md",
+    "line": 1058,
+    "excerpt": "E — Généralisation : voir périmètre du scénario; pas de neutralité générale déduite.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/24_money_literature_translation.md",
+    "line": 26,
+    "excerpt": "Les relations BIB-0005 → CPC-0005/CPC-0012 passent de CONTRADICTS à **UNCLEAR**, avec journal old/new. Elles visaient une neutralité générale trop largement reconstruite. Accès direct à [NBER w26666](https://www.nber.org/papers/w26666) refusé (403) dans cette passe : aucune nouvelle vérification intégrale revendiquée. Une étude de politique monétaire ne constitue pas automatiquement un test isolant n,u et les conditions de Campergue.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/29_agents_markets_review.md",
+    "line": 16,
+    "excerpt": "| Gain productif transmis | Supplément de Money disponible après baisse du prix, p.33 | Conditions coût/prix des PM existants, pas transmission automatique |",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/24_money_review_report.md",
+    "line": 31,
+    "excerpt": "126 nœuds,138 arêtes. Branches SC-MONEY explicites, conditions conservées, raccourcis directs identité→neutralité générale retirés. Convention DEPENDS_ON uniformisée de prémisse vers dépendant et changements consignés dans [le journal du graphe](data/money_graph_revision_log.json). Aucune dépendance cyclique détectée par le test exécuté.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/24_money_review_report.md",
+    "line": 35,
+    "excerpt": "Le contraste dépôts/money institutionnel versus Cash/Money chez Campergue ne constitue pas seul une contradiction. Comparaison Banque d’Angleterre réexaminée sur le PDF primaire; traduction détaillée [ici](24_money_literature_translation.md). Les deux anciennes relations CONTRADICTS visant une neutralité générale passent à UNCLEAR avec historique. Le nouvel accès NBER est refusé403; pas de nouvelle vérification intégrale revendiquée.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/17_core_claims.md",
+    "line": 34,
+    "excerpt": "- CPC-0035 [CORE] L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/chapters/CH02_monetary_measurement.md",
+    "line": 9,
+    "excerpt": "Le finding précédent est OVER_SIMPLIFIED : la question critique est la justification des conditions et l’attribution exclusive du crédit à la branche2, non l’absence de scénarios autres que la compensation. FORM-002 illustre même le cas4a autorisé, s’il accompagne une création productive. Les deux relations bibliographiques CONTRADICTS concernant la neutralité générale sont devenues UNCLEAR : voir [traduction bancaire](../24_money_literature_translation.md). Statut local UNCERTAIN maintenu, pas de verdict global.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/chapters/CH04_productivity_prices.md",
+    "line": 38,
+    "excerpt": "coûts et prix après innovation. HYP-0006 : le calcul (8/6)^2−1 reproduit 77,78 %,",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/chapters/CH09_energy_conservation.md",
+    "line": 43,
+    "excerpt": "Les illustrations p.459 utilisent `kW/h` et une énergie humaine sans horizon assez clair ; ne pas traiter le facteur 1000 comme une mesure calibrée. Le résultat +78% et les rendements maximaux de CH-07 restent arithmétiques/conditionnels, non validés par nos régressions.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/reading_notes/p026_037.md",
+    "line": 21,
+    "excerpt": "P32 : exemple 8 h→6 h à 20 $/h, coût 160→120 $, affirmation +78 % de Work.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/global_corpus_pass/claim_review_history.json",
+    "line": 842,
+    "excerpt": "    \"old_statement\": \"L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/global_corpus_pass/claim_review_history.json",
+    "line": 843,
+    "excerpt": "    \"new_statement\": \"L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/global_corpus_pass/claim_review_history.json",
+    "line": 846,
+    "excerpt": "    \"reason\": \"+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/global_corpus_pass/claim_review_history.json",
+    "line": 2392,
+    "excerpt": "    \"reason\": \"+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/global_corpus_pass/claim_rechecks.json",
+    "line": 1512,
+    "excerpt": "    \"old_statement\": \"L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/global_corpus_pass/claim_rechecks.json",
+    "line": 1513,
+    "excerpt": "    \"new_statement\": \"L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/global_corpus_pass/claim_rechecks.json",
+    "line": 1520,
+    "excerpt": "    \"reason\": \"+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/global_corpus_pass/claim_rechecks.json",
+    "line": 1531,
+    "excerpt": "      \"quotation\": \"The second hypothesis therefore requires more Work than the first (about 78% more).\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/global_corpus_pass/claim_rechecks.json",
+    "line": 4302,
+    "excerpt": "    \"reason\": \"+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/global_corpus_pass/page_matrix.csv",
+    "line": 33,
+    "excerpt": "32,Préambule,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,CPC-0035;CPC-0096,,GF-02,STRUCTURAL,\"Exemple8h→6h à coût horaire20; +78% dépend du carré de vitesse; généralité revendiquée, non test empirique.\",True,False",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/global_corpus_pass/argument_annotations.json",
+    "line": 369,
+    "excerpt": "      \"conditions\": \"+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/global_corpus_pass/argument_annotations.json",
+    "line": 981,
+    "excerpt": "      \"conditions\": \"+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/core_reviews/CPC-0035.md",
+    "line": 5,
+    "excerpt": "L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/core_reviews/CPC-0035.md",
+    "line": 7,
+    "excerpt": "> The second hypothesis therefore requires more Work than the first (about 78% more).",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/core_reviews/CPC-0035.md",
+    "line": 13,
+    "excerpt": "Le supplément annoncé de 78 % correspond numériquement à (8/6)^2−1 ; c’est une cohérence arithmétique conditionnelle.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/core_reviews.json",
+    "line": 373,
+    "excerpt": "    \"statement\": \"L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/core_reviews.json",
+    "line": 380,
+    "excerpt": "      \"quotation\": \"The second hypothesis therefore requires more Work than the first (about 78% more).\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/core_reviews.json",
+    "line": 383,
+    "excerpt": "    \"role\": \"Le supplément annoncé de 78 % correspond numériquement à (8/6)^2−1 ; c’est une cohérence arithmétique conditionnelle.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1196,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1215,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1238,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1257,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1280,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1299,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1322,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1341,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1364,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1383,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1406,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1425,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1448,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1467,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1490,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1509,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1532,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1551,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1574,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1593,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1616,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1635,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1658,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1677,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1700,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1719,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1742,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1761,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1784,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1803,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1826,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1845,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1868,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1887,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1910,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1929,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1952,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1971,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 1994,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 2013,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 2036,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 2055,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 2075,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 2091,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 2111,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\"",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 2127,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_graph_revision_log.json",
+    "line": 2187,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 1035,
+    "excerpt": "        \"quotation\": \"The second hypothesis therefore requires more Work than the first (about 78% more).\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 2681,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 2701,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 2721,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 2741,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 2761,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 2781,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 2801,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 2821,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 2841,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 2861,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 2881,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 2901,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 2921,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 2941,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 2961,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 2981,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 3001,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 3021,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 3041,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 3061,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "line": 3081,
+    "excerpt": "      \"conditions\": \"Voir scénario monétaire associé; pas de neutralité générale.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 9,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 18,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 121,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 130,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 139,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 148,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 397,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 478,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 487,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 498,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 507,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 516,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 525,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 714,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 723,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 732,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 741,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 750,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 759,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 768,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 777,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 786,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 795,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 804,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 813,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 822,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 831,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 840,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 849,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 858,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 867,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 876,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 885,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/money_claim_revision_log.json",
+    "line": 894,
+    "excerpt": "      \"reason\": \"Énoncé local conservé; aucune neutralité générale ajoutée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/core_claims.json",
+    "line": 179,
+    "excerpt": "    \"statement\": \"L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/productive_hypothesis_revision_log.json",
+    "line": 5,
+    "excerpt": " \"old_refutation\":\"Coût réduit sans baisse de prix : réfute transmission automatique, pas la seule possibilité productive.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/claims.jsonl",
+    "line": 35,
+    "excerpt": "{\"id\": \"CPC-0035\", \"statement\": \"L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.\", \"source\": {\"document\": \"Reflections_PierreCampergue.pdf\", \"page\": 32, \"pages\": [32], \"quotation\": \"The second hypothesis therefore requires more Work than the first (about 78% more).\", \"normalization\": \"whitespace; standalone leading page numbers removed\"}, \"source_document\": \"Reflections_PierreCampergue.pdf\", \"page\": 32, \"quotation\": \"The second hypothesis therefore requires more Work than the first (about 78% more).\", \"type\": \"HYPOTHESIS\", \"epistemic_status\": \"SOURCE\", \"interpretive\": true, \"concepts\": [\"work\", \"productivity\", \"energy\"], \"depends_on\": [\"CPC-0017\"], \"supports\": [], \"contradicts\": [], \"criticality\": \"CORE\", \"testability\": \"TO_OPERATIONALIZE\", \"root_question_relevance\": \"Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.\", \"interpretation_notes\": \"Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.\", \"confidence_in_reconstruction\": 0.85, \"scope_qualification\": \"NOT_GENERALIZED_EMPIRICALLY; arithmetic and conditional derivation retained; author universality p32 distinguished.\"}",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/data/hypotheses.json",
+    "line": 107,
+    "excerpt": "    \"hypothesis\": \"L’exemple 8 h→6 h est associé à environ 78 % de Work supplémentaire.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/global_corpus_pass/blocks/p026_p050.md",
+    "line": 45,
+    "excerpt": "Exemple8h→6h à coût horaire20; +78% dépend du carré de vitesse; généralité revendiquée, non test empirique.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "analysis/empirical/iteration1/results.json",
+    "line": 67,
+    "excerpt": "      \"interpretation\": \"77.78% follows from an assumed square-speed law. The arithmetic does not establish that law or measure energy.\"",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/history.json",
+    "line": 150,
+    "excerpt": "    \"old_statement\": \"Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ?\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/history.json",
+    "line": 151,
+    "excerpt": "    \"new_statement\": \"Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ?\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/history.json",
+    "line": 154,
+    "excerpt": "    \"reason\": \"Le +78% est le résultat arrondi de (8/6)²−1=7/9 sous tâche, coefficient et référent constants. Le coût horaire20 donne160→120. Calcul arithmétique reproduit ; origine économique de l’hypothèse quadratique non testée.\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/history.json",
+    "line": 721,
+    "excerpt": "    \"reason\": \"K local peut être calibré si M et T sont indépendamment mesurés. K=PIB/énergie est estimable comme ratio de proxies, mais résiduel si recalculé pour chaque observation.\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/history.json",
+    "line": 1165,
+    "excerpt": "    \"old_statement\": \"Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ?\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/history.json",
+    "line": 1166,
+    "excerpt": "    \"new_statement\": \"Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ?\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/questions.md",
+    "line": 164,
+    "excerpt": "### RQ-04.02 — Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ?",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/questions.md",
+    "line": 504,
+    "excerpt": "| RQ-08.02 | PARTIALLY_RESOLVED | K local peut être calibré si M et T sont indépendamment mesurés. K=PIB/énergie est estimable comme ratio de proxies, mais résiduel si recalculé pour chaque observation. |",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/first_pass_report.md",
+    "line": 17,
+    "excerpt": "| RQ-04.02 | +78% arithmétiquement reproduit sous hypothèse quadratique, pas loi empirique générale | PARTIALLY_RESOLVED |",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/question_graph.json",
+    "line": 1494,
+    "excerpt": "      \"question\": \"Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ?\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/question_graph.json",
+    "line": 1527,
+    "excerpt": "      \"scope\": \"Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ? Périmètre : passages et conditions référencés, sans verdict global.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/question_graph.json",
+    "line": 1562,
+    "excerpt": "      \"conclusion\": \"Le +78% est le résultat arrondi de (8/6)²−1=7/9 sous tâche, coefficient et référent constants. Le coût horaire20 donne160→120. Calcul arithmétique reproduit ; origine économique de l’hypothèse quadratique non testée.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/question_graph.json",
+    "line": 3464,
+    "excerpt": "      \"metrology_conclusion\": \"K local peut être calibré si M et T sont indépendamment mesurés. K=PIB/énergie est estimable comme ratio de proxies, mais résiduel si recalculé pour chaque observation.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/question_graph.json",
+    "line": 8935,
+    "excerpt": "        \"quotation\": \"The second hypothesis therefore requires more Work than the first (about 78% more).\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/question_graph.json",
+    "line": 8938,
+    "excerpt": "      \"content\": \"L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/question_graph.json",
+    "line": 9424,
+    "excerpt": "        \"quotation\": \"The second hypothesis therefore requires more Work than the first (about 78% more).\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/question_graph.json",
+    "line": 9427,
+    "excerpt": "      \"content\": \"L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/question_graph.json",
+    "line": 17840,
+    "excerpt": "      \"content\": \"K local peut être calibré si M et T sont indépendamment mesurés. K=PIB/énergie est estimable comme ratio de proxies, mais résiduel si recalculé pour chaque observation.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/third_pass_report.md",
+    "line": 95,
+    "excerpt": "La dérivée non nulle à π/8 n’est pas une réfutation de tout optimum **contraint**. Elle établit que la fonction seule ne sélectionne pas le point : domaine et contraintes restent nécessaires. Le +78% reste un résultat arithmétique conditionné par une hypothèse quadratique; aucune nouvelle preuve empirique apportée.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/editorial_history.md",
+    "line": 6,
+    "excerpt": "2. Le brouillon complet avant contrôle éditorial est conservé dans `analysis/history/synthesis_draft_before_editorial_check/`. Trois corrections de synthèse : le terme `½ω²dcp` appartient à la **différentielle**, non à la primitive; l'exemple +78% est explicitement localisé aussi page32; CC-03 est relié aux claims Utility/rendements CPC-0100/0104/0113 plutôt qu'aux principes de maximum CPC-0032/0033.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/final_synthesis.md",
+    "line": 57,
+    "excerpt": "SYN-01 : M=n·u ne prouve pas une neutralité générale. 32scénarios séparent compensation, changement de valeur, création productive, ajustement nominal et redistribution. La littérature sur les dépôts bancaires parle d’une catégorie institutionnelle qui ne se mappe pas directement sur Money. Aucun montant observé de Money n’a été fabriqué. [CORE](core_claims.md); [research_questions/contribution/cash_money_crosswalk.md](../../research_questions/contribution/cash_money_crosswalk.md).",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/final_synthesis.md",
+    "line": 61,
+    "excerpt": "SYN-02/03/06 : distinguer tâche, vitesse et variation. La primitive quadratique est conditionnelle à cp; l’absence de dT n’efface pas l’effort humain ou physique. Le +78% est arithmétiquement reproduit, dépend d’une relation quadratique et ne constitue pas sa vérification indépendante. [research_questions/experiments/EXP-09/results.json](../../research_questions/experiments/EXP-09/results.json).",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/final_synthesis.md",
+    "line": 89,
+    "excerpt": "Les tests de recodage Utility, composition de K, lectures T/dT et +78% donnent des conclusions locales reproductibles. Ils ne sont pas des preuves comportementales. Des erreurs intermédiaires de signes, limites, primitives et équivalence force constante/nulle restent localisées, même lorsqu’une expression finale peut être reconstruite sous conditions. [Résultats](results.json), SYN-02/03/04/06/07/08.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/final_synthesis.md",
+    "line": 157,
+    "excerpt": "SYN-06: Le +78% reproduit (8/6)²−1 sous tâche, cp et hypothèse quadratique fixes. P32 revendique une généralité sous homogénéité; le calcul ne l’établit pas. NOT_GENERALIZED_EMPIRICALLY.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/core_claims.md",
+    "line": 555,
+    "excerpt": "statement: L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/core_claims.md",
+    "line": 557,
+    "excerpt": "source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 32, 'pages': [32], 'quotation': 'The second hypothesis therefore requires more Work than the first (about 78% more).', 'normalization': 'whitespace; standalone leading page numbers removed'}",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/core_claims.md",
+    "line": 565,
+    "excerpt": "global_qualification: +78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/core_claims.md",
+    "line": 573,
+    "excerpt": "literature_support: quadratic speed-energy relation / process engineering; +78% conditionné à loi quadratique, cp et tâche fixes; pas règle générale de productivité",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/core_claims.md",
+    "line": 575,
+    "excerpt": "objections: +78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique. Not established independently of definitions/calibration",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/results.json",
+    "line": 262,
+    "excerpt": "    \"statement\": \"Le +78% reproduit (8/6)²−1 sous tâche, cp et hypothèse quadratique fixes. P32 revendique une généralité sous homogénéité; le calcul ne l’établit pas. NOT_GENERALIZED_EMPIRICALLY.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/question_synthesis.csv",
+    "line": 16,
+    "excerpt": "RQ-04,Sous quelles conditions une transformation améliore-t-elle la productivité ?,OPEN,LOW,\"La transformation peut accélérer une tâche, déplacer la contribution humaine vers les machines et réduire un coût sous conditions.\",ASSUMPTION_DEPENDENT pour généralité; calculs conditionnels disponibles.,\"EMPIRICALLY_COMPATIBLE comme mécanisme partiel, NON_DISCRIMINATING.\",\"Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",BIB-0002; CBIB-02; CBIB-11,\"Complexité, qualité, intrants et demande peuvent changer ensemble.\",\"Complexité, qualité, intrants et demande peuvent changer ensemble.\",\"Établit une voie possible vers davantage de biens, pas son exclusivité.\",CPC-0017; CPC-0019; CPC-0032; CPC-0033; CPC-0035; CPC-0038; CPC-0052; CPC-0054; CPC-0066; CPC-0094; CPC-0096; CPC-0101; CPC-0102; CPC-0103; CPC-0104; CPC-0105; CPC-0106; CPC-0108; CPC-0110; CPC-0111; CPC-0112,19; 20; 31; 32; 34; 188; 189; 196; 198; 202; 210; 212; 293; 300; 347; 388; 461; 479; 502,research_questions/RQ-04/global_consolidation.md; research_questions/RQ-04/conclusion.md; analysis/25_productive_review_report.md; research_questions/operationalization/formal_results.json; analysis/global_corpus_pass/findings.json,,ASSUMPTION_DEPENDENT pour généralité; calculs conditionnels disponibles.,\"EMPIRICALLY_COMPATIBLE comme mécanisme partiel, NON_DISCRIMINATING. Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",Aucune différence empirique indépendante établie pour cette réponse; voir les restrictions locales CC-01–04.,Non attribué à la question entière; consulter les variables et les claims liés.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/question_synthesis.csv",
+    "line": 17,
+    "excerpt": "RQ-04.01,Quand accélérer une tâche constante réduit-il effectivement les intrants nécessaires par produit ?,OPEN,LOW,\"À tâche et rémunération horaire fixées, un temps plus court réduit ce poste de coût; les autres coûts ne disparaissent pas.\",FORMALLY_DERIVED dans cet exemple; pas loi de tous les intrants.,NOT_IDENTIFIED pour effet causal structurel dans les données appariées manquantes.,\"Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",BIB-0002; CBIB-02; CBIB-11,\"Énergie, capital, maintenance ou qualité peuvent absorber l'économie de temps.\",\"Énergie, capital, maintenance ou qualité peuvent absorber l'économie de temps.\",Introduit les conditions du premier gain productif.,CPC-0017; CPC-0019; CPC-0052; CPC-0094; CPC-0110; CPC-0112,19; 20; 188; 196; 198; 502,research_questions/RQ-04.01/global_consolidation.md; research_questions/RQ-04.01/conclusion.md; analysis/25_productive_review_report.md; research_questions/operationalization/formal_results.json; analysis/global_corpus_pass/findings.json,,FORMALLY_DERIVED dans cet exemple; pas loi de tous les intrants.,\"NOT_IDENTIFIED pour effet causal structurel dans les données appariées manquantes. Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",Aucune différence empirique indépendante établie pour cette réponse; voir les restrictions locales CC-01–04.,Non attribué à la question entière; consulter les variables et les claims liés.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/question_synthesis.csv",
+    "line": 18,
+    "excerpt": "RQ-04.02,Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ?,PARTIALLY_RESOLVED,HIGH,\"L'exemple 8h→6h donne (8/6)²−1≈77,78% sous la relation quadratique et cp fixe.\",FORMALLY_DERIVED et arithmétiquement reproduit dans ce périmètre.,NOT_IDENTIFIED : aucun test indépendant de la loi quadratique.,\"Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",BIB-0002; CBIB-02; CBIB-11,Ni une hausse physique d'énergie de78% ni une loi universelle de productivité n'est établie.,Ni une hausse physique d'énergie de78% ni une loi universelle de productivité n'est établie.,Évite de transformer un exemple conditionnel en moteur causal mesuré de l'abondance.,CPC-0035; CPC-0096,32,research_questions/RQ-04.02/global_consolidation.md; research_questions/RQ-04.02/conclusion.md; analysis/25_productive_review_report.md; research_questions/operationalization/formal_results.json; analysis/global_corpus_pass/findings.json,,FORMALLY_DERIVED et arithmétiquement reproduit dans ce périmètre.,\"NOT_IDENTIFIED : aucun test indépendant de la loi quadratique. Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",Aucune différence empirique indépendante établie pour cette réponse; voir les restrictions locales CC-01–04.,Non attribué à la question entière; consulter les variables et les claims liés.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/question_synthesis.csv",
+    "line": 19,
+    "excerpt": "RQ-04.03,\"Comment machines, complexité et substitution au salarié modifient-elles les gains et leurs coûts ?\",OPEN,LOW,\"Machines et complexité modifient la tâche, les coûts et la part humaine; cp et ca sont explicitement distincts.\",ASSUMPTION_DEPENDENT : sommes et coefficients nécessitent unités comparables.,\"EMPIRICALLY_COMPATIBLE au sens général; exemple France/Chine illustratif, non observation.\",\"Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",BIB-0002; CBIB-02; CBIB-11,Substitution n'identifie pas effet net sur emploi ou énergie sans composition et demande.,Substitution n'identifie pas effet net sur emploi ou énergie sans composition et demande.,\"Relie technologie, distribution et consommation physique sans effet universel fixé.\",CPC-0054; CPC-0066; CPC-0105; CPC-0106; CPC-0111,189; 202; 210; 212; 461,research_questions/RQ-04.03/global_consolidation.md; research_questions/RQ-04.03/conclusion.md; analysis/25_productive_review_report.md; research_questions/operationalization/formal_results.json; analysis/global_corpus_pass/findings.json,,ASSUMPTION_DEPENDENT : sommes et coefficients nécessitent unités comparables.,\"EMPIRICALLY_COMPATIBLE au sens général; exemple France/Chine illustratif, non observation. Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",Aucune différence empirique indépendante établie pour cette réponse; voir les restrictions locales CC-01–04.,Non attribué à la question entière; consulter les variables et les claims liés.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/question_synthesis.csv",
+    "line": 20,
+    "excerpt": "RQ-04.04,Quelles contraintes et conventions de signe rendent les rendements et optima des cycles définis ?,PARTIALLY_RESOLVED,LOW,Les cycles ont des rendements couplés; l'équilibre à π/8 utilise des ratios et une géométrie particuliers.,FORMALLY_DERIVED pour valeurs conditionnelles; domaine et signes AMBIGUOUS.,NOT_IDENTIFIED : rendements économiques sans Utility calibrée.,\"Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",BIB-0002; CBIB-02; CBIB-11,Carré seulement à ratios égaux; bornes ne sont pas égalités; restriction par copie et durées de remplacement.,Carré seulement à ratios égaux; bornes ne sont pas égalités; restriction par copie et durées de remplacement.,Empêche de donner un rendement macro universel à la transition.,CPC-0032; CPC-0033; CPC-0038; CPC-0101; CPC-0102; CPC-0103; CPC-0104; CPC-0108,31; 34; 293; 300; 347; 388; 479,research_questions/RQ-04.04/global_consolidation.md; research_questions/RQ-04.04/conclusion.md; analysis/25_productive_review_report.md; research_questions/operationalization/formal_results.json; analysis/global_corpus_pass/findings.json,GC-22; GC-25; GC-26; GC-33,FORMALLY_DERIVED pour valeurs conditionnelles; domaine et signes AMBIGUOUS.,\"NOT_IDENTIFIED : rendements économiques sans Utility calibrée. Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",Aucune différence empirique indépendante établie pour cette réponse; voir les restrictions locales CC-01–04.,VAR-26 η: L1 NOT_OPERATIONALIZED",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/question_synthesis.csv",
+    "line": 25,
+    "excerpt": "RQ-06,Quand les variations de Cash et de sa valeur constituent-elles une variation de Money ?,OPEN,LOW,\"Cash supporte une valeur Money; M=n.u accompagne des scénarios distincts de création, compensation, délai et redistribution.\",\"DEFINITIONAL pour produit, ASSUMPTION_DEPENDENT pour mécanismes d'ajustement.\",NOT_IDENTIFIED pour Money; soldes nominaux mesurables séparément.,\"Création de dépôts, unité de compte, pouvoir d’achat et indices : traduction préalable nécessaire, pas contradiction terminologique.\",BIB-0001; BIB-0020; CBIB-01; BIB-0008,Aucune neutralité générale ne découle de l'identité seule; ne pas ramener32scénarios à un seul.,Aucune neutralité générale ne découle de l'identité seule; ne pas ramener32scénarios à un seul.,Empêche d'expliquer richesse réelle par seule émission nominale.,CPC-0002; CPC-0005; CPC-0010; CPC-0011; CPC-0012; CPC-0013; CPC-0014; CPC-0015; CPC-0016; CPC-0025; CPC-0026; CPC-0027; CPC-0028; CPC-0041; CPC-0046; CPC-0050; CPC-0053; CPC-0069; CPC-0070; CPC-0071; CPC-0072; CPC-0073; CPC-0074; CPC-0075; CPC-0080; CPC-0081; CPC-0082; CPC-0083; CPC-0085; CPC-0086; CPC-0088; CPC-0090; CPC-0099; CPC-0107,3; 12; 15; 17; 18; 19; 24; 25; 26; 28; 30; 33; 35; 101; 146; 172; 174; 175; 177; 178; 183; 184; 187; 188; 204,research_questions/RQ-06/global_consolidation.md; research_questions/RQ-06/conclusion.md; analysis/data/money_compensation_scenarios.json; research_questions/contribution/cash_money_crosswalk.md,,\"DEFINITIONAL pour produit, ASSUMPTION_DEPENDENT pour mécanismes d'ajustement.\",\"NOT_IDENTIFIED pour Money; soldes nominaux mesurables séparément. Création de dépôts, unité de compte, pouvoir d’achat et indices : traduction préalable nécessaire, pas contradiction terminologique.\",Aucune différence empirique indépendante établie pour cette réponse;",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/negative_results.md",
+    "line": 69,
+    "excerpt": "SYN-06: Le +78% reproduit (8/6)²−1 sous tâche, cp et hypothèse quadratique fixes. P32 revendique une généralité sous homogénéité; le calcul ne l’établit pas. NOT_GENERALIZED_EMPIRICALLY.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/question_synthesis.md",
+    "line": 107,
+    "excerpt": "### RQ-04.02 — Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ?",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/question_synthesis.md",
+    "line": 111,
+    "excerpt": "**INTERPRETATION — Main corpus answer** : L'exemple 8h→6h donne (8/6)²−1≈77,78% sous la relation quadratique et cp fixe.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/question_synthesis.md",
+    "line": 119,
+    "excerpt": "Literature status : Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés. IDs: BIB-0002, CBIB-02, CBIB-11 ([registre](source_register.md)).",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/question_synthesis.md",
+    "line": 123,
+    "excerpt": "Counterevidence / Remaining uncertainty : Ni une hausse physique d'énergie de78% ni une loi universelle de productivité n'est établie.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/question_synthesis.md",
+    "line": 143,
+    "excerpt": "Literature status : Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés. IDs: BIB-0002, CBIB-02, CBIB-11 ([registre](source_register.md)).",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/question_synthesis.md",
+    "line": 795,
+    "excerpt": "Literature status : Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés. IDs: BIB-0002, CBIB-02, CBIB-11 ([registre](source_register.md)).",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/question_synthesis.md",
+    "line": 819,
+    "excerpt": "Literature status : Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés. IDs: BIB-0002, CBIB-02, CBIB-11 ([registre](source_register.md)).",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/question_synthesis.md",
+    "line": 843,
+    "excerpt": "Literature status : Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés. IDs: BIB-0002, CBIB-02, CBIB-11 ([registre](source_register.md)).",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/question_synthesis.md",
+    "line": 919,
+    "excerpt": "Counterevidence / Remaining uncertainty : Aucune neutralité générale ne découle de l'identité seule; ne pas ramener32scénarios à un seul.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/core_claims.json",
+    "line": 590,
+    "excerpt": "    \"statement\": \"L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/core_claims.json",
+    "line": 597,
+    "excerpt": "      \"quotation\": \"The second hypothesis therefore requires more Work than the first (about 78% more).\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/core_claims.json",
+    "line": 607,
+    "excerpt": "    \"global_qualification\": \"+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/core_claims.json",
+    "line": 614,
+    "excerpt": "    \"literature_support\": \"quadratic speed-energy relation / process engineering; +78% conditionné à loi quadratique, cp et tâche fixes; pas règle générale de productivité\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/core_claims.json",
+    "line": 615,
+    "excerpt": "    \"objections\": \"+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique. Not established independently of definitions/calibration\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/strongest_results.md",
+    "line": 31,
+    "excerpt": "Le +78% reproduit (8/6)²−1 à tâche et cp fixés. Le calcul ne mesure ni une loi générale de productivité ni un rendement énergétique empirique.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/master_matrix.csv",
+    "line": 18,
+    "excerpt": "RQ-04.02,QUESTION,research_questions/RQ-04.02/global_consolidation.md; research_questions/RQ-04.02/conclusion.md; analysis/25_productive_review_report.md; research_questions/operationalization/formal_results.json; analysis/global_corpus_pass/findings.json,RQ-04.02,CPC-0035; CPC-0096,FORMALLY_DERIVED et arithmétiquement reproduit dans ce périmètre.,FORMALLY_DERIVED et arithmétiquement reproduit dans ce périmètre.,NOT_IDENTIFIED : aucun test indépendant de la loi quadratique.,BIB-0002; CBIB-02; CBIB-11,Ni une hausse physique d'énergie de78% ni une loi universelle de productivité n'est établie.,Aucune différence empirique indépendante établie pour cette réponse; voir les restrictions locales CC-01–04.,Non attribué à la question entière; consulter les variables et les claims liés.,PARTIALLY_RESOLVED,HIGH",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/master_matrix.csv",
+    "line": 25,
+    "excerpt": "RQ-06,QUESTION,research_questions/RQ-06/global_consolidation.md; research_questions/RQ-06/conclusion.md; analysis/data/money_compensation_scenarios.json; research_questions/contribution/cash_money_crosswalk.md,RQ-06,CPC-0002; CPC-0005; CPC-0010; CPC-0011; CPC-0012; CPC-0013; CPC-0014; CPC-0015; CPC-0016; CPC-0025; CPC-0026; CPC-0027; CPC-0028; CPC-0041; CPC-0046; CPC-0050; CPC-0053; CPC-0069; CPC-0070; CPC-0071; CPC-0072; CPC-0073; CPC-0074; CPC-0075; CPC-0080; CPC-0081; CPC-0082; CPC-0083; CPC-0085; CPC-0086; CPC-0088; CPC-0090; CPC-0099; CPC-0107,\"DEFINITIONAL pour produit, ASSUMPTION_DEPENDENT pour mécanismes d'ajustement.\",\"DEFINITIONAL pour produit, ASSUMPTION_DEPENDENT pour mécanismes d'ajustement.\",NOT_IDENTIFIED pour Money; soldes nominaux mesurables séparément.,BIB-0001; BIB-0020; CBIB-01; BIB-0008,Aucune neutralité générale ne découle de l'identité seule; ne pas ramener32scénarios à un seul.,Aucune différence empirique indépendante établie pour cette réponse; voir les restrictions locales CC-01–04.,Non attribué à la question entière; consulter les variables et les claims liés.,OPEN,LOW",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/master_matrix.csv",
+    "line": 68,
+    "excerpt": "CPC-0035,CORE,analysis/data/claims.jsonl; analysis/global_corpus_pass/claim_rechecks.json; research_questions/contribution/core_comparisons.json,RQ-04; RQ-04.02,CPC-0035,77.777...% reproduit à cp fixe et carré de la vitesse; aucune loi empirique certifiée.,77.777...% reproduit à cp fixe et carré de la vitesse; aucune loi empirique certifiée.,Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.,BIB-0017; BIB-0002,\"+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique. Not established independently of definitions/calibration\",DISTINCT_FORMAL_RESTRICTION; Not established independently of definitions/calibration,\"Voir variables liées, pas niveau uniforme du claim\",FORMALLY_DERIVED; ASSUMPTION_DEPENDENT; NOT_IDENTIFIED,HIGH",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/master_matrix.csv",
+    "line": 88,
+    "excerpt": "SYN-06,SYNTHESIS_RESULT,analysis/25_productive_review_report.md; remediation/formal_corrections.md,RQ-04.02; RQ-04.04,CPC-0032; CPC-0033; CPC-0035; CPC-0038; CPC-0096; CPC-0101; CPC-0102; CPC-0103; CPC-0104; CPC-0108,FORMALLY_DERIVED_WITH_ASSUMPTIONS,FORMALLY_DERIVED_WITH_ASSUMPTIONS,NOT_EMPIRICALLY_TESTED,Voir questions et registre,\"Le +78% reproduit (8/6)²−1 sous tâche, cp et hypothèse quadratique fixes. P32 revendique une généralité sous homogénéité; le calcul ne l’établit pas. NOT_GENERALIZED_EMPIRICALLY.\",REQUIRES_INDEPENDENT_T,Proxy ou construction selon résultat; voir variables,FORMALLY_DERIVED_WITH_ASSUMPTIONS; NOT_EMPIRICALLY_TESTED; REQUIRES_INDEPENDENT_T,MEDIUM",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/root_question_answer.md",
+    "line": 25,
+    "excerpt": "Des dérivations locales tiennent à conditions annoncées : primitive quadratique à cp fixe, arithmétique +78%, conservation d'un bilan à frontière commune, invariance de K sous certaines compositions. Les recodages de Utility précisent au contraire quelles opérations ne sont pas ordinales. Ce support porte sur ces résultats conditionnels ou diagnostics, pas sur une loi économique autonome. SYN-02/03/04/06/07; RQ-03.02/03.03/04.02/05.03/08.02.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/root_question_answer.md",
+    "line": 64,
+    "excerpt": "SYN-06: Le +78% reproduit (8/6)²−1 sous tâche, cp et hypothèse quadratique fixes. P32 revendique une généralité sous homogénéité; le calcul ne l’établit pas. NOT_GENERALIZED_EMPIRICALLY.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/questions.json",
+    "line": 785,
+    "excerpt": "    \"literature_status\": \"Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/questions.json",
+    "line": 848,
+    "excerpt": "    \"external_compatibility\": \"EMPIRICALLY_COMPATIBLE comme mécanisme partiel, NON_DISCRIMINATING. Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/questions.json",
+    "line": 865,
+    "excerpt": "    \"literature_status\": \"Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/questions.json",
+    "line": 900,
+    "excerpt": "    \"external_compatibility\": \"NOT_IDENTIFIED pour effet causal structurel dans les données appariées manquantes. Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/questions.json",
+    "line": 911,
+    "excerpt": "    \"question\": \"Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ?\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/questions.json",
+    "line": 914,
+    "excerpt": "    \"main_corpus_answer\": \"L'exemple 8h→6h donne (8/6)²−1≈77,78% sous la relation quadratique et cp fixe.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/questions.json",
+    "line": 917,
+    "excerpt": "    \"literature_status\": \"Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/questions.json",
+    "line": 923,
+    "excerpt": "    \"counterevidence\": \"Ni une hausse physique d'énergie de78% ni une loi universelle de productivité n'est établie.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/questions.json",
+    "line": 924,
+    "excerpt": "    \"remaining_uncertainty\": \"Ni une hausse physique d'énergie de78% ni une loi universelle de productivité n'est établie.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/questions.json",
+    "line": 943,
+    "excerpt": "    \"external_compatibility\": \"NOT_IDENTIFIED : aucun test indépendant de la loi quadratique. Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/questions.json",
+    "line": 960,
+    "excerpt": "    \"literature_status\": \"Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/questions.json",
+    "line": 993,
+    "excerpt": "    \"external_compatibility\": \"EMPIRICALLY_COMPATIBLE au sens général; exemple France/Chine illustratif, non observation. Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/questions.json",
+    "line": 1010,
+    "excerpt": "    \"literature_status\": \"Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/questions.json",
+    "line": 1058,
+    "excerpt": "    \"external_compatibility\": \"NOT_IDENTIFIED : rendements économiques sans Utility calibrée. Productivité, intrants et travail physique utile : parallèles; ni +78% ni optimum économique universels attestés.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/questions.json",
+    "line": 1367,
+    "excerpt": "    \"counterevidence\": \"Aucune neutralité générale ne découle de l'identité seule; ne pas ramener32scénarios à un seul.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/questions.json",
+    "line": 1368,
+    "excerpt": "    \"remaining_uncertainty\": \"Aucune neutralité générale ne découle de l'identité seule; ne pas ramener32scénarios à un seul.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/contribution/claim_comparisons.md",
+    "line": 297,
+    "excerpt": "> The second hypothesis therefore requires more Work than the first (about 78% more).",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/contribution/claim_comparisons.md",
+    "line": 301,
+    "excerpt": "Campergue: L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/contribution/claim_comparisons.md",
+    "line": 307,
+    "excerpt": "+78% conditionné à loi quadratique, cp et tâche fixes; pas règle générale de productivité",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/contribution/claim_comparisons.md",
+    "line": 311,
+    "excerpt": "Valeur possible: +78% conditionné à loi quadratique, cp et tâche fixes; pas règle générale de productivité. Évaluations séparées: {'CONCEPTUAL_CLARITY': 'POSSIBLE', 'MEASUREMENT_VALUE': 'UNDETERMINED', 'EMPIRICAL_VALUE': 'UNDETERMINED', 'DECISION_VALUE': 'UNDETERMINED'}.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/contribution/core_comparisons.json",
+    "line": 481,
+    "excerpt": "      \"quotation\": \"The second hypothesis therefore requires more Work than the first (about 78% more).\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/contribution/core_comparisons.json",
+    "line": 484,
+    "excerpt": "    \"what_campergue_claims\": \"L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/contribution/core_comparisons.json",
+    "line": 489,
+    "excerpt": "    \"difference\": \"+78% conditionné à loi quadratique, cp et tâche fixes; pas règle générale de productivité\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/contribution/core_comparisons.json",
+    "line": 494,
+    "excerpt": "    \"potential_usefulness\": \"+78% conditionné à loi quadratique, cp et tâche fixes; pas règle générale de productivité\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/contribution/contribution_matrix.csv",
+    "line": 36,
+    "excerpt": "CPC-0035,L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.,[32],quadratic speed-energy relation / process engineering,Partial; see dossier,\"+78% conditionné à loi quadratique, cp et tâche fixes; pas règle générale de productivité\",True,Not established independently of definitions/calibration,False,False,\"+78% conditionné à loi quadratique, cp et tâche fixes; pas règle générale de productivité\",TARGETED_COMPARATORS_ONLY,DISTINCT_FORMAL_RESTRICTION,HISTORICAL_NOVELTY_UNRESOLVED,BIB-0017;BIB-0002",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.04/README.md",
+    "line": 43,
+    "excerpt": "Statut actuel: PARTIALLY_RESOLVED. Test proposé: Diagnostic analytique de dérivée et valeur conditionnelle. Le +78% reste distinct: arithmétique quadratique conditionnelle, pas rendement 78% ni mesure empirique.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.04/conclusion.md",
+    "line": 64,
+    "excerpt": "Statut actuel: PARTIALLY_RESOLVED. Test proposé: Diagnostic analytique de dérivée et valeur conditionnelle. Le +78% reste distinct: arithmétique quadratique conditionnelle, pas rendement 78% ni mesure empirique.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.04/literature.md",
+    "line": 11,
+    "excerpt": "Statut actuel: PARTIALLY_RESOLVED. Test proposé: Diagnostic analytique de dérivée et valeur conditionnelle. Le +78% reste distinct: arithmétique quadratique conditionnelle, pas rendement 78% ni mesure empirique.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.04/tests.md",
+    "line": 16,
+    "excerpt": "Statut actuel: PARTIALLY_RESOLVED. Test proposé: Diagnostic analytique de dérivée et valeur conditionnelle. Le +78% reste distinct: arithmétique quadratique conditionnelle, pas rendement 78% ni mesure empirique.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.04/evidence.md",
+    "line": 108,
+    "excerpt": "Statut actuel: PARTIALLY_RESOLVED. Test proposé: Diagnostic analytique de dérivée et valeur conditionnelle. Le +78% reste distinct: arithmétique quadratique conditionnelle, pas rendement 78% ni mesure empirique.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.04/metrology.md",
+    "line": 23,
+    "excerpt": "Diagnostic analytique de dérivée et valeur conditionnelle. Le +78% reste distinct: arithmétique quadratique conditionnelle, pas rendement 78% ni mesure empirique.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04/corpus.md",
+    "line": 83,
+    "excerpt": "> The second hypothesis therefore requires more Work than the first (about 78% more).",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04/corpus.md",
+    "line": 91,
+    "excerpt": "L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04/conclusion.md",
+    "line": 17,
+    "excerpt": "CPC-0035 : L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04/evidence.md",
+    "line": 59,
+    "excerpt": "Contenu : L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04/global_consolidation.md",
+    "line": 17,
+    "excerpt": "- CPC-0035 — CONFIRMED : +78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04/global_consolidation.md",
+    "line": 29,
+    "excerpt": "- CPC-0096 — CONFIRMED : +78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/README.md",
+    "line": 1,
+    "excerpt": "# RQ-04.02 — Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ?",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/README.md",
+    "line": 9,
+    "excerpt": "Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ? Périmètre : passages et conditions référencés, sans verdict global.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/contribution.md",
+    "line": 3,
+    "excerpt": "Question conservée: Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ?",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/corpus.md",
+    "line": 1,
+    "excerpt": "# RQ-04.02 — Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ?",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/corpus.md",
+    "line": 11,
+    "excerpt": "> The second hypothesis therefore requires more Work than the first (about 78% more).",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/corpus.md",
+    "line": 19,
+    "excerpt": "L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/corpus.md",
+    "line": 21,
+    "excerpt": "Lien analytique : Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ? La citation atteste le propos, non sa validation.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/corpus.md",
+    "line": 39,
+    "excerpt": "Lien analytique : Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ? La citation atteste le propos, non sa validation.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/conclusion.md",
+    "line": 1,
+    "excerpt": "# RQ-04.02 — Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ?",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/conclusion.md",
+    "line": 9,
+    "excerpt": "CPC-0035 : L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/conclusion.md",
+    "line": 37,
+    "excerpt": "Le +78% est le résultat arrondi de (8/6)²−1=7/9 sous tâche, coefficient et référent constants. Le coût horaire20 donne160→120. Calcul arithmétique reproduit ; origine économique de l’hypothèse quadratique non testée.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/conclusion.md",
+    "line": 47,
+    "excerpt": "+78%: NOT_GENERALIZED_EMPIRICALLY; revendication de généralité p32 distincte du calcul conditionnel. Voir ../../remediation/formal_corrections.md.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/literature.md",
+    "line": 1,
+    "excerpt": "# RQ-04.02 — Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ?",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/tests.md",
+    "line": 1,
+    "excerpt": "# RQ-04.02 — Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ?",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/evidence.md",
+    "line": 1,
+    "excerpt": "# RQ-04.02 — Le résultat +78% découle-t-il d’une hypothèse quadratique particulière plutôt que d’une loi générale mesurée ?",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/evidence.md",
+    "line": 11,
+    "excerpt": "Contenu : L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/global_consolidation.md",
+    "line": 9,
+    "excerpt": "- CPC-0035 — CONFIRMED : +78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-04.02/global_consolidation.md",
+    "line": 11,
+    "excerpt": "- CPC-0096 — CONFIRMED : +78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/operationalization/manifest.json",
+    "line": 148,
+    "excerpt": "      \"reason\": \"K local peut être calibré si M et T sont indépendamment mesurés. K=PIB/énergie est estimable comme ratio de proxies, mais résiduel si recalculé pour chaque observation.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-08.02/README.md",
+    "line": 39,
+    "excerpt": "Voir [dossier métrologique](metrology.md). K local peut être calibré si M et T sont indépendamment mesurés. K=PIB/énergie est estimable comme ratio de proxies, mais résiduel si recalculé pour chaque observation.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-08.02/conclusion.md",
+    "line": 54,
+    "excerpt": "Voir [dossier métrologique](metrology.md). K local peut être calibré si M et T sont indépendamment mesurés. K=PIB/énergie est estimable comme ratio de proxies, mais résiduel si recalculé pour chaque observation.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-08.02/literature.md",
+    "line": 16,
+    "excerpt": "Voir [dossier métrologique](metrology.md). K local peut être calibré si M et T sont indépendamment mesurés. K=PIB/énergie est estimable comme ratio de proxies, mais résiduel si recalculé pour chaque observation.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-08.02/tests.md",
+    "line": 15,
+    "excerpt": "Voir [dossier métrologique](metrology.md). K local peut être calibré si M et T sont indépendamment mesurés. K=PIB/énergie est estimable comme ratio de proxies, mais résiduel si recalculé pour chaque observation.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-08.02/evidence.md",
+    "line": 92,
+    "excerpt": "Voir [dossier métrologique](metrology.md). K local peut être calibré si M et T sont indépendamment mesurés. K=PIB/énergie est estimable comme ratio de proxies, mais résiduel si recalculé pour chaque observation.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/RQ-08.02/metrology.md",
+    "line": 15,
+    "excerpt": "K local peut être calibré si M et T sont indépendamment mesurés. K=PIB/énergie est estimable comme ratio de proxies, mais résiduel si recalculé pour chaque observation.",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/literature_review.md",
+    "line": 52,
+    "excerpt": "| CC-02 | Tâche, vitesse et Work additionnel | [203, 207, 208, 341, 355, 467, 470, 501, 547] | PARTIAL_PRECEDENT | Tâche, cadence et productivité sont déjà séparables; T quadratique n’est pas une simple traduction de TFP. | LIKELY_REFORMULATION pour le recouvrement; ne pas effacer le résidu décrit. | Aucune nouvelle mesure opérationnelle établie. | Aucune différence observable identifiée avec les variables disponibles. | Frontières/échelles/coefficient ou condition Utility doivent être fixés indépendamment. | Restriction formelle distincte sous cp fixe, mais ni T ni cp indépendamment mesurés. | QUALIFIED | NOVELTY_UNRESOLVED | ['ER-BIB-06'] | MEDIUM |",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/empirical_review.md",
+    "line": 7,
+    "excerpt": "| +78% | Scénario construit, pas données physiques | Arithmétique conditionnelle | YES via suite; (8/6)²−1 | Pas validation de loi empirique universelle |",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/findings.json",
+    "line": 215,
+    "excerpt": "    \"target\": \"+78%: portée revendiquée\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/core_claim_review.md",
+    "line": 423,
+    "excerpt": "statement: L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/core_claim_review.md",
+    "line": 425,
+    "excerpt": "source: {'document': 'Reflections_PierreCampergue.pdf', 'page': 32, 'pages': [32], 'quotation': 'The second hypothesis therefore requires more Work than the first (about 78% more).', 'normalization': 'whitespace; standalone leading page numbers removed'}",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/core_claim_review.md",
+    "line": 435,
+    "excerpt": "existing_objections: +78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique. Not established independently of definitions/calibration",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/traceability.md",
+    "line": 12,
+    "excerpt": "| SYN-06 | Le +78% reproduit (8/6)²−1 à tâche et cp fixés. Le calcul ne mesure ni une loi générale de productivité ni un rendement énergétique empirique. | ['RQ-04.02', 'RQ-04.04'] | ['CPC-0032', 'CPC-0033', 'CPC-0035', 'CPC-0038', 'CPC-0096', 'CPC-0101', 'CPC-0102', 'CPC-0103', 'CPC-0104', 'CPC-0108'] | [32, 196, 197, 198, 207] | ['analysis/25_productive_review_report.md'] | Voir artefact de preuve et ses références; audit séparé external_review/03_test_audit.md | PARTIALLY_TRACEABLE | Universalité source moins visible que restriction du reviewer (ER-010). | Les listes de claims sont des rattachements internes, non toutes des prémisses nécessaires. Lecture directe et contrôles externes complètent, sans prétendre certifier chaque arête. |",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/traceability.json",
+    "line": 215,
+    "excerpt": "    \"conclusion\": \"Le +78% reproduit (8/6)²−1 à tâche et cp fixés. Le calcul ne mesure ni une loi générale de productivité ni un rendement énergétique empirique.\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/02_formal_review.md",
+    "line": 18,
+    "excerpt": "| +78% | 32,197,207 | Ratio quadratique | (8/6)²−1=7/9: calcul exact arrondi, pas observation énergétique ni loi interproduits. |",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/candidate_review.json",
+    "line": 51,
+    "excerpt": "    \"surviving_residue\": \"Restriction formelle distincte sous cp fixe, mais ni T ni cp indépendamment mesurés.\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/01_overinterpretation_review.md",
+    "line": 20,
+    "excerpt": "Aucune erreur de type «coût baisse donc prix baisse automatiquement» n’est attribuée à la synthèse: elle conserve correctement les scénarios. De même, M=nu n’est pas actuellement présenté comme preuve autonome de neutralité. Le mutant vérifie seulement que le validateur ne détecterait pas sa réintroduction.",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/proposed_corrections.json",
+    "line": 66,
+    "excerpt": "    \"target\": \"+78%: portée revendiquée\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/findings.md",
+    "line": 221,
+    "excerpt": "**target**: +78%: portée revendiquée",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/proposed_corrections.md",
+    "line": 14,
+    "excerpt": "| +78%: portée revendiquée | Le résultat arithmétique limité ne restitue pas à lui seul la généralité revendiquée. | ER-010 | Conserver ARITHMETICALLY_REPRODUCED et ASSUMPTION_DEPENDENT, en citant aussi la revendication universelle et son absence de test indépendant. | P32 généralise aux Products et aux lieux/époques, avec prémisses d’homogénéité. (8/6)^2−1 est reproductible; cette opération n’établit ni homogénéité interproduits ni énergie économique indépendante. |",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/04_surviving_results.md",
+    "line": 13,
+    "excerpt": "| +78% | Calcul et universalité | Arithmétique exacte, portée empirique ouverte | SUPPORTED_WITHIN_STATED_SCOPE | HIGH pour le diagnostic local; pas confiance causale globale |",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/core_claim_review.json",
+    "line": 482,
+    "excerpt": "    \"statement\": \"L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/core_claim_review.json",
+    "line": 489,
+    "excerpt": "      \"quotation\": \"The second hypothesis therefore requires more Work than the first (about 78% more).\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/core_claim_review.json",
+    "line": 506,
+    "excerpt": "    \"existing_objections\": \"+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique. Not established independently of definitions/calibration\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/traceability.csv",
+    "line": 7,
+    "excerpt": "SYN-06,Le +78% reproduit (8/6)²−1 à tâche et cp fixés. Le calcul ne mesure ni une loi générale de productivité ni un rendement énergétique empirique.,\"['RQ-04.02', 'RQ-04.04']\",\"['CPC-0032', 'CPC-0033', 'CPC-0035', 'CPC-0038', 'CPC-0096', 'CPC-0101', 'CPC-0102', 'CPC-0103', 'CPC-0104', 'CPC-0108']\",\"[32, 196, 197, 198, 207]\",['analysis/25_productive_review_report.md'],Voir artefact de preuve et ses références; audit séparé external_review/03_test_audit.md,PARTIALLY_TRACEABLE,Universalité source moins visible que restriction du reviewer (ER-010).,\"Les listes de claims sont des rattachements internes, non toutes des prémisses nécessaires. Lecture directe et contrôles externes complètent, sans prétendre certifier chaque arête.\"",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "external_review/key_source_passages.md",
+    "line": 45,
+    "excerpt": "## ER-010 — +78%, conditions et universalité revendiquées",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "remediation/traceability_repairs.md",
+    "line": 10,
+    "excerpt": "| SYN-06 | PARTIALLY_TRACEABLE | TRACEABLE_WITH_EXPLICIT_LIMITS | Le +78% reproduit (8/6)²−1 à tâche et cp fixés. Le calcul ne mesure ni une loi générale de productivité ni un rendement énergétique empirique. | Le +78% reproduit (8/6)²−1 sous tâche, cp et hypothèse quadratique fixes. P32 revendique une généralité sous homogénéité; le calcul ne l’établit pas. NOT_GENERALIZED_EMPIRICALLY. | ['RQ-04.02', 'RQ-04.04'] | ['CPC-0032', 'CPC-0033', 'CPC-0035', 'CPC-0038', 'CPC-0096', 'CPC-0101', 'CPC-0102', 'CPC-0103', 'CPC-0104', 'CPC-0108'] | ['analysis/25_productive_review_report.md', 'remediation/formal_corrections.md'] | [32, 197, 207] | Rattachement documentaire complété; implication économique ne devient pas démontrée. |",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "remediation/formal_corrections.md",
+    "line": 12,
+    "excerpt": "| FORMAL-REMED-06 | [32, 197, 207] | (8/6)²−1 | +78% | Universalité revendiquée non testée | 7/9=0.777777… | CORRECT_WITH_CONDITION | Tâche, cp et hypothèse quadratique fixes; NOT_GENERALIZED_EMPIRICALLY |",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "remediation/baseline.json",
+    "line": 770,
+    "excerpt": "      \"target\": \"+78%: portée revendiquée\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "remediation/baseline.json",
+    "line": 1373,
+    "excerpt": "      \"statement\": \"L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "remediation/baseline.json",
+    "line": 1380,
+    "excerpt": "        \"quotation\": \"The second hypothesis therefore requires more Work than the first (about 78% more).\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "remediation/baseline.json",
+    "line": 1390,
+    "excerpt": "      \"global_qualification\": \"+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "remediation/baseline.json",
+    "line": 1397,
+    "excerpt": "      \"literature_support\": \"quadratic speed-energy relation / process engineering; +78% conditionné à loi quadratique, cp et tâche fixes; pas règle générale de productivité\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "remediation/baseline.json",
+    "line": 1398,
+    "excerpt": "      \"objections\": \"+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique. Not established independently of definitions/calibration\",",
+    "classification": "HISTORICAL_ONLY",
+    "basis": "Fixed protocol/earlier pass/source of comparison, not a current result",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "remediation/final_remediation_report.md",
+    "line": 37,
+    "excerpt": "## +78%",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "remediation/trace_contract.json",
+    "line": 421,
+    "excerpt": "    \"approved_statement\": \"Le +78% reproduit (8/6)²−1 sous tâche, cp et hypothèse quadratique fixes. P32 revendique une généralité sous homogénéité; le calcul ne l’établit pas. NOT_GENERALIZED_EMPIRICALLY.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "remediation/trace_contract.json",
+    "line": 452,
+    "excerpt": "        \"quotation\": \"32  there can be no Economic Work without a difference in the Utility of the Cash exchanged. These statements are strictly of the same nature as that of the “First Principle” of thermodynamics, i.e. :  there can be no mechanical work without a temperature difference. Premises Let us suppose that the manufacturing of any Product requires, initially, a duration of 8 hours and that, after an increase in productivity, this duration decreases to 6 hours. Let us suppose moreover that the cost per hour of work is 20 $, then caeteris paribus :  according to the first hypothesis (8hrs. of Work) the cost price of the Product is 160 $,  according to the second hypothesis (6hrs. of Work) the cost price is 120 $, i.e. 40 $ less. But the laws of physics state that the higher the speed, the more energy is expended, in the form of Work, to increase that speed. The second hypothesis therefore requires more Work than the first (about 78% more). This thought experiment, valid for any Product, everywhere and always in accordance with the Principle of Homogeneity, shows without ambiguity that more Work was necessary for the elabouration of a Product less is the cost price (caeteris paribus). An analysis of the daily facts shows that all companies are always seeking to improve productivity, i.e. to accelerate the speed of production, in order to reduce the price of the goods produced. But in order to do so, it's essential to work more, and this by any means (individuals, slaves, animals, employees, mainly motors or machines for the last 2 centuries). It has just been shown that the more Work there is in a Product, the cheaper it's. Therefore, in an exchange there can only be an imbalance, more and more accentuated according to productivity, because this means that :",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "remediation/finding_actions.json",
+    "line": 167,
+    "excerpt": "    \"target\": \"+78%: portée revendiquée\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "remediation/formal_corrections.json",
+    "line": 76,
+    "excerpt": "    \"current\": \"+78%\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "remediation/traceability_repairs.json",
+    "line": 55,
+    "excerpt": "    \"old_statement\": \"Le +78% reproduit (8/6)²−1 à tâche et cp fixés. Le calcul ne mesure ni une loi générale de productivité ni un rendement énergétique empirique.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "remediation/traceability_repairs.json",
+    "line": 56,
+    "excerpt": "    \"new_statement\": \"Le +78% reproduit (8/6)²−1 sous tâche, cp et hypothèse quadratique fixes. P32 revendique une généralité sous homogénéité; le calcul ne l’établit pas. NOT_GENERALIZED_EMPIRICALLY.\",",
+    "classification": "VALID_CURRENT",
+    "basis": "Scoped statement, source attribution, negative result or required condition; current views inspected",
+    "automatic_candidate_search": true
+  },
+  {
+    "path": "research_questions/synthesis/final_synthesis.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Synchronise les comptes actuels CORE et métrologie; les anciennes valeurs étaient restées dans le corps de la synthèse.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-01/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-01.02/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-01.03/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-01.04/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-02/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-02.02/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-02.03/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-03/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-03.02/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-03.04/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-04/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-04.01/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-04.02/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-04.03/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-04.04/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-05/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-05.02/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-05.03/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-06/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-06.01/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-06.03/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-06.04/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-07/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-07.01/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-07.03/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-08/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-08.01/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-08.02/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-09/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-09.01/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-09.02/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-09.03/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-10/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-10.01/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-10.03/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-11/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-11.01/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-11.03/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-12/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-12.01/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-12.02/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  },
+  {
+    "path": "research_questions/RQ-12.03/conclusion.md",
+    "line": "BEFORE_EDIT",
+    "excerpt": "Aligne la conclusion courante sur synthèse/graphe; incorpore uniquement remédiations pertinentes, sans nouvelle résolution.",
+    "classification": "STALE_NEEDS_CORRECTION",
+    "basis": "Corrected and archived; after=VALID_CURRENT",
+    "automatic_candidate_search": false
+  }
+]

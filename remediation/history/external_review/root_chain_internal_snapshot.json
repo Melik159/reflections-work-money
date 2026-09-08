@@ -1,0 +1,258 @@
+[
+  {
+    "id": "LINK-01",
+    "link": "Subsistance → énergie bon marché / transformations",
+    "source_pages": [
+      20,
+      29,
+      62,
+      72
+    ],
+    "status": [
+      "SUPPORTED_BY_CORPUS",
+      "PARTIALLY_SUPPORTED"
+    ],
+    "qualification": "Contexte historique proposé, contrefactuel non testé.",
+    "source": "analysis/global_corpus_pass/root_question_chain.md",
+    "questions": [
+      "RQ-12.01",
+      "RQ-11.03"
+    ],
+    "claims": [
+      "CPC-0001"
+    ],
+    "causal_identification": "NOT_IDENTIFIED"
+  },
+  {
+    "id": "LINK-02",
+    "link": "Énergie physique → transformation Utility",
+    "source_pages": [
+      159,
+      455,
+      456
+    ],
+    "status": [
+      "SUPPORTED_BY_CORPUS"
+    ],
+    "qualification": "Condition économique explicite, étalon manquant.",
+    "source": "analysis/global_corpus_pass/root_question_chain.md",
+    "questions": [
+      "RQ-12.01",
+      "RQ-11.03"
+    ],
+    "claims": [
+      "CPC-0001"
+    ],
+    "causal_identification": "NOT_IDENTIFIED"
+  },
+  {
+    "id": "LINK-03",
+    "link": "Accélération productive → coût",
+    "source_pages": [
+      19,
+      20,
+      32,
+      196,
+      207,
+      361,
+      364
+    ],
+    "status": [
+      "SUPPORTED_BY_CORPUS",
+      "FORMALLY_DERIVED"
+    ],
+    "qualification": "Seulement sous tâche, cp et frontière du modèle local.",
+    "source": "analysis/global_corpus_pass/root_question_chain.md",
+    "questions": [
+      "RQ-12.01",
+      "RQ-11.03"
+    ],
+    "claims": [
+      "CPC-0001"
+    ],
+    "causal_identification": "NOT_IDENTIFIED"
+  },
+  {
+    "id": "LINK-04",
+    "link": "Coût → prix / partage du gain",
+    "source_pages": [
+      20,
+      21,
+      363,
+      364,
+      504,
+      508
+    ],
+    "status": [
+      "SUPPORTED_BY_CORPUS",
+      "PARTIALLY_SUPPORTED"
+    ],
+    "qualification": "Ni automatique ni total.",
+    "source": "analysis/global_corpus_pass/root_question_chain.md",
+    "questions": [
+      "RQ-12.01",
+      "RQ-11.03"
+    ],
+    "claims": [
+      "CPC-0001"
+    ],
+    "causal_identification": "NOT_IDENTIFIED"
+  },
+  {
+    "id": "LINK-05",
+    "link": "Prix / Utility → pouvoir d’achat / Money",
+    "source_pages": [
+      19,
+      291,
+      349,
+      400
+    ],
+    "status": [
+      "SUPPORTED_BY_CORPUS"
+    ],
+    "qualification": "Construction de Money non indépendamment mesurée.",
+    "source": "analysis/global_corpus_pass/root_question_chain.md",
+    "questions": [
+      "RQ-12.01",
+      "RQ-11.03"
+    ],
+    "claims": [
+      "CPC-0001"
+    ],
+    "causal_identification": "NOT_IDENTIFIED"
+  },
+  {
+    "id": "LINK-06",
+    "link": "Gain → possibilités de consommation",
+    "source_pages": [
+      52,
+      180,
+      400,
+      468,
+      523
+    ],
+    "status": [
+      "SUPPORTED_BY_CORPUS"
+    ],
+    "qualification": "Possibilité, avec épargne et autres destinations.",
+    "source": "analysis/global_corpus_pass/root_question_chain.md",
+    "questions": [
+      "RQ-12.01",
+      "RQ-11.03"
+    ],
+    "claims": [
+      "CPC-0001"
+    ],
+    "causal_identification": "NOT_IDENTIFIED"
+  },
+  {
+    "id": "LINK-07",
+    "link": "Production / usages → flux physiques",
+    "source_pages": [
+      72,
+      112,
+      163,
+      164,
+      165,
+      454,
+      460
+    ],
+    "status": [
+      "SUPPORTED_BY_CORPUS",
+      "EMPIRICALLY_COMPATIBLE"
+    ],
+    "qualification": "Mix, composition et périmètre à fixer.",
+    "source": "analysis/global_corpus_pass/root_question_chain.md",
+    "questions": [
+      "RQ-12.01",
+      "RQ-11.03"
+    ],
+    "claims": [
+      "CPC-0001"
+    ],
+    "causal_identification": "NOT_IDENTIFIED"
+  },
+  {
+    "id": "LINK-08",
+    "link": "Carburants / déchets → dommages",
+    "source_pages": [
+      72,
+      112,
+      454,
+      460
+    ],
+    "status": [
+      "SUPPORTED_BY_CORPUS",
+      "EMPIRICALLY_COMPATIBLE"
+    ],
+    "qualification": "Pressions générales, pas fonction de dommage complète.",
+    "source": "analysis/global_corpus_pass/root_question_chain.md",
+    "questions": [
+      "RQ-12.01",
+      "RQ-11.03"
+    ],
+    "claims": [
+      "CPC-0001"
+    ],
+    "causal_identification": "NOT_IDENTIFIED"
+  },
+  {
+    "id": "LINK-09",
+    "link": "Allocation marginale exacte du gain → panier",
+    "source_pages": [],
+    "status": [
+      "MISSING"
+    ],
+    "qualification": "Pas de fermeture comportementale précise.",
+    "source": "analysis/global_corpus_pass/root_question_chain.md",
+    "questions": [
+      "RQ-12.01",
+      "RQ-11.03"
+    ],
+    "claims": [
+      "CPC-0001"
+    ],
+    "causal_identification": "NOT_IDENTIFIED"
+  },
+  {
+    "id": "LINK-10",
+    "link": "Panier hétérogène → dommage quantifié",
+    "source_pages": [],
+    "status": [
+      "MISSING"
+    ],
+    "qualification": "Pas de fonction physique/exposition complète.",
+    "source": "analysis/global_corpus_pass/root_question_chain.md",
+    "questions": [
+      "RQ-12.01",
+      "RQ-11.03"
+    ],
+    "claims": [
+      "CPC-0001"
+    ],
+    "causal_identification": "NOT_IDENTIFIED"
+  },
+  {
+    "id": "LINK-11",
+    "link": "Relations locales → GDP=K·W macro",
+    "source_pages": [
+      538,
+      558,
+      559
+    ],
+    "status": [
+      "SUPPORTED_BY_CORPUS",
+      "CONTESTED"
+    ],
+    "qualification": "Affirmation source; composition, étalons et stabilité non déduits.",
+    "source": "analysis/global_corpus_pass/root_question_chain.md",
+    "questions": [
+      "RQ-12.01",
+      "RQ-11.03"
+    ],
+    "claims": [
+      "CPC-0001"
+    ],
+    "causal_identification": "NOT_IDENTIFIED"
+  }
+]

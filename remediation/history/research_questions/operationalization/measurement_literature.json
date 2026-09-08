@@ -1,0 +1,54 @@
+[
+  {
+    "id": "MET-BIB-01",
+    "author": "JCGM",
+    "title": "VIM3, 2.3 Measurand",
+    "year": 2012,
+    "url": "https://jcgm.bipm.org/vim/en/2.3.html",
+    "role": "MEASUREMENT_METHOD",
+    "result": "Spécifier la grandeur cible, son état et sa frontière avant de mesurer.",
+    "limit": "Cadre métrologique général, aucune calibration de Campergue.",
+    "status": "VERIFIED",
+    "verification_scope": "Selected official web entry read, not linked materials",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "MET-BIB-02",
+    "author": "JCGM",
+    "title": "VIM3, 2.48 Measurement model",
+    "year": 2012,
+    "url": "https://jcgm.bipm.org/vim/en/2.48.html",
+    "role": "MEASUREMENT_METHOD",
+    "result": "Une grandeur peut être inférée par un modèle de mesure explicite.",
+    "limit": "Mesure indirecte légitime ne signifie pas validation indépendante de sa propre relation de construction.",
+    "status": "VERIFIED",
+    "verification_scope": "Selected official web entry read, not linked materials",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "MET-BIB-03",
+    "author": "Bureau of Labor Statistics",
+    "title": "Quality Adjustment in the CPI",
+    "year": null,
+    "url": "https://www.bls.gov/cpi/quality-adjustment/home.htm",
+    "role": "MEASUREMENT_METHOD",
+    "result": "Ajustement de prix lors du remplacement de produits à qualité différente.",
+    "limit": "Caractéristiques valorisées dans les prix; pas Utility cardinale indépendante.",
+    "status": "VERIFIED",
+    "verification_scope": "Selected official web entry read, not linked materials",
+    "accessed": "2026-09-08"
+  },
+  {
+    "id": "MET-BIB-04",
+    "author": "UNDP",
+    "title": "Human Development Index",
+    "year": null,
+    "url": "https://hdr.undp.org/data-center/human-development-index",
+    "role": "CONCEPTUAL_COMPARISON",
+    "result": "Indice santé, éducation et niveau de vie, distinct d’un seul agrégat de production.",
+    "limit": "Ni définition de l’abondance de Campergue ni mesure directe de Money.",
+    "status": "VERIFIED",
+    "verification_scope": "Selected official web entry read, not linked materials",
+    "accessed": "2026-09-08"
+  }
+]

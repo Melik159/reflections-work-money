@@ -1,0 +1,2 @@
+SYNTHESIS
+{"status": "PASS", "questions": 53, "core_claims": 24, "master_items": 95, "question_statuses": {"OPEN": 29, "PARTIALLY_RESOLVED": 18, "AMBIGUOUS": 6}, "warnings": ["SCIENTIFIC_QUESTIONS_OPEN", "MEASUREMENT_INCOMPLETE", "LITERATURE_PARTIAL", "CAUSAL_IDENTIFICATION_NOT_ESTABLISHED"], "interpretation": "Infrastructure and provenance check, not scientific validation."}

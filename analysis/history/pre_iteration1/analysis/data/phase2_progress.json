@@ -1,0 +1,27 @@
+{
+  "status": "INCOMPLETE",
+  "pages_total": 562,
+  "pages_examined": 48,
+  "claims": 63,
+  "concepts": 36,
+  "criticality": {
+    "CORE": 24,
+    "MAJOR": 32,
+    "SUPPORTING": 7
+  },
+  "types": {
+    "OPEN_QUESTION": 1,
+    "CONCEPTUAL": 10,
+    "ANALOGICAL": 2,
+    "ASSUMPTION": 4,
+    "HYPOTHESIS": 10,
+    "DEFINITION": 19,
+    "AXIOM": 6,
+    "DERIVED": 3,
+    "MECHANISM": 1,
+    "NORMATIVE": 1,
+    "EMPIRICAL": 1,
+    "METHODOLOGICAL": 5
+  },
+  "ready_for_bibliographic_adversarial_review": false
+}

@@ -1,0 +1,563 @@
+page,section,scan_status,questions,claims,concepts,formulas,importance,notes,historical_analytically_reviewed,visual_checked
+1,Préliminaires,SCANNED,,,,,ILLUSTRATIVE,"Titre et attribution; contexte éditorial, non proposition économique.",True,False
+2,Préliminaires,ANALYTICALLY_REVIEWED,RQ-01.01;RQ-01.03,CPC-0001;CPC-0003,,,STRUCTURAL,"Introduction: hausse du niveau de vie et dommages; début de la question racine, suite page3.",True,False
+3,Préliminaires,ANALYTICALLY_REVIEWED,RQ-01.01;RQ-01.03,CPC-0001;CPC-0002,,,STRUCTURAL,Question racine et proposition de réponse; quatre scénarios monétaires et combinaison quotidienne.,True,False
+4,Préliminaires,ANALYTICALLY_REVIEWED,RQ-01.01;RQ-01.03,CPC-0004,,,STRUCTURAL,Fondations obligatoires; phénomènes lents et réguliers; exclusion de la finance; portée micro/macro annoncée plus large que page538.,True,False
+5,Préliminaires,SCANNED,,,,,ILLUSTRATIVE,"Table des matières: préambule et prolegomena; navigation, non argument nouveau.",True,False
+6,Préliminaires,SCANNED,,,,,ILLUSTRATIVE,"Table des matières: définitions, mécanique et principes; navigation.",True,False
+7,Préliminaires,SCANNED,,,,,ILLUSTRATIVE,Table des matières: lois et difficultés; navigation.,True,False
+8,Préliminaires,SCANNED,,,,,ILLUSTRATIVE,Table des matières: cycles et création; navigation.,True,False
+9,Préliminaires,SCANNED,,,,,ILLUSTRATIVE,Table des matières: potentiels et coefficients; navigation.,True,False
+10,Préliminaires,SCANNED,,,,,ILLUSTRATIVE,"Table des matières: couplage, conservation, acteurs et monopoles; navigation.",True,False
+11,Préliminaires,SCANNED,,,,,ILLUSTRATIVE,"Table des matières: fin du manuscrit, annexe et auteur; navigation.",True,False
+12,Préambule,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-05.01,CPC-0005;CPC-0006,,,STRUCTURAL,"Deux prémisses monétaires; Product inclut biens et services humains. Postulats, non déductions de M=n.u.",True,False
+13,Préambule,SCANNED,RQ-06.01;RQ-06.02;RQ-05.01,CPC-0007;CPC-0008,production;creation;distribution;use,,STRUCTURAL,"Création et usage naturels, distribution humaine; production préalable, exemples du gâteau et du boomerang.",True,False
+14,Préambule,SCANNED,RQ-06.01;RQ-06.02;RQ-05.01,CPC-0009,,,STRUCTURAL,Seul Work engendre un changement; trois sens du mot monnaie à séparer.,True,False
+15,Préambule,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-05.01,CPC-0010;CPC-0011,unit,,STRUCTURAL,M=n.u et dM=n.du+u.dn; quatre possibilités. Signes opposés seuls insuffisants à fixer dM.,True,False
+16,Préambule,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-05.01,,,,STRUCTURAL,"Compensations inégales admises mais qualifiées de distorsions; comparer variations relatives, pas grandeurs absolues d’unités différentes.",True,False
+17,Préambule,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-05.01,CPC-0012,,,STRUCTURAL,"Émission corrective après création, crédit classé ailleurs; généralisation de compensation conditionnelle.",True,False
+18,Préambule,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-05.01,CPC-0013;CPC-0014;CPC-0070;CPC-0086,,,STRUCTURAL,Remboursement et retrait; pas destruction de Money sous hypothèse retenue; coexistence quotidienne des branches.,True,False
+19,Préambule,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-05.01,CPC-0015;CPC-0016;CPC-0017,productivity;purchasing,,STRUCTURAL,"Pâtes1→0,9: économie0,1 et pouvoir d’achat11,1% différents indicateurs; création préalable à l’usage, conditions fixes.",True,False
+20,Monetary Developments,ANALYTICALLY_REVIEWED,RQ-02.02;RQ-05.01;RQ-05.03,CPC-0018;CPC-0019;CPC-0020;CPC-0097,cost;growth;productive;unproductive,,STRUCTURAL,"Définition productive/unproductive; système de transmission artificiel, non origine ontologique de l’énergie; prix de vente maintenu décomposé en deux opérations.",True,False
+21,Préambule,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-05.01,CPC-0021,price,,STRUCTURAL,Prix fixé par entrepreneur sous concurrence/réglementation; copies identiques avec Work distinct; pas transmission imposée.,True,False
+22,Préambule,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-05.01,CPC-0022;CPC-0023;CPC-0024,transformation;accounting,,STRUCTURAL,"Transformation postulée, conservation isolée et dM=-Fdp; W physique distinct de T économique.",True,False
+23,Préambule,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-05.01,,,,STRUCTURAL,Normalisation (∂u)_N=-(n/N)∂p à comparer au facteur N/n de page537; périmètres et Force non identiques.,True,False
+24,Préambule,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-05.01,CPC-0025,inflation,,STRUCTURAL,"Inflation incohérente: consommateur et fournisseur opposés; correction proposée, non résultat causal démontré.",True,False
+25,Préambule,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-05.01,CPC-0026;CPC-0074;CPC-0075,deflation,,STRUCTURAL,"Déflation incohérente, réévaluation; distinguer références, revenus et pouvoir d’achat.",True,False
+26,Préambule,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-05.01,CPC-0027;CPC-0083,,,STRUCTURAL,Équilibre offre/demande prescrit; épargnants et hyperinflation comme limite temporelle; pas simple gain universel.,True,False
+27,Préambule,SCANNED,,,,,ILLUSTRATIVE,"Stabilité de l’unité dans les mesures physiques; analogie, pas calibration économique.",True,False
+28,Préambule,SCANNED,RQ-06.01;RQ-06.02;RQ-05.01,CPC-0028,,,STRUCTURAL,Banques socialement utiles malgré absence attribuée de création; spéculation et redistribution.,True,False
+29,Préambule,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-05.01,CPC-0029;CPC-0030;CPC-0031,living;environment,,STRUCTURAL,Niveau de vie constant avant industrialisation affirmé sans série; environnement et processus détaillé déclarés hors préambule.,True,False
+30,Préambule,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-05.01,CPC-0088,,,STRUCTURAL,Quadrants de signes exclus par conservation proposée; prémisses reconnues sans justification analytique ici. Figure à contrôler séparément.,True,False
+31,Préambule,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,CPC-0032;CPC-0033;CPC-0034,constraints;barter,,STRUCTURAL,Économies de Work/Money maximisées sous contraintes; troc et égalité de Utility.,True,False
+32,Préambule,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,CPC-0035;CPC-0096,,,STRUCTURAL,"Exemple8h→6h à coût horaire20; +78% dépend du carré de vitesse; généralité revendiquée, non test empirique.",True,False
+33,Préambule,SCANNED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,CPC-0036;CPC-0099,,,STRUCTURAL,Variation de Work affecte prix plutôt que fabrication; création avant dépense; transformation proposée.,True,False
+34,Préambule,SCANNED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,CPC-0037;CPC-0038,supply;cycle,,STRUCTURAL,Offre en cycles par durée; quatre étapes avec/sans contact et Utility variable/fixe; prix peut baisser.,True,False
+35,Préambule,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,CPC-0039;CPC-0040;CPC-0041,energy;remaining,,STRUCTURAL,"Prémisses admises; Product/Work et Cash/Money; travail restant, non déjà réalisé, comme convention initiale.",True,False
+36,Préambule,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,CPC-0042;CPC-0043;CPC-0044;CPC-0045,entropy;coefficient;force,,STRUCTURAL,"T<W, coefficients variables, g constant conditionnel; entropie exclue de l’économique, signes à conserver.",True,False
+37,Préambule,SCANNED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,,,,STRUCTURAL,Conservation dT+dM=0; régularité nécessaire; gain et usage distincts.,True,False
+38,Prolegomena,SCANNED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,,,,STRUCTURAL,Prolegomena simplifiés avant définitions complètes; paire de transformations.,False,False
+39,Prolegomena,SCANNED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,,,,STRUCTURAL,Formalisme thermodynamique choisi et loi proposée en remplacement de l’offre/demande; distinction création/distribution.,False,False
+40,Prolegomena,SCANNED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,,,,STRUCTURAL,"Critique de dotation financière initiale; exclusion entropie économique, non preuve contre tout cadre existant.",False,False
+41,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,"Analogies historiques Copernic/Galilée; domaine mécanique classique et microéconomique, pas preuve.",False,False
+42,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,,,,STRUCTURAL,Choix humain versus capacité de choisir; énergie bon marché et niveau de vie présentés comme observation non démonstration.,False,False
+43,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,,,,STRUCTURAL,"Un seul bien/service, pas un territoire; revenus et profits maintenus dans baisse de prix.",True,False
+44,Prolegomena,SCANNED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,,,,STRUCTURAL,Concordance aux faits annoncée comme critère final; moindre action sous contraintes.,False,False
+45,Prolegomena,SCANNED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,,,,STRUCTURAL,Comptabilité décrite comme enregistrement; quantités offertes/demandées nécessitent durée.,False,False
+46,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,,,,STRUCTURAL,"Offre fabrication, demande utilisation; prix et marge peuvent absorber différemment baisse de coût.",False,False
+47,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,,,,STRUCTURAL,"Marge et baisse de prix; air filtré/déplacé, service créant Utility: qualification des exclusions sectorielles tardives.",False,False
+48,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,,,,STRUCTURAL,Conséquences climatiques/sociales/environnementales exclues du domaine; capacité de choix plutôt que décision.,False,False
+49,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,,,,STRUCTURAL,Un échange de taille arbitraire; petites variations rapprochées; équilibre et force.,False,False
+50,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-05.01;RQ-01.02,,,,STRUCTURAL,Soldes10–50% admises comme anomalies transitoires; exemple automobile→océan/glaciers; comptabilité bannie méthodologiquement.,False,False
+51,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,Coût d’achat des intrants écarté: coût de fabrication et frais indirects; ne pas confondre ce périmètre avec coût total.,False,False
+52,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,Frais fixes120/jour divisés par3ou4 produits; dilution distincte d’un mécanisme énergétique établi. Dépenses déplacées vers santé/culture/loisirs.,False,False
+53,Prolegomena,SCANNED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,"Machines plutôt que nombre d’employés; enrichissement choisi comme objet, effets sociaux reconnus mais hors domaine.",False,False
+54,Prolegomena,SCANNED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,"Circuit stationnaire et épisodes1929/après-guerre; illustrations historiques, non données reproduites.",False,False
+55,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,"Deux routes équivalentes en budget: revenus↑prix fixes, prix↓revenus fixes; équivalence comptable ne démontre pas causalité unique.",False,False
+56,Prolegomena,SCANNED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,Facteurs inactifs ne produisent pas Work; énergie nécessaire; généralité chaleur→travail à distinguer du domaine des moteurs thermiques.,False,False
+57,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,"Quatre scénarios n/prix; numérotation différente des scénarios n/u, ne pas fusionner aveuglément.",True,False
+58,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,"Même produit en plus ou autre produit après gain; équivalence de budget, non identité de mécanismes.",True,False
+59,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,Passage du OU au ET comme abondance/diversité; critique des mises initiales des jeux.,False,False
+60,Prolegomena,SCANNED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,Jeux à somme non nulle déclarés incompatibles avec conservation; frontière du système cruciale.,False,False
+61,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,"Ajout d’un agent extérieur perdant ferme les quatre cases du jeu: construction de bilan, non preuve indépendante de conservation des utilités.",False,False
+62,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,Transition inverse opulence→suffisance explicitement envisagée; priorité à comprendre le fonctionnement.,False,False
+63,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,Concordance aux faits et axiomes naturels; Noether invoqué sans construction lagrangienne fournie ici.,False,False
+64,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,"Auteur reconnaît tension liberté des individus/minimisation de Work, puis la rejette; aucune démonstration distincte à cet endroit.",False,False
+65,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,Canapé5jours→3jours: tâche fixe et durée; trois sens monnaie rappelés.,False,False
+66,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,"Nombre/unité/produit; mot value restreint à valeur de l’unité, pas un concept homogène général.",False,False
+67,Prolegomena,SCANNED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,"Liste de symboles; outil de pierre, premières transformations et déchets; T<W répété.",False,False
+68,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,Déplacement sans modification intrinsèque mais Utility accrue; déchets de taille et émissions versus sommeil.,True,False
+69,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,"Pertes relatives à l’usage humain, non disparition de matière/énergie; pertes pas automatiquement dommage.",True,False
+70,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,"Puissance des machines et déchets; exceptions aux buts ordinaires; W/h employé pour puissance, unité à vérifier.",False,False
+71,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,Q→W→T→M; passage physique/économique encore à définir; pas assimilation automatique.,False,False
+72,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,Deux chaînes explicites: énergie bon marché→substitution salariale/inégalités; vitesse→copies→déchets→dommages. Inversion vers produits simples/utiles.,False,False
+73,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,"Énergie chère→localisation et niveau de vie/PIB moindres mais HDI favorisé affirmé; W quadratique, Utility nécessaire au pont.",False,False
+74,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,"Distribution moins chère peut réduire perte sans créer; pv=pa+V; services et Utility, frontière controversée.",False,False
+75,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,"Utilité sociale explicitement distincte de création économique; exemples pilote, magistrat, annuitant.",False,False
+76,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,"Nature/application; analogie de machine défaillante, non contrôle de loi économique.",False,False
+77,Prolegomena,SCANNED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,"Coût automobile=fabrication+coût usine/volume; formule comptable reconnue, jugée non explicative.",False,False
+78,Prolegomena,ANALYTICALLY_REVIEWED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,Récursion usine→grue→acier; frontière et doubles comptes à examiner avant agrégation.,False,False
+79,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,"Régulation nécessaire mais hors objet; exemples de moteurs, pas preuve économique empirique.",False,False
+80,Prolegomena,SCANNED,RQ-04.01;RQ-09.02;RQ-10.02;RQ-11.01,,,,STRUCTURAL,Viaduc: choix et réalisation; mêmes rôles acheter/fabriquer/vendre pour producteur et consommateur.,False,False
+81,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-07.01,,,,STRUCTURAL,"Seller/Transformer/Buyer et quatre opérations; référence interne/externe explicitée, coûts et ventes de signes différents.",False,False
+82,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-07.01,,,,STRUCTURAL,"Cycle répété avec nouvelle copie; Utility variable sans contact, fixe dans négociation; analogie affirmée non preuve autonome.",False,False
+83,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,Navire et outil en chute vus de quatre référentiels; illustration du point de vue.,False,False
+84,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-07.01,,,,STRUCTURAL,"Trajectoires et référentiels; pour consommateur final, Utility croît en fabrication puis décroît en usage.",False,False
+85,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-07.01,,,,STRUCTURAL,"Pour Transformer Utility baisse pendant sa propre fabrication, augmente lors usage aval; rôle de renouvellement. Pas contradiction résolue par simple signe unique.",False,False
+86,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,Approche absolue versus relative; comportements de parcimonie proposés.,False,False
+87,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-07.01,,,,STRUCTURAL,Contraintes impératives; pouvoir peut déplacer Work vers autrui. Laziness/Avarice sans jugement moral.,False,False
+88,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-07.01,,,,STRUCTURAL,Deux maxima sous contraintes; production/consommation rôles non simultanés selon auteur; analogie second principe.,False,False
+89,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-07.01,,,,STRUCTURAL,Supports tangibles et propriétés intangibles; tables identiques6h/3h et énergie quadruple postulée; W/h ambigu.,False,False
+90,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,"Product support de Work, Cash support Money; exemples de tâche invariante et durée variable.",False,False
+91,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-07.01,,,,STRUCTURAL,"Labour constant à méthode fixée, Economic Work fonction de vitesse; bouteilles1à3/s et facteur9 affirmé.",False,False
+92,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-07.01,,,,STRUCTURAL,"Critique d’une formulation travail-valeur; exemple8→6h, énergie au moinsquadratique voire exposant supérieur.",False,False
+93,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-07.01,,,,STRUCTURAL,"Work circule davantage, paiement moins, Money restant plus; somme conservée proposée et usage libre sous contraintes.",False,False
+94,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-07.01,,,,STRUCTURAL,"Transformation du supplément; salaire ou rémunération du capital réduits comme autre voie de prix bas, exclue du périmètre humain.",False,False
+95,Prolegomena,ANALYTICALLY_REVIEWED,RQ-03.01;RQ-03.02;RQ-07.01,,,,STRUCTURAL,Work mécanique à finalité économique; faible part de coût énergétique supposée moteur majeur. Définitions dictionnaires Cash/Money.,True,False
+96,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,"Fin des définitions Larousse/Cambridge, M=n.u; variation de l’unité monétaire contrairement à l’unité physique.",True,False
+97,Prolegomena,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,,,,STRUCTURAL,"Support fixe/valeur variable; sucre1kg/0,9kg/1,1kg; Money valeur de Cash et non le support.",True,False
+98,Prolegomena,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,,,,STRUCTURAL,"Crédit assigné exclusivement scénario2, refus scénario1; quatre possibilités ne découlent pas sans restrictions de l’identité seule.",True,False
+99,Prolegomena,SCANNED,RQ-06.01;RQ-06.02;RQ-06.04,,,,STRUCTURAL,Crédit exclu de3et4; richesse constante et confiance dans Cash plutôt que Money.,True,False
+100,Prolegomena,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,,,,STRUCTURAL,"Confiance dite conséquence de variationu, non cause; sterling/lire exemple de dénomination, causalité non établie par conversion.",True,False
+101,Prolegomena,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,CPC-0082,,,STRUCTURAL,"Cas Law et or nouvellement découvert: absence de Work supposée, compensation affirmée quel que soit support.",True,False
+102,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,"Instruments faussés comme analogie confiance; cause/sentiment inversés, non expérience monétaire.",True,False
+103,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-08.01,,,,STRUCTURAL,Utility choisie au sens revendiqué de Walras; jugement moral exclu mais satisfaction citée dans définition-source.,True,False
+104,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-08.01,,,,STRUCTURAL,"Utility fonction intensive, besoin quantité; pens identiques et non-additivité explicite, à conserver dans agrégation.",False,False
+105,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-08.01,,,,STRUCTURAL,"Uranium, rails, carburant, eau: Utility identique à fonction homogène; besoin diminue à zéro mais Utility demeure dans ces exemples.",False,False
+106,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-08.01,,,,STRUCTURAL,Condition de fonction homogène; eau potable/arrosage non équivalentes; monopole bilatéral exception à exemple eau/diamants.,False,False
+107,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-08.01,,,,STRUCTURAL,"Utility intensive et besoin extensif; vase débordant concerne quantité, pas propriété; torrent multi-usages.",False,False
+108,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-08.01,,,,STRUCTURAL,"Quatre usages eau, Utilities non sommables; besoin total sommable. Pages imprimées: besoin restant25→0.",True,False
+109,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-08.01,,,,STRUCTURAL,"Utility non mesurable actuellement reconnue; classement possible sans mesure; analogie température/entropie, pas échelle cardinale acquise.",True,False
+110,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-08.01,,,,STRUCTURAL,Absence mesure non réfutation; Utility entre agents et offre; refus du remplacement X/Y au profit d’abondance XetY.,False,False
+111,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-08.01,,,,STRUCTURAL,"Assemblage couteau/boulon assimilé à réaction, non mélange; nouveau Product/Utility, non somme des Utilities des pièces.",False,False
+112,Prolegomena,ANALYTICALLY_REVIEWED,RQ-09.02;RQ-11.01;RQ-11.03,,,,STRUCTURAL,"Variation Utility recherchée; trois affirmations environnement: dégradation systématique, plus que carré de vitesse, finitude. Aucune mesure dommage fournie.",True,False
+113,Prolegomena,ANALYTICALLY_REVIEWED,RQ-09.02;RQ-11.01;RQ-11.03,,,,STRUCTURAL,"Épuisement ressources et dQ=T dS; extension à entropie seulement chaleur et absence combustible discutables, distinguer analogie et domaine physique.",True,False
+114,Prolegomena,ANALYTICALLY_REVIEWED,RQ-09.02;RQ-11.01;RQ-11.03,,,,STRUCTURAL,"Trois cadres flux/transformation; entropie interdite seulement dans cadre économique, Laziness/Avarice la remplacent.",False,False
+115,Prolegomena,SCANNED,RQ-09.02;RQ-11.01;RQ-11.03,,,,STRUCTURAL,"Q→W connu puis W→Money objet; chaîne de fabrication labour restant diminue, prix augmente.",False,False
+116,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.01;RQ-05.02;RQ-07.01,,,,STRUCTURAL,Sens opposés labour/prix n’implique pas égalité de variations; deux orientations de parcours de chaîne.,False,False
+117,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.01;RQ-05.02;RQ-07.01,,,,STRUCTURAL,"Prix↓créeMoney, labourrestant↓détruitWork dans conventions choisies; offre/demande déclarée macro et rejetée du micro.",False,False
+118,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.01;RQ-05.02;RQ-07.01,,,,STRUCTURAL,Deux orientations temporelles possibles; argument flèche du temps ne suffit pas seul à sélectionner une causalité économique.,False,False
+119,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,"Comparer volumes annuels/mensuels sans durée produit faux déséquilibre; débit nécessaire, distinction déjà standard à ne pas qualifier nouveauté.",False,False
+120,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,"Offre copies virtuelles/demande copies réelles; locomotive à vitesse fixe puis montée, analogie dynamique.",False,False
+121,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.01;RQ-05.02;RQ-07.01,,,,STRUCTURAL,"Demande vapeur monte, réserve baisse puis production augmente; stocks et débits distincts, anticipation imparfaite non impossible par définition.",False,False
+122,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.01;RQ-05.02;RQ-07.01,,,,STRUCTURAL,"Descente inverse puis équilibre différent; adaptation différée, pas simultanéité automatique.",False,False
+123,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.01;RQ-05.02;RQ-07.01,,,,STRUCTURAL,"Variation demande→offre de signe inverse immédiatement et même signe ensuite; formalisation à copies n,n+1.",False,False
+124,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.01;RQ-05.02;RQ-07.01,,,,STRUCTURAL,"Offre copies fabriquées/temps, demande copies vendues/temps; remplace définition utilisation p46, décalage achat/usage à signaler.",False,False
+125,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.01;RQ-05.02;RQ-07.01,,,,STRUCTURAL,Demande sans variation spontanée affirmée: prix ou Utility comme causes; loi Utility/prix sans exception revendiquée.,False,False
+126,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.01;RQ-05.02;RQ-07.01,,,,STRUCTURAL,Absence force→vitesse fixe; généralité offre/demande rejetée au micro. Réserves de Utility et monopole à garder.,False,False
+127,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.01;RQ-05.02;RQ-07.01,,,,STRUCTURAL,"S=Qs/t,D=Qd/t puis dérivées; moyenne et débit instantané nécessitent conditions, quantités offertes/utilisées.",False,False
+128,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.01;RQ-05.02;RQ-07.01,,,,STRUCTURAL,"Deux transformations et usage normalement autre achat, non obligation absolue; prix doit bénéficier consommateurs, pas dividendes.",False,False
+129,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.01;RQ-05.02;RQ-07.01,,,,STRUCTURAL,Agents non créateurs peuvent rendre services essentiels; baisses salaires/inégalités; égalité des deux transformations argumentée normativement.,False,False
+130,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.01;RQ-05.02;RQ-07.01,,,,STRUCTURAL,Équilibre des politiques et cycle isophèle/adiabatique; Utility décroissante du Transformer explicitée par référent.,False,False
+131,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.01;RQ-05.02;RQ-07.01,,,,STRUCTURAL,Limite finale: proposition de balance valide seulement T→M. Air déplacé/traité; besoin déjà satisfait qualifie acquisition.,False,False
+132,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-05.02;RQ-06.03,,,,STRUCTURAL,"Besoin nul implique Utility nulle, contrairement aux copies restant utiles p104–108; distinguer fonction et acquisition est reconstruction, non définition source nouvelle assurée.",False,False
+133,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-05.02;RQ-06.03,,,,STRUCTURAL,"Air non transformé/déplacé dU0; autorégulation limitée marché saturé renouvellement, hors import/export; ∂p/∂t≈0.",False,False
+134,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,Cheval borgne/tableau invendable/coltan: contre-exemples internes à rareté→prix sans conditions; pas tests de demande conditionnelle.,False,False
+135,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-05.02;RQ-06.03,,,,STRUCTURAL,"VCR, monopole expressément exception; Utility peut être trompée par publicité, vanité ou information erronée.",False,False
+136,Prolegomena,SCANNED,RQ-05.03;RQ-05.02;RQ-06.03,,,,STRUCTURAL,"Offre limitée/prix et Force du consommateur; OPEP exemple de restriction volontaire, pas identification causale indépendante.",False,False
+137,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-05.02;RQ-06.03,,,,STRUCTURAL,"Prix ou Utility causes exclusives demande; Choice=Utility/price, deux conditions ceteris paribus.",False,False
+138,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-05.02;RQ-06.03,,,,STRUCTURAL,"Choice remplacé par Force; Fp=rUP, coefficientcomplexité pour extensivité; Utility cardinale et échelle requises.",True,False
+139,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-05.02;RQ-06.03,,,,STRUCTURAL,r omis dans écriture prix=Utility/Force; inégalité d’échange et dM=-Fdp. Ne pas assimiler simple économie nominale à Money sans F.,False,False
+140,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,"Création nconstant/uvariable, puis dialogue sur troc; pas généralisation sans domaine.",False,False
+141,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,"Pince à linge/maison refusées; condition d’échange, non démonstration expérimentale générale; préférences opposées blé/fer.",False,False
+142,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-05.02;RQ-06.03,,,,STRUCTURAL,"100kgfer×8=800 et500kgblé×3=1500; texte ratio1,5 incompatible avec ces montants; Utilities interagents additionnées.",False,False
+143,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-05.02;RQ-06.03,,,,STRUCTURAL,"Même exemple annonce complément400 mais tableau700; ratio1,5 encore; besoin de contrôle imprimé avant correction.",False,False
+144,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-05.02;RQ-06.03,,,,STRUCTURAL,"Quatre branches troc/échange/change, égalités de Utility interagents et supports; échelles compatibles nécessaires.",False,False
+145,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,"Redistribution et réciprocité, rivière inversée; analogie nonpreuve contre littérature entière.",True,False
+146,Prolegomena,ANALYTICALLY_REVIEWED,RQ-07.02;RQ-08.01;RQ-01.02,CPC-0090,,,STRUCTURAL,"Spéculation peut augmenteru sans retirern temporairement; crise compensatrice promise, horizon non chiffré.",True,False
+147,Prolegomena,ANALYTICALLY_REVIEWED,RQ-07.02;RQ-08.01;RQ-01.02,,,,STRUCTURAL,"Prélèvement immédiat versus dépense tardive avec pertes; propriété des moteurs, pas consommation du riche assimilée à création.",True,False
+148,Prolegomena,ANALYTICALLY_REVIEWED,RQ-07.02;RQ-08.01;RQ-01.02,,,,STRUCTURAL,"Gain retenu plutôt que prix↓; niveaux N1opération,N2micro,N3macro, pas mêmes suffixes qu’en physique.",False,False
+149,Prolegomena,ANALYTICALLY_REVIEWED,RQ-07.02;RQ-08.01;RQ-01.02,,,,STRUCTURAL,MTM/G-code/RULA proposés comme descriptions d’opérations; niveauE1 non reconstruit; étude limitéeE2.,False,False
+150,Prolegomena,ANALYTICALLY_REVIEWED,RQ-07.02;RQ-08.01;RQ-01.02,,,,STRUCTURAL,"Une copie d’un Product; addition pays qualifiée comptable, non explication; passage à système émergent.",False,False
+151,Prolegomena,ANALYTICALLY_REVIEWED,RQ-07.02;RQ-08.01;RQ-01.02,,,,STRUCTURAL,Propriétés émergentes et dissipation: objet économique qui dissipe explicitement non identifié au niveau national.,False,False
+152,Prolegomena,ANALYTICALLY_REVIEWED,RQ-07.02;RQ-08.01;RQ-01.02,,,,STRUCTURAL,"Propriétés supérieures non réductibles; systèmes simples linéarisables choisis, doctrine supérieure seulement hypothétique.",False,False
+153,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,"Perturbations minimisées mais pas inexistantes; exemples historiques analogiques, sans valeur de preuve économique.",False,False
+154,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,Rasoir d’Ockham pour exclusions de cadres; cas particuliers admis seulement comme confirmation/invalidation; contraintes.,False,False
+155,Prolegomena,SCANNED,,,,,ILLUSTRATIVE,"Réduction interne versus protection extérieure des contraintes; frontières à intérêts multiples, libre choix limité.",False,False
+156,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-09.02;RQ-03.04,,,,STRUCTURAL,"Objet précis: réduire contraintes financières de réalisation, non déterminer choix; produits et agents hétérogènes.",False,False
+157,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-09.02;RQ-03.04,,,,STRUCTURAL,Principes thermiques puis différence Utility nécessaire et suffisante affirmée; comparaison de statuts loi/postulat.,True,False
+158,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-09.02;RQ-03.04,,,,STRUCTURAL,Transport modifie Utility relative au lieu sans changement intrinsèque; eau phrase Utility inchangée à contextualiser; produits artificiels/vanité.,False,False
+159,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-09.02;RQ-03.04,,,,STRUCTURAL,"Nettoyage, repassage, collecte déchets explicitement générateurs de différence Utility et Economic Work; ne pas exclure tous services.",False,False
+160,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-09.02;RQ-03.04,,,,STRUCTURAL,"Échanges avec Utility égale; équivalence et conservation explicitement postulées, coefficientg; évolution avec signe négatif.",False,False
+161,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-09.02;RQ-03.04,,,,STRUCTURAL,"Résumé imprimé extrait dT=dM=0 au lieu conservation-somme attendue; contrôle visuel requis. M=gT, dT=-U dP, Fp=rU.",False,False
+162,Prolegomena,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-09.02;RQ-03.04,,,,STRUCTURAL,Table des Utility Product/Cash en sens inverse pour Transformer; énergie économique non grandeur physique directement mesurée.,False,False
+163,Prolegomena,ANALYTICALLY_REVIEWED,RQ-09.03;RQ-11.01;RQ-10.03,,,,STRUCTURAL,"Pertes au moins quadratiques et scénario démographique2milliardsriches/8pauvres; macro généralisée depuis vitesse, sans données.",True,False
+164,Prolegomena,ANALYTICALLY_REVIEWED,RQ-09.03;RQ-11.01;RQ-10.03,,,,STRUCTURAL,"Multiplicateurs16,36,64: population×carré gain; niveau riches fixé, prix/vitesse et énergie globale supposés, pas dérivation physique universelle.",False,False
+165,Prolegomena,ANALYTICALLY_REVIEWED,RQ-09.03;RQ-11.01;RQ-10.03,,,,STRUCTURAL,"Retour subsistance→abondance/gaspillage; W=1/2mv² appliqué à coût et pertes; chaînon explicite mais conditionnel, non mesure indépendante.",True,False
+166,Prolegomena,ANALYTICALLY_REVIEWED,RQ-09.03;RQ-11.01;RQ-10.03,,,,STRUCTURAL,Concordance aux faits seule juge; régulation exigée malgré applications exclues; domaine proposé versus recommandations.,False,False
+167,Prolegomena,ANALYTICALLY_REVIEWED,RQ-09.03;RQ-11.01;RQ-10.03,,,,STRUCTURAL,"Gain aux consommateurs, non dividendes; égalité Work→Money/Money→Work exigée, non résultant seule de l’analogie.",False,False
+168,Prolegomena / valeur de l’unité monétaire,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,,,,STRUCTURAL,"Fin prolegomena: énergie chère et inégalités, politique hors domaine; chapitre unité comme lemme distinct.",True,False
+169,Valeur de l’unité monétaire,SCANNED,,,,,ILLUSTRATIVE,Trois usages de monnaie et définition mesure Larousse; préciser nombre/unité/produit.,True,False
+170,Valeur de l’unité monétaire,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,,,,STRUCTURAL,"02-01 M=n.u et02-02 différentielle; unités monétaires variables, unités physiques calibrées.",True,False
+171,Valeur de l’unité monétaire,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,,,,STRUCTURAL,Partition dM0/non0 et dn0/non0; table texte qualifie2 constantu mais2 ensuiteuvariable: nomenclature à vérifier.,True,False
+172,Valeur de l’unité monétaire,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,CPC-0069,,,STRUCTURAL,Hypothèse1 Mconstant puis possibilité1nconstant; effets internes non exclus. Exemple revenu doublé condition prixconstant expressément admise.,True,False
+173,Valeur de l’unité monétaire,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,,,,STRUCTURAL,Redistribution20millions/1%; égalité de revenus de base nécessaire à moyenne citée. du/u=-dn/n puis constante d’intégration omise u=1/n.,True,False
+174,Valeur de l’unité monétaire,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,CPC-0080,,,STRUCTURAL,Redénomination francs/euros distincte du crédit causal malgré analogie; proportionnalité compensation ajoutée au classement.,True,False
+175,Valeur de l’unité monétaire,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,CPC-0081,,,STRUCTURAL,"Inertie et gains immédiats, prix différés puis retour zéro affirmé; préserver horizon non instantané.",True,False
+176,Valeur de l’unité monétaire,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,,,,STRUCTURAL,"Hypothèse2 Moneyvariable, productivité et éventuelle baisse de prix; ∂u=(1/n)∂M à nfixe.",True,False
+177,Valeur de l’unité monétaire,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,CPC-0072,,,STRUCTURAL,"Possibilité4 émission calibrée à création préalable, ufixe; répartition équitable prescription, pas seconde création à compter.",True,False
+178,Valeur de l’unité monétaire,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,CPC-0071;CPC-0073,,,STRUCTURAL,Destruction/création signes symétriques3et4; arguments crédit illimité ne testent pas crédit conditionnel.,True,False
+179,Valeur de l’unité monétaire,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,,,,STRUCTURAL,"Budget1000 et panier fixe±10%; gain100 observé dans exemple, pas forcément quantité physique ni Money mesurée indépendamment.",True,False
+180,Valeur de l’unité monétaire,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,,,,STRUCTURAL,"nindividuel/Nglobal et prix du panier/niveau général; origine de Cash reformulée en valeur de Cash, distinction à garder.",True,False
+181,Valeur de l’unité monétaire,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,,,,STRUCTURAL,"T distinct deW par effet économique; réductionprix et gainconsommateur, pas tous travaux physiques.",True,False
+182,Valeur de l’unité monétaire,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,,,,STRUCTURAL,"Redistribution reconnue mais qualifiée distorsion; quatre possibilités réputées exhaustives, combinaisons autorisées.",True,False
+183,Valeur de l’unité monétaire,ANALYTICALLY_REVIEWED,RQ-06.01;RQ-06.02;RQ-06.04,CPC-0085,,,STRUCTURAL,"Équivalence prix/revenus intérieure, correction extérieure avec monnaie différente; baisseprix sans perdant sous hypothèses, pas tous acteurs sans conditions.",True,False
+184,Basic Definitions,UNREVIEWED,,CPC-0046,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+185,Basic Definitions,UNREVIEWED,,CPC-0047;CPC-0048,wealth,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+186,Basic Definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+187,Basic Definitions,UNREVIEWED,,CPC-0049;CPC-0050;CPC-0051,labour;cash;product,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+188,Basic Definitions,UNREVIEWED,,CPC-0051;CPC-0052;CPC-0053,work;labour;money,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+189,Basic Definitions,UNREVIEWED,,CPC-0054;CPC-0055;CPC-0056,utility;complexity,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+190,Basic Definitions,UNREVIEWED,,CPC-0057,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+191,Basic Definitions,UNREVIEWED,,CPC-0058,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+192,Basic Definitions,UNREVIEWED,,CPC-0059;CPC-0060,agent,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+193,Basic Definitions,UNREVIEWED,,CPC-0061;CPC-0062,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+194,Basic Definitions,UNREVIEWED,,CPC-0063,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+195,Mechanics of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+196,Mechanics of exchanges,UNREVIEWED,,CPC-0094,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+197,Mechanics of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+198,Mechanics of exchanges,UNREVIEWED,,CPC-0068;CPC-0112,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+199,Mechanics of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+200,Mechanics of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+201,Mechanics of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+202,Mechanics of exchanges,UNREVIEWED,,CPC-0066,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+203,Mechanics of exchanges,UNREVIEWED,,CPC-0064;CPC-0095,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+204,Mechanics of exchanges,UNREVIEWED,,CPC-0065;CPC-0107,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+205,Mechanics of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+206,Mechanics of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+207,Mechanics of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+208,Mechanics of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+209,Mechanics of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+210,Mechanics of exchanges,UNREVIEWED,,CPC-0111,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+211,Mechanics of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+212,Mechanics of exchanges,UNREVIEWED,,CPC-0106,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+213,Mechanics of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+214,Mechanics of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+215,Mechanics of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+216,Basic Principles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+217,Basic Principles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+218,Basic Principles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+219,Basic Principles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+220,Basic Principles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+221,Basic Principles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+222,Basic Principles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+223,Basic Principles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+224,Basic Principles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+225,Basic Principles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+226,Basic Principles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+227,Basic Principles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+228,Basic Principles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+229,Basic Principles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+230,Basic Principles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+231,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+232,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+233,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+234,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+235,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+236,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+237,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+238,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+239,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+240,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+241,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+242,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+243,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+244,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+245,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+246,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+247,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+248,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+249,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+250,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+251,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+252,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+253,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+254,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+255,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+256,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+257,Internal Energies,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+258,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+259,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+260,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+261,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+262,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+263,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+264,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+265,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+266,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+267,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+268,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+269,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+270,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+271,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+272,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+273,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+274,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+275,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+276,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+277,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+278,Flows and transformations,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+279,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+280,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+281,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+282,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+283,Core Laws,UNREVIEWED,,CPC-0113,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+284,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+285,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+286,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+287,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+288,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+289,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+290,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+291,Core Laws,UNREVIEWED,,CPC-0076;CPC-0077;CPC-0078;CPC-0079,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+292,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+293,Core Laws,UNREVIEWED,,CPC-0101,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+294,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+295,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+296,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+297,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+298,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+299,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+300,Core Laws,UNREVIEWED,,CPC-0102,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+301,Core Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+302,Additional definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+303,Additional definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+304,Additional definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+305,Additional definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+306,Additional definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+307,Additional definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+308,Additional definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+309,Additional definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+310,Additional definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+311,Additional definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+312,Additional definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+313,Additional definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+314,Additional definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+315,Additional definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+316,Additional definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+317,Additional definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+318,Additional definitions,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+319,Difficulties,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+320,Difficulties,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+321,Difficulties,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+322,Difficulties,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+323,Difficulties,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+324,Difficulties,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+325,Difficulties,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+326,Difficulties,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+327,Difficulties,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+328,Difficulties,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+329,Difficulties,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+330,Difficulties,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+331,Difficulties,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+332,Difficulties,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+333,Difficulties,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+334,Difficulties,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+335,Structure of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+336,Structure of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+337,Structure of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+338,Structure of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+339,Structure of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+340,Structure of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+341,Structure of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+342,Structure of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+343,Structure of exchanges,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+344,Structure of exchanges,UNREVIEWED,,CPC-0091;CPC-0092,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+345,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+346,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+347,Cycles,UNREVIEWED,,CPC-0103,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+348,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+349,Cycles,ANALYTICALLY_REVIEWED,RQ-02.02;RQ-05.01;RQ-05.03,CPC-0100,,,STRUCTURAL,Différence de Utility conditionne Money dans 12-04; intermédiaire sans augmentation de Utility: transfert. Isoaxiale: constante d’intégration explicitement écartée.,True,False
+350,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+351,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+352,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+353,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+354,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+355,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+356,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+357,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+358,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+359,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+360,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+361,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+362,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+363,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+364,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+365,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+366,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+367,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+368,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+369,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+370,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+371,Cycles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+372,Money and Work – Conditions of creation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+373,Money and Work – Conditions of creation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+374,Money and Work – Conditions of creation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+375,Money and Work – Conditions of creation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+376,Money and Work – Conditions of creation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+377,Money and Work – Conditions of creation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+378,Money and Work – Conditions of creation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+379,Money and Work – Conditions of creation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+380,Money and Work – Conditions of creation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+381,Money and Work – Conditions of creation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+382,Money and Work – Conditions of creation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+383,Money and Work – Conditions of creation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+384,Processing yields,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+385,Processing yields,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+386,Processing yields,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+387,Processing yields,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+388,Processing yields,UNREVIEWED,,CPC-0104,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+389,Processing yields,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+390,Processing yields,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+391,Processing yields,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+392,Processing yields,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+393,Processing yields,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+394,Processing yields,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+395,Processing yields,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+396,Processing yields,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+397,Processing yields,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+398,Processing yields,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+399,Processing yields,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+400,Processing yields,UNREVIEWED,,CPC-0093;CPC-0127,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+401,Processing yields,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+402,Product and Money – Supply and Demand,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+403,Product and Money – Supply and Demand,UNREVIEWED,,CPC-0114,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+404,Product and Money – Supply and Demand,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+405,Product and Money – Supply and Demand,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+406,Product and Money – Supply and Demand,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+407,Product and Money – Supply and Demand,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+408,Product and Money – Supply and Demand,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+409,Product and Money – Supply and Demand,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+410,Product and Money – Supply and Demand,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+411,Product and Money – Supply and Demand,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+412,Product and Money – Supply and Demand,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+413,Ecodynamic potentials,UNREVIEWED,,CPC-0115,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+414,Ecodynamic potentials,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+415,Ecodynamic potentials,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+416,Ecodynamic potentials,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+417,Ecodynamic potentials,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+418,Ecodynamic potentials,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+419,Ecodynamic potentials,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+420,Ecodynamic potentials,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+421,Ecodynamic potentials,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+422,Ecodynamic potentials,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+423,Ecodynamic potentials,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+424,Ecodynamic potentials,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+425,Ecodynamic potentials,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+426,Ecodynamic potentials,SCANNED,RQ-03.03;RQ-05.03;RQ-08.03,,,,STRUCTURAL,"Fin des potentiels: mnemonic Born modifié par Ji-Cheng Zhao; 32 relations, signes opposés entre transformations; pas preuve empirique.",True,False
+427,Ecodynamic potentials,SCANNED,RQ-03.03;RQ-05.03;RQ-08.03,,,,STRUCTURAL,"Quatre exemples T→M: potentiel, différentiel, variable conjuguée, Maxwell; contraintes en indices indispensables.",True,False
+428,Ecodynamic potentials,SCANNED,RQ-03.03;RQ-05.03;RQ-08.03,,,,STRUCTURAL,Exemples M→T; sens des flèches et signes inverses; L=EMT+B·FP.,False,False
+429,Ecodynamic potentials,SCANNED,RQ-03.03;RQ-05.03;RQ-08.03,,,,STRUCTURAL,"dEMT libre, B dérivée du potentiel et identité de Maxwell; correspondance formelle conditionnelle.",True,False
+430,Ecodynamic potentials,SCANNED,RQ-03.03;RQ-05.03;RQ-08.03,,,,ILLUSTRATIVE,"Planche 16-03: quatre exemples M→T et légende des signes. Page graphique, non vide; inspection visuelle réalisée.",False,True
+431,Ecoelastic coefficients,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,,,GC-FORM-001;GC-FORM-002;GC-FORM-003,STRUCTURAL,"Coefficients écoélastiques alpha,beta,chi définis par dérivées partielles normalisées; ne pas les assimiler à des mesures disponibles.",True,False
+432,Ecoelastic coefficients,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,,,,STRUCTURAL,Identité cyclique de dérivées partielles appliquée aux trois variables liées; régularité et inversibilité locales requises.,True,False
+433,Ecoelastic coefficients,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,,,GC-FORM-004,STRUCTURAL,FA=-alpha/(beta chi); recommandations de choix plus fortes que l’identité; cas Product parfait avec Core Law.,True,False
+434,Ecoelastic coefficients,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,,,GC-FORM-005,STRUCTURAL,Dérivation alpha=-1/UP: résultat compatible avec Core Law à r et FA constants; ligne intermédiaire opérateur isolé mal formée.,False,False
+435,Ecoelastic coefficients,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,CPC-0116,,GC-FORM-006;GC-FORM-007,STRUCTURAL,"Beta=-1/UP cohérent avec définition, mais étape imprimée utilise la dérivée du réciproque et donne signe inverse. Figure vérifiée.",False,True
+436,Ecoelastic coefficients,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,CPC-0116,,GC-FORM-008;GC-FORM-009;GC-FORM-010,STRUCTURAL,"Branche MT: 17-10 recopie chiTM et V,FA,UP; ligne suivante emploie chiMT,B,FP,UA et signe moins. Discordance visuellement confirmée.",False,True
+437,Ecoelastic coefficients,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,,,GC-FORM-011,STRUCTURAL,FP=alphaMT/(betaMT chiMT); recommandations fournisseur ne découlent pas seules de l’identité cyclique.,False,False
+438,Ecoelastic coefficients,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,,,,STRUCTURAL,Cash parfait FP B=rA UA; alphaMT dérivé en tenant FP constant.,True,False
+439,Ecoelastic coefficients,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,CPC-0116,,GC-FORM-012;GC-FORM-013,STRUCTURAL,"BetaMT final +1/UA compatible avec définition initiale, mais réciproque intermédiaire donne signe négatif. Ne pas invalider le résultat final pour cette coquille.",False,True
+440,Ecoelastic coefficients,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,,,GC-FORM-014,STRUCTURAL,"Rapport FA/FP des coefficients; simplification au cas parfait, non relation empirique nouvelle.",False,False
+441,Ecometric coefficient,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,CPC-0116,,,STRUCTURAL,Trois variables dites indépendantes mais liées par Core Law: deux degrés de liberté choisis; rappel des potentiels.,True,False
+442,Ecometric coefficient,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,,,,STRUCTURAL,"Expansion totale de ETM(UP,V); PhiV et lTM comme coefficients, domaine différentiable nécessaire.",True,False
+443,Ecometric coefficient,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,,,GC-FORM-015,STRUCTURAL,"18-03 puis développement d’Empraxia; Work exprimé avec UP,V ou UP,FA.",False,False
+444,Ecometric coefficient,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,CPC-0116,,GC-FORM-016;GC-FORM-017,STRUCTURAL,"18-04 et 18-05: dV absent dans formule imprimée 18-05, mais restauré dans substitution suivante; image contrôlée.",False,True
+445,Ecometric coefficient,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,CPC-0116,,GC-FORM-018;GC-FORM-019,STRUCTURAL,18-07 tronquée dans le PDF lui-même; substitution précédente permet une reconstruction minimale distincte. 18-10 identifie coefficients compatibles.,False,True
+446,Ecometric coefficient,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,,,,STRUCTURAL,"Trois écritures du même différentiel; apparition tau1…tau4 après l,h,lambda,mu: alias à documenter, pas variables indépendantes ajoutées.",True,False
+447,Ecometric coefficient,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,,,,STRUCTURAL,Table tau et Phi; ligne C au lieu de Phi; passage à MT avec deux variables indépendantes parmi trois contraintes.,False,False
+448,Ecometric coefficient,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,,,,STRUCTURAL,"18-15/16: différentiels économiques issus des potentiels, puis développement suivant UA,B.",False,False
+449,Ecometric coefficient,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,,,GC-FORM-020,STRUCTURAL,"18-17 et début UA,FP; titre Utility of Money avec variable UA définie ailleurs Utility of Cash: prudence terminologique.",False,False
+450,Ecometric coefficient,ANALYTICALLY_REVIEWED,RQ-03.03;RQ-05.03;RQ-08.03,,,GC-FORM-021,STRUCTURAL,"18-18 puis 18-19: schéma symétrique; formule dUA semble sans dernier dB, suite non lue dans ce bloc.",False,False
+451,Ecometric coefficient,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+452,Ecometric coefficient,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+453,Ecometric coefficient,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+454,Link heat consumption to money created,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+455,Link heat consumption to money created,UNREVIEWED,,CPC-0119,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+456,Link heat consumption to money created,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+457,Link heat consumption to money created,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+458,Link heat consumption to money created,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+459,Link heat consumption to money created,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+460,Link heat consumption to money created,UNREVIEWED,,CPC-0120,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+461,Link heat consumption to money created,UNREVIEWED,,CPC-0105,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+462,Link heat consumption to money created,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+463,Link heat consumption to money created,UNREVIEWED,,CPC-0067,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+464,Link heat consumption to money created,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+465,Conservation Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+466,Conservation Laws,UNREVIEWED,,CPC-0122,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+467,Conservation Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+468,Conservation Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+469,Conservation Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+470,Conservation Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+471,Conservation Laws,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+472,Conservation Laws,UNREVIEWED,,CPC-0121,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+473,Discrimination of economic agents,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+474,Discrimination of economic agents,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+475,Discrimination of economic agents,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+476,Discrimination of economic agents,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+477,Discrimination of economic agents,UNREVIEWED,,CPC-0123,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+478,Discrimination of economic agents,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+479,Discrimination of economic agents,UNREVIEWED,,CPC-0108,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+480,Discrimination of economic agents,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+481,Discrimination of economic agents,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+482,Discrimination of economic agents,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+483,Discrimination of economic agents,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+484,Discrimination of economic agents,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+485,Discrimination of economic agents,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+486,Monopoles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+487,Monopoles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+488,Monopoles,UNREVIEWED,,CPC-0124,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+489,Monopoles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+490,Monopoles,UNREVIEWED,,CPC-0125,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+491,Monopoles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+492,Monopoles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",True,False
+493,Monopoles,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+494,Cycles – Polar interpretation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+495,Cycles – Polar interpretation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+496,Cycles – Polar interpretation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+497,Cycles – Polar interpretation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+498,Cycles – Polar interpretation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+499,Cycles – Polar interpretation,UNREVIEWED,,,,,PENDING,"Non relue dans cette passe. Liens de claims/concepts hérités, non certification sémantique.",False,False
+500,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-05.01;RQ-07.02,,,,STRUCTURAL,"Chapitre 2.24; Ch=p/t moyenne assimilée à dp/dt, requiert profil régulier; départ formule coût-prix.",True,False
+501,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-05.01;RQ-07.02,CPC-0040,,GC-FORM-022,STRUCTURAL,24-03: p=1/2 e Ch l/T après choix de labour accompli et abandon explicite du signe; exception au seul travail restant.,True,False
+502,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-05.01;RQ-07.02,CPC-0110,,,STRUCTURAL,"Trois régimes vitesse/prix entre copies, ceteris paribus; distinction niveau de vitesse et accélération.",True,False
+503,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-05.01;RQ-07.02,,,,STRUCTURAL,"Quatre étapes vendeur/transformateur/acquéreur, profit identique choisi; description conditionnelle et généralisation à toutes entreprises.",True,False
+504,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-05.01;RQ-07.02,CPC-0098,,,STRUCTURAL,"Prix régulier et négociations condensées assumés; profit absolu constant, pas taux constant.",True,False
+505,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-05.01;RQ-07.02,,,,STRUCTURAL,"Gain du destinataire E-Eprime, prix moindre et qualité non mesurée dans ce schéma.",True,False
+506,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-05.01;RQ-07.02,,,,STRUCTURAL,Décomposition du gain amont/transformateur; prudence: signes et primes de segments demandent contrôle graphique dédié.,True,False
+507,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-05.01;RQ-07.02,CPC-0021;CPC-0098,,,STRUCTURAL,"Exception explicite au profit constant; gain retenu par fournisseur, salarié ou partagé; inégalités peuvent croître OU diminuer.",False,False
+508,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-05.01;RQ-07.02,CPC-0021;CPC-0098,,,STRUCTURAL,Distribution déclarée hors domaine physique; facteurs présents mais inactifs ne suffisent pas; proposition restrictive sur les seuls flux.,False,False
+509,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-05.02;RQ-05.03,,,,STRUCTURAL,"Chaîne offre→prix→demande→offre, périodicité non uniforme; chocs saisonniers ou aléatoires listés.",False,False
+510,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-05.02;RQ-05.03,,,,STRUCTURAL,Amortissement est damping et non dépréciation comptable; demande agit indirectement via offre; Utility dépend du contexte géographique.,False,False
+511,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-05.02;RQ-05.03,CPC-0113,,GC-FORM-023,STRUCTURAL,"24-04: borne de substitution via ratios r et Utility, déclarée sans hypothèse et générale, pourtant conditionnée à Core Law et choix.",False,False
+512,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-05.02;RQ-05.03,CPC-0113,,,STRUCTURAL,"Préférences hétérogènes et coexistence des supports musicaux; choix individuel au prix/Utility constants, pas substitution agrégée instantanée.",False,False
+513,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-05.02;RQ-05.03,CPC-0113,,GC-FORM-024,STRUCTURAL,"Symétrie Cash/labour, borne 24-08; ratios Utility de Cash et facteurs rA.",False,False
+514,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-05.02;RQ-05.03,,,,STRUCTURAL,"Choix à labour/Utility constants; exemple sécheresse, fourrage, réserves et substituts; récit non série de données.",False,False
+515,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-05.02;RQ-05.03,CPC-0113,,,STRUCTURAL,Canicule: Utility et demande augmentent à prix constant; exemple ordinateur dit sales far lower puis demande accrue: discordance textuelle.,False,False
+516,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-05.02;RQ-05.03,,,,STRUCTURAL,Voyage d’achat motivé par économies nettes de frais; monopole expressément autre régime; ni demande ni rareté ne suffisent dans sa lecture.,False,False
+517,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-05.02;RQ-05.03,,,,STRUCTURAL,Télécommunications puis cheval borgne et faim: Utility contextuelle; exemples non tests contrôlés; absence de causalité directe de demande affirmée.,False,False
+518,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-07.03;RQ-08.01,,,,STRUCTURAL,"Location de biens mobiliers reconstruite comme achat puis revente, pl=pa-pv; cash flows et contrat réels non identiques par définition.",False,False
+519,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-07.03;RQ-08.01,,,GC-FORM-025,STRUCTURAL,Deux agents et deux instants dans Core Law; équation 24-12 prix de location avec Forces distinctes.,False,False
+520,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-07.03;RQ-08.01,CPC-0034;CPC-0113,,GC-FORM-026,STRUCTURAL,"Action-réaction égalise Forces; différences entre Utility de Product et de Cash, puis somme interagents: exigences d’échelle supplémentaires.",False,False
+521,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-07.03;RQ-08.01,CPC-0034;CPC-0113,,,STRUCTURAL,"Loyer vieillissant en principe, approximation constant; Utility peut dominer vétusté; location refusée si Utility de Cash supérieure.",False,False
+522,Miscellaneous observations,ANALYTICALLY_REVIEWED,RQ-05.03;RQ-07.03;RQ-08.01,CPC-0034;CPC-0113,,GC-FORM-027,STRUCTURAL,"Crédit assimilé à location; exception expresse finance spéculative; intérêts comme différences de Utility, non mesure autonome.",True,False
+523,Transformations coefficients,ANALYTICALLY_REVIEWED,RQ-06.02;RQ-07.03;RQ-08.02;RQ-08.03;RQ-09.03;RQ-10.02,CPC-0084;CPC-0109;CPC-0118,,,STRUCTURAL,"Constance des g explicitement non assurée; Money créé peut être thésaurisé, Mc≥Md; hypothèses de frontière/horizon à maintenir.",True,False
+524,Transformations coefficients,ANALYTICALLY_REVIEWED,RQ-06.02;RQ-08.02;RQ-08.03;RQ-10.02,,,GC-FORM-028;GC-FORM-029,STRUCTURAL,Tcréé/Tdépensé≤gTMgMT; puis ≤1 en mêmes unités: unités seules insuffisantes sans restriction de rendement supplémentaire.,True,False
+525,Transformations coefficients,ANALYTICALLY_REVIEWED,RQ-06.02;RQ-08.02;RQ-08.03;RQ-10.02,CPC-0109,,,STRUCTURAL,"Différentiels P,A en -r/g dx/x; indices c,d distinguent création/dépense. Formules examinées sur rendu PDF.",True,True
+526,Transformations coefficients,ANALYTICALLY_REVIEWED,RQ-06.02;RQ-08.02;RQ-08.03;RQ-10.02,CPC-0109,,GC-FORM-030;GC-FORM-031;GC-FORM-032,STRUCTURAL,"Intégration imprimée P=rP/ln p et A=rA/ln l; pas les primitives des lignes p525 à r,g constants. G=A+P introduit.",True,True
+527,Transformations coefficients,ANALYTICALLY_REVIEWED,RQ-06.02;RQ-07.03;RQ-08.02;RQ-08.03;RQ-10.02,CPC-0109,,GC-FORM-033;GC-FORM-034,STRUCTURAL,Egoism non moral; g assumés constants localement; différentiation correcte des produits et quotients avec g variable.,True,False
+528,Transformations coefficients,ANALYTICALLY_REVIEWED,RQ-06.02;RQ-07.03;RQ-08.02;RQ-08.03;RQ-10.02,CPC-0109,,GC-FORM-035;GC-FORM-036,STRUCTURAL,Passage Mc≥Md vers inégalité de différentiels non automatique; puis ≥ devient = sans condition de saturation explicite.,True,True
+529,Transformations coefficients,ANALYTICALLY_REVIEWED,RQ-02.01;RQ-06.02;RQ-07.03;RQ-08.02;RQ-08.03;RQ-09.03;RQ-10.02,CPC-0048;CPC-0109;CPC-0118,,,STRUCTURAL,Branches g variables et Works fixes; richesse exclut PIB explicitement; future réintroduction p559 à confronter.,True,True
+530,Transformations coefficients,ANALYTICALLY_REVIEWED,RQ-06.02;RQ-08.02;RQ-08.03;RQ-10.02,,,,STRUCTURAL,"Richesse classée par fréquence de Core Law vérifiée, seuils 20/40/60/80%; qualification rationalité des g constants et injonctions.",True,False
+531,Transformations coefficients,ANALYTICALLY_REVIEWED,RQ-06.02;RQ-08.02;RQ-08.03;RQ-10.02,,,,ILLUSTRATIVE,"Deux tableaux complets T→M/M→T avec signes n,u,T,g,M,P,A: image inspectée. Réemploie branches cohérentes/incohérentes.",True,True
+532,Transformations coefficients,ANALYTICALLY_REVIEWED,RQ-06.02;RQ-08.02;RQ-08.03;RQ-10.02,,,,STRUCTURAL,"Tableau de signes supplémentaire; étiquettes de transformations semblent interverties dans deux puces, contrairement aux équations et tableaux.",True,False
+533,Transformations coefficients,ANALYTICALLY_REVIEWED,RQ-06.02;RQ-08.02;RQ-08.03;RQ-10.02,CPC-0087,,,STRUCTURAL,Refus de dérégulation malgré critique offre/demande; spéculation et inégalités; différence de Utility déclarée nécessaire.,True,False
+534,Transformations coefficients,ANALYTICALLY_REVIEWED,RQ-02.02;RQ-05.03;RQ-07.01,CPC-0060;CPC-0100,,,STRUCTURAL,"Exclusion générale commerce, tourisme, sport du gain global; va au-delà du cas intermédiaire sans changement de Utility.",True,False
+535,Transformations coefficients,ANALYTICALLY_REVIEWED,RQ-02.02;RQ-05.03;RQ-07.01,CPC-0060;CPC-0100,,,STRUCTURAL,Intermédiaires peuvent initialement améliorer efficacité; complexification réputée appauvrissante ensuite; retour correcteur affirmé et sanctions proposées.,True,False
+536,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-02.01;RQ-08.04;RQ-12.01,,,,STRUCTURAL,Link n’est explicitement PAS relation micro→macro; rappel branche3 à n constant pour création/destruction.,True,False
+537,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-02.01;RQ-08.04;RQ-12.01,CPC-0089,,GC-FORM-037,STRUCTURAL,Insertion n/N et conclusions toutes actions à prix baisse/hausse; changement de normalisation et contexte requis.,True,False
+538,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-02.01;RQ-08.04;RQ-09.03;RQ-12.01,CPC-0048;CPC-0118,,,STRUCTURAL,Auteur limite explicitement validité au Transformer et à une copie; pas de création agrégée directement appréhendée.,True,False
+539,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-02.01;RQ-08.04;RQ-12.01,,,,STRUCTURAL,Labour et prix doivent appartenir au même Product; champs économiques non géographiques; multiplication vitesse×Force appelle contrôle puissance/énergie.,True,False
+540,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-02.01;RQ-02.02;RQ-05.03;RQ-07.01;RQ-08.04;RQ-12.01,CPC-0060;CPC-0100,,,STRUCTURAL,"Secteurs seulement heuristique et exception luxe; critère final variation Utility. Services médicaux/enseignement exclus de richesse monétaire, non de bien-être.",True,False
+541,Micro – Macro link,SCANNED,RQ-08.03;RQ-09.02,,,,ILLUSTRATIVE,"Vortex explicitement illustration; relativité de point de vue et analogie, non données économiques.",True,False
+542,Micro – Macro link,SCANNED,RQ-08.03;RQ-09.02,,,,ILLUSTRATIVE,"Force centripète orthogonale à vitesse, pourtant travail évoqué; composantes et travail total à distinguer avant conclusion.",True,False
+543,Micro – Macro link,SCANNED,RQ-08.03;RQ-09.02,,,,ILLUSTRATIVE,Cycle physique point0: dW=0 vers W=0 local; pas conséquence universelle sans origine choisie.,True,False
+544,Micro – Macro link,SCANNED,RQ-08.03;RQ-09.02,,,,ILLUSTRATIVE,"Cycle physique: pondérations Q,W et dW=0 aux points extrêmes; statut illustratif, dimensions/intégration à contrôler.",True,False
+545,Micro – Macro link,SCANNED,RQ-08.03;RQ-09.02,,,,ILLUSTRATIVE,Sources chaude/froide nécessaires; retour cycles Utility du Product selon étapes.,True,False
+546,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-05.03;RQ-08.03,CPC-0062;CPC-0103,,,STRUCTURAL,Auteur traite lui-même contradiction apparente Utility constante et gradient: temps versus labour/prix. Tableau examiné visuellement.,True,True
+547,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-05.03;RQ-08.03,CPC-0040;CPC-0062;CPC-0103,,,STRUCTURAL,"Pas de chaleur/température en économie; Utility du Transformer sauf stipulation contraire, Work restant exclusivement.",True,False
+548,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-08.04,,,,STRUCTURAL,Compétitivité scalaire Ω=varpi/omega=-dp/dl; une norme physique n’est pas ce ratio; unités à préciser.,True,False
+549,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-08.04,,,,STRUCTURAL,"Seuil π/4 et ratio FP/FA dM/dT; signe de dM positif ici, non automatiquement celui de p36; qualificatif compétitivité augmente quand ratio baisse.",True,False
+550,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-08.04,,,GC-FORM-038,STRUCTURAL,Vecteur et norme Ω²=ω²+varpi²; exige métrique/normalisation commune; scalarisation sans temps ne démontre pas absence d’évolution de ratios.,True,False
+551,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-08.04,,,,STRUCTURAL,"Compétitivité comme vitesse et η=-M/T; différentiel du quotient, constantes T ou M.",True,False
+552,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-08.04,,,,STRUCTURAL,26-13 relie norme et T/cp-M/ca; hypothèses quadratiques et métrique toujours nécessaires.,True,False
+553,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-08.04,CPC-0040,,,STRUCTURAL,"Indices pos/neg explicitement définis: Work done, Work to be done, Money made, Money to be made. Reconstruction ne peut les supprimer.",True,False
+554,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-08.04,,,GC-FORM-039,STRUCTURAL,"26-16/17 norme via e,a contient coefficients simples; conflit de puissance des cp/ca déjà relevé, confirmé visuellement.",True,True
+555,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-08.04,,,,STRUCTURAL,26-18 hérite de26-17; approche parfaite expressément précisée; point de vue Transformer réaffirmé.,True,False
+556,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-08.04,,,,STRUCTURAL,"Cycle économique géométrique idéal, origines T/M choisies; ne pas identifier niveaux et différentiels.",True,False
+557,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-08.04,,,,STRUCTURAL,"Fin cycle puis approche réelle: régularité circulaire abandonnée; signes Utility à comparer au point de vue, pas corrigés silencieusement.",True,False
+558,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-03.02;RQ-08.02;RQ-08.04;RQ-09.03,CPC-0117;CPC-0118;CPC-0126,,,STRUCTURAL,Work ou Money peuvent varier à autre grandeur fixée dans approche réelle; champ compare firmes. Corrélation énergie/PIB explicitement non causale.,True,False
+559,Micro – Macro link,ANALYTICALLY_REVIEWED,RQ-02.01;RQ-08.02;RQ-09.03;RQ-10.02,CPC-0048;CPC-0084;CPC-0117;CPC-0118,,GC-FORM-040,STRUCTURAL,Glissements local→moyenne→g constant→PIB; pertes absorbées dans pente. Nécessité création préalable ne prouve pas égalité dépense/création.,True,True
+560,Annexes,ANALYTICALLY_REVIEWED,RQ-12.01;RQ-12.02,,,,STRUCTURAL,"Note bibliographique exclut références économiques du fait du vocabulaire et des principes revendiqués; revendication auteur, non preuve de nouveauté.",True,False
+561,Introduction of the Author,SCANNED,RQ-12.01;RQ-12.02,,,,HISTORICAL_CONTEXT,"Mécanique/thermodynamique sans références détaillées; autobiographie et expériences de travail, contexte non preuve formelle.",True,False
+562,Introduction of the Author,SCANNED,RQ-12.01;RQ-12.02,,,,HISTORICAL_CONTEXT,"Citations attribuées à Besnier et Keynes sans références complètes; récit quatre ans puis deux ans, non chronologie bibliographique vérifiée.",True,False

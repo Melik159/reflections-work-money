@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv-research/
+.venv/
+venv/
+# Local credentials must never enter the research baseline.
+.env
+.env.*
+!.env.example
+# Rebuilt deterministically by verify.sh; source chunks and evaluation retained.
+/rag/index/

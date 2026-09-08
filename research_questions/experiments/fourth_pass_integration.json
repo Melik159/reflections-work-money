@@ -1,0 +1,28 @@
+{
+  "experiments": [
+    "EXP-02",
+    "EXP-03",
+    "EXP-09"
+  ],
+  "questions": [
+    "RQ-03.02",
+    "RQ-03.03",
+    "RQ-05.03",
+    "RQ-08.02"
+  ],
+  "evidence_ids": [
+    "EVID-FOURTH-EXP-02-RQ-05.03",
+    "EVID-FOURTH-EXP-03-RQ-08.02",
+    "EVID-FOURTH-EXP-09-RQ-03.02",
+    "EVID-FOURTH-EXP-09-RQ-03.03"
+  ],
+  "new_claims": 0,
+  "claim_impacts": 18,
+  "question_status_changes": [],
+  "coverage_before": 272,
+  "coverage_after": 272,
+  "new_empirical_experiments": 0,
+  "new_literature": 1,
+  "reused_literature": 1,
+  "epistemic_scope": "Claims, constructions, relations and local models only"
+}

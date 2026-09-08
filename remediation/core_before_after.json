@@ -1,0 +1,146 @@
+[
+  {
+    "id": "CPC-0001",
+    "external_before": "REVIEWER_CONFIRMS",
+    "remediation_after": "REVIEWER_CONFIRMS",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0003",
+    "external_before": "REVIEWER_QUALIFIES",
+    "remediation_after": "REVIEWER_QUALIFIES",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0005",
+    "external_before": "REVIEWER_QUALIFIES",
+    "remediation_after": "REVIEWER_QUALIFIES",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0009",
+    "external_before": "REVIEWER_QUALIFIES",
+    "remediation_after": "REVIEWER_QUALIFIES",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0010",
+    "external_before": "REVIEWER_CONFIRMS",
+    "remediation_after": "REVIEWER_CONFIRMS",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0012",
+    "external_before": "REVIEWER_QUALIFIES",
+    "remediation_after": "REVIEWER_QUALIFIES",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0015",
+    "external_before": "REVIEWER_QUALIFIES",
+    "remediation_after": "REVIEWER_QUALIFIES",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0016",
+    "external_before": "REVIEWER_DISPUTES",
+    "remediation_after": "REVIEWER_QUALIFIES",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0017",
+    "external_before": "REVIEWER_CANNOT_DETERMINE",
+    "remediation_after": "REVIEWER_CANNOT_DETERMINE",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0022",
+    "external_before": "REVIEWER_CONFIRMS",
+    "remediation_after": "REVIEWER_CONFIRMS",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0023",
+    "external_before": "REVIEWER_QUALIFIES",
+    "remediation_after": "REVIEWER_QUALIFIES",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0032",
+    "external_before": "REVIEWER_QUALIFIES",
+    "remediation_after": "REVIEWER_QUALIFIES",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0033",
+    "external_before": "REVIEWER_QUALIFIES",
+    "remediation_after": "REVIEWER_QUALIFIES",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0035",
+    "external_before": "REVIEWER_QUALIFIES",
+    "remediation_after": "REVIEWER_QUALIFIES",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0039",
+    "external_before": "REVIEWER_CONFIRMS",
+    "remediation_after": "REVIEWER_CONFIRMS",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0040",
+    "external_before": "REVIEWER_QUALIFIES",
+    "remediation_after": "REVIEWER_QUALIFIES",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0041",
+    "external_before": "REVIEWER_CONFIRMS",
+    "remediation_after": "REVIEWER_CONFIRMS",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0043",
+    "external_before": "REVIEWER_QUALIFIES",
+    "remediation_after": "REVIEWER_QUALIFIES",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0045",
+    "external_before": "REVIEWER_QUALIFIES",
+    "remediation_after": "REVIEWER_QUALIFIES",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0046",
+    "external_before": "REVIEWER_CONFIRMS",
+    "remediation_after": "REVIEWER_CONFIRMS",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0048",
+    "external_before": "REVIEWER_CONFIRMS",
+    "remediation_after": "REVIEWER_CONFIRMS",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0051",
+    "external_before": "REVIEWER_CONFIRMS",
+    "remediation_after": "REVIEWER_CONFIRMS",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0052",
+    "external_before": "REVIEWER_QUALIFIES",
+    "remediation_after": "REVIEWER_QUALIFIES",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  },
+  {
+    "id": "CPC-0053",
+    "external_before": "REVIEWER_CONFIRMS",
+    "remediation_after": "REVIEWER_CONFIRMS",
+    "scope": "Provisional remediation assessment; original external verdict unchanged; closure reviewer must recheck."
+  }
+]

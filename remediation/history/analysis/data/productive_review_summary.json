@@ -1,0 +1,15 @@
+{
+  "status": "QUALIFIED",
+  "mechanisms": 20,
+  "formulas": 20,
+  "formula_types": {
+    "DEFINITION": 5,
+    "DERIVATION": 11,
+    "PROPOSED_LAW": 4
+  },
+  "old_claims": 93,
+  "new_claims": 113,
+  "added_major": 20,
+  "added_core": 0,
+  "coverage": 175
+}

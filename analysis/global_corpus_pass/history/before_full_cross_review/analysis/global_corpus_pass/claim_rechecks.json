@@ -1,0 +1,3045 @@
+[
+  {
+    "id": "CPC-0001",
+    "criticality": "CORE",
+    "old_statement": "Comprendre le passage de la subsistance à l’abondance et les dommages environnementaux associés à la hausse du niveau de vie.",
+    "new_statement": "Comprendre le passage de la subsistance à l’abondance et les dommages environnementaux associés à la hausse du niveau de vie.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 2,
+      "pages": [
+        2,
+        3
+      ],
+      "quotation": "The key question is therefore to understand how the increase in living standards has led to these environmental damages, or how we have moved from a subsistence society to an affluent society.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0002",
+    "criticality": "MAJOR",
+    "old_statement": "La valeur de l’unité monétaire varie dans le temps.",
+    "new_statement": "La valeur de l’unité monétaire varie dans le temps.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "quotation": "the economy dispenses with this constraint and appropriates the prerogative to modify the value of the unit over time.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0003",
+    "criticality": "CORE",
+    "old_statement": "L’étude compare la transformation du travail en monnaie à celle de la chaleur en travail, en les distinguant.",
+    "new_statement": "L’étude compare la transformation du travail en monnaie à celle de la chaleur en travail, en les distinguant.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "quotation": "similar, but not identical, to the energy transformations of heat into work.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0004",
+    "criticality": "MAJOR",
+    "old_statement": "Le formalisme suppose des comportements suffisamment lents et réguliers.",
+    "new_statement": "Le formalisme suppose des comportements suffisamment lents et réguliers.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 4,
+      "pages": [
+        4
+      ],
+      "quotation": "sufficiently slow and regular behaviours of systems of appropriately defined variables.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0005",
+    "criticality": "CORE",
+    "old_statement": "Le manuscrit affirme que modifier seulement le nombre d’unités, sans Work productif, ne crée pas de richesse globale; il distingue cependant émission accompagnant une création, inertie et évolutions incohérentes.",
+    "new_statement": "Le manuscrit affirme que modifier seulement le nombre d’unités, sans Work productif, ne crée pas de richesse globale; il distingue cependant émission accompagnant une création, inertie et évolutions incohérentes.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 12,
+      "pages": [
+        12
+      ],
+      "quotation": "any variation in the number of monetary units can only derive from a human will and induces absolutely no overall change in the wealth of the system.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0006",
+    "criticality": "MAJOR",
+    "old_statement": "Product englobe biens et services produits par l’être humain.",
+    "new_statement": "Product englobe biens et services produits par l’être humain.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 12,
+      "pages": [
+        12
+      ],
+      "quotation": "the “Product” is defined as everything that is manufactured, elabourated, realized, accomplished, by Human and can therefore be a good or a service.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0007",
+    "criticality": "MAJOR",
+    "old_statement": "La création et l’usage relèvent des lois naturelles ; la distribution relève de décisions humaines.",
+    "new_statement": "La création et l’usage relèvent des lois naturelles ; la distribution relève de décisions humaines.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 13,
+      "pages": [
+        13
+      ],
+      "quotation": "points 1 (creation) and 3 (use) undeniably belong to the “Natural Sciences” and that point 2 (distribution) is systematically related to the “Human Sciences”.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0008",
+    "criticality": "SUPPORTING",
+    "old_statement": "La production précède la consommation.",
+    "new_statement": "La production précède la consommation.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 13,
+      "pages": [
+        13
+      ],
+      "quotation": "production being, of course, always prior to consumption.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0009",
+    "criticality": "CORE",
+    "old_statement": "Seul le travail engendre un changement.",
+    "new_statement": "Seul le travail engendre un changement.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 14,
+      "pages": [
+        14
+      ],
+      "quotation": "only work generates change, all other criteria are inoperative.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0010",
+    "criticality": "CORE",
+    "old_statement": "Money est défini comme le nombre d’unités multiplié par la valeur de l’unité.",
+    "new_statement": "Money est défini comme le nombre d’unités multiplié par la valeur de l’unité.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 15,
+      "pages": [
+        15
+      ],
+      "quotation": "M=n.u",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0011",
+    "criticality": "MAJOR",
+    "old_statement": "Le différentiel du produit M=n.u est dM=n.du+u.dn.",
+    "new_statement": "Le différentiel du produit M=n.u est dM=n.du+u.dn.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 15,
+      "pages": [
+        15
+      ],
+      "quotation": "dM=n.du+u.dn",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0012",
+    "criticality": "CORE",
+    "old_statement": "À Money global constant (hypothèse 1, possibilité 2), la variation de n est compensée inversement par u; l’attribution du crédit à cette branche et son extension finale sont des thèses distinctes.",
+    "new_statement": "À Money global constant (hypothèse 1, possibilité 2), la variation de n est compensée inversement par u; l’attribution du crédit à cette branche et son extension finale sont des thèses distinctes.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 17,
+      "pages": [
+        17
+      ],
+      "quotation": "any variation in the number of monetary units automatically and inexorably generates the same inverse variation in the value of the unit, implying the impossibility of creating money.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0013",
+    "criticality": "MAJOR",
+    "old_statement": "Campergue classe le crédit non couvert uniquement dans la possibilité 2 : création de Cash, pas de Money; ce classement exclut la possibilité 4 pour le banquier et constitue une restriction causale.",
+    "new_statement": "Campergue classe le crédit non couvert uniquement dans la possibilité 2 : création de Cash, pas de Money; ce classement exclut la possibilité 4 pour le banquier et constitue une restriction causale.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 18,
+      "pages": [
+        18
+      ],
+      "quotation": "the increase in the number of monetary units (granting of a loan not covered by deposits) doesn’t create money",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0014",
+    "criticality": "MAJOR",
+    "old_statement": "Dans le système isolé et sans Work supplémentaire, une politique redistribue selon Campergue Money sans enrichissement global; les effets internes et transitoires ne sont pas niés.",
+    "new_statement": "Dans le système isolé et sans Work supplémentaire, une politique redistribue selon Campergue Money sans enrichissement global; les effets internes et transitoires ne sont pas niés.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 18,
+      "pages": [
+        18
+      ],
+      "quotation": "Any economic policy measure that doesn’t involve Work expenditure leaves the existing quantity of Money in the system constant",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0015",
+    "criticality": "CORE",
+    "old_statement": "Money créé désigne le supplément détenu par le consommateur après une baisse de prix.",
+    "new_statement": "Money créé désigne le supplément détenu par le consommateur après une baisse de prix.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 19,
+      "pages": [
+        19
+      ],
+      "quotation": "The Money is what a consumer holds in addition after a price drop.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0016",
+    "criticality": "CORE",
+    "old_statement": "Le mécanisme productif proposé relie Work supplémentaire, productivité et baisse de prix à Money accru : u augmente à n constant (3a), ou n est ensuite ajusté pour stabiliser u (4a).",
+    "new_statement": "Le mécanisme productif proposé relie Work supplémentaire, productivité et baisse de prix à Money accru : u augmente à n constant (3a), ou n est ensuite ajusté pour stabiliser u (4a).",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 19,
+      "pages": [
+        19
+      ],
+      "quotation": "Additional work of the supplier ⇒ increased productivity ⇒ price decline ⇒ increase of monetary unit ⇒ creation of money ⇒ additional money of the consumer.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0017",
+    "criticality": "CORE",
+    "old_statement": "Une hausse de productivité exige nécessairement un travail supplémentaire assimilé ici à une énergie.",
+    "new_statement": "Une hausse de productivité exige nécessairement un travail supplémentaire assimilé ici à une énergie.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 19,
+      "pages": [
+        19
+      ],
+      "quotation": "this increase in productivity necessarily requires the execution of additional Work",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0018",
+    "criticality": "MAJOR",
+    "old_statement": "Les sources artificielles d’énergie peu coûteuses auraient permis le passage à l’abondance.",
+    "new_statement": "Les sources artificielles d’énergie peu coûteuses auraient permis le passage à l’abondance.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 20,
+      "pages": [
+        20
+      ],
+      "quotation": "It seems that it's the availability of these low-cost artificial sources of energy over the last two centuries that has made the transition possible:",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0019",
+    "criticality": "MAJOR",
+    "old_statement": "Le travail productif est défini par sa capacité à réduire le coût de revient.",
+    "new_statement": "Le travail productif est défini par sa capacité à réduire le coût de revient.",
+    "local_review_status": "CONFIRMED",
+    "pages_reviewed": [
+      20
+    ],
+    "reason": "Critère coût préservé; corriger notice unproductive, pas ce claim.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 20,
+      "pages": [
+        20
+      ],
+      "quotation": "Work (energy) that allows a reduction in the cost price can be described as “productive Work”, while work that doesn’t allow a reduction in price can be defined as “unproductive work”.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0020",
+    "criticality": "MAJOR",
+    "old_statement": "Une baisse du coût peut coexister avec un prix de vente constant.",
+    "new_statement": "Une baisse du coût peut coexister avec un prix de vente constant.",
+    "local_review_status": "CONFIRMED",
+    "pages_reviewed": [
+      20,
+      507
+    ],
+    "reason": "Prix maintenu compatible avec partage du gain; pas transmission automatique.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 20,
+      "pages": [
+        20
+      ],
+      "quotation": "if the selling price is kept constant despite this drop in cost price",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0021",
+    "criticality": "MAJOR",
+    "old_statement": "Le prix de vente relève du choix de l’entrepreneur sous contraintes de concurrence et de réglementation.",
+    "new_statement": "Le prix de vente relève du choix de l’entrepreneur sous contraintes de concurrence et de réglementation.",
+    "local_review_status": "SOURCE_NEEDS_EXTENSION",
+    "pages_reviewed": [
+      507,
+      508
+    ],
+    "reason": "Trois bénéficiaires explicités: fournisseur, salarié, partage.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 21,
+      "pages": [
+        21
+      ],
+      "quotation": "They are the sole judge and person responsible for selling prices, but always subject to the external constraints (competition, regulations, etc.) to which they are subject.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0022",
+    "criticality": "CORE",
+    "old_statement": "L’auteur postule la transformation du travail supplémentaire du fournisseur en Money supplémentaire du consommateur.",
+    "new_statement": "L’auteur postule la transformation du travail supplémentaire du fournisseur en Money supplémentaire du consommateur.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 22,
+      "pages": [
+        22
+      ],
+      "quotation": "SUPPLEMENTARY WORK performed by the supplier is TRANSFORMED into SUPPLEMENTARY MONEY held by the consumer.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0023",
+    "criticality": "CORE",
+    "old_statement": "Dans un système isolé, la baisse du travail restant à faire compense la hausse de Money créé.",
+    "new_statement": "Dans un système isolé, la baisse du travail restant à faire compense la hausse de Money créé.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 22,
+      "pages": [
+        22
+      ],
+      "quotation": "the decrease (destruction) of the Work to be done is compensated by the increase (creation) of the Money generated and vice versa",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0024",
+    "criticality": "MAJOR",
+    "old_statement": "Une transformation physique est distinguée du flux comptable.",
+    "new_statement": "Une transformation physique est distinguée du flux comptable.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 22,
+      "pages": [
+        22
+      ],
+      "quotation": "a transformation, which is relative to physics, and no longer a flow, which is relative to accounting",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0025",
+    "criticality": "SUPPORTING",
+    "old_statement": "Dans l’inflation dite incohérente 2a1, le consommateur gagne si la baisse de u ne compense pas sa hausse de n; le manuscrit distingue consommateurs, fournisseurs et épargnants et propose une correction ultérieure.",
+    "new_statement": "Dans l’inflation dite incohérente 2a1, le consommateur gagne si la baisse de u ne compense pas sa hausse de n; le manuscrit distingue consommateurs, fournisseurs et épargnants et propose une correction ultérieure.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 24,
+      "pages": [
+        24
+      ],
+      "quotation": "because the value decreases less as the number increases, the consumer gets richer.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0026",
+    "criticality": "SUPPORTING",
+    "old_statement": "Dans la déflation dite incohérente 2b1, l’appréciation de u ne compense pas la baisse de n du consommateur; une réévaluation correctrice 2b2 est ensuite affirmée.",
+    "new_statement": "Dans la déflation dite incohérente 2b1, l’appréciation de u ne compense pas la baisse de n du consommateur; une réévaluation correctrice 2b2 est ensuite affirmée.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 25,
+      "pages": [
+        25
+      ],
+      "quotation": "because the value increases less as the number decreases, the consumer becomes poorer.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0027",
+    "criticality": "SUPPORTING",
+    "old_statement": "L’auteur préconise un équilibre entre politiques d’offre et de demande.",
+    "new_statement": "L’auteur préconise un équilibre entre politiques d’offre et de demande.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 26,
+      "pages": [
+        26
+      ],
+      "quotation": "only the balance between supply and demand policy is to be sought",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0028",
+    "criticality": "SUPPORTING",
+    "old_statement": "L’incapacité attribuée aux banques à créer Money n’implique pas leur inutilité sociale.",
+    "new_statement": "L’incapacité attribuée aux banques à créer Money n’implique pas leur inutilité sociale.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 28,
+      "pages": [
+        28
+      ],
+      "quotation": "it's never written here that bankers, in their actions, cannot be useful for the smooth running of society",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0029",
+    "criticality": "MAJOR",
+    "old_statement": "Le manuscrit affirme un niveau de vie constant du Néolithique au XVIIIe siècle sous sources naturelles limitées.",
+    "new_statement": "Le manuscrit affirme un niveau de vie constant du Néolithique au XVIIIe siècle sous sources naturelles limitées.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 29,
+      "pages": [
+        29
+      ],
+      "quotation": "purchasing power and, incidentally, the standard of living remained constant from the Neolithic period until the 18th century.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0030",
+    "criticality": "MAJOR",
+    "old_statement": "La recherche de la genèse de Money exclut selon l’auteur toute référence à l’être humain.",
+    "new_statement": "La recherche de la genèse de Money exclut selon l’auteur toute référence à l’être humain.",
+    "local_review_status": "QUALIFIED",
+    "pages_reviewed": [
+      507,
+      535
+    ],
+    "reason": "Exclusion méthodologique des décisions humaines coexiste avec prescriptions réglementaires tardives.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 29,
+      "pages": [
+        29
+      ],
+      "quotation": "any study whose aim is solely the creation of Money must be free of any reference to the Human Being.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0031",
+    "criticality": "MAJOR",
+    "old_statement": "Le préambule limite explicitement son propos économique en excluant les répercussions environnementales.",
+    "new_statement": "Le préambule limite explicitement son propos économique en excluant les répercussions environnementales.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 29,
+      "pages": [
+        29
+      ],
+      "quotation": "in no way about the effects, impacts, repercussions or other environmental impacts of the plethora of energy",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0032",
+    "criticality": "CORE",
+    "old_statement": "L’économie de travail augmente vers un maximum sous contraintes externes.",
+    "new_statement": "L’économie de travail augmente vers un maximum sous contraintes externes.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 31,
+      "pages": [
+        31
+      ],
+      "quotation": "the Economy of Work naturally always increases towards a maximum, limited by external constraints",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0033",
+    "criticality": "CORE",
+    "old_statement": "L’économie de Money augmente vers un maximum sous contraintes externes.",
+    "new_statement": "L’économie de Money augmente vers un maximum sous contraintes externes.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 31,
+      "pages": [
+        31
+      ],
+      "quotation": "the Economy of Money naturally always increases towards a maximum, limited by external constraints.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0034",
+    "criticality": "MAJOR",
+    "old_statement": "Le troc est présenté comme un échange sans Money entre produits d’utilités égales.",
+    "new_statement": "Le troc est présenté comme un échange sans Money entre produits d’utilités égales.",
+    "local_review_status": "SOURCE_NEEDS_EXTENSION",
+    "pages_reviewed": [
+      520
+    ],
+    "reason": "Égalisation et addition de Utility entre Product/Cash et agents méritent fiche distincte.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 31,
+      "pages": [
+        31
+      ],
+      "quotation": "in a barter, there is no Money exchanged.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0035",
+    "criticality": "CORE",
+    "old_statement": "L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "new_statement": "L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 32,
+      "pages": [
+        32
+      ],
+      "quotation": "The second hypothesis therefore requires more Work than the first (about 78% more).",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0036",
+    "criticality": "MAJOR",
+    "old_statement": "La variation de Work servirait exclusivement à varier le prix, non à fabriquer le produit.",
+    "new_statement": "La variation de Work servirait exclusivement à varier le prix, non à fabriquer le produit.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 33,
+      "pages": [
+        33
+      ],
+      "quotation": "a WORK VARIATION is never used to manufacture a Product but exclusively to VARY its price.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0037",
+    "criticality": "MAJOR",
+    "old_statement": "L’offre est définie comme un nombre de cycles de fabrication par unité de temps.",
+    "new_statement": "L’offre est définie comme un nombre de cycles de fabrication par unité de temps.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 34,
+      "pages": [
+        34
+      ],
+      "quotation": "The offer of a Product can be defined as the number of times the manufacturing cycle is performed per unit of time.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0038",
+    "criticality": "MAJOR",
+    "old_statement": "Le cycle économique est mis en correspondance avec quatre étapes thermodynamiques.",
+    "new_statement": "Le cycle économique est mis en correspondance avec quatre étapes thermodynamiques.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 34,
+      "pages": [
+        34
+      ],
+      "quotation": "the steps of the thermodynamic cycle in accordance:",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0039",
+    "criticality": "CORE",
+    "old_statement": "Economic Work et Money sont posés comme deux formes d’énergie économique.",
+    "new_statement": "Economic Work et Money sont posés comme deux formes d’énergie économique.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 35,
+      "pages": [
+        35
+      ],
+      "quotation": "Economic Work and Money are logically considered two different forms of Economic Energy",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0040",
+    "criticality": "CORE",
+    "old_statement": "Le modèle doit compter le travail à effectuer et non le travail déjà effectué.",
+    "new_statement": "Le modèle doit compter le travail à effectuer et non le travail déjà effectué.",
+    "local_review_status": "QUALIFIED",
+    "pages_reviewed": [
+      501,
+      547,
+      553
+    ],
+    "reason": "Work restant règle par défaut, mais travail accompli employé explicitement localement.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 35,
+      "pages": [
+        35
+      ],
+      "quotation": "only the Work to be done must be taken into account and not the Work performed.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0041",
+    "criticality": "CORE",
+    "old_statement": "Product supporte Work et Cash supporte Money.",
+    "new_statement": "Product supporte Work et Cash supporte Money.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 35,
+      "pages": [
+        35
+      ],
+      "quotation": "the Product as the vector-support of the economic Work,",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0042",
+    "criticality": "MAJOR",
+    "old_statement": "L’emploi du formalisme thermodynamique exclut ici les variables physiques et notamment l’entropie.",
+    "new_statement": "L’emploi du formalisme thermodynamique exclut ici les variables physiques et notamment l’entropie.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 36,
+      "pages": [
+        36
+      ],
+      "quotation": "entropy doesn’t have to be used in this context.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0043",
+    "criticality": "CORE",
+    "old_statement": "Le principe d’équivalence est écrit M=g.T.",
+    "new_statement": "Le principe d’équivalence est écrit M=g.T.",
+    "local_review_status": "SOURCE_NEEDS_EXTENSION",
+    "pages_reviewed": [
+      523,
+      525,
+      528
+    ],
+    "reason": "Équivalence ne suffit ni aux inégalités de différentiels ni à la constance des coefficients.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 36,
+      "pages": [
+        36
+      ],
+      "quotation": "M=g.T",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0044",
+    "criticality": "MAJOR",
+    "old_statement": "La constance du coefficient g n’est pas garantie en économie.",
+    "new_statement": "La constance du coefficient g n’est pas garantie en économie.",
+    "local_review_status": "CONFIRMED",
+    "pages_reviewed": [
+      523,
+      526
+    ],
+    "reason": "Constance des g reconnue non systématique; exigence de fonctionnement rationnel différente de constat.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 36,
+      "pages": [
+        36
+      ],
+      "quotation": "the transformation coefficient g should be a constant, which isn't necessarily the case in Economics",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0045",
+    "criticality": "CORE",
+    "old_statement": "Le différentiel de Money est défini par dM=-F.dp.",
+    "new_statement": "Le différentiel de Money est défini par dM=-F.dp.",
+    "local_review_status": "SOURCE_NEEDS_EXTENSION",
+    "pages_reviewed": [
+      525,
+      549
+    ],
+    "reason": "Signes de création/point de vue à conserver; pas correction automatique de la source p36.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 36,
+      "pages": [
+        36
+      ],
+      "quotation": "dM=−F.dp",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0046",
+    "criticality": "CORE",
+    "old_statement": "Money est la valeur de Cash, lequel en est le support.",
+    "new_statement": "Money est la valeur de Cash, lequel en est le support.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 184,
+      "pages": [
+        184
+      ],
+      "quotation": "Money as the value of Cash,",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0047",
+    "criticality": "MAJOR",
+    "old_statement": "Les variations doivent être assez petites et proches dans le temps pour être traitées comme continues.",
+    "new_statement": "Les variations doivent être assez petites et proches dans le temps pour être traitées comme continues.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 185,
+      "pages": [
+        185
+      ],
+      "quotation": "small enough and close enough in time to be judged as continuous.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0048",
+    "criticality": "CORE",
+    "old_statement": "Wealth désigne exclusivement la quantité de Money, sans inclure les actifs patrimoniaux.",
+    "new_statement": "Wealth désigne exclusivement la quantité de Money, sans inclure les actifs patrimoniaux.",
+    "local_review_status": "SOURCE_NEEDS_EXTENSION",
+    "pages_reviewed": [
+      529,
+      537,
+      540,
+      559
+    ],
+    "reason": "Exclusion PIB et réintroduction finale: deux périmètres et saut à expliciter.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 185,
+      "pages": [
+        185
+      ],
+      "quotation": "It never takes into account the assets that an economic agent",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0049",
+    "criticality": "MAJOR",
+    "old_statement": "Product est défini par sa capacité à être acquis, transformé ou vendu et comme support de Work.",
+    "new_statement": "Product est défini par sa capacité à être acquis, transformé ou vendu et comme support de Work.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 187,
+      "pages": [
+        187
+      ],
+      "quotation": "the Product represents any object, merchandise, product, good or service that an economic agent",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0050",
+    "criticality": "MAJOR",
+    "old_statement": "Une ligne de crédit bancaire est Cash, pas Money dans ce vocabulaire.",
+    "new_statement": "Une ligne de crédit bancaire est Cash, pas Money dans ce vocabulaire.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 187,
+      "pages": [
+        187
+      ],
+      "quotation": "the inscription of a line of bank credit should not be considered as Money but only as Cash.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0051",
+    "criticality": "CORE",
+    "old_statement": "Labour désigne la tâche, constante pour un produit et une méthode de fabrication donnés.",
+    "new_statement": "Labour désigne la tâche, constante pour un produit et une méthode de fabrication donnés.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 187,
+      "pages": [
+        187,
+        188
+      ],
+      "quotation": "labour (l) must be understood as the thing to be done, the task, the job to be done. It is constant for a given Product and manufacturing method.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0052",
+    "criticality": "CORE",
+    "old_statement": "Pour une tâche constante, Work dépend de sa vitesse d’exécution.",
+    "new_statement": "Pour une tâche constante, Work dépend de sa vitesse d’exécution.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 188,
+      "pages": [
+        188
+      ],
+      "quotation": "for a constant labour, the Work varies according to its speed of execution.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0053",
+    "criticality": "CORE",
+    "old_statement": "Money mesure la valeur de Cash ; cette valeur varie dans le temps et selon le lieu.",
+    "new_statement": "Money mesure la valeur de Cash ; cette valeur varie dans le temps et selon le lieu.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 188,
+      "pages": [
+        188
+      ],
+      "quotation": "the Money (M) is defined as the measure of the value of Cash",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0054",
+    "criticality": "MAJOR",
+    "old_statement": "La complexité désigne l’inertie du produit face au changement de vitesse d’exécution de la tâche.",
+    "new_statement": "La complexité désigne l’inertie du produit face au changement de vitesse d’exécution de la tâche.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 189,
+      "pages": [
+        189
+      ],
+      "quotation": "the complexity (c) must be understood as the inertia that a Product presents at the change in speed of execution of the labour.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0055",
+    "criticality": "MAJOR",
+    "old_statement": "L’utilité peut être objective, subjective, exacte ou erronée et concerne les échanges.",
+    "new_statement": "L’utilité peut être objective, subjective, exacte ou erronée et concerne les échanges.",
+    "local_review_status": "CONFIRMED",
+    "pages_reviewed": [
+      512,
+      517
+    ],
+    "reason": "Hétérogénéité et faim montrent contextualité, pas mesure indépendante.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 189,
+      "pages": [
+        189
+      ],
+      "quotation": "which can be both objective and subjective, accurate and erroneous",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0056",
+    "criticality": "MAJOR",
+    "old_statement": "Le manuscrit écarte l’utilité marginale et revendique le sens de Walras.",
+    "new_statement": "Le manuscrit écarte l’utilité marginale et revendique le sens de Walras.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 189,
+      "pages": [
+        189
+      ],
+      "quotation": "Utility should be taken, in this study, in the sense of Walras",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0057",
+    "criticality": "SUPPORTING",
+    "old_statement": "L’utilité varie selon l’agent et le moment ; l’exemple de l’air distingue abondance et manque.",
+    "new_statement": "L’utilité varie selon l’agent et le moment ; l’exemple de l’air distingue abondance et manque.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 190,
+      "pages": [
+        190
+      ],
+      "quotation": "this Utility is variable according to the agents considered",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0058",
+    "criticality": "SUPPORTING",
+    "old_statement": "Le manuscrit déduit une absence de baisse du prix des œuvres d’art de leur utilité presque constante.",
+    "new_statement": "Le manuscrit déduit une absence de baisse du prix des œuvres d’art de leur utilité presque constante.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 191,
+      "pages": [
+        191
+      ],
+      "quotation": "since its Utility is almost constant over time, its price will not decrease.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0059",
+    "criticality": "MAJOR",
+    "old_statement": "L’utilité de Cash est donnée comme d’autant plus élevée que le revenu est bas.",
+    "new_statement": "L’utilité de Cash est donnée comme d’autant plus élevée que le revenu est bas.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 192,
+      "pages": [
+        192
+      ],
+      "quotation": "the lower an agent's income is, the higher the Utility of the Cash will be.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0060",
+    "criticality": "MAJOR",
+    "old_statement": "Le terme manufacturer inclut fournisseur et revendeur, même sans modification du produit.",
+    "new_statement": "Le terme manufacturer inclut fournisseur et revendeur, même sans modification du produit.",
+    "local_review_status": "QUALIFIED",
+    "pages_reviewed": [
+      349,
+      534,
+      540
+    ],
+    "reason": "Définition large de manufacturer versus exclusion catégorielle des services; critère Utility doit rester explicite.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 192,
+      "pages": [
+        192
+      ],
+      "quotation": "A manufacturer can therefore be a wholesaler, a trader, etc., although it doesn't necessarily modify a Product.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0061",
+    "criticality": "MAJOR",
+    "old_statement": "Le Transformer est interne au système ; Seller et Acquirer sont externes.",
+    "new_statement": "Le Transformer est interne au système ; Seller et Acquirer sont externes.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 193,
+      "pages": [
+        193
+      ],
+      "quotation": "the Transformer is considered to be placed within the system,",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0062",
+    "criticality": "MAJOR",
+    "old_statement": "Le signe des variations d’utilité dépend de la position de l’observateur dans la chaîne.",
+    "new_statement": "Le signe des variations d’utilité dépend de la position de l’observateur dans la chaîne.",
+    "local_review_status": "CONFIRMED",
+    "pages_reviewed": [
+      546,
+      547
+    ],
+    "reason": "Référent Transformer et coordonnées différentes explicitement précisés.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 193,
+      "pages": [
+        193
+      ],
+      "quotation": "this is a function of the position of the observer",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0063",
+    "criticality": "MAJOR",
+    "old_statement": "Les flux entrants du Transformer sont comptés positivement, les sortants négativement.",
+    "new_statement": "Les flux entrants du Transformer sont comptés positivement, les sortants négativement.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 194,
+      "pages": [
+        194
+      ],
+      "quotation": "everything that enters the system, that is to say, everything that the Transformer receives will be counted positively;",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    }
+  },
+  {
+    "id": "CPC-0064",
+    "criticality": "MAJOR",
+    "old_statement": "À vitesse d’exécution constante, Economic Work effectué est nul, même si le travail physique est important.",
+    "new_statement": "À vitesse d’exécution constante, Economic Work effectué est nul, même si le travail physique est important.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 203,
+      "pages": [
+        203
+      ],
+      "quotation": "if the speed of execution of the labour doesn't vary, the Work done (Economic Work) is zero"
+    }
+  },
+  {
+    "id": "CPC-0065",
+    "criticality": "MAJOR",
+    "old_statement": "L’absence de création de richesse monétaire n’exclut pas les richesses culturelles ou les services non marchands.",
+    "new_statement": "L’absence de création de richesse monétaire n’exclut pas les richesses culturelles ou les services non marchands.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 204,
+      "pages": [
+        204
+      ],
+      "quotation": "Even if agents don’t create monetary wealth, they may produce other types of wealth"
+    }
+  },
+  {
+    "id": "CPC-0066",
+    "criticality": "MAJOR",
+    "old_statement": "Les complexités du Product et de Cash ne sont pas égales malgré une notation c parfois commune.",
+    "new_statement": "Les complexités du Product et de Cash ne sont pas égales malgré une notation c parfois commune.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 202,
+      "pages": [
+        202
+      ],
+      "quotation": "This simplification means that they would be equal, which isn't true."
+    }
+  },
+  {
+    "id": "CPC-0067",
+    "criticality": "MAJOR",
+    "old_statement": "Une section informative réintroduit une relation avec l’entropie physique via le rendement global.",
+    "new_statement": "Une section informative réintroduit une relation avec l’entropie physique via le rendement global.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 463,
+      "pages": [
+        463
+      ],
+      "quotation": "Entropy This paragraph isn't of particular interest and is presented for information purposes only. Previously, the 19-01 relationship linking heat to the Money and the respective physical and economic efficiencies has been determined above, namely :"
+    }
+  },
+  {
+    "id": "CPC-0068",
+    "criticality": "MAJOR",
+    "old_statement": "Les relations de vitesse mesurent les évolutions sans en déterminer les causes.",
+    "new_statement": "Les relations de vitesse mesurent les évolutions sans en déterminer les causes.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 198,
+      "pages": [
+        198
+      ],
+      "quotation": "they only give a measure of these speeds and in no case do they stipulate for what reason"
+    }
+  },
+  {
+    "id": "CPC-0069",
+    "criticality": "MAJOR",
+    "old_statement": "Stabilité globale : u constant, sous les conditions du scénario SC-MONEY-01.",
+    "new_statement": "Stabilité globale : u constant, sous les conditions du scénario SC-MONEY-01.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 172,
+      "pages": [
+        172
+      ],
+      "quotation": "In this case the number of units is constant (dn = 0 - no issue of monetary units), which leads to the simplification of the relationship as follows : n ⋅∂u = 0 and one can write : if : M , n = constant so : u =constant (Constant Money) It is possible to consider this possibility as a system-wide case where nothing happens. Indeed, everything being",
+      "normalization": "whitespace",
+      "context_before": "eriod of time because the prices of products would themselves double. This would only be true if prices remained constant despite the doubling of Andorrans' income. The same would be true for any economic system envisaged. 1. Possibility 1 ",
+      "context_after": " constant, there is therefore no variation. However, this is only valid if the entire system is considered. This expresses that the total wealth of the system is constant, but this",
+      "argument_function": "Aucune variation globale; redistribution interne possible"
+    }
+  },
+  {
+    "id": "CPC-0070",
+    "criticality": "MAJOR",
+    "old_statement": "Retrait et remboursement à Money constant : u augmente; pas de destruction de Money, sous les conditions du scénario SC-MONEY-03.",
+    "new_statement": "Retrait et remboursement à Money constant : u augmente; pas de destruction de Money, sous les conditions du scénario SC-MONEY-03.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 18,
+      "pages": [
+        18
+      ],
+      "quotation": "Conversely, the repayment of a loan is similar to possibility 2b, with :  makes the number (n) of units to fall (dn < 0)  causes the value of the unit (u) increase (du > 0) Thus the increase in the number of monetary units (granting of a loan not covered by deposits) doesn’t create money and its decrease (repayment of a loan) doesn't destroy it. The",
+      "normalization": "whitespace",
+      "context_before": "es money would be a simplification instigating an abuse of language. The only thing that can be said is that bankers create monetary units and only monetary units, but by systematically varying the unit in an inversely proportional manner. ",
+      "context_after": " various developments represented by all the possibilities (1, 2, 3, 4) listed above exist and form a mixture that shapes daily reality. Whichever economic system is considered, it follows from this paragraph that any change in the number o",
+      "argument_function": "Retrait des unités; appréciation inverse postulée"
+    }
+  },
+  {
+    "id": "CPC-0071",
+    "criticality": "MAJOR",
+    "old_statement": "Destruction à nombre constant : u et M diminuent, sous les conditions du scénario SC-MONEY-05.",
+    "new_statement": "Destruction à nombre constant : u et M diminuent, sous les conditions du scénario SC-MONEY-05.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 178,
+      "pages": [
+        178
+      ],
+      "quotation": "Analytical possibilities 3 and 4 above are obviously valid both when the quantity of money decreases and when it increases, i.e. when its variation is negative (dM < 0) or positive (dM > 0), this variation determining respectively a decrease or an increase in purchasing power, i.e. an impoverishment or an enrichment of the system under consideration. This",
+      "normalization": "whitespace",
+      "context_before": " long ago. Moreover, loans should never be repaid, because each repayment would impoverish the poor. Economic crises, which are often due to excess liquidity from credit, would in this case have no purpose and therefore should never exist. ",
+      "context_after": " hypothesis (composed of possibilities 3 and 4, with variable money) shows that :  monetary wealth is created when the price decreases,  monetary wealth is destroyed when the price rises. Conclusion It is undeniable that increasing the nu",
+      "argument_function": "Diminution de Work et hausse des prix décrites comme destruction"
+    }
+  },
+  {
+    "id": "CPC-0072",
+    "criticality": "MAJOR",
+    "old_statement": "Émission accompagnant une création préalable : n et M augmentent, u constant, sous les conditions du scénario SC-MONEY-06.",
+    "new_statement": "Émission accompagnant une création préalable : n et M augmentent, u constant, sous les conditions du scénario SC-MONEY-06.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 177,
+      "pages": [
+        177
+      ],
+      "quotation": "Since by an increase of the Work performed a proportional quantity of Money is created, the State (or any other issuer of Money) has the right to issue as many monetary units (units of account in fiduciary or scriptural form) as Money created in order to keep the value of the monetary unit constant. In the same way as in the previous possibility, this",
+      "normalization": "whitespace",
+      "context_before": ". Possibility 4 In this case the number of units is variable (dn 0 - issue of monetary units), resulting in the relationship being written as follows : ∂nu= 1 u ⋅∂M and one can write : if : M ,n ≠constant so : u = constant (Current Money) ",
+      "context_after": " creation of Money increases the wealth of the system. However, it's quite obvious that the Money issued by the State must be equitably distributed among the agents composing the system, otherwise inequalities would be inevitably increased.",
+      "argument_function": "Émission proportionnée à Money déjà créé; distribution distincte"
+    }
+  },
+  {
+    "id": "CPC-0073",
+    "criticality": "MAJOR",
+    "old_statement": "Retrait accompagnant une destruction : n et M diminuent, u constant, sous les conditions du scénario SC-MONEY-07.",
+    "new_statement": "Retrait accompagnant une destruction : n et M diminuent, u constant, sous les conditions du scénario SC-MONEY-07.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 178,
+      "pages": [
+        178
+      ],
+      "quotation": "Analytical possibilities 3 and 4 above are obviously valid both when the quantity of money decreases and when it increases, i.e. when its variation is negative (dM < 0) or positive (dM > 0), this variation determining respectively a decrease or an increase in purchasing power, i.e. an impoverishment or an enrichment of the system under consideration. This",
+      "normalization": "whitespace",
+      "context_before": " long ago. Moreover, loans should never be repaid, because each repayment would impoverish the poor. Economic crises, which are often due to excess liquidity from credit, would in this case have no purpose and therefore should never exist. ",
+      "context_after": " hypothesis (composed of possibilities 3 and 4, with variable money) shows that :  monetary wealth is created when the price decreases,  monetary wealth is destroyed when the price rises. Conclusion It is undeniable that increasing the nu",
+      "argument_function": "Symétrique négatif de 4a explicitement admis"
+    }
+  },
+  {
+    "id": "CPC-0074",
+    "criticality": "MAJOR",
+    "old_statement": "Dévaluation correctrice : Destruction du supplément, retour de référence, sous les conditions du scénario SC-MONEY-09.",
+    "new_statement": "Dévaluation correctrice : Destruction du supplément, retour de référence, sous les conditions du scénario SC-MONEY-09.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 25,
+      "pages": [
+        25
+      ],
+      "quotation": "It is therefore necessary for the unit u to decrease more than the number n increases in order to destroy unduly earned Money. It is possible to conceive of devaluation as a return of the value of the unit to its real level of reference, which favours and causes the economic system to be put back in order.  Possibility 2b1 – Deflation The variables evolve",
+      "normalization": "whitespace",
+      "context_before": "25 number n logically implies the same decrease in the unit u. But since inflation has increased the consumer's purchasing power, it's imperative that it should decrease so that he loses what he has previously gained. ",
+      "context_after": " as follows:  dn < 0 and : δu > 0 with : |dn| > |δu| Since the number n decreases the consumer has fewer units but the value of each unit increases. However, because the value increases less as the number decreases, the consumer becomes po",
+      "argument_function": "Perte compensant le gain jugé indu; retour obligatoire affirmé"
+    }
+  },
+  {
+    "id": "CPC-0075",
+    "criticality": "MAJOR",
+    "old_statement": "Réévaluation correctrice : Retour au niveau de référence affirmé, sous les conditions du scénario SC-MONEY-11.",
+    "new_statement": "Réévaluation correctrice : Retour au niveau de référence affirmé, sous les conditions du scénario SC-MONEY-11.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 25,
+      "pages": [
+        25
+      ],
+      "quotation": "The undervaluation of the Money due to deflation necessarily leads to its revaluation in the more or less long term. Normally, the decrease in the number n logically implies the same increase in the unit u. But since deflation has reduced the purchasing power of the consumer, it's imperative that it increases so that it gains what it has previously lost.",
+      "normalization": "whitespace",
+      "context_before": ". It is possible to conceive of deflation as an undervaluation of the monetary unit that can lead to the ruin of the economic system.  Possibility 2b2 – Revaluation The variables evolve as follows:  δn < 0 and : du > 0 with : |δn| < |du| ",
+      "context_after": "",
+      "argument_function": "Restitution du pouvoir d’achat antérieurement perdu"
+    }
+  },
+  {
+    "id": "CPC-0076",
+    "criticality": "MAJOR",
+    "old_statement": "Prix et utilité baissent : enrichissement : Enrichissement; rP constant dans le tableau, sous les conditions du scénario SC-MONEY-12.",
+    "new_statement": "Prix et utilité baissent : enrichissement : Enrichissement; rP constant dans le tableau, sous les conditions du scénario SC-MONEY-12.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 291,
+      "pages": [
+        291
+      ],
+      "quotation": "This hypothesis indicates that the majority of the agents under consideration see their purchasing power increase since they can acquire Products for which their need is of lower and lower priority than those they could previously purchase, since Utility decreases. If, for example, they could only buy, with the income they have, 50% of the Products put on",
+      "normalization": "whitespace",
+      "context_before": " the opposite. When analysing the table, it's implicit that the price or Utility can remain stable, which corresponds to a borderline situation between the different possibilities. 1. Possibility 1 ⇒ Price and Utility decrease ⇔ Enrichment ",
+      "context_after": " the market, they are now able to acquire 51%, 52% or more of these Products. Thus, this hypothesis corresponds to the enrichment of the economic system to which these agents belong, which is in principle the aim of any economic policy. 2. ",
+      "argument_function": "Extension des besoins satisfaits à revenu donné"
+    }
+  },
+  {
+    "id": "CPC-0077",
+    "criticality": "MAJOR",
+    "old_statement": "Prix baisse et utilité augmente : déflation : Déflation, pas enrichissement automatique, sous les conditions du scénario SC-MONEY-13.",
+    "new_statement": "Prix baisse et utilité augmente : déflation : Déflation, pas enrichissement automatique, sous les conditions du scénario SC-MONEY-13.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 291,
+      "pages": [
+        291
+      ],
+      "quotation": "despite a fall in prices, agents can only satisfy, with the income at their disposal, increasingly indispensable needs, which is what happens when the economic system is in deflation. 3. Possibility 3 ⇒ Price increases and Utility decreases ⇔ Inflation This hypothesis corresponds to the common case where agents see their purchasing power decrease by price",
+      "normalization": "whitespace",
+      "context_before": "o the enrichment of the economic system to which these agents belong, which is in principle the aim of any economic policy. 2. Possibility 2 ⇒ Price decreases and Utility increases ⇔ Deflation This hypothesis corresponds to the case where, ",
+      "context_after": " increases. However, they can always acquire Products whose Utility decreases. For example, if an agent already owns Products with a high Utility, he will buy with his income those with a lower Utility, but with increasing difficulty. 4. Po",
+      "argument_function": "Baisse de prix ne suffit pas; rP diminue pour rétablir la Core Law (292–293)"
+    }
+  },
+  {
+    "id": "CPC-0078",
+    "criticality": "MAJOR",
+    "old_statement": "Prix augmente et utilité baisse : inflation : Pouvoir d’achat décroissant dans ce passage, sous les conditions du scénario SC-MONEY-14.",
+    "new_statement": "Prix augmente et utilité baisse : inflation : Pouvoir d’achat décroissant dans ce passage, sous les conditions du scénario SC-MONEY-14.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 291,
+      "pages": [
+        291
+      ],
+      "quotation": "This hypothesis corresponds to the common case where agents see their purchasing power decrease by price increases. However, they can always acquire Products whose Utility decreases. For example, if an agent already owns Products with a high Utility, he will buy with his income those with a lower Utility, but with increasing difficulty. 4. Possibility 4 ⇒",
+      "normalization": "whitespace",
+      "context_before": "l in prices, agents can only satisfy, with the income at their disposal, increasingly indispensable needs, which is what happens when the economic system is in deflation. 3. Possibility 3 ⇒ Price increases and Utility decreases ⇔ Inflation ",
+      "context_after": " Price and Utility increase ⇔ Impoverishment Conversely to case 1, a development during which the Utility of the Products acquired as well as their price increases corresponds to an impoverishment of the system. Indeed, with the income they",
+      "argument_function": "Achats devenant difficiles; rP augmente (292–293)"
+    }
+  },
+  {
+    "id": "CPC-0079",
+    "criticality": "MAJOR",
+    "old_statement": "Prix et utilité augmentent : appauvrissement : Appauvrissement; rP constant dans le tableau, sous les conditions du scénario SC-MONEY-15.",
+    "new_statement": "Prix et utilité augmentent : appauvrissement : Appauvrissement; rP constant dans le tableau, sous les conditions du scénario SC-MONEY-15.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 291,
+      "pages": [
+        291
+      ],
+      "quotation": "Conversely to case 1, a development during which the Utility of the Products acquired as well as their price increases corresponds to an impoverishment of the system. Indeed, with the income they have, agents can only acquire",
+      "normalization": "whitespace",
+      "context_before": "e Utility decreases. For example, if an agent already owns Products with a high Utility, he will buy with his income those with a lower Utility, but with increasing difficulty. 4. Possibility 4 ⇒ Price and Utility increase ⇔ Impoverishment ",
+      "context_after": "",
+      "argument_function": "Produits plus chers et priorités plus urgentes"
+    }
+  },
+  {
+    "id": "CPC-0080",
+    "criticality": "MAJOR",
+    "old_statement": "Changement de dénomination : n divisé, u multiplié; richesse inchangée, sous les conditions du scénario SC-MONEY-16.",
+    "new_statement": "Changement de dénomination : n divisé, u multiplié; richesse inchangée, sous les conditions du scénario SC-MONEY-16.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 174,
+      "pages": [
+        174
+      ],
+      "quotation": "Two typical examples of this case are respectively the transition from the old to the new Francs in 1959 and, closer to us, the transition from Francs to Euros. Indeed, in the first example, the number of monetary units was divided by 100 and therefore the value of the monetary unit was multiplied by the same amount with 1 New Franc equal to 100 Old Francs.",
+      "normalization": "whitespace",
+      "context_before": "174 ",
+      "context_after": " The changeover to the Single European Money represents the same mechanism with the same coefficient. As the number of monetary units has been divided by 6.55 957 in relation to the Franc, the value of the unit has been multiplied by this c",
+      "argument_function": "Ancien/nouveau franc; franc/euro comme illustration de 2b"
+    }
+  },
+  {
+    "id": "CPC-0081",
+    "criticality": "MAJOR",
+    "old_statement": "Inertie et compensation différée : Résultat final rigoureusement nul affirmé, non instantané, sous les conditions du scénario SC-MONEY-19.",
+    "new_statement": "Inertie et compensation différée : Résultat final rigoureusement nul affirmé, non instantané, sous les conditions du scénario SC-MONEY-19.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 175,
+      "pages": [
+        175
+      ],
+      "quotation": "Of course, any economic system has a certain inertia (like any physical system), the increase in certain incomes being immediate and the increase in prices being delayed for a certain period of time because of this inertia, resulting in a momentary increase in wealth. But because of this inertia, this temporary enrichment will necessarily be followed, later",
+      "normalization": "whitespace",
+      "context_before": "ceive a surplus of monetary units will be favoured at the expense of those who will not have received any, because the latter will see their income decrease at the same time as the value of the unit, which, as before, increases inequality. ",
+      "context_after": " on, by a decrease in the latter, i.e. by an impoverishment, the overall final result of the system being absolutely and rigorously zero. This hypothesis (composed of constant money possibilities 1 and 2) shows that no monetary wealth is ne",
+      "argument_function": "Gain temporaire puis impoverishment compensatrice"
+    }
+  },
+  {
+    "id": "CPC-0082",
+    "criticality": "MAJOR",
+    "old_statement": "Support métallique, surémission et confiance : M supposé constant quelle que soit la nature de Cash, sous les conditions du scénario SC-MONEY-20.",
+    "new_statement": "Support métallique, surémission et confiance : M supposé constant quelle que soit la nature de Cash, sous les conditions du scénario SC-MONEY-20.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 101,
+      "pages": [
+        101
+      ],
+      "quotation": "As long as the number (n) of monetary units issued on paper (by the “General Bank”) was equivalent to the metal stocks (gold and silver), the functioning of the economic system set up by Law was correct. There came a time when the issuance of monetary units was much higher than the gold and silver held. As the number (n) increased, the monetary unit (u)",
+      "normalization": "whitespace",
+      "context_before": "it leads to no-confidence ⇒ if u  (∂u < 0)⇒ no- confidence The John Law case corroborates the above in every respect. The Relationship : M=n.u=Constante is always true even when there is no difference, i.e. when the Work is nil or absent. ",
+      "context_after": " dropped to ensure the consistency of the previous relationship, since no Work was provided. This isn't special to paper- money but to any Cash (support of Money) whatsoever. If, quite unexpectedly, a gigantic deposit containing several hun",
+      "argument_function": "Baisse proportionnelle de u; confiance tenue pour conséquence, non cause"
+    }
+  },
+  {
+    "id": "CPC-0083",
+    "criticality": "MAJOR",
+    "old_statement": "Vitesse des prix dépassant la consommation : Hyperinflation définie comme limite temporelle, sous les conditions du scénario SC-MONEY-21.",
+    "new_statement": "Vitesse des prix dépassant la consommation : Hyperinflation définie comme limite temporelle, sous les conditions du scénario SC-MONEY-21.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 26,
+      "pages": [
+        26
+      ],
+      "quotation": "As long as the speed of price increases remains lower than that of consumption, all consumers are winners and savers are losers. But when the speed of inflation becomes higher, all consumers also lose out because they no longer have enough time to consume before prices rise again. They can therefore be described as savers. The latter hypothesis can be",
+      "normalization": "whitespace",
+      "context_before": " etc., of a correct and adequate functioning of the economic system. It is therefore possible to argue that :  only the balance between supply and demand policy is to be sought, so that developments remain coherent (possibilities 2a, 2b). ",
+      "context_after": " defined as a state of hyperinflation. Conclusion",
+      "argument_function": "Consommateurs gagnants deviennent perdants faute de dépenser assez vite"
+    }
+  },
+  {
+    "id": "CPC-0084",
+    "criticality": "MAJOR",
+    "old_statement": "Money créé non entièrement dépensé : Pas d’égalité obligatoire création/dépense, sous les conditions du scénario SC-MONEY-22.",
+    "new_statement": "Money créé non entièrement dépensé : Pas d’égalité obligatoire création/dépense, sous les conditions du scénario SC-MONEY-22.",
+    "local_review_status": "CONFIRMED",
+    "pages_reviewed": [
+      523
+    ],
+    "reason": "Créé peut être thésaurisé; priorité chronologique ne donne pas égalité annuelle.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 523,
+      "pages": [
+        523
+      ],
+      "quotation": "However, the created Money Mc can be hoarded, so : Mc ≥M d or : gTM⋅T d ≥ T c gMT : hence:",
+      "normalization": "whitespace",
+      "context_before": "o account the cause (index d for spent) and the effect (index c for created), these relations are respectively written : M c = gTM⋅T d and : T c = gMT⋅M d ⇒M d = T c gMT However, the Money spent Md was necessarily created prior to its use. ",
+      "context_after": "",
+      "argument_function": "Thésaurisation admise: Mc ≥ Md"
+    }
+  },
+  {
+    "id": "CPC-0085",
+    "criticality": "MAJOR",
+    "old_statement": "Revenu et prix fixes : intérieur et extérieur : Avantage intérieur opposé à compensation extérieure, sous les conditions du scénario SC-MONEY-23.",
+    "new_statement": "Revenu et prix fixes : intérieur et extérieur : Avantage intérieur opposé à compensation extérieure, sous les conditions du scénario SC-MONEY-23.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 183,
+      "pages": [
+        183
+      ],
+      "quotation": "Some might indeed think that increasing income by holding prices constant is similar to lowering prices by holding income constant. However, this view of things is only valid within the economic system under consideration, i.e., as a general rule, within the same country. On the other hand, compared to another system, i.e. another country with a different",
+      "normalization": "whitespace",
+      "context_before": "tant wage level: this is strictly specified in the box above. All of this demonstrates in the most formal way that coinage, minting money, is by no means a creation. Every German in 1923 was a multi-billionaire and yet lived very sparsely. ",
+      "context_after": " currency, the increase in income necessarily implies a devaluation corresponding to the decrease in the value of the Money (analytical possibility 2). This chapter demonstrates that it's imperative to distinguish Money from Cash. Indeed, a",
+      "argument_function": "Équivalence intérieure admise, dévaluation extérieure nécessaire affirmée"
+    }
+  },
+  {
+    "id": "CPC-0086",
+    "criticality": "MAJOR",
+    "old_statement": "Combinaison quotidienne des possibilités : n,u,M observés agrégés peuvent combiner plusieurs effets, sous les conditions du scénario SC-MONEY-24.",
+    "new_statement": "Combinaison quotidienne des possibilités : n,u,M observés agrégés peuvent combiner plusieurs effets, sous les conditions du scénario SC-MONEY-24.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 18,
+      "pages": [
+        18
+      ],
+      "quotation": "The various developments represented by all the possibilities (1, 2, 3, 4) listed above exist and form a mixture that shapes daily reality. Whichever economic system is considered, it follows from this paragraph that any change in the number of monetary units doesn't alter the overall wealth of that system. This is due to the fact that no Work (energy)",
+      "normalization": "whitespace",
+      "context_before": "ll (dn < 0)  causes the value of the unit (u) increase (du > 0) Thus the increase in the number of monetary units (granting of a loan not covered by deposits) doesn’t create money and its decrease (repayment of a loan) doesn't destroy it. ",
+      "context_after": " commensurate with this change is required, as it derives from human initiative and behaviour following an accounting procedure. The result can only be a change strictly within the system, but without any global modification of the system. ",
+      "argument_function": "Composition des possibilités 1–4 explicitement admise"
+    }
+  },
+  {
+    "id": "CPC-0087",
+    "criticality": "MAJOR",
+    "old_statement": "Couplage spéculateur–fournisseur et coefficients : Transfert et inégalités accrus, sous les conditions du scénario SC-MONEY-25.",
+    "new_statement": "Couplage spéculateur–fournisseur et coefficients : Transfert et inégalités accrus, sous les conditions du scénario SC-MONEY-25.",
+    "local_review_status": "SOURCE_NEEDS_EXTENSION",
+    "pages_reviewed": [
+      533,
+      534,
+      535
+    ],
+    "reason": "Généralisation aux secteurs dépasse le scénario spéculateur-fournisseur.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 533,
+      "pages": [
+        533
+      ],
+      "quotation": "If we assume a speculator increases his Avarice as indicated in possibility 2b1 (table M→T of the transformation), he decreases the Money Md he spends, which increases the coefficient gMT and leaves the created Work Tc constant. But the supplier is then obliged to increase the Work Td it provides in order to try to make up for what it has previously lost",
+      "normalization": "whitespace",
+      "context_before": "ation is to make a maximum profit as quickly as possible: speculators with a very high Avarice. In order to increase their profit, they evade the proper functioning of the economy by pursuing an incoherent course of action by taking risks. ",
+      "context_after": " according to possibility 2b2 (T→M transformation table). This induces a decrease in the gTM coefficient by leaving the created Money Mc constant. Here it is necessary to notice that the created Work Tc in the M→T transformation is null but",
+      "argument_function": "Md baisse,gMT monte,Tc constant; Td augmente,gTM baisse,Mc constant"
+    }
+  },
+  {
+    "id": "CPC-0088",
+    "criticality": "MAJOR",
+    "old_statement": "Variations simultanées de même signe exclues : Cas déclaré strictement impossible, sous les conditions du scénario SC-MONEY-26.",
+    "new_statement": "Variations simultanées de même signe exclues : Cas déclaré strictement impossible, sous les conditions du scénario SC-MONEY-26.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 30,
+      "pages": [
+        30
+      ],
+      "quotation": "The dark shaded areas represent the variation dn in the number n of units and the variation of the unit u simultaneously either positive or negative, which is strictly impossible as this would call into question the validity of the Sacred Principle of Conservation. 1.2 Core Elements ABSTRACT: This chapter is the foundation on which the essay is built.",
+      "normalization": "whitespace",
+      "context_before": "30 Synthesis Diagram 26-07, on the right, (extract chapter 26) lists all the possible coherent and incoherent developments in the Money that have just been defined above. ",
+      "context_after": " Because the previous chapter strongly encourages the application of the formalism of thermodynamics, it is necessary to present the principles and premises, without however justifying them analytically here, which are in conformity with an",
+      "argument_function": "Exclusion invoquant la conservation, non l’identité seule"
+    }
+  },
+  {
+    "id": "CPC-0089",
+    "criticality": "MAJOR",
+    "old_statement": "Prix local et nombre global N : Ne pas identifier un prix local au pouvoir d’achat national, sous les conditions du scénario SC-MONEY-28.",
+    "new_statement": "Prix local et nombre global N : Ne pas identifier un prix local au pouvoir d’achat national, sous les conditions du scénario SC-MONEY-28.",
+    "local_review_status": "QUALIFIED",
+    "pages_reviewed": [
+      536,
+      537,
+      538
+    ],
+    "reason": "Link explicitement non relation agrégée et division par N à interpréter.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 537,
+      "pages": [
+        537
+      ],
+      "quotation": "However, the number n of units is the one involved in the transformation considered and only it. It is obvious that in a complex system, such as a country, it is necessary to take into account the total number N of units that exist there. The relationship becomes : (∂M )n ,N = n N ⋅∂u ‹26-01› But we also know the 04-08 relationship giving the Money",
+      "normalization": "whitespace",
+      "context_before": "537 The quantity of Money created or destroyed is therefore directly proportional to the variation du in the value of the unit u. ",
+      "context_after": " according to price, namely : dM = −F A⋅dp It is therefore possible to write : n N ⋅∂u = −FA ⋅∂p which gives: ∂u = −F A⋅N n ⋅∂p ‹26-02› This relationship (26-02) and the relationship 04-08 show that : • if the price decreases, wealth increa",
+      "argument_function": "Pondération locale/globale proposée; limite macro explicite page538"
+    }
+  },
+  {
+    "id": "CPC-0090",
+    "criticality": "MAJOR",
+    "old_statement": "Appréciation spéculative de u sans retrait de n : Gain transitoire puis crise rétablissant M constant, sous les conditions du scénario SC-MONEY-29.",
+    "new_statement": "Appréciation spéculative de u sans retrait de n : Gain transitoire puis crise rétablissant M constant, sous les conditions du scénario SC-MONEY-29.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 146,
+      "pages": [
+        146
+      ],
+      "quotation": "However, it's always possible to cheat momentarily by increasing the value of the unit (u) without decreasing its number (n). In general, this is what happens when stock market indices rise during episodes of upward speculation. But, sooner or later and inexorably, the return to equilibrium, between the number of units and its value, will happen in such a",
+      "normalization": "whitespace",
+      "context_before": ", the Money is always constant as long as there is no Economic Work provided, which means that if the number (n) of units varies, the value of that unit changes strictly and proportionally inversely. ",
+      "context_after": " way that the Money is constant, inevitably provoking economic crises (Black Thursday of 24 October 1929, Asian crisis of July 1997, Internet bubble of March 2000, subprime crisis of 2007, ...). 2. Th",
+      "argument_function": "Hausse des indices interprétée comme u accru; retour ultérieur obligatoire"
+    }
+  },
+  {
+    "id": "CPC-0091",
+    "criticality": "MAJOR",
+    "old_statement": "Bouclage par dévaluation : Égalité recherchée au prix d’une distorsion, sous les conditions du scénario SC-MONEY-30.",
+    "new_statement": "Bouclage par dévaluation : Égalité recherchée au prix d’une distorsion, sous les conditions du scénario SC-MONEY-30.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 344,
+      "pages": [
+        344
+      ],
+      "quotation": "The equality between these two Money will thus only be acquired : 1. either by devaluation, which causes an economic distortion, 2. or by a Work spent in excess of the Work created. For this reason, more Work is needed to pay the interest. As stated in the chapter “Value of the monetary unit”, the second hypothesis (possibilities 3 and 4) is therefore the",
+      "normalization": "whitespace",
+      "context_before": "es Mcreated of Money, with : M spent > T created = T spent > M created ‹11-06› We see in this latter relationship that the Money spent is greater than the Money created, which is strictly impossible. ",
+      "context_after": " only economically valid method. Consequently, it can be said that : • the Work done is always greater than the Work to be done, the supplement is a function of external constraints, • the Work done i",
+      "argument_function": "Dévaluation présentée comme première voie pour restaurer égalité"
+    }
+  },
+  {
+    "id": "CPC-0092",
+    "criticality": "MAJOR",
+    "old_statement": "Bouclage par Work supplémentaire pour les intérêts : Surplus productif pour payer les intérêts, voie dite valide, sous les conditions du scénario SC-MONEY-31.",
+    "new_statement": "Bouclage par Work supplémentaire pour les intérêts : Surplus productif pour payer les intérêts, voie dite valide, sous les conditions du scénario SC-MONEY-31.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 344,
+      "pages": [
+        344
+      ],
+      "quotation": "or by a Work spent in excess of the Work created. For this reason, more Work is needed to pay the interest. As stated in the chapter “Value of the monetary unit”, the second hypothesis (possibilities 3 and 4) is therefore the only economically valid method. Consequently, it can be said that : • the Work done is always greater than the Work to be done, the",
+      "normalization": "whitespace",
+      "context_before": "nt is greater than the Money created, which is strictly impossible. The equality between these two Money will thus only be acquired : 1. either by devaluation, which causes an economic distortion, 2. ",
+      "context_after": " supplement is a function of external constraints, • the Work done is always greater than the minimum necessary Work and sufficient to obtain the Money. This is another expression of the Second Princi",
+      "argument_function": "Seconde voie : davantage de Work, reliée aux possibilités3/4"
+    }
+  },
+  {
+    "id": "CPC-0093",
+    "criticality": "MAJOR",
+    "old_statement": "Non-neutralité réciproque entre acteurs : Décision déclarée non neutre sur Work et Money, sans identité avec neutralité monétaire agrégée, sous les conditions du scénario SC-MONEY-32.",
+    "new_statement": "Non-neutralité réciproque entre acteurs : Décision déclarée non neutre sur Work et Money, sans identité avec neutralité monétaire agrégée, sous les conditions du scénario SC-MONEY-32.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 400,
+      "pages": [
+        400
+      ],
+      "quotation": "AN ECONOMIC DECISION IS NEVER NEUTRAL, NEITHER ON WORK NOR ON MONEY. ◦ it acts inversely for an actor, ◦ it acts identically for two actors.",
+      "normalization": "whitespace",
+      "context_before": "n fact, the greater the Work done by the supplier, the lower the price, which leads to a surplus of Money for the consumer and, therefore, allows him to acquire more and/or higher quality Products. • ",
+      "context_after": "",
+      "argument_function": "Money gagné par un acteur associé à Work inverse; configuration opposée et état constant explicités"
+    }
+  },
+  {
+    "id": "CPC-0094",
+    "criticality": "MAJOR",
+    "old_statement": "Tâche fixe, vitesse variable : Labour fixe; Work varie avec la vitesse, pas avec les seules heures.",
+    "new_statement": "Tâche fixe, vitesse variable : Labour fixe; Work varie avec la vitesse, pas avec les seules heures.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 196,
+      "pages": [
+        196
+      ],
+      "quotation": "for the realization of a given Product, according to a fixed method :  the labour is constant and the Work (of an economic nature) is variable according to the speed of execution of this labour.",
+      "normalization": "whitespace",
+      "context_before": "tion T→M labour (l) Productivity (ω) Economic work(T) Transformation M→T price (p) Tachyaxy (ϖ) Money (M) Speeds ⇒ Productivity - Price formation Consequently, ",
+      "context_after": ""
+    }
+  },
+  {
+    "id": "CPC-0095",
+    "criticality": "MAJOR",
+    "old_statement": "Vitesse constante sans Work supplémentaire : dω=0 conduit à dT=0; labour et W physique peuvent rester importants.",
+    "new_statement": "Vitesse constante sans Work supplémentaire : dω=0 conduit à dT=0; labour et W physique peuvent rester importants.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 203,
+      "pages": [
+        203
+      ],
+      "quotation": "if the speed of execution of the labour doesn't vary, the Work done (Economic Work) is zero, which may puzzle more than one reader not accustomed to mechanical reasoning, although the physical work can be very important. In fact, it's quite logical to say that if the labour is carried out at a constant speed, there is no additional Work done to accelerate this speed, i.e. to increase productivity. Consequently, an agent (individual in the strict sense of the word,",
+      "normalization": "whitespace",
+      "context_before": "cal Work (W) is always superior to the economically useful Work (T) discussed in this study (chapter “Link Heat Consumed → Money Created”). It can be seen that ",
+      "context_after": " association, administration, company, etc.) who doesn't accelerate the speed at which the Product is produced (increase in productivity) doesn't work in the ec"
+    }
+  },
+  {
+    "id": "CPC-0096",
+    "criticality": "MAJOR",
+    "old_statement": "Accélération et coût horaire inchangé : 8h→6h : coût160→120; T relatif augmente sous loi quadratique.",
+    "new_statement": "Accélération et coût horaire inchangé : 8h→6h : coût160→120; T relatif augmente sous loi quadratique.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 32,
+      "pages": [
+        32
+      ],
+      "quotation": "Let us suppose that the manufacturing of any Product requires, initially, a duration of 8 hours and that, after an increase in productivity, this duration decreases to 6 hours. Let us suppose moreover that the cost per hour of work is 20 $, then caeteris paribus :  according to the first hypothesis (8hrs. of Work) the cost price of the Product is 160 $,  according to the second hypothesis (6hrs. of Work) the cost price is 120 $, i.e. 40 $ less. But the laws of physics",
+      "normalization": "whitespace",
+      "context_before": "ctly of the same nature as that of the “First Principle” of thermodynamics, i.e. :  there can be no mechanical work without a temperature difference. Premises ",
+      "context_after": " state that the higher the speed, the more energy is expended, in the form of Work, to increase that speed. The second hypothesis therefore requires more Work t"
+    }
+  },
+  {
+    "id": "CPC-0097",
+    "criticality": "MAJOR",
+    "old_statement": "Prix de vente maintenu, gain retenu : Baisse productive puis hausse comptable dans la reconstruction de l’auteur.",
+    "new_statement": "Prix de vente maintenu, gain retenu : Baisse productive puis hausse comptable dans la reconstruction de l’auteur.",
+    "local_review_status": "CONFIRMED",
+    "pages_reviewed": [
+      507,
+      508
+    ],
+    "reason": "Branches marge/salaire et redistribution internes explicites.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 20,
+      "pages": [
+        20
+      ],
+      "quotation": "if the selling price is kept constant despite this drop in cost price, then it's possible to consider that there are two variations, namely : 1. a prior reduction in price which is related to physics, 2. a subsequent consecutive price increase which is related to accounting.",
+      "normalization": "whitespace",
+      "context_before": "in the cost price can be described as “productive Work”, while work that doesn’t allow a reduction in price can be defined as “unproductive work”. For example, ",
+      "context_after": ""
+    }
+  },
+  {
+    "id": "CPC-0098",
+    "criticality": "MAJOR",
+    "old_statement": "Transmission en chaîne à profit absolu constant : Coûts moindres donnent prix de vente moindres; gains amont et aval.",
+    "new_statement": "Transmission en chaîne à profit absolu constant : Coûts moindres donnent prix de vente moindres; gains amont et aval.",
+    "local_review_status": "SOURCE_NEEDS_EXTENSION",
+    "pages_reviewed": [
+      504,
+      505,
+      507
+    ],
+    "reason": "Profit constant délibérément conditionnel, exceptions p507.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 504,
+      "pages": [
+        504
+      ],
+      "quotation": "these segments have the same length which means that the profit before and after speed increase is always the same. As a result, point C' perceived as the selling price of the Raw Proceeds is now lower than the previous selling price C. The Transformer has in addition the quantity of Money translated by CC'. • segments CD and C'D'⇒ this stage of manufacture by the Transformer is similar to that representing manufacture by the Seller. The C'D' segment has a lower slope than",
+      "normalization": "whitespace",
+      "context_before": "han the AB segment since the manufacturing speed has increased which implies that the price evolves less quickly during this operation. • segments BC and B'C'⇒ ",
+      "context_after": " the CD segment since the manufacturing speed has increased, which means that the price changes less quickly during this operation."
+    }
+  },
+  {
+    "id": "CPC-0099",
+    "criticality": "MAJOR",
+    "old_statement": "Création puis usage ultérieur du supplément : Le gain existe avant sa dépense ultérieure, laquelle n’est pas sa création.",
+    "new_statement": "Création puis usage ultérieur du supplément : Le gain existe avant sa dépense ultérieure, laquelle n’est pas sa création.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 33,
+      "pages": [
+        33
+      ],
+      "quotation": "The consumer can therefore use this Money at a later date, in principle at his convenience. It is this Money that moves a posteriori from the consumer to the supplier at the time of the acquisition of any Product. Consequently and beforehand, the consumer must have this Money at his disposal, which only comes from a price reduction prior to its use during a purchase. It follows from all this that :  a WORK VARIATION is never used to manufacture a Product but exclusively to",
+      "normalization": "whitespace",
+      "context_before": "can be taken into account is that which the consumer holds in addition after a price reduction and not that which circulates from the consumer to the supplier. ",
+      "context_after": " VARY its price.  This Work is always a mechanical work (W) but its purpose, its goal, its objective, is no longer physical but economic (T). In fact, if two c"
+    }
+  },
+  {
+    "id": "CPC-0100",
+    "criticality": "MAJOR",
+    "old_statement": "Création via différence d’Utility : Différence d’Utility associée à Money; intermédiaire sans variation : transfert seul.",
+    "new_statement": "Création via différence d’Utility : Différence d’Utility associée à Money; intermédiaire sans variation : transfert seul.",
+    "local_review_status": "QUALIFIED",
+    "pages_reviewed": [
+      349,
+      534,
+      540
+    ],
+    "reason": "Condition sans Utility ne suffit pas à exclure une profession sans examen du service rendu.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 349,
+      "pages": [
+        349
+      ],
+      "quotation": "If the Final Utility is equal to the Initial Utility, there is no creation (or destruction) of Money. This is the case of an intermediary who increases the price of a Product without increasing its Utility. The Cash that the consumer gives to this intermediary and which corresponds to this increase is only transferred. Transformation T→M ⇒ Isoaxial Money Always starting from the 04-10 relationship, namely : dM = F A⋅dp we know that in an isoaxial transformation the price is,",
+      "normalization": "whitespace",
+      "context_before": "349 so: M = r P⋅U P (f ) −rP⋅UP (i) −γTM + 1 or: M = rP 1 −γTM ⋅( U P(f ) −UP(i )) ‹12-04› ",
+      "context_after": " by definition constant, so it's possible to write: dp = 0 ⇒ dM = 0 and consequently: M = 0 ‹12-05› Leaving aside the constant, that is to say that in this type"
+    }
+  },
+  {
+    "id": "CPC-0101",
+    "criticality": "MAJOR",
+    "old_statement": "Trois transformations T→M à caractéristique constante : Isobare, isoaxiale et isophèle donnent des branches différentes.",
+    "new_statement": "Trois transformations T→M à caractéristique constante : Isobare, isoaxiale et isophèle donnent des branches différentes.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 293,
+      "pages": [
+        293
+      ],
+      "quotation": "three particular cases of transformations that may occur, namely :  an isobaric transformation (at constant F A Force),  an isoaxial transformation (at constant p price),  an isopheles transformation (with constant U P Utility). corresponding in physics respectively to the laws of Charles, Gay-Lussac and Boyle-Mariotte. 1. Law with constant Avarice Force From the core law (relation 08-04), for two different states indexed 1 and 2, it's still possible to write :",
+      "normalization": "whitespace",
+      "context_before": "inal value. Transformation T→M ⇒ Laws with constant characteristics Still on the basis of the core law or market law (relation 08-04), it's possible to present ",
+      "context_after": " FA1⋅p1=rP⋅UP1 and : FA2⋅p2=rP⋅UP2"
+    }
+  },
+  {
+    "id": "CPC-0102",
+    "criticality": "MAJOR",
+    "old_statement": "Trois transformations M→T symétriques : Isobare, isoergue et isophèle; Utility de Cash, pas du Product.",
+    "new_statement": "Trois transformations M→T symétriques : Isobare, isoergue et isophèle; Utility de Cash, pas du Product.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 300,
+      "pages": [
+        300
+      ],
+      "quotation": "three particular cases of transformations that may occur, namely :  an isobaric transformation (at constant FP Force),  an isoergue transformation (at constant labour l),  an isopheles transformation (at constant UA utility). corresponding in physics respectively to the laws of Charles, Gay-Lussac and Boyle. 1. Basic law with constant Lazy Force From the core law (relation 08-12), for two different states indexed 1 and 2, it's always possible to write : FP1⋅l1=r A⋅U A1",
+      "normalization": "whitespace",
+      "context_before": "s to keep it. Transformation M→T ⇒ Laws at constant characteristics Still on the basis of the core law or market law (relation 08-12), it's possible to present ",
+      "context_after": " and : FP2⋅l2=r A⋅U A2 Or : l1 U A1 = r A FP1 and : l2 U A2 = r A FP2 since the Force is constant (FP1 = FP2), then : l1 U A1 = l2 U A2 through constant lazines"
+    }
+  },
+  {
+    "id": "CPC-0103",
+    "criticality": "MAJOR",
+    "old_statement": "Transformation adiabatique et frontière du système : Utility évolue; intégration interne de FA.dp malgré absence de transfert externe.",
+    "new_statement": "Transformation adiabatique et frontière du système : Utility évolue; intégration interne de FA.dp malgré absence de transfert externe.",
+    "local_review_status": "SOURCE_NEEDS_EXTENSION",
+    "pages_reviewed": [
+      546
+    ],
+    "reason": "Gradient selon coordonnées différent de variation temporelle en isophèle.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 347,
+      "pages": [
+        347
+      ],
+      "quotation": "During an adiabatic transformation there is, by definition, no transfer of Work or Money between the Transformer and the Buyer or Seller. During this transformation, the Utility of the Product varies from Uinitial to Ufinal. Moreover, as already mentioned, if the evolution of this transformation is relatively slow, that is to say, in small quantities, it can be considered as quasi-static. Consequently, the relation 04-10 : dM = F A⋅dp will always be valid. If we multiply and",
+      "normalization": "whitespace",
+      "context_before": "347 M = rP⋅U P⋅∫p (i) p (f ) dp p either : M = rP⋅U P⋅(ln p(f ) −ln p(i)) or : M = r P⋅U P⋅ln p(f ) p(i) ‹12-03› Transformation T→M ⇒ Adiabatic Money ",
+      "context_after": " divide by p to the power ɣTM, we obtain : dM = F A⋅p γTM⋅dp p γTM and as we have seen (relation 10-09):"
+    }
+  },
+  {
+    "id": "CPC-0104",
+    "criticality": "MAJOR",
+    "old_statement": "Cycles couplés et rendements : ηglobal défini comme produit; optimum annoncé à angles égaux.",
+    "new_statement": "Cycles couplés et rendements : ηglobal défini comme produit; optimum annoncé à angles égaux.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 388,
+      "pages": [
+        388
+      ],
+      "quotation": "the two transformations ( T→M and M→T) cannot be considered as independent of each other, because in this hypothesis it would be possible to envisage for each of them a return tending towards 1, which is impossible. The two transformations must always and imperatively be apprehended simultaneously. Indeed, during an exchange of Work (transformation T→M) circulates from the supplier to the consumer, but Money (transformation M→T ) also circulates in the opposite direction. By",
+      "normalization": "whitespace",
+      "context_before": "388 First of all, it should be pointed out that ",
+      "context_after": " definition, the global output ( ηg ) of the two transformations is equal to : ηg = ηTM⋅ηMT or : ηg = (1 −U P2 U P1)⋅(1 −U A 2 U A1) but, as we have seen above "
+    }
+  },
+  {
+    "id": "CPC-0105",
+    "criticality": "MAJOR",
+    "old_statement": "Coût d’énergie absorbant les gains relatifs : Rapport des coûts .60 devient5.10/5.50; avantage salarial relatif réduit.",
+    "new_statement": "Coût d’énergie absorbant les gains relatifs : Rapport des coûts .60 devient5.10/5.50; avantage salarial relatif réduit.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 461,
+      "pages": [
+        461
+      ],
+      "quotation": "At time t2, suppose that : • only the price of energy has been multiplied by 10 (caeteris paribus) compared to the previous hypothesis. Then it's possible to write : pF (t1) = 0,50 pQ + 0,50 pS = 1,00 pR and : pC (t1) = 0,50 pQ + 0,10 pS = 0,60 pR pF (t2) = 5,00 pQ + 0,50 pS = 5,50 pR and : pC (t2) = 5,00 pQ + 0,10 pS = 5,10 pR By making the ratio of the Chinese and French (China/France) cost prices (pR), it comes respectively to the two times t1 and t2 : at the time t1 ⇒",
+      "normalization": "whitespace",
+      "context_before": "er is x times the price of energy, • the energy used is x times that spent by the manpower, • the cost of French labour, i.e. 5 times that of Chinese manpower. ",
+      "context_after": " Chinese cost price Frenchcost price = pC(t1) pF(t 1) = 0,60 1,00 either: 60 %. at time t2 ⇒ Chinese cost price Frenchcost price = pC(t2) pF(t 2) = 5,10 5,50 ei"
+    }
+  },
+  {
+    "id": "CPC-0106",
+    "criticality": "MAJOR",
+    "old_statement": "Substitution machine–salarié : Emploi salarié peut baisser tandis que contribution mécanique augmente.",
+    "new_statement": "Substitution machine–salarié : Emploi salarié peut baisser tandis que contribution mécanique augmente.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 212,
+      "pages": [
+        212
+      ],
+      "quotation": "if the labour to be performed by an employee is replaced by that of a machine, the employee will see his job deteriorate and will eventually be fired, which corresponds perfectly to reality. This will, of course, depend on the respective costs of the different labours to be done either by the employee or by the engine or the machine (or other means). Employment relations purchasing power We know the relationship between employment (04-17) and purchasing power (04-18), i.e. :",
+      "normalization": "whitespace",
+      "context_before": "ed, entrepreneur, ...) can be considered as constant. As a consequence, the relationship becomes even simpler and becomes : e=−cP. dl s+dlm dt which shows that ",
+      "context_after": " e=cP.ω and : a=−cA.ϖ The speeds of labour ω performance and price formation ϖ are vectorial characteristics, i.e. oriented, and each refers to a different tran"
+    }
+  },
+  {
+    "id": "CPC-0107",
+    "criticality": "MAJOR",
+    "old_statement": "Création productive avec émission de Cash calibrée : Variante4 : n varie, u reste constant; ne pas ajouter deux fois le même gain.",
+    "new_statement": "Création productive avec émission de Cash calibrée : Variante4 : n varie, u reste constant; ne pas ajouter deux fois le même gain.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 204,
+      "pages": [
+        204
+      ],
+      "quotation": "The State (or any other issuer) could also beat a 10-cent coin and entrust it to the consumer, who would, as before, have this amount in his pocket. In this case, we can see that the value of the monetary unit remains constant but that it's the number of units that becomes variable, the latter corresponding to possibility 4 of this same chapter. In the same way as in the previous case, it's obvious that even if the Money created is zero, the price can be very high or very",
+      "normalization": "whitespace",
+      "context_before": "ts is always constant, it's the value of that unit that has increased in this case, corresponding to possibility 3 of the chapter “Value of the monetary unit”. ",
+      "context_after": " low. In thermodynamics, an engine or machine generally comprises several stages all operating on the same diagram, i.e. each stage operates according to the sa"
+    }
+  },
+  {
+    "id": "CPC-0108",
+    "criticality": "MAJOR",
+    "old_statement": "Pertes utiles et inutiles : Prélèvements utiles aux infrastructures : optimum recherché; pertes inutiles : minimum.",
+    "new_statement": "Pertes utiles et inutiles : Prélèvements utiles aux infrastructures : optimum recherché; pertes inutiles : minimum.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 479,
+      "pages": [
+        479
+      ],
+      "quotation": "losses useful to the Society, such as State levies of Money for the construction of roads, bridges, hospitals, educational institutions, etc. State agents are therefore necessary and indispensable to done these levies and their remuneration are useful losses and their optimum must always be sought, i.e. the function must be justly ensured but without additional losses. Despite the fact that these agents are useful, their remuneration is always only a destruction of Money, 4.",
+      "normalization": "whitespace",
+      "context_before": "here may be agents destroying the Money by an acceleration in the speed of price formation due to an increase in Utility for themselves, the cause of which are ",
+      "context_after": " there may be agents destroying the Money by an acceleration in the speed of price formation due to a decrease in Utility for themselves, the cause of which is "
+    }
+  },
+  {
+    "id": "CPC-0109",
+    "criticality": "MAJOR",
+    "old_statement": "Coefficients de transformation variables : Même Work peut être associé à Money différent; compensation par g.",
+    "new_statement": "Coefficients de transformation variables : Même Work peut être associé à Money différent; compensation par g.",
+    "local_review_status": "QUALIFIED",
+    "pages_reviewed": [
+      523,
+      525,
+      526,
+      527,
+      528,
+      529
+    ],
+    "reason": "g variable explicitement permis; dérivations tardives contiennent défauts locaux à isoler.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 526,
+      "pages": [
+        526
+      ],
+      "quotation": "the transformation coefficients are therefore no longer constant and vary according to the laziness and avarice of the agents. However, it is of course understood that these transformations must normally be prohibited. It is therefore the coherent procedure which has been used throughout the trial since it is the only one which is rational. Egoism Let us assume any economic agent (individual, family, company, administration, ...) that we know, by principle, to be stingy when",
+      "normalization": "whitespace",
+      "context_before": " spent Md . However, it is possible to envisage other processes that correspond to the incoherent developments (2a1 and 2a2, 2b1 and 2b2). In these hypotheses, ",
+      "context_after": " he acquires and lazy when he acts. He therefore has a certain Avarice A and Laziness P which have been defined in the study. So it is possible to pose a certai"
+    }
+  },
+  {
+    "id": "CPC-0110",
+    "criticality": "MAJOR",
+    "old_statement": "Ralentissement, stabilité, accélération entre exemplaires : Trois signes d’évolution de la vitesse : prix monte, reste, baisse.",
+    "new_statement": "Ralentissement, stabilité, accélération entre exemplaires : Trois signes d’évolution de la vitesse : prix monte, reste, baisse.",
+    "local_review_status": "CONFIRMED",
+    "pages_reviewed": [
+      502,
+      503,
+      507
+    ],
+    "reason": "Cas ceteris paribus et profits constants, pas règle sans condition.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 502,
+      "pages": [
+        502
+      ],
+      "quotation": "if the production speed decreases, the production time of the second copy increases and therefore its price as well. Thus, whatever the reduction in speed, the quantity of Money available to the consumer always decreases. 2. if the production speed doesn't vary, the production time of two consecutive copies is constant and therefore the price is constant as well. Thus, whatever the speed, the quantity of Money available to the consumer never changes. 3. if the production",
+      "normalization": "whitespace",
+      "context_before": "der the price of two copies of a Product and knowing that the price is a direct function of time, it's possible to ask, all other things being equal, that : 1. ",
+      "context_after": " speed increases, the production time of the second copy decreases and therefore the price as well."
+    }
+  },
+  {
+    "id": "CPC-0111",
+    "criticality": "MAJOR",
+    "old_statement": "Addition entre moyens productifs : Labour, T et emploi e déclarés additifs entre contributeurs.",
+    "new_statement": "Addition entre moyens productifs : Labour, T et emploi e déclarés additifs entre contributeurs.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 210,
+      "pages": [
+        210
+      ],
+      "quotation": "these characteristics being additive.",
+      "normalization": "whitespace",
+      "context_before": "eads of enterprises, e = slaves s = employees a = animals m = engines, machines it's possible to write : l=li+le+ls+la+lm T=T i+Te+T s+T a+T m e=ei+ee+es+ea+em ",
+      "context_after": ""
+    }
+  },
+  {
+    "id": "CPC-0112",
+    "criticality": "MAJOR",
+    "old_statement": "Prix formé pendant fabrication versus prix entre copies : ω et varpi mesurent des vitesses sans stipuler leurs causes.",
+    "new_statement": "Prix formé pendant fabrication versus prix entre copies : ω et varpi mesurent des vitesses sans stipuler leurs causes.",
+    "local_review_status": "SOURCE_NEEDS_EXTENSION",
+    "pages_reviewed": [
+      500,
+      501
+    ],
+    "reason": "Coût horaire moyen et dérivée instantanée ne sont égaux que sous profil adéquat.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 198,
+      "pages": [
+        198
+      ],
+      "quotation": "they only give a measure of these speeds and in no case do they stipulate for what reason (just as in mechanics the speed relationship only gives a measure of the speed). Whether productivity decreases or increases, i.e. the speed at which labour is carried out varies for any reason (too much or too little supply, faulty supply of raw materials, absence or lack of personnel, machinery or motor breakdown, new, faster manufacturing method, etc.) the 04- 01 relationship will",
+      "normalization": "whitespace",
+      "context_before": "he labour is carried out in any country and the price of the Product is considered in any of them, the speeds will always be given by these relations. However, ",
+      "context_after": " always give a faithful and accurate measure of the instantaneous speed. Whether the speed of execution of the labour is cancelled due to snacks, strikes, inter"
+    }
+  },
+  {
+    "id": "CPC-0113",
+    "criticality": "MAJOR",
+    "old_statement": "Utility, négociation et complexité : Prix et quantités peuvent changer via appréciation/complexité, pas seulement coût.",
+    "new_statement": "Utility, négociation et complexité : Prix et quantités peuvent changer via appréciation/complexité, pas seulement coût.",
+    "local_review_status": "SOURCE_NEEDS_EXTENSION",
+    "pages_reviewed": [
+      511,
+      512,
+      513,
+      520
+    ],
+    "reason": "Ratios de choix et comparaisons intersupports supplémentaires.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 283,
+      "pages": [
+        283
+      ],
+      "quotation": "If the consumer is fooled by advertising into believing that a particular Product is very useful to him, the supplier may increase the price of the Product or sell more of it. The result of this relationship is that :",
+      "normalization": "whitespace",
+      "context_before": "ty of the Product (good or service) whose purchase they have the mission to incite. It isn't the intention here to discuss the means used to achieve this goal. ",
+      "context_after": ""
+    }
+  },
+  {
+    "id": "CPC-0114",
+    "criticality": "MAJOR",
+    "old_statement": "La demande D est définie comme un débit de copies vendues, symétriquement à l’offre de copies fabriquées.",
+    "new_statement": "La demande D est définie comme un débit de copies vendues, symétriquement à l’offre de copies fabriquées.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 403,
+      "pages": [
+        403
+      ],
+      "quotation": "In the same way as supply, demand D must be considered as speed, as it's necessary to specify the time during which a certain number of copies of the Product are sold.",
+      "normalization": "whitespace",
+      "context_before": "different speeds. Consequently, the number of copies produced QS is the number of times the labour or the task has been done during the time period considered (unit of time). Definition of the demand ",
+      "context_after": " Indeed, it's said, for example, that demand is 888 pairs of Charentaises per day. This number will be indicated by \"D\" as an index. However, as a general rule, there are several suppliers who do not "
+    }
+  },
+  {
+    "id": "CPC-0115",
+    "criticality": "MAJOR",
+    "old_statement": "Les potentiels économiques sont présentés comme fonctions d’état sous une restriction explicite d’absence de pertes.",
+    "new_statement": "Les potentiels économiques sont présentés comme fonctions d’état sous une restriction explicite d’absence de pertes.",
+    "local_review_status": "SOURCE_NEEDS_EXTENSION",
+    "pages_reviewed": [
+      427,
+      429,
+      441,
+      442
+    ],
+    "reason": "Dérivées partielles et potentiels doivent conserver contraintes et indépendance locale.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 413,
+      "pages": [
+        413
+      ],
+      "quotation": "However, it should be noted that these relationships are only valid in the absence of losses.",
+      "normalization": "whitespace",
+      "context_before": "ction of the final and initial values and in no way of the method and path followed between these values. Only the values at the end and at the beginning of the transformation are taken into account. ",
+      "context_after": " In Economics, in the two transformations T→M and M→T, the functions already known (Internal Energy ETM and Empraxia X on the one hand and Internal Energy EMT and Enomailia L on the other hand) as wel"
+    }
+  },
+  {
+    "id": "CPC-0116",
+    "criticality": "MAJOR",
+    "old_statement": "Le calcul des coefficients écométriques emploie deux variables parmi FA, V, UP, avec rP constant dans la Core Law.",
+    "new_statement": "Le calcul des coefficients écométriques emploie deux variables parmi FA, V, UP, avec rP constant dans la Core Law.",
+    "local_review_status": "QUALIFIED",
+    "pages_reviewed": [
+      431,
+      435,
+      436,
+      439,
+      441,
+      444,
+      445
+    ],
+    "reason": "Deux degrés de liberté; erreurs intermédiaires et de transcription ne réfutent pas toutes les formules finales.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 441,
+      "pages": [
+        441
+      ],
+      "quotation": "By choosing any 2 variables among them and since r P is a constant, there are therefore three possibilities, namely :",
+      "normalization": "whitespace",
+      "context_before": "that the evolution of an economic system in the transformation T→M is a function of the following 3 independent variables: FA ,V ,U P linked together by the Core Law (08-04), namely : FA ⋅V = r P⋅U P ",
+      "context_after": " 1. Utility and Added Value ⇒ U P and V 2. Utility and Force ⇒ U P and FA 3. Force and Added Value ⇒ FA and V Relationships giving the variation of Internal Energy (06-02) and Empraxia (09-10), namely"
+    }
+  },
+  {
+    "id": "CPC-0117",
+    "criticality": "MAJOR",
+    "old_statement": "Le manuscrit suppose qu’agréger davantage de Products stabilise K, pourtant variable selon le produit, jusqu’à ne plus dépendre que des unités.",
+    "new_statement": "Le manuscrit suppose qu’agréger davantage de Products stabilise K, pourtant variable selon le produit, jusqu’à ne plus dépendre que des unités.",
+    "local_review_status": "CONFIRMED",
+    "pages_reviewed": [
+      559
+    ],
+    "reason": "Hypothèse d’agrégation retrouvée, non conséquence d’un simple grand nombre.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 559,
+      "pages": [
+        559
+      ],
+      "quotation": "Then, the more Products are taken into account, the more the coefficient K can be considered constant, and therefore only a function of the units used.",
+      "normalization": "whitespace",
+      "context_before": " of the units used for their respective measurement. This relationship is only valid for one product, the coefficient K being variablefor each. However, it is possible to design an average speed ωm . ",
+      "context_after": " At the macroeconomic level, it is therefore possible to pose : M CREATED=K⋅T SPENT We know that GDP is the sum of all the Money spent in a system for each Money→Work transformation, but also that all"
+    }
+  },
+  {
+    "id": "CPC-0118",
+    "criticality": "MAJOR",
+    "old_statement": "La fin du manuscrit propose GDP=K·Wconsumed comme couplage absolu, en absorbant dans K l’énergie sans création de Money.",
+    "new_statement": "La fin du manuscrit propose GDP=K·Wconsumed comme couplage absolu, en absorbant dans K l’énergie sans création de Money.",
+    "local_review_status": "QUALIFIED",
+    "pages_reviewed": [
+      523,
+      529,
+      538,
+      558,
+      559
+    ],
+    "reason": "Contexte micro limité, thésaurisation et pertes variables empêchent d’inférer égalité sans conditions supplémentaires.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 559,
+      "pages": [
+        559
+      ],
+      "quotation": "which shows the absolute coupling of the GDP of a system to the energy consumed in it.",
+      "normalization": "whitespace",
+      "context_before": "n the creation of Money, i.e, in the enrichment of the system. If we take into account this energy, which only influences the slope of the right-hand side, the relationship becomes : GDP=K⋅W consumed ",
+      "context_after": ""
+    }
+  },
+  {
+    "id": "CPC-0119",
+    "criticality": "MAJOR",
+    "old_statement": "Le pont Tused=−Wcreated est restreint au travail mécanique économiquement utile, qui fait évoluer l’Utility du Product.",
+    "new_statement": "Le pont Tused=−Wcreated est restreint au travail mécanique économiquement utile, qui fait évoluer l’Utility du Product.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 455,
+      "pages": [
+        455
+      ],
+      "quotation": "However, it must be kept in mind that this mechanical work (Wcreated) is only economically useful if it allows the Utility of a Product to evolve.",
+      "normalization": "whitespace",
+      "context_before": "conomic Work (Tutilized) (positive since it enters the economic system) which is going to be used by an individual, an employee, a slave, an animal, a motor or a machine to increase productivity (ω). ",
+      "context_after": " If this condition isn't fulfilled, the Economic Work spent (Tutilized) is absolutely nil and therefore the Money created (Mcreated) too. This is why the contract worker, mentioned above in the chapte"
+    }
+  },
+  {
+    "id": "CPC-0120",
+    "criticality": "MAJOR",
+    "old_statement": "Campergue relie accélération productive, pertes croissant plus vite que la productivité, consommation accrue de combustibles et dommages environnementaux.",
+    "new_statement": "Campergue relie accélération productive, pertes croissant plus vite que la productivité, consommation accrue de combustibles et dommages environnementaux.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 460,
+      "pages": [
+        460
+      ],
+      "quotation": "This remark therefore highlights the increasing consumption of fuels induced by the acceleration of manufacturing processes, and consequently its inevitable increasingly intense impact on the environment.",
+      "normalization": "whitespace",
+      "context_before": ", social, health, etc. clashes, while the second doesn't. Knowing that losses increase faster than productivity, the final output of an economic system increases more slowly than productivity itself. ",
+      "context_after": " Note 2 Historical analysis shows that, in general, the more “advanced” a society is, the more the ratio between the number of productive people (performing economic work) and the number of unproducti"
+    }
+  },
+  {
+    "id": "CPC-0121",
+    "criticality": "MAJOR",
+    "old_statement": "La conservation du Work total est obtenue en compensant la variation cinétique par la variation de Work potentiel restant.",
+    "new_statement": "La conservation du Work total est obtenue en compensant la variation cinétique par la variation de Work potentiel restant.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 472,
+      "pages": [
+        472
+      ],
+      "quotation": "which shows the conservation, over time, of the total Work (Work created + Work to be done).",
+      "normalization": "whitespace",
+      "context_before": "472 or again: Et 2 pot + Et 2 cin = Et 1 pot + Et 1 cin Accordingly, it comes: Et 2 tot = Et1 tot ‹20-04› ",
+      "context_after": ""
+    }
+  },
+  {
+    "id": "CPC-0122",
+    "criticality": "MAJOR",
+    "old_statement": "Les conservations économiques sont présentées avec des caractéristiques similaires, mais explicitement non mécaniques, avant leur application ceteris paribus.",
+    "new_statement": "Les conservations économiques sont présentées avec des caractéristiques similaires, mais explicitement non mécaniques, avant leur application ceteris paribus.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 466,
+      "pages": [
+        466
+      ],
+      "quotation": "In this note, which is outside the realm of physics, there is neither quantity of movement nor energy in the mechanical sense.",
+      "normalization": "whitespace",
+      "context_before": "466 ",
+      "context_after": " Here, similar characteristics have been determined as follows (chapter “Mechanics of Exchanges”): • in the transformation Work→Money : ◦ quantity of motion ⇔ purchasing power ◦ total energy ⇔ total M"
+    }
+  },
+  {
+    "id": "CPC-0123",
+    "criticality": "MAJOR",
+    "old_statement": "Les Makers réalisent du labour sans création de Money; les Workers sont distingués par Force et variation d’Utility, non par simple utilité sociale.",
+    "new_statement": "Les Makers réalisent du labour sans création de Money; les Workers sont distingués par Force et variation d’Utility, non par simple utilité sociale.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 477,
+      "pages": [
+        477
+      ],
+      "quotation": "The “Makers” are the people who done labour at a constant speed, i.e. without exerting Force and therefore without varying the Utility of the Product. No Money is created.",
+      "normalization": "whitespace",
+      "context_before": "n is given below : • The Unemployed are all those agents who don’t perform any labour such as children, students, pensioners, the sick, annuitants, the unemployed, housewives or househusbands, etc. • ",
+      "context_after": " • The Workers are the agents (individuals, slaves, employees, animals, motors) who exert a Force that transforms the Work to be done into Work done by causing a variation in the Utility of the Produc"
+    }
+  },
+  {
+    "id": "CPC-0124",
+    "criticality": "MAJOR",
+    "old_statement": "Dans le scénario monopolistique à service et Utility inchangés, la hausse de prix est attribuée à un transfert de Cash depuis les acheteurs.",
+    "new_statement": "Dans le scénario monopolistique à service et Utility inchangés, la hausse de prix est attribuée à un transfert de Cash depuis les acheteurs.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 488,
+      "pages": [
+        488
+      ],
+      "quotation": "Consequently, the Cash covering this price increase will necessarily come from others, i.e. the Buyers. It will therefore only be a transfer of Cash. If the monopoly gets richer, consumers get poorer.",
+      "normalization": "whitespace",
+      "context_before": "ssible to write : dETM = dT = 0 ‹22-01› This relationship shows perfectly that, in the case of a monopoly, if the price of a Product increases, the variation in monetary wealth of the system is zero. ",
+      "context_after": " Furthermore, we have ensured that the absence of a difference in the Utility of the Product implies that the Money created is null and void. Because in the case of a monopoly, the price variation has"
+    }
+  },
+  {
+    "id": "CPC-0125",
+    "criticality": "MAJOR",
+    "old_statement": "Le monopole de brevet peut combiner un Work augmentant l’Utility et une hausse supplémentaire de prix sans travail supplémentaire, attribuée au transfert.",
+    "new_statement": "Le monopole de brevet peut combiner un Work augmentant l’Utility et une hausse supplémentaire de prix sans travail supplémentaire, attribuée au transfert.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 490,
+      "pages": [
+        490
+      ],
+      "quotation": "It provides some Work in order to increase the Utility of the Product and it increases the price. But because of his monopoly position, he raises the price even more without having done any extra labour.",
+      "normalization": "whitespace",
+      "context_before": "Utility but also decreases according to the Work provided but less than previously or not at all. A typical example of this monopoly system is an agent or company that holds a patent and exploits it. ",
+      "context_after": " Consequently, the Cash that he will receive in addition will necessarily be a transfer. It will necessarily have been created previously in another transformation and this because of the “time arrow”"
+    }
+  },
+  {
+    "id": "CPC-0126",
+    "criticality": "MAJOR",
+    "old_statement": "Le champ labour-prix juxtapose des vecteurs de compétitivité d’entreprises; il ne fournit pas à lui seul une somme macroéconomique de Work ou Money.",
+    "new_statement": "Le champ labour-prix juxtapose des vecteurs de compétitivité d’entreprises; il ne fournit pas à lui seul une somme macroéconomique de Work ou Money.",
+    "local_review_status": "CONFIRMED",
+    "pages_reviewed": [
+      536,
+      538,
+      558
+    ],
+    "reason": "Champ comparative firmes, non somme macro démontrée.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "LOCAL_RECHECK_ONLY",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 558,
+      "pages": [
+        558
+      ],
+      "quotation": "Therefore, considering a group of enterprises, it would be possible to plot a set of vectors, each of which represents the competitiveness of each enterprise.",
+      "normalization": "whitespace",
+      "context_before": "mount of Work he does, the Money he receives can take any value. Consequently, the competitiveness Ω can vary in very large proportions. Now, a company (manufacturer) is assimilated to a Transformer. ",
+      "context_after": " This would be identical to a wind speed field in meteorology. These vectors would be defined : • by their point of application corresponding to the respective values of labour and price. • by their d"
+    }
+  },
+  {
+    "id": "CPC-0127",
+    "criticality": "MAJOR",
+    "old_statement": "Le supplément de Money issu du scénario de baisse de prix permet davantage de Products ou des Products de meilleure qualité.",
+    "new_statement": "Le supplément de Money issu du scénario de baisse de prix permet davantage de Products ou des Products de meilleure qualité.",
+    "local_review_status": null,
+    "pages_reviewed": [],
+    "reason": "Relecture transversale non terminée; contrôle de citation automatique distinct.",
+    "canonical_action": "UNCHANGED",
+    "global_review_status": null,
+    "full_corpus_reviewed": false,
+    "history_action": "PENDING",
+    "source_unchanged": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 400,
+      "pages": [
+        400
+      ],
+      "quotation": "In fact, the greater the Work done by the supplier, the lower the price, which leads to a surplus of Money for the consumer and, therefore, allows him to acquire more and/or higher quality Products.",
+      "normalization": "whitespace",
+      "context_before": "e consumer's Avarice (A) increases, the supplier's Laziness (dP) decreases, therefore his Work (dT) increases and, consequently, the energy needed for this increase. This corresponds well to reality. ",
+      "context_after": " • AN ECONOMIC DECISION IS NEVER NEUTRAL, NEITHER ON WORK NOR ON MONEY. ◦ it acts inversely for an actor, ◦ it acts identically for two actors."
+    }
+  }
+]

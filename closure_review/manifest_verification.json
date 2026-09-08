@@ -1,0 +1,11 @@
+{
+  "files": 961,
+  "status": "PASS",
+  "manifest_sha256": "f5ccc1ab97d6141a9c5c1c7aadd667e9bd7366488a1cab6e54fe365ce2227d60",
+  "excluded_self_referential_files": [
+    "BASELINE_MANIFEST_SHA256.txt",
+    "BASELINE_MANIFEST_SHA256.txt.sha256",
+    "manifest_verification.json"
+  ],
+  "note": "Verification report and detached manifest digest excluded to avoid self-hash cycle; historical archives separately checked where edited. Explicit delivery refresh recorded in history/private_delivery_20260908/delivery_manifest_changes.json."
+}

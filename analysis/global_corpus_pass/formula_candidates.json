@@ -1,0 +1,2754 @@
+[
+  {
+    "page": 170,
+    "label": "02-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-041",
+    "editorial_family": "GF-04",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 170,
+    "label": "02-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-042",
+    "editorial_family": "GF-04",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 185,
+    "label": "03-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-043",
+    "editorial_family": "GF-05",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 186,
+    "label": "03-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-044",
+    "editorial_family": "GF-05",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 197,
+    "label": "04-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-045",
+    "editorial_family": "GF-06",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 198,
+    "label": "04-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-046",
+    "editorial_family": "GF-06",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 200,
+    "label": "04-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-047",
+    "editorial_family": "GF-06",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 200,
+    "label": "04-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-048",
+    "editorial_family": "GF-06",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 201,
+    "label": "04-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-049",
+    "editorial_family": "GF-06",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 202,
+    "label": "04-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-050",
+    "editorial_family": "GF-06",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 203,
+    "label": "04-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-051",
+    "editorial_family": "GF-07",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 204,
+    "label": "04-08",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-052",
+    "editorial_family": "GF-07",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 205,
+    "label": "04-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-053",
+    "editorial_family": "GF-07",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 206,
+    "label": "04-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-054",
+    "editorial_family": "GF-07",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 207,
+    "label": "04-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-055",
+    "editorial_family": "GF-07",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 207,
+    "label": "04-12",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-056",
+    "editorial_family": "GF-07",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 207,
+    "label": "04-13",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-057",
+    "editorial_family": "GF-07",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 207,
+    "label": "04-14",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-058",
+    "editorial_family": "GF-07",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 207,
+    "label": "04-15",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-059",
+    "editorial_family": "GF-07",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 207,
+    "label": "04-16",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-060",
+    "editorial_family": "GF-07",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 208,
+    "label": "04-17",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-061",
+    "editorial_family": "GF-08",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 208,
+    "label": "04-18",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-062",
+    "editorial_family": "GF-08",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 209,
+    "label": "04-19",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-063",
+    "editorial_family": "GF-08",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 209,
+    "label": "04-20",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-064",
+    "editorial_family": "GF-08",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 210,
+    "label": "04-21",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-065",
+    "editorial_family": "GF-08",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 210,
+    "label": "04-22",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-066",
+    "editorial_family": "GF-08",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 213,
+    "label": "04-23",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-067",
+    "editorial_family": "GF-08",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 214,
+    "label": "04-24",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-068",
+    "editorial_family": "GF-08",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 216,
+    "label": "04-25",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-069",
+    "editorial_family": "GF-08",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 216,
+    "label": "04-26",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-070",
+    "editorial_family": "GF-08",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 216,
+    "label": "05-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-071",
+    "editorial_family": "GF-08",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 217,
+    "label": "05-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-072",
+    "editorial_family": "GF-09",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 217,
+    "label": "05-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-073",
+    "editorial_family": "GF-09",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 221,
+    "label": "05-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-074",
+    "editorial_family": "GF-09",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 222,
+    "label": "05-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-075",
+    "editorial_family": "GF-09",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 223,
+    "label": "05-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-076",
+    "editorial_family": "GF-09",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 229,
+    "label": "05-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-077",
+    "editorial_family": "GF-09",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 230,
+    "label": "05-08",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-078",
+    "editorial_family": "GF-09",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 231,
+    "label": "05-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-079",
+    "editorial_family": "GF-10",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 232,
+    "label": "06-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-080",
+    "editorial_family": "GF-10",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 233,
+    "label": "06-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-081",
+    "editorial_family": "GF-10",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 234,
+    "label": "06-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-082",
+    "editorial_family": "GF-10",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 235,
+    "label": "06-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-083",
+    "editorial_family": "GF-10",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 237,
+    "label": "06-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-084",
+    "editorial_family": "GF-10",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 240,
+    "label": "06-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-085",
+    "editorial_family": "GF-10",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 242,
+    "label": "06-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-086",
+    "editorial_family": "GF-10",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 244,
+    "label": "06-08",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-087",
+    "editorial_family": "GF-10",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 249,
+    "label": "06-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-088",
+    "editorial_family": "GF-11",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 250,
+    "label": "06-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-089",
+    "editorial_family": "GF-11",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 252,
+    "label": "06-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-088",
+    "editorial_family": "GF-11",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 252,
+    "label": "06-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-090",
+    "editorial_family": "GF-11",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 252,
+    "label": "06-12",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-091",
+    "editorial_family": "GF-11",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 253,
+    "label": "06-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-089",
+    "editorial_family": "GF-11",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 253,
+    "label": "06-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-090",
+    "editorial_family": "GF-11",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 253,
+    "label": "06-12",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-091",
+    "editorial_family": "GF-11",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 281,
+    "label": "08-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-092",
+    "editorial_family": "GF-13",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 281,
+    "label": "08-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-093",
+    "editorial_family": "GF-13",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 283,
+    "label": "08-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-094",
+    "editorial_family": "GF-13",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 283,
+    "label": "08-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-095",
+    "editorial_family": "GF-13",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 285,
+    "label": "08-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-096",
+    "editorial_family": "GF-13",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 294,
+    "label": "08-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-097",
+    "editorial_family": "GF-13",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 294,
+    "label": "08-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-098",
+    "editorial_family": "GF-13",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 295,
+    "label": "08-08",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-099",
+    "editorial_family": "GF-13",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 297,
+    "label": "08-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-100",
+    "editorial_family": "GF-13",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 297,
+    "label": "08-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-101",
+    "editorial_family": "GF-13",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 299,
+    "label": "08-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-102",
+    "editorial_family": "GF-13",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 299,
+    "label": "08-12",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-103",
+    "editorial_family": "GF-13",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 299,
+    "label": "08-13",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-104",
+    "editorial_family": "GF-13",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 300,
+    "label": "08-14",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-105",
+    "editorial_family": "GF-13",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 301,
+    "label": "08-15",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-106",
+    "editorial_family": "GF-13",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 301,
+    "label": "08-16",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-107",
+    "editorial_family": "GF-13",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 305,
+    "label": "09-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-108",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 305,
+    "label": "09-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-109",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 308,
+    "label": "09-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-110",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 308,
+    "label": "09-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-111",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 310,
+    "label": "09-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-112",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 311,
+    "label": "09-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-113",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 312,
+    "label": "09-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-114",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 312,
+    "label": "09-08",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-115",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 312,
+    "label": "09-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-116",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 313,
+    "label": "09-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-117",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 314,
+    "label": "09-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-118",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 314,
+    "label": "09-12",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-119",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 315,
+    "label": "09-13",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-120",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 315,
+    "label": "09-14",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-121",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 316,
+    "label": "09-15",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-122",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 317,
+    "label": "09-16",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-123",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 317,
+    "label": "09-17",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-124",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 318,
+    "label": "09-18",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-125",
+    "editorial_family": "GF-14",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 320,
+    "label": "10-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-126",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 320,
+    "label": "10-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-127",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 321,
+    "label": "10-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-128",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 321,
+    "label": "10-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-129",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 322,
+    "label": "10-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-130",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 323,
+    "label": "10-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-131",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 324,
+    "label": "10-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-132",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 324,
+    "label": "10-08",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-133",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 325,
+    "label": "10-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-134",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 326,
+    "label": "10-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-135",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 327,
+    "label": "10-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-136",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 327,
+    "label": "10-12",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-137",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 328,
+    "label": "10-13",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-138",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 328,
+    "label": "10-14",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-139",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 329,
+    "label": "10-15",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-140",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 330,
+    "label": "10-16",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-141",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 330,
+    "label": "10-17",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-142",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 331,
+    "label": "10-18",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-143",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 332,
+    "label": "10-19",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-144",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 333,
+    "label": "10-20",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-145",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 334,
+    "label": "10-21",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-146",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 334,
+    "label": "10-22",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-147",
+    "editorial_family": "GF-15",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 341,
+    "label": "11-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-148",
+    "editorial_family": "GF-16",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 341,
+    "label": "11-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-149",
+    "editorial_family": "GF-16",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 341,
+    "label": "11-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-150",
+    "editorial_family": "GF-16",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 342,
+    "label": "11-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-151",
+    "editorial_family": "GF-16",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 344,
+    "label": "11-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-152",
+    "editorial_family": "GF-16",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 344,
+    "label": "11-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-153",
+    "editorial_family": "GF-16",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 345,
+    "label": "12-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-154",
+    "editorial_family": "GF-17",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 346,
+    "label": "12-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-155",
+    "editorial_family": "GF-17",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 347,
+    "label": "12-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-156",
+    "editorial_family": "GF-17",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 349,
+    "label": "12-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-157",
+    "editorial_family": "GF-17",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 349,
+    "label": "12-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-158",
+    "editorial_family": "GF-17",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 350,
+    "label": "12-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-159",
+    "editorial_family": "GF-17",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 350,
+    "label": "12-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-160",
+    "editorial_family": "GF-17",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 351,
+    "label": "12-08",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-161",
+    "editorial_family": "GF-17",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 352,
+    "label": "12-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-162",
+    "editorial_family": "GF-17",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 353,
+    "label": "12-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-163",
+    "editorial_family": "GF-17",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 354,
+    "label": "12-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-164",
+    "editorial_family": "GF-17",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 354,
+    "label": "12-12",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-165",
+    "editorial_family": "GF-17",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 372,
+    "label": "13-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-166",
+    "editorial_family": "GF-19",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 374,
+    "label": "13-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-167",
+    "editorial_family": "GF-19",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 374,
+    "label": "13-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-168",
+    "editorial_family": "GF-19",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 376,
+    "label": "13-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-169",
+    "editorial_family": "GF-19",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 377,
+    "label": "13-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-170",
+    "editorial_family": "GF-19",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 378,
+    "label": "13-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-171",
+    "editorial_family": "GF-19",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 378,
+    "label": "13-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-172",
+    "editorial_family": "GF-19",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 380,
+    "label": "13-08",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-173",
+    "editorial_family": "GF-19",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 385,
+    "label": "14-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-174",
+    "editorial_family": "GF-20",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 385,
+    "label": "14-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-175",
+    "editorial_family": "GF-20",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 387,
+    "label": "14-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-176",
+    "editorial_family": "GF-20",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 387,
+    "label": "14-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-177",
+    "editorial_family": "GF-20",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 388,
+    "label": "14-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-178",
+    "editorial_family": "GF-20",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 389,
+    "label": "14-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-179",
+    "editorial_family": "GF-20",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 389,
+    "label": "14-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-180",
+    "editorial_family": "GF-20",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 390,
+    "label": "14-08",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-181",
+    "editorial_family": "GF-20",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 390,
+    "label": "14-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-182",
+    "editorial_family": "GF-20",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 390,
+    "label": "14-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-183",
+    "editorial_family": "GF-20",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 391,
+    "label": "14-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-184",
+    "editorial_family": "GF-20",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 391,
+    "label": "14-12",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-185",
+    "editorial_family": "GF-20",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 402,
+    "label": "15-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-186",
+    "editorial_family": "GF-21",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 403,
+    "label": "15-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-187",
+    "editorial_family": "GF-21",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 404,
+    "label": "15-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-188",
+    "editorial_family": "GF-21",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 406,
+    "label": "15-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-189",
+    "editorial_family": "GF-21",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 406,
+    "label": "15-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-190",
+    "editorial_family": "GF-21",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 406,
+    "label": "15-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-191",
+    "editorial_family": "GF-21",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 406,
+    "label": "15-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-192",
+    "editorial_family": "GF-21",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 406,
+    "label": "15-08",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-193",
+    "editorial_family": "GF-21",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 407,
+    "label": "15-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-194",
+    "editorial_family": "GF-21",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 407,
+    "label": "15-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-195",
+    "editorial_family": "GF-21",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 408,
+    "label": "15-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-196",
+    "editorial_family": "GF-21",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 409,
+    "label": "15-12",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-197",
+    "editorial_family": "GF-21",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 410,
+    "label": "15-13",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-198",
+    "editorial_family": "GF-21",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 411,
+    "label": "15-14",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-199",
+    "editorial_family": "GF-21",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 412,
+    "label": "15-15",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-200",
+    "editorial_family": "GF-21",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 414,
+    "label": "16-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-201",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 414,
+    "label": "16-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-202",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 415,
+    "label": "16-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-203",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 416,
+    "label": "16-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-204",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 416,
+    "label": "16-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-205",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 416,
+    "label": "16-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-206",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 416,
+    "label": "16-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-207",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 417,
+    "label": "16-08",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-208",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 417,
+    "label": "16-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-209",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 417,
+    "label": "16-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-210",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 418,
+    "label": "16-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-211",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 419,
+    "label": "16-12",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-212",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 419,
+    "label": "16-13",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-213",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 419,
+    "label": "16-14",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-214",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 419,
+    "label": "16-15",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-215",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 420,
+    "label": "06-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-081",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 420,
+    "label": "09-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-114",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 420,
+    "label": "09-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-118",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 420,
+    "label": "16-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-201",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 420,
+    "label": "16-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-206",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 420,
+    "label": "16-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-207",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 420,
+    "label": "16-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-209",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 420,
+    "label": "16-12",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-212",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 420,
+    "label": "16-14",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-214",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 420,
+    "label": "16-15",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-215",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 421,
+    "label": "06-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-083",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 421,
+    "label": "09-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-117",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 421,
+    "label": "09-14",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-121",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 421,
+    "label": "16-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-203",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 421,
+    "label": "16-08",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-208",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 421,
+    "label": "16-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-211",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 421,
+    "label": "16-16",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-216",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 421,
+    "label": "16-17",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-217",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 421,
+    "label": "16-18",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-218",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 421,
+    "label": "16-19",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-219",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 421,
+    "label": "16-20",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-220",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 421,
+    "label": "16-21",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-221",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 421,
+    "label": "16-22",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-222",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 421,
+    "label": "16-23",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-223",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 422,
+    "label": "16-24",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-224",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 422,
+    "label": "16-25",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-225",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 422,
+    "label": "16-26",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-226",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 422,
+    "label": "16-27",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-227",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 422,
+    "label": "16-28",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-228",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 422,
+    "label": "16-29",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-229",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 422,
+    "label": "16-30",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-230",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 422,
+    "label": "16-31",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-231",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 422,
+    "label": "16-32",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-232",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 423,
+    "label": "09-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-116",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 423,
+    "label": "16-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-202",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 423,
+    "label": "16-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-205",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 423,
+    "label": "16-33",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-233",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 424,
+    "label": "09-13",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-120",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 424,
+    "label": "16-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-210",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 424,
+    "label": "16-13",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-213",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 424,
+    "label": "16-34",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-234",
+    "editorial_family": "GF-22",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 427,
+    "label": "09-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-114",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 427,
+    "label": "16-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-203",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 427,
+    "label": "16-18",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-218",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 427,
+    "label": "16-28",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-228",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 428,
+    "label": "09-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-118",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 429,
+    "label": "16-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-211",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 429,
+    "label": "16-22",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-222",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 429,
+    "label": "16-32",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-232",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 431,
+    "label": "17-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-001",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 431,
+    "label": "17-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-002",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 431,
+    "label": "17-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-003",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 433,
+    "label": "17-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-004",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 434,
+    "label": "17-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-005",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 435,
+    "label": "17-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-006",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 435,
+    "label": "17-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-007",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 436,
+    "label": "17-08",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-008",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 436,
+    "label": "17-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-009",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 436,
+    "label": "17-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-010",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 437,
+    "label": "17-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-011",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 439,
+    "label": "17-12",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-012",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 439,
+    "label": "17-13",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-013",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 440,
+    "label": "17-14",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-014",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 440,
+    "label": "17-15",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-235",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 440,
+    "label": "17-16",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-236",
+    "editorial_family": "GF-23",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 441,
+    "label": "18-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-237",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 441,
+    "label": "18-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-238",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 443,
+    "label": "18-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-015",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 444,
+    "label": "18-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-016",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 444,
+    "label": "18-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-017",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 444,
+    "label": "18-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-239",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 445,
+    "label": "18-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-018",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 445,
+    "label": "18-08",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-240",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 445,
+    "label": "18-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-241",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 445,
+    "label": "18-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-019",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 446,
+    "label": "18-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-015",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 446,
+    "label": "18-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-016",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 446,
+    "label": "18-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-019",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 447,
+    "label": "18-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-242",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 447,
+    "label": "18-12",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-243",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 447,
+    "label": "18-13",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-244",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 447,
+    "label": "18-14",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-245",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 448,
+    "label": "18-15",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-246",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 448,
+    "label": "18-16",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-247",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 449,
+    "label": "18-17",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-020",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 450,
+    "label": "18-18",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-021",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 450,
+    "label": "18-19",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-248",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 451,
+    "label": "18-20",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-249",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 451,
+    "label": "18-21",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-250",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 452,
+    "label": "18-17",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-020",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 452,
+    "label": "18-18",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-021",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 452,
+    "label": "18-22",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-251",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 452,
+    "label": "18-23",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-252",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 452,
+    "label": "18-24",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-253",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 453,
+    "label": "18-25",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-254",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 453,
+    "label": "18-26",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-255",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 453,
+    "label": "18-27",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-256",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 453,
+    "label": "18-28",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-257",
+    "editorial_family": "GF-24",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 456,
+    "label": "19-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-258",
+    "editorial_family": "GF-25",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 457,
+    "label": "19-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-259",
+    "editorial_family": "GF-25",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 457,
+    "label": "19-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-260",
+    "editorial_family": "GF-25",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 458,
+    "label": "19-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-261",
+    "editorial_family": "GF-25",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 464,
+    "label": "19-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-262",
+    "editorial_family": "GF-25",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 467,
+    "label": "20-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-263",
+    "editorial_family": "GF-26",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 469,
+    "label": "20-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-264",
+    "editorial_family": "GF-26",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 470,
+    "label": "20-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-265",
+    "editorial_family": "GF-26",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 472,
+    "label": "20-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-266",
+    "editorial_family": "GF-26",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 488,
+    "label": "22-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-267",
+    "editorial_family": "GF-28",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 489,
+    "label": "22-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-268",
+    "editorial_family": "GF-28",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 500,
+    "label": "24-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-269",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 501,
+    "label": "24-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-270",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 501,
+    "label": "24-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-022",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 511,
+    "label": "24-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-023",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 511,
+    "label": "24-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-271",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 512,
+    "label": "24-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-272",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 512,
+    "label": "24-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-273",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 513,
+    "label": "24-08",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-024",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 513,
+    "label": "24-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-274",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 513,
+    "label": "24-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-275",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 514,
+    "label": "24-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-276",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 519,
+    "label": "24-12",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-025",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 520,
+    "label": "24-13",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-026",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 520,
+    "label": "24-14",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-277",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 522,
+    "label": "24-15",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-278",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 522,
+    "label": "24-16",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-279",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 522,
+    "label": "24-17",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-027",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 522,
+    "label": "24-18",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-280",
+    "editorial_family": "GF-30",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 524,
+    "label": "25-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-028",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 524,
+    "label": "25-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-029",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 525,
+    "label": "04-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-053",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 525,
+    "label": "04-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-054",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 525,
+    "label": "05-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-071",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 525,
+    "label": "05-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-072",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 525,
+    "label": "05-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-074",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 525,
+    "label": "05-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-077",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 525,
+    "label": "08-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-095",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 525,
+    "label": "08-12",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-103",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 526,
+    "label": "25-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-030",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 526,
+    "label": "25-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-031",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 526,
+    "label": "25-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-032",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 527,
+    "label": "25-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-281",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 527,
+    "label": "25-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-033",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 527,
+    "label": "25-08",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-034",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 528,
+    "label": "25-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-035",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 528,
+    "label": "25-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-036",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 529,
+    "label": "25-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-282",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 529,
+    "label": "25-12",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-283",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 537,
+    "label": "26-01",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-037",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 537,
+    "label": "26-02",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-284",
+    "editorial_family": "GF-31",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 548,
+    "label": "26-03",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-285",
+    "editorial_family": "GF-32",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 548,
+    "label": "26-04",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-286",
+    "editorial_family": "GF-32",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 549,
+    "label": "26-05",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-287",
+    "editorial_family": "GF-32",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 549,
+    "label": "26-06",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-288",
+    "editorial_family": "GF-32",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 550,
+    "label": "26-07",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-289",
+    "editorial_family": "GF-32",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 550,
+    "label": "26-08",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-038",
+    "editorial_family": "GF-32",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 550,
+    "label": "26-09",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-290",
+    "editorial_family": "GF-32",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 551,
+    "label": "26-10",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-291",
+    "editorial_family": "GF-32",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 551,
+    "label": "26-11",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-292",
+    "editorial_family": "GF-32",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 552,
+    "label": "26-12",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-293",
+    "editorial_family": "GF-32",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 552,
+    "label": "26-13",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-294",
+    "editorial_family": "GF-32",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 553,
+    "label": "26-14",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-295",
+    "editorial_family": "GF-32",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 553,
+    "label": "26-15",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-296",
+    "editorial_family": "GF-32",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 554,
+    "label": "26-16",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-297",
+    "editorial_family": "GF-32",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 554,
+    "label": "26-17",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-039",
+    "editorial_family": "GF-32",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  },
+  {
+    "page": 555,
+    "label": "26-18",
+    "method": "AUTOMATED_LABEL_OCCURRENCE_NOT_READING",
+    "editorial_entry": "GC-FORM-298",
+    "editorial_family": "GF-32",
+    "classification": "INVENTORIED_LABEL_OCCURRENCE; may be definition, recapitulation, or cross-reference; not a new law by counting"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "chunks": 564,
+  "documents": [
+    "README.md",
+    "Reflections_PierreCampergue.pdf",
+    "articles/purpose.md"
+  ],
+  "methods": [
+    "legacy",
+    "tfidf",
+    "bm25"
+  ],
+  "default": "bm25",
+  "chunking": "existing one-page chunks; Markdown whole-file",
+  "input_sha256": {
+    "corpus/extracted/Reflections_PierreCampergue.pages.jsonl": "cc774cf5d62505450b50ba891fbd85d0d57a39750676e6b16459ea1056674239",
+    "README.md": "50a8662dc413c9b5e37a84a6122c6e24d15a009969fa37ee40820d34826f43af",
+    "articles/purpose.md": "52aea6c30cef9cb716943680a9bf2668db5d825b2f26835eab8ee183c3e5015f"
+  },
+  "scope": "Existing index only. Other PDFs and code documentation are not indexed."
+}

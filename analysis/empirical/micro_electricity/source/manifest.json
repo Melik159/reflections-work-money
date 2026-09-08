@@ -1,0 +1,84 @@
+{
+  "acquired": "2026-09-08",
+  "design_file": "analysis/31_micro_test_design.md",
+  "design_sha256": "b3dfa10cc8878c9e5345c3b0df8901be9e67ab0c1d8b52caf38e19d99c5dde6c",
+  "selection_file": "analysis/31_micro_data_selection.md",
+  "files": [
+    {
+      "file": "analysis/empirical/micro_electricity/source/T09.08.csv",
+      "url": "https://www.eia.gov/totalenergy/data/browser/csv.php?tbl=T09.08",
+      "sha256": "9738089877c21c1f95525adba1ab4fd0583eea8f3bd0a96f8e803086f18a0577",
+      "bytes": 566967
+    },
+    {
+      "file": "analysis/empirical/micro_electricity/source/T09.09.csv",
+      "url": "https://www.eia.gov/totalenergy/data/browser/csv.php?tbl=T09.09",
+      "sha256": "32233ee0aa440107dbdda6507761720fa7935cdaa489f61c492f8d550951c486",
+      "bytes": 669816
+    },
+    {
+      "file": "analysis/empirical/micro_electricity/source/TA6.csv",
+      "url": "https://www.eia.gov/totalenergy/data/browser/csv.php?tbl=TA6",
+      "sha256": "debcad30ba9c9b9dcf4f35e92b33a0bacbdfb34292d20a5b6021fdb2c370ef81",
+      "bytes": 53749
+    },
+    {
+      "file": "analysis/empirical/micro_electricity/source/T07.02B.csv",
+      "url": "https://www.eia.gov/totalenergy/data/browser/csv.php?tbl=T07.02B",
+      "sha256": "d7c66e2903237529f2f842dc2a5c753089de7e228ff802bffe2df369a2d85476",
+      "bytes": 1235012
+    },
+    {
+      "file": "analysis/empirical/micro_electricity/source/T07.06.csv",
+      "url": "https://www.eia.gov/totalenergy/data/browser/csv.php?tbl=T07.06",
+      "sha256": "16baf02d79c2892ab6929f1979afb729fcb29141332b88946e93a03ba9610aa3",
+      "bytes": 596914
+    },
+    {
+      "file": "analysis/empirical/micro_electricity/source/reliability.html",
+      "url": "https://www.eia.gov/electricity/annual/html/epa_11_01.html",
+      "sha256": "0e7caf87ebe106a78bc8a32942a340a02a1343f5e3f83e0cb3bf5921739a77c1",
+      "bytes": 18222
+    },
+    {
+      "file": "analysis/empirical/micro_electricity/source/heat_rate_notes.html",
+      "url": "https://www.eia.gov/electricity/annual/html/epa_08_01.html",
+      "sha256": "510daf073549b6be394f10d671e592fabed4feeefeb8d74faed36021bb256a5d",
+      "bytes": 6519
+    },
+    {
+      "file": "analysis/empirical/micro_electricity/source/bls_cpi_2001_2010.json",
+      "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/CUUR0000SA0?startyear=2001&endyear=2010",
+      "sha256": "a4870283c10abb5f98d2d31c85e03f5e1df695ea06355b7338462d6b2e2b1328",
+      "bytes": 10560
+    },
+    {
+      "file": "analysis/empirical/micro_electricity/source/bls_cpi_2011_2020.json",
+      "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/CUUR0000SA0?startyear=2011&endyear=2020",
+      "sha256": "f5f4cb1f965b454fb6ce27b04be86faed11da80cf020516955a023aaf98c8aa8",
+      "bytes": 10703
+    },
+    {
+      "file": "analysis/empirical/micro_electricity/source/bls_cpi_2021_2023.json",
+      "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/CUUR0000SA0?startyear=2021&endyear=2023",
+      "sha256": "96152c95baffc204505dbf2424512433c8c2883677524fe247c43437a8cb1c59",
+      "bytes": 3297
+    }
+  ],
+  "snapshot_policy": "Live institutional downloads archived once; future revisions need a new directory and manifest.",
+  "selected_window": [
+    2001,
+    2023
+  ],
+  "quality_window": [
+    2014,
+    2023
+  ],
+  "failed_acquisitions": [
+    {
+      "url": "https://fred.stlouisfed.org/graph/graph.csv?id=CPIAUCNS&cosd=2001-01-01&coed=2023-12-31",
+      "status": "HTTP404",
+      "fallback": "Direct BLS API CUUR0000SA0, same general CPI-U NSA concept"
+    }
+  ]
+}

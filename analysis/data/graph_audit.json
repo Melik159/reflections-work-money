@@ -1,0 +1,30 @@
+{
+  "nodes": 69,
+  "edges": 54,
+  "cycles": [
+    [
+      "CPC-0013",
+      "CPC-0028",
+      "CPC-0013"
+    ],
+    [
+      "CPC-0003",
+      "CPC-0042",
+      "CPC-0003"
+    ]
+  ],
+  "cycle_detection": "DFS back edges over all relation types; not enumeration of all simple cycles.",
+  "orphans": [
+    "CPC-0006",
+    "CPC-0008",
+    "CPC-0024",
+    "CPC-0027",
+    "CPC-0032",
+    "CPC-0033",
+    "CPC-0034",
+    "CPC-0037",
+    "CPC-0045",
+    "CPC-0059"
+  ],
+  "scope": "Partial interpretive graph; absence of edges does not prove logical independence."
+}

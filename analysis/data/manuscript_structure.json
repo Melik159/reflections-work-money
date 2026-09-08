@@ -1,0 +1,707 @@
+[
+  {
+    "id": "MS-1",
+    "title": "Preamble",
+    "pages": [
+      12,
+      37
+    ],
+    "descriptive_summary": "Voir notes de lecture.",
+    "concepts": [
+      "accounting",
+      "barter",
+      "cash",
+      "coefficient",
+      "constraints",
+      "cost",
+      "creation",
+      "cycle",
+      "deflation",
+      "distribution",
+      "energy",
+      "entropy",
+      "environment",
+      "force",
+      "growth",
+      "inflation",
+      "living",
+      "money",
+      "price",
+      "product",
+      "production",
+      "productive",
+      "productivity",
+      "purchasing",
+      "remaining",
+      "supply",
+      "transformation",
+      "unit",
+      "unproductive",
+      "use",
+      "utility",
+      "wealth",
+      "work"
+    ],
+    "main_claims": [
+      "CPC-0005",
+      "CPC-0006",
+      "CPC-0007",
+      "CPC-0008",
+      "CPC-0009",
+      "CPC-0010",
+      "CPC-0011",
+      "CPC-0012",
+      "CPC-0013",
+      "CPC-0014",
+      "CPC-0015",
+      "CPC-0016",
+      "CPC-0017",
+      "CPC-0018",
+      "CPC-0019",
+      "CPC-0020",
+      "CPC-0021",
+      "CPC-0022",
+      "CPC-0023",
+      "CPC-0024",
+      "CPC-0025",
+      "CPC-0026",
+      "CPC-0027",
+      "CPC-0028",
+      "CPC-0029",
+      "CPC-0030",
+      "CPC-0031",
+      "CPC-0032",
+      "CPC-0033",
+      "CPC-0034",
+      "CPC-0035",
+      "CPC-0036",
+      "CPC-0037",
+      "CPC-0038",
+      "CPC-0039",
+      "CPC-0040",
+      "CPC-0041",
+      "CPC-0042",
+      "CPC-0043",
+      "CPC-0044",
+      "CPC-0045"
+    ],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "BODY_EXAMINED",
+    "parent": null
+  },
+  {
+    "id": "MS-1.1",
+    "title": "Monetary Developments",
+    "pages": [
+      12,
+      30
+    ],
+    "descriptive_summary": "Voir notes de lecture.",
+    "concepts": [
+      "accounting",
+      "cost",
+      "creation",
+      "deflation",
+      "distribution",
+      "energy",
+      "environment",
+      "growth",
+      "inflation",
+      "living",
+      "money",
+      "price",
+      "product",
+      "production",
+      "productive",
+      "productivity",
+      "purchasing",
+      "remaining",
+      "transformation",
+      "unit",
+      "unproductive",
+      "use",
+      "wealth",
+      "work"
+    ],
+    "main_claims": [
+      "CPC-0005",
+      "CPC-0006",
+      "CPC-0007",
+      "CPC-0008",
+      "CPC-0009",
+      "CPC-0010",
+      "CPC-0011",
+      "CPC-0012",
+      "CPC-0013",
+      "CPC-0014",
+      "CPC-0015",
+      "CPC-0016",
+      "CPC-0017",
+      "CPC-0018",
+      "CPC-0019",
+      "CPC-0020",
+      "CPC-0021",
+      "CPC-0022",
+      "CPC-0023",
+      "CPC-0024",
+      "CPC-0025",
+      "CPC-0026",
+      "CPC-0027",
+      "CPC-0028",
+      "CPC-0029",
+      "CPC-0030",
+      "CPC-0031"
+    ],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "BODY_EXAMINED",
+    "parent": "MS-1"
+  },
+  {
+    "id": "MS-1.2",
+    "title": "Core Elements",
+    "pages": [
+      30,
+      37
+    ],
+    "descriptive_summary": "Voir notes de lecture.",
+    "concepts": [
+      "barter",
+      "cash",
+      "coefficient",
+      "constraints",
+      "cycle",
+      "energy",
+      "entropy",
+      "force",
+      "money",
+      "price",
+      "product",
+      "production",
+      "productivity",
+      "remaining",
+      "supply",
+      "transformation",
+      "utility",
+      "work"
+    ],
+    "main_claims": [
+      "CPC-0032",
+      "CPC-0033",
+      "CPC-0034",
+      "CPC-0035",
+      "CPC-0036",
+      "CPC-0037",
+      "CPC-0038",
+      "CPC-0039",
+      "CPC-0040",
+      "CPC-0041",
+      "CPC-0042",
+      "CPC-0043",
+      "CPC-0044",
+      "CPC-0045"
+    ],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "BODY_EXAMINED",
+    "parent": "MS-1"
+  },
+  {
+    "id": "MS-2",
+    "title": "Developments",
+    "pages": [
+      38,
+      559
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [
+      "accounting",
+      "agent",
+      "cash",
+      "complexity",
+      "force",
+      "labour",
+      "money",
+      "price",
+      "product",
+      "productivity",
+      "purchasing",
+      "transformation",
+      "utility",
+      "wealth",
+      "work"
+    ],
+    "main_claims": [
+      "CPC-0046",
+      "CPC-0047",
+      "CPC-0048",
+      "CPC-0049",
+      "CPC-0050",
+      "CPC-0051",
+      "CPC-0052",
+      "CPC-0053",
+      "CPC-0054",
+      "CPC-0055",
+      "CPC-0056",
+      "CPC-0057",
+      "CPC-0058",
+      "CPC-0059",
+      "CPC-0060",
+      "CPC-0061",
+      "CPC-0062",
+      "CPC-0063"
+    ],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": null
+  },
+  {
+    "id": "MS-2.1",
+    "title": "Prolegomena",
+    "pages": [
+      38,
+      167
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.2",
+    "title": "Value of the monetary unit",
+    "pages": [
+      168,
+      184
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [
+      "cash",
+      "money"
+    ],
+    "main_claims": [
+      "CPC-0046"
+    ],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.3",
+    "title": "Basic Definitions",
+    "pages": [
+      184,
+      194
+    ],
+    "descriptive_summary": "Voir notes de lecture.",
+    "concepts": [
+      "accounting",
+      "agent",
+      "cash",
+      "complexity",
+      "force",
+      "labour",
+      "money",
+      "price",
+      "product",
+      "productivity",
+      "purchasing",
+      "transformation",
+      "utility",
+      "wealth",
+      "work"
+    ],
+    "main_claims": [
+      "CPC-0046",
+      "CPC-0047",
+      "CPC-0048",
+      "CPC-0049",
+      "CPC-0050",
+      "CPC-0051",
+      "CPC-0052",
+      "CPC-0053",
+      "CPC-0054",
+      "CPC-0055",
+      "CPC-0056",
+      "CPC-0057",
+      "CPC-0058",
+      "CPC-0059",
+      "CPC-0060",
+      "CPC-0061",
+      "CPC-0062",
+      "CPC-0063"
+    ],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "BODY_EXAMINED",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.4",
+    "title": "Mechanics of exchanges",
+    "pages": [
+      194,
+      215
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [
+      "agent",
+      "transformation"
+    ],
+    "main_claims": [
+      "CPC-0063"
+    ],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.5",
+    "title": "Basic Principles",
+    "pages": [
+      216,
+      230
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.6",
+    "title": "Internal Energies",
+    "pages": [
+      231,
+      257
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.7",
+    "title": "Flows and transformations",
+    "pages": [
+      258,
+      278
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.8",
+    "title": "Core Laws",
+    "pages": [
+      279,
+      301
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.9",
+    "title": "Additional definitions",
+    "pages": [
+      302,
+      318
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.10",
+    "title": "Difficulties",
+    "pages": [
+      319,
+      334
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.11",
+    "title": "Structure of exchanges",
+    "pages": [
+      335,
+      344
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.12",
+    "title": "Cycles",
+    "pages": [
+      345,
+      371
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.13",
+    "title": "Money and Work – Conditions of creation",
+    "pages": [
+      372,
+      383
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.14",
+    "title": "Processing yields",
+    "pages": [
+      384,
+      401
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.15",
+    "title": "Product and Money – Supply and Demand",
+    "pages": [
+      402,
+      412
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.16",
+    "title": "Ecodynamic potentials",
+    "pages": [
+      413,
+      430
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.17",
+    "title": "Ecoelastic coefficients",
+    "pages": [
+      431,
+      440
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.18",
+    "title": "Ecometric coefficient",
+    "pages": [
+      441,
+      453
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.19",
+    "title": "Link heat consumption to money created",
+    "pages": [
+      454,
+      464
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.20",
+    "title": "Conservation Laws",
+    "pages": [
+      465,
+      472
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.21",
+    "title": "Discrimination of economic agents",
+    "pages": [
+      473,
+      485
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.22",
+    "title": "Monopoles",
+    "pages": [
+      486,
+      493
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.23",
+    "title": "Cycles – Polar interpretation",
+    "pages": [
+      494,
+      499
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.24",
+    "title": "Miscellaneous observations",
+    "pages": [
+      500,
+      522
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.25",
+    "title": "Transformations coefficients",
+    "pages": [
+      523,
+      535
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-2.26",
+    "title": "Micro – Macro link",
+    "pages": [
+      536,
+      559
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": "MS-2"
+  },
+  {
+    "id": "MS-3",
+    "title": "Annexes",
+    "pages": [
+      560,
+      560
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": null
+  },
+  {
+    "id": "MS-4",
+    "title": "Bibliographic Note",
+    "pages": [
+      560,
+      560
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": null
+  },
+  {
+    "id": "MS-5",
+    "title": "Introduction of the Author",
+    "pages": [
+      561,
+      562
+    ],
+    "descriptive_summary": "Titre et plage annoncés par Summary ; corps non entièrement examiné.",
+    "concepts": [],
+    "main_claims": [],
+    "root_question_relation": "Contribution au mécanisme travail→Money à établir section par section.",
+    "verification": "TOC_PROVISIONAL",
+    "parent": null
+  }
+]

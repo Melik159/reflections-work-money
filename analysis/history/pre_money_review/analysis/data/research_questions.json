@@ -1,0 +1,151 @@
+[
+  {
+    "id": "RQ-01-01",
+    "chapter": "CH-01",
+    "question": "Comment la question historique est-elle traduite en un problème de richesse monétaire ?",
+    "claims": [
+      "CPC-0001",
+      "CPC-0003",
+      "CPC-0007",
+      "CPC-0008",
+      "CPC-0018",
+      "CPC-0028",
+      "CPC-0029",
+      "CPC-0030",
+      "CPC-0031",
+      "CPC-0048"
+    ],
+    "status": "OPEN",
+    "interpretive": true
+  },
+  {
+    "id": "RQ-02-01",
+    "chapter": "CH-02",
+    "question": "Quelles hypothèses s’ajoutent à M=n.u pour obtenir la neutralité monétaire ?",
+    "claims": [
+      "CPC-0002",
+      "CPC-0005",
+      "CPC-0010",
+      "CPC-0011",
+      "CPC-0012",
+      "CPC-0013",
+      "CPC-0014",
+      "CPC-0025",
+      "CPC-0026",
+      "CPC-0027"
+    ],
+    "status": "OPEN",
+    "interpretive": true
+  },
+  {
+    "id": "RQ-03-01",
+    "chapter": "CH-03",
+    "question": "Quelles grandeurs et quels observateurs rendent les définitions cohérentes ?",
+    "claims": [
+      "CPC-0006",
+      "CPC-0041",
+      "CPC-0046",
+      "CPC-0049",
+      "CPC-0050",
+      "CPC-0051",
+      "CPC-0052",
+      "CPC-0053",
+      "CPC-0054",
+      "CPC-0055",
+      "CPC-0056",
+      "CPC-0057",
+      "CPC-0059",
+      "CPC-0060",
+      "CPC-0061",
+      "CPC-0062",
+      "CPC-0063"
+    ],
+    "status": "OPEN",
+    "interpretive": true
+  },
+  {
+    "id": "RQ-04-01",
+    "chapter": "CH-04",
+    "question": "Quand une accélération de production exige-t-elle plus de Work et réduit-elle le prix payé ?",
+    "claims": [
+      "CPC-0009",
+      "CPC-0015",
+      "CPC-0016",
+      "CPC-0017",
+      "CPC-0019",
+      "CPC-0020",
+      "CPC-0021",
+      "CPC-0035",
+      "CPC-0036",
+      "CPC-0058"
+    ],
+    "status": "OPEN",
+    "interpretive": true
+  },
+  {
+    "id": "RQ-05-01",
+    "chapter": "CH-05",
+    "question": "Quelles hypothèses permettent les équivalences et la conservation économiques ?",
+    "claims": [
+      "CPC-0004",
+      "CPC-0022",
+      "CPC-0023",
+      "CPC-0024",
+      "CPC-0032",
+      "CPC-0033",
+      "CPC-0034",
+      "CPC-0039",
+      "CPC-0040",
+      "CPC-0042",
+      "CPC-0043",
+      "CPC-0044",
+      "CPC-0045",
+      "CPC-0047"
+    ],
+    "status": "OPEN",
+    "interpretive": true
+  },
+  {
+    "id": "RQ-06-01",
+    "chapter": "CH-06",
+    "question": "Quelles lois relient les variables avant le calcul des cycles ?",
+    "claims": [],
+    "status": "OPEN",
+    "interpretive": true
+  },
+  {
+    "id": "RQ-07-01",
+    "chapter": "CH-07",
+    "question": "Sous quelles conditions un cycle crée-t-il Money ou Work ?",
+    "claims": [
+      "CPC-0037",
+      "CPC-0038"
+    ],
+    "status": "OPEN",
+    "interpretive": true
+  },
+  {
+    "id": "RQ-08-01",
+    "chapter": "CH-08",
+    "question": "Comment le formalisme local est-il agrégé et différencié ?",
+    "claims": [],
+    "status": "OPEN",
+    "interpretive": true
+  },
+  {
+    "id": "RQ-09-01",
+    "chapter": "CH-09",
+    "question": "Quel lien mesurable est proposé entre chaleur consommée et monnaie créée ?",
+    "claims": [],
+    "status": "OPEN",
+    "interpretive": true
+  },
+  {
+    "id": "RQ-10-01",
+    "chapter": "CH-10",
+    "question": "Comment les résultats changent-ils selon les agents et les structures de marché ?",
+    "claims": [],
+    "status": "OPEN",
+    "interpretive": true
+  }
+]

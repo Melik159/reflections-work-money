@@ -1,0 +1,105 @@
+{
+  "synthetic": true,
+  "empirical_validation": false,
+  "composition": [
+    {
+      "products": 2,
+      "K_local": [
+        0.5,
+        2
+      ],
+      "T_local": [
+        2,
+        5
+      ],
+      "quantities_initial": [
+        10,
+        3
+      ],
+      "quantities_changed": [
+        20,
+        2
+      ],
+      "K_fixed": 1.1428571428571428,
+      "K_replicated": 1.1428571428571428,
+      "K_changed": 0.8
+    },
+    {
+      "products": 3,
+      "K_local": [
+        0.5,
+        2,
+        4
+      ],
+      "T_local": [
+        2,
+        5,
+        1
+      ],
+      "quantities_initial": [
+        10,
+        3,
+        8
+      ],
+      "quantities_changed": [
+        20,
+        2,
+        1
+      ],
+      "K_fixed": 1.6744186046511629,
+      "K_replicated": 1.6744186046511629,
+      "K_changed": 0.8627450980392157
+    }
+  ],
+  "optimum": {
+    "source_pages": [
+      388,
+      389,
+      390
+    ],
+    "alpha": 0.39269908169872414,
+    "value": 0.3431457505076198,
+    "derivative": -1.3725830020304792,
+    "status": "CONDITIONAL_VALUE_REPRODUCED; CONSTRAINED_OPTIMUM_NOT_ESTABLISHED_BY_THIS_DIAGNOSTIC"
+  },
+  "utility": {
+    "initial": [
+      4,
+      2
+    ],
+    "transformed": [
+      16,
+      4
+    ],
+    "implied_yields": [
+      0.5,
+      0.75
+    ],
+    "status": "ORDINAL_ORDER_DOES_NOT_IDENTIFY_CARDINAL_RATIO"
+  },
+  "circularity": {
+    "T": [
+      1.0,
+      4.0,
+      9.0
+    ],
+    "omega": [
+      1,
+      2,
+      3
+    ],
+    "residuals": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "status": "CIRCULAR",
+    "admissible_independent_law_test": false
+  },
+  "limits": [
+    "K aggregation assumes additive comparable T and M; no Utility summed",
+    "Synthetic scaling test not a measurement of economic T",
+    "Nonzero free derivative does not exclude constrained optimum",
+    "No empirical regression or new dataset"
+  ]
+}

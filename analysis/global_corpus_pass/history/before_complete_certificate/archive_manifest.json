@@ -1,0 +1,38 @@
+[
+  {
+    "path": "analysis/global_corpus_pass/formula_families.json",
+    "sha256": "48debe5435b06d017e9ebbccdf85aaa60f2b99e0061250def5ea26ae539a6990"
+  },
+  {
+    "path": "analysis/global_corpus_pass/page_matrix.csv",
+    "sha256": "96c2c5977cbcd41526018d17f34520b2658b6b07d60c21942dc68edee4623e8a"
+  },
+  {
+    "path": "analysis/global_corpus_pass/blocks/p426_p450.md",
+    "sha256": "d3fa42b6b2041826e030b8c79e1c072b574a55dd1a651a1018bfde65c4e7af7d"
+  },
+  {
+    "path": "analysis/global_corpus_pass/formula_inventory.md",
+    "sha256": "d45754d9e900cf40fd7c3f81dac172da30870ebfd39194dbe1428c3cc50ceb18"
+  },
+  {
+    "path": "analysis/global_corpus_pass/claim_candidates.json",
+    "sha256": "accac3944915f0458461cf4e9542160d056d03c6fbf0f737413c0c53d1e14f8f"
+  },
+  {
+    "path": "research_questions/README.md",
+    "sha256": "6493aaf411fa1ed127c2b5c4602a5203fda4e555be9e0a5347d03f2c06a138d5"
+  },
+  {
+    "path": "analysis/global_corpus_pass/manifest.json",
+    "sha256": "616a0959b20966b333d514e55c7eab30321d8509ce9905cbefaeb74f5259ab69"
+  },
+  {
+    "path": "analysis/global_corpus_pass/verification_results.json",
+    "sha256": "ddf92cd95d1c525bffee3d84dafadce938c102dba17cc5d2a7c239a6ae379651"
+  },
+  {
+    "path": "analysis/global_corpus_pass/final_report.md",
+    "sha256": "8fde750d137a6def18916d45860d980f8b9b2aaf988021578b84454a46f87858"
+  }
+]

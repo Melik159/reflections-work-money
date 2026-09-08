@@ -1,0 +1,354 @@
+{
+  "status": "TARGETED_PASS_COMPLETE_WITH_LIMITS",
+  "questions": [
+    "RQ-03.03",
+    "RQ-05.03",
+    "RQ-08.02",
+    "RQ-09.02",
+    "RQ-10.02",
+    "RQ-11.01",
+    "RQ-12.02",
+    "RQ-04.04",
+    "RQ-01.03",
+    "RQ-05.01"
+  ],
+  "variables": 26,
+  "measurement_levels": {
+    "1": 10,
+    "3": 9,
+    "2": 6,
+    "5": 1
+  },
+  "pages_read": [
+    108,
+    109,
+    189,
+    190,
+    191,
+    192,
+    200,
+    207,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390,
+    391,
+    455,
+    559
+  ],
+  "new_pages": [
+    109
+  ],
+  "coverage_before": 271,
+  "coverage_after": 272,
+  "new_claims": 0,
+  "new_literature": 4,
+  "status_changes": [
+    {
+      "action": "THIRD_PASS",
+      "id": "RQ-03.03",
+      "old_status": "AMBIGUOUS",
+      "new_status": "AMBIGUOUS",
+      "old_statement": "Peut-on mesurer T, Force et complexité sans les reconstruire depuis les résultats à tester ?",
+      "new_statement": "Peut-on mesurer T, Force et complexité sans les reconstruire depuis les résultats à tester ?",
+      "old_evidence": [
+        "EVID-RQ-03.03-CPC-0039",
+        "EVID-RQ-03.03-CPC-0043",
+        "EVID-RQ-03.03-CPC-0044",
+        "EVID-RQ-03.03-CPC-0052",
+        "EVID-RQ-03.03-CPC-0054",
+        "EVID-RQ-03.03-CPC-0066",
+        "EVID-RQ-03.03-CPC-0068",
+        "EVID-RQ-03.03-REVIEW"
+      ],
+      "new_evidence": [
+        "EVID-RQ-03.03-CPC-0039",
+        "EVID-RQ-03.03-CPC-0043",
+        "EVID-RQ-03.03-CPC-0044",
+        "EVID-RQ-03.03-CPC-0052",
+        "EVID-RQ-03.03-CPC-0054",
+        "EVID-RQ-03.03-CPC-0066",
+        "EVID-RQ-03.03-CPC-0068",
+        "EVID-RQ-03.03-REVIEW",
+        "EVID-METROLOGY-RQ-03.03"
+      ],
+      "reason": "T est dérivé des lois proposées, non mesuré indépendamment par cette dérivation. L’intégrale de FP dl n’offre une voie distincte que si FP est étalonné sans utiliser cp·dω/dt.",
+      "scope": "METROLOGY_ONLY",
+      "date": "2026-09-08"
+    },
+    {
+      "action": "THIRD_PASS",
+      "id": "RQ-05.03",
+      "old_status": "AMBIGUOUS",
+      "new_status": "AMBIGUOUS",
+      "old_statement": "Utility peut-elle être mesurée indépendamment du prix et de la quantité pour comparer les scénarios ?",
+      "new_statement": "Utility peut-elle être mesurée indépendamment du prix et de la quantité pour comparer les scénarios ?",
+      "old_evidence": [
+        "EVID-RQ-05.03-CPC-0034",
+        "EVID-RQ-05.03-CPC-0055",
+        "EVID-RQ-05.03-CPC-0056",
+        "EVID-RQ-05.03-CPC-0057",
+        "EVID-RQ-05.03-CPC-0058",
+        "EVID-RQ-05.03-CPC-0059",
+        "EVID-RQ-05.03-CPC-0076",
+        "EVID-RQ-05.03-CPC-0077",
+        "EVID-RQ-05.03-CPC-0078",
+        "EVID-RQ-05.03-CPC-0079",
+        "EVID-RQ-05.03-CPC-0113",
+        "EVID-RQ-05.03-REVIEW"
+      ],
+      "new_evidence": [
+        "EVID-RQ-05.03-CPC-0034",
+        "EVID-RQ-05.03-CPC-0055",
+        "EVID-RQ-05.03-CPC-0056",
+        "EVID-RQ-05.03-CPC-0057",
+        "EVID-RQ-05.03-CPC-0058",
+        "EVID-RQ-05.03-CPC-0059",
+        "EVID-RQ-05.03-CPC-0076",
+        "EVID-RQ-05.03-CPC-0077",
+        "EVID-RQ-05.03-CPC-0078",
+        "EVID-RQ-05.03-CPC-0079",
+        "EVID-RQ-05.03-CPC-0113",
+        "EVID-RQ-05.03-REVIEW",
+        "EVID-METROLOGY-RQ-05.03",
+        "EVID-METROLOGY-UTILITY-P109"
+      ],
+      "reason": "Le manuscrit reconnaît explicitement p109 que Utility ne dispose pas de mesure, mais propose un classement. Cela ne suffit pas à déterminer UP2/UP1 dans les rendements.",
+      "scope": "METROLOGY_ONLY",
+      "date": "2026-09-08"
+    },
+    {
+      "action": "THIRD_PASS",
+      "id": "RQ-08.02",
+      "old_status": "PARTIALLY_RESOLVED",
+      "new_status": "PARTIALLY_RESOLVED",
+      "old_statement": "Un grand nombre de produits suffit-il à stabiliser K malgré des coefficients et compositions hétérogènes ?",
+      "new_statement": "Un grand nombre de produits suffit-il à stabiliser K malgré des coefficients et compositions hétérogènes ?",
+      "old_evidence": [
+        "EVID-RQ-08.02-CPC-0043",
+        "EVID-RQ-08.02-CPC-0044",
+        "EVID-RQ-08.02-CPC-0109",
+        "EVID-RQ-08.02-CPC-0116",
+        "EVID-RQ-08.02-CPC-0117",
+        "EVID-RQ-08.02-CPC-0118",
+        "EVID-RQ-08.02-REVIEW"
+      ],
+      "new_evidence": [
+        "EVID-RQ-08.02-CPC-0043",
+        "EVID-RQ-08.02-CPC-0044",
+        "EVID-RQ-08.02-CPC-0109",
+        "EVID-RQ-08.02-CPC-0116",
+        "EVID-RQ-08.02-CPC-0117",
+        "EVID-RQ-08.02-CPC-0118",
+        "EVID-RQ-08.02-REVIEW",
+        "EVID-METROLOGY-RQ-08.02"
+      ],
+      "reason": "K local peut être calibré si M et T sont indépendamment mesurés. K=PIB/énergie est estimable comme ratio de proxies, mais résiduel si recalculé pour chaque observation.",
+      "scope": "METROLOGY_ONLY",
+      "date": "2026-09-08"
+    },
+    {
+      "action": "THIRD_PASS",
+      "id": "RQ-09.02",
+      "old_status": "AMBIGUOUS",
+      "new_status": "AMBIGUOUS",
+      "old_statement": "Quel critère et quelle conversion séparent énergie consommée, travail physique utile et Work économique ?",
+      "new_statement": "Quel critère et quelle conversion séparent énergie consommée, travail physique utile et Work économique ?",
+      "old_evidence": [
+        "EVID-RQ-09.02-CPC-0003",
+        "EVID-RQ-09.02-CPC-0017",
+        "EVID-RQ-09.02-CPC-0039",
+        "EVID-RQ-09.02-CPC-0042",
+        "EVID-RQ-09.02-CPC-0067",
+        "EVID-RQ-09.02-CPC-0119",
+        "EVID-RQ-09.02-CPC-0122",
+        "EVID-RQ-09.02-REVIEW"
+      ],
+      "new_evidence": [
+        "EVID-RQ-09.02-CPC-0003",
+        "EVID-RQ-09.02-CPC-0017",
+        "EVID-RQ-09.02-CPC-0039",
+        "EVID-RQ-09.02-CPC-0042",
+        "EVID-RQ-09.02-CPC-0067",
+        "EVID-RQ-09.02-CPC-0119",
+        "EVID-RQ-09.02-CPC-0122",
+        "EVID-RQ-09.02-REVIEW",
+        "EVID-METROLOGY-RQ-09.02"
+      ],
+      "reason": "Le pont Tused=−Wcreated est explicite et conditionné à une évolution de Utility. Ce n’est ni toute énergie consommée ni toute fatigue.",
+      "scope": "METROLOGY_ONLY",
+      "date": "2026-09-08"
+    },
+    {
+      "action": "THIRD_PASS",
+      "id": "RQ-10.02",
+      "old_status": "PARTIALLY_RESOLVED",
+      "new_status": "PARTIALLY_RESOLVED",
+      "old_statement": "Quelle fraction du gain est épargnée, dépensée plus tard, consommée davantage ou affectée à la qualité ?",
+      "new_statement": "Quelle fraction du gain est épargnée, dépensée plus tard, consommée davantage ou affectée à la qualité ?",
+      "old_evidence": [
+        "EVID-RQ-10.02-CPC-0008",
+        "EVID-RQ-10.02-CPC-0084",
+        "EVID-RQ-10.02-CPC-0099",
+        "EVID-RQ-10.02-CPC-0127",
+        "EVID-RQ-10.02-REVIEW"
+      ],
+      "new_evidence": [
+        "EVID-RQ-10.02-CPC-0008",
+        "EVID-RQ-10.02-CPC-0084",
+        "EVID-RQ-10.02-CPC-0099",
+        "EVID-RQ-10.02-CPC-0127",
+        "EVID-RQ-10.02-REVIEW",
+        "EVID-METROLOGY-RQ-10.02"
+      ],
+      "reason": "Consommation ailleurs, quantité/qualité et dépenses différées sont des branches, non fractions déterminées. Le bilan comptable permet de classer des flux observés, pas leur destination marginale causale.",
+      "scope": "METROLOGY_ONLY",
+      "date": "2026-09-08"
+    },
+    {
+      "action": "THIRD_PASS",
+      "id": "RQ-11.01",
+      "old_status": "PARTIALLY_RESOLVED",
+      "new_status": "PARTIALLY_RESOLVED",
+      "old_statement": "Quels maillons sourcés relient gains productifs, flux physiques et dommages, et lesquels restent manquants ?",
+      "new_statement": "Quels maillons sourcés relient gains productifs, flux physiques et dommages, et lesquels restent manquants ?",
+      "old_evidence": [
+        "EVID-RQ-11.01-CPC-0001",
+        "EVID-RQ-11.01-CPC-0018",
+        "EVID-RQ-11.01-CPC-0031",
+        "EVID-RQ-11.01-CPC-0120",
+        "EVID-RQ-11.01-CPC-0127",
+        "EVID-RQ-11.01-REVIEW"
+      ],
+      "new_evidence": [
+        "EVID-RQ-11.01-CPC-0001",
+        "EVID-RQ-11.01-CPC-0018",
+        "EVID-RQ-11.01-CPC-0031",
+        "EVID-RQ-11.01-CPC-0120",
+        "EVID-RQ-11.01-CPC-0127",
+        "EVID-RQ-11.01-REVIEW",
+        "EVID-METROLOGY-RQ-11.01"
+      ],
+      "reason": "Le corpus vise un ensemble de pressions et dégradations; pas un indicateur unique de dommage quantifié. Ressources, déchets, énergie et transports sont explicitement reliés aux transformations.",
+      "scope": "METROLOGY_ONLY",
+      "date": "2026-09-08"
+    },
+    {
+      "action": "THIRD_PASS",
+      "id": "RQ-12.02",
+      "old_status": "OPEN",
+      "new_status": "OPEN",
+      "old_statement": "Quels mécanismes établis ou postulés sont nécessaires, suffisants ou substituables dans la transition historique ?",
+      "new_statement": "Quels mécanismes établis ou postulés sont nécessaires, suffisants ou substituables dans la transition historique ?",
+      "old_evidence": [
+        "EVID-RQ-12.02-CPC-0001",
+        "EVID-RQ-12.02-CPC-0009",
+        "EVID-RQ-12.02-CPC-0018",
+        "EVID-RQ-12.02-CPC-0029",
+        "EVID-RQ-12.02-CPC-0118",
+        "EVID-RQ-12.02-CPC-0120"
+      ],
+      "new_evidence": [
+        "EVID-RQ-12.02-CPC-0001",
+        "EVID-RQ-12.02-CPC-0009",
+        "EVID-RQ-12.02-CPC-0018",
+        "EVID-RQ-12.02-CPC-0029",
+        "EVID-RQ-12.02-CPC-0118",
+        "EVID-RQ-12.02-CPC-0120",
+        "EVID-METROLOGY-RQ-12.02"
+      ],
+      "reason": "La recherche de signatures est ici un sous-périmètre métrologique, pas un remplacement de la question historique nécessaire/suffisant. T quadratique, optimum et conversion sont caractéristiques mais leurs variables indépendantes manquent.",
+      "scope": "METROLOGY_ONLY",
+      "date": "2026-09-08"
+    },
+    {
+      "action": "THIRD_PASS",
+      "id": "RQ-04.04",
+      "old_status": "OPEN",
+      "new_status": "PARTIALLY_RESOLVED",
+      "old_statement": "Quelles contraintes et conventions de signe rendent les rendements et optima des cycles définis ?",
+      "new_statement": "Quelles contraintes et conventions de signe rendent les rendements et optima des cycles définis ?",
+      "old_evidence": [
+        "EVID-RQ-04.04-CPC-0032",
+        "EVID-RQ-04.04-CPC-0033",
+        "EVID-RQ-04.04-CPC-0038",
+        "EVID-RQ-04.04-CPC-0101",
+        "EVID-RQ-04.04-CPC-0102",
+        "EVID-RQ-04.04-CPC-0103",
+        "EVID-RQ-04.04-CPC-0104",
+        "EVID-RQ-04.04-CPC-0108"
+      ],
+      "new_evidence": [
+        "EVID-RQ-04.04-CPC-0032",
+        "EVID-RQ-04.04-CPC-0033",
+        "EVID-RQ-04.04-CPC-0038",
+        "EVID-RQ-04.04-CPC-0101",
+        "EVID-RQ-04.04-CPC-0102",
+        "EVID-RQ-04.04-CPC-0103",
+        "EVID-RQ-04.04-CPC-0104",
+        "EVID-RQ-04.04-CPC-0108",
+        "EVID-METROLOGY-RQ-04.04"
+      ],
+      "reason": "0.3431 et 0.5858 sont calculables lorsque les angles sont fixés à π/8. La formule de rendement seule ne sélectionne pas cette valeur comme maximum.",
+      "scope": "METROLOGY_ONLY",
+      "date": "2026-09-08"
+    },
+    {
+      "action": "THIRD_PASS",
+      "id": "RQ-01.03",
+      "old_status": "OPEN",
+      "new_status": "PARTIALLY_RESOLVED",
+      "old_statement": "La subsistance et l’abondance sont-elles des états mesurables, et la stabilité historique alléguée est-elle défendable ?",
+      "new_statement": "La subsistance et l’abondance sont-elles des états mesurables, et la stabilité historique alléguée est-elle défendable ?",
+      "old_evidence": [
+        "EVID-RQ-01.03-CPC-0018",
+        "EVID-RQ-01.03-CPC-0029",
+        "EVID-RQ-01.03-CPC-0037"
+      ],
+      "new_evidence": [
+        "EVID-RQ-01.03-CPC-0018",
+        "EVID-RQ-01.03-CPC-0029",
+        "EVID-RQ-01.03-CPC-0037",
+        "EVID-METROLOGY-RQ-01.03"
+      ],
+      "reason": "Subsistance/abondance décrivent des conditions de consommation et possibilités d’accès, sans seuil opérationnel unique retrouvé. Dépenses, quantités, temps et diversité devraient être suivis conjointement.",
+      "scope": "METROLOGY_ONLY",
+      "date": "2026-09-08"
+    },
+    {
+      "action": "THIRD_PASS",
+      "id": "RQ-05.01",
+      "old_status": "PARTIALLY_RESOLVED",
+      "new_status": "PARTIALLY_RESOLVED",
+      "old_statement": "Quelles conditions distinguent baisse de prix, prix maintenu et gain retenu après baisse du coût ?",
+      "new_statement": "Quelles conditions distinguent baisse de prix, prix maintenu et gain retenu après baisse du coût ?",
+      "old_evidence": [
+        "EVID-RQ-05.01-CPC-0019",
+        "EVID-RQ-05.01-CPC-0020",
+        "EVID-RQ-05.01-CPC-0021",
+        "EVID-RQ-05.01-CPC-0097",
+        "EVID-RQ-05.01-CPC-0098",
+        "EVID-RQ-05.01-CPC-0105",
+        "EVID-RQ-05.01-CPC-0110",
+        "EVID-RQ-05.01-REVIEW"
+      ],
+      "new_evidence": [
+        "EVID-RQ-05.01-CPC-0019",
+        "EVID-RQ-05.01-CPC-0020",
+        "EVID-RQ-05.01-CPC-0021",
+        "EVID-RQ-05.01-CPC-0097",
+        "EVID-RQ-05.01-CPC-0098",
+        "EVID-RQ-05.01-CPC-0105",
+        "EVID-RQ-05.01-CPC-0110",
+        "EVID-RQ-05.01-REVIEW",
+        "EVID-METROLOGY-RQ-05.01"
+      ],
+      "reason": "Mesurer simultanément coût complet unitaire, prix net réalisé, quantité, qualité et résultat producteur permet de distinguer branches coût/prix. Une baisse de coût seule ne détermine pas le partage.",
+      "scope": "METROLOGY_ONLY",
+      "date": "2026-09-08"
+    }
+  ],
+  "global_verdict": null
+}

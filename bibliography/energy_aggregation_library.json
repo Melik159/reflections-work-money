@@ -1,0 +1,68 @@
+[
+  {
+    "id": "BIB-0011",
+    "authors": "World Bank",
+    "title": "GDP per unit of energy use (constant 2021 PPP $ per kg of oil equivalent): metadata",
+    "year": 2026,
+    "doi": null,
+    "url": "https://databank.worldbank.org/metadataglossary/world-development-indicators/series/EG.GDP.PUSE.KO.PP.KD",
+    "status": "VERIFIED",
+    "access": "Full official metadata read and HTML archived; historical vintage consistency not verified",
+    "locator": "Long definition; methodology; limitations"
+  },
+  {
+    "id": "BIB-0012",
+    "authors": "Our World in Data",
+    "title": "Energy dataset, pinned 2025 release",
+    "year": 2025,
+    "doi": null,
+    "url": "https://github.com/owid/energy-data/tree/4249f7c21c2c833d76741e757be92a639517caa3",
+    "status": "VERIFIED",
+    "access": "CSV, codebook, README archived; upstream processing inspected at pinned ETL revision",
+    "locator": "primary_energy_consumption; README Data sources and processing"
+  },
+  {
+    "id": "BIB-0013",
+    "authors": "David I. Stern",
+    "title": "The role of energy in economic growth",
+    "year": 2011,
+    "doi": "10.1111/j.1749-6632.2010.05921.x",
+    "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/4535717f-80cb-429d-88d6-f7bc90c5f946/content",
+    "status": "VERIFIED",
+    "access": "Author institutional full PDF accessible; abstract and opening sections inspected, not exhaustive reading",
+    "locator": "Annals of the New York Academy of Sciences 1219, 26–51; abstract and pp26–28"
+  },
+  {
+    "id": "BIB-0014",
+    "authors": "Steve Sorrell",
+    "title": "The Rebound Effect: An Assessment of the Evidence for Economy-wide Energy Savings from Improved Energy Efficiency",
+    "year": 2007,
+    "doi": null,
+    "url": "https://ukerc.rl.ac.uk/publications/research_report/The_Rebound_Effect_An_Assessment_of_the_Evidence_for_Economy-wide_Energy_Savings_from_Improved_Energy_Efficiency.pdf",
+    "status": "VERIFIED",
+    "access": "UKERC metadata and report PDF inspected; sections1.1, boxes1.1–1.2, not entire report",
+    "locator": "PDF15–18 / printed1–4; no DOI minted according to official catalog"
+  },
+  {
+    "id": "BIB-0015",
+    "authors": "David Baqaee and Emmanuel Farhi",
+    "title": "The Microeconomic Foundations of Aggregate Production Functions",
+    "year": 2018,
+    "doi": "10.3386/w25293",
+    "url": "https://www.nber.org/papers/w25293",
+    "status": "PARTIALLY_VERIFIED",
+    "access": "Official indexed title, authors, DOI and abstract verified; direct page/PDF fetch failed403; no detailed theorem attributed",
+    "locator": "NBER working paper25293 indexed abstract only"
+  },
+  {
+    "id": "BIB-0016",
+    "authors": "Samuel J. Ling and William Moebs and Jeff Sanny",
+    "title": "University Physics Volume 2, section 4.6 Entropy",
+    "year": 2016,
+    "doi": null,
+    "url": "https://openstax.org/books/university-physics-volume-2/pages/4-6-entropy",
+    "status": "VERIFIED",
+    "access": "Official section and metadata inspected",
+    "locator": "State function and Example4.5: reversible path for irreversible cooling"
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "id": "GC-CAND-01",
+    "statement": "La substitution concurrentielle est régie par un rapport de Utility/price et r sous Core Law.",
+    "pages": [
+      511,
+      512,
+      513
+    ],
+    "questions": [
+      "RQ-05.02",
+      "RQ-05.03"
+    ],
+    "action": "CANDIDATE_NOT_CANONICAL"
+  },
+  {
+    "id": "GC-CAND-02",
+    "statement": "Location et crédit sont reconstruits par achat/revente et différence entre Utility de Product et de Cash.",
+    "pages": [
+      518,
+      519,
+      520,
+      521,
+      522
+    ],
+    "questions": [
+      "RQ-07.03",
+      "RQ-05.03"
+    ],
+    "action": "CANDIDATE_NOT_CANONICAL"
+  },
+  {
+    "id": "GC-CAND-03",
+    "statement": "Les services sont largement exclus de création globale, avec critère final Utility et exception d’efficacité des intermédiaires.",
+    "pages": [
+      534,
+      535,
+      540
+    ],
+    "questions": [
+      "RQ-02.02",
+      "RQ-07.01"
+    ],
+    "action": "SPLIT_SCOPE_CANDIDATE_NOT_CANONICAL"
+  },
+  {
+    "id": "GC-CAND-04",
+    "statement": "La fréquence des cas satisfaisant Core Law sert de classement de richesse par tranches de vingt pour cent.",
+    "pages": [
+      529,
+      530
+    ],
+    "questions": [
+      "RQ-01.02",
+      "RQ-02.01"
+    ],
+    "action": "CANDIDATE_NOT_CANONICAL"
+  },
+  {
+    "id": "GC-CAND-05",
+    "statement": "La chaîne offre→prix→demande est affirmée directe, avec retour demande→offre et hétérogénéité de Utility.",
+    "pages": [
+      509,
+      510,
+      514,
+      515,
+      516,
+      517
+    ],
+    "questions": [
+      "RQ-05.02"
+    ],
+    "action": "CANDIDATE_NOT_CANONICAL"
+  }
+]

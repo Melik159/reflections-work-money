@@ -1,0 +1,438 @@
+[
+  {
+    "id": "INV-001",
+    "formulation": "Ne pas assimiler une émission de Cash à la création de Money définie par l’auteur.",
+    "concepts": [
+      "cash",
+      "money"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 184,
+        "pages": [
+          184
+        ],
+        "quotation": "Money as the value of Cash,",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 187,
+        "pages": [
+          187
+        ],
+        "quotation": "the inscription of a line of bank credit should not be considered as Money but only as Cash.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 188,
+        "pages": [
+          188
+        ],
+        "quotation": "the Money (M) is defined as the measure of the value of Cash",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0046",
+      "CPC-0050",
+      "CPC-0053"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "reviewed_passages_only"
+  },
+  {
+    "id": "INV-002",
+    "formulation": "Ne pas mesurer T par des heures de labour sans reconstruire la relation.",
+    "concepts": [
+      "labour",
+      "work"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 187,
+        "pages": [
+          187,
+          188
+        ],
+        "quotation": "labour (l) must be understood as the thing to be done, the task, the job to be done. It is constant for a given Product and manufacturing method.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 188,
+        "pages": [
+          188
+        ],
+        "quotation": "for a constant labour, the Work varies according to its speed of execution.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0051",
+      "CPC-0052"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "reviewed_passages_only"
+  },
+  {
+    "id": "INV-003",
+    "formulation": "Conserver distinction entre variation globale et redistribution interne.",
+    "concepts": [
+      "creation",
+      "distribution"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 13,
+        "pages": [
+          13
+        ],
+        "quotation": "points 1 (creation) and 3 (use) undeniably belong to the “Natural Sciences” and that point 2 (distribution) is systematically related to the “Human Sciences”.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 18,
+        "pages": [
+          18
+        ],
+        "quotation": "Any economic policy measure that doesn’t involve Work expenditure leaves the existing quantity of Money in the system constant",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0007",
+      "CPC-0014"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "reviewed_passages_only"
+  },
+  {
+    "id": "INV-004",
+    "formulation": "Un déplacement comptable ne doit pas être étiqueté transformation productive sans passage source.",
+    "concepts": [
+      "accounting",
+      "transformation"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 22,
+        "pages": [
+          22
+        ],
+        "quotation": "SUPPLEMENTARY WORK performed by the supplier is TRANSFORMED into SUPPLEMENTARY MONEY held by the consumer.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 22,
+        "pages": [
+          22
+        ],
+        "quotation": "a transformation, which is relative to physics, and no longer a flow, which is relative to accounting",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0022",
+      "CPC-0024"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "reviewed_passages_only"
+  },
+  {
+    "id": "INV-005",
+    "formulation": "Une baisse de coût ne garantit pas la même baisse du prix de vente.",
+    "concepts": [
+      "price",
+      "cost"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 20,
+        "pages": [
+          20
+        ],
+        "quotation": "if the selling price is kept constant despite this drop in cost price",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 21,
+        "pages": [
+          21
+        ],
+        "quotation": "They are the sole judge and person responsible for selling prices, but always subject to the external constraints (competition, regulations, etc.) to which they are subject.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0020",
+      "CPC-0021"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "reviewed_passages_only"
+  },
+  {
+    "id": "INV-006",
+    "formulation": "Conserver la distinction travail restant / travail accompli dans les bilans.",
+    "concepts": [
+      "remaining",
+      "work"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 22,
+        "pages": [
+          22
+        ],
+        "quotation": "the decrease (destruction) of the Work to be done is compensated by the increase (creation) of the Money generated and vice versa",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 35,
+        "pages": [
+          35
+        ],
+        "quotation": "only the Work to be done must be taken into account and not the Work performed.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0023",
+      "CPC-0040"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "reviewed_passages_only"
+  },
+  {
+    "id": "INV-007",
+    "formulation": "Ne pas confondre support et grandeur supportée.",
+    "concepts": [
+      "product",
+      "work"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 35,
+        "pages": [
+          35
+        ],
+        "quotation": "the Product as the vector-support of the economic Work,",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 187,
+        "pages": [
+          187
+        ],
+        "quotation": "the Product represents any object, merchandise, product, good or service that an economic agent",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0041",
+      "CPC-0049"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "reviewed_passages_only"
+  },
+  {
+    "id": "INV-008",
+    "formulation": "L’analogie ne rend pas identiques variables économiques et physiques.",
+    "concepts": [
+      "energy",
+      "entropy"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 2,
+        "pages": [
+          2
+        ],
+        "quotation": "similar, but not identical, to the energy transformations of heat into work.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 36,
+        "pages": [
+          36
+        ],
+        "quotation": "entropy doesn’t have to be used in this context.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0003",
+      "CPC-0042"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "reviewed_passages_only"
+  },
+  {
+    "id": "INV-009",
+    "formulation": "Distinguer le niveau T de sa variation dT; Work nul à vitesse constante ne signifie pas labour ou W nul.",
+    "concepts": [
+      "work",
+      "money"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 203,
+        "pages": [
+          203
+        ],
+        "quotation": "if the speed of execution of the labour doesn't vary, the Work done (Economic Work) is zero, which may puzzle more than one reader not accustomed to mechanical reasoning, although the physical work can be very important. In fact, it's quite logical to say that if the labour is carried out at a constant speed, there is no additional Work done to accelerate this speed, i.e. to increase productivity. Consequently, an agent (individual in the strict sense of the word,",
+        "normalization": "whitespace",
+        "context_before": "cal Work (W) is always superior to the economically useful Work (T) discussed in this study (chapter “Link Heat Consumed → Money Created”). It can be seen that ",
+        "context_after": " association, administration, company, etc.) who doesn't accelerate the speed at which the Product is produced (increase in productivity) doesn't work in the ec"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0064",
+      "CPC-0095"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "ANALYST_RECONSTRUCTION_RULE_NOT_AUTHOR_QUOTATION",
+    "interpretive": true
+  },
+  {
+    "id": "INV-010",
+    "formulation": "Une transmission coût–prix doit conserver les conditions de profit, de complexité et de point de vue.",
+    "concepts": [
+      "work",
+      "money"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 504,
+        "pages": [
+          504
+        ],
+        "quotation": "these segments have the same length which means that the profit before and after speed increase is always the same. As a result, point C' perceived as the selling price of the Raw Proceeds is now lower than the previous selling price C. The Transformer has in addition the quantity of Money translated by CC'. • segments CD and C'D'⇒ this stage of manufacture by the Transformer is similar to that representing manufacture by the Seller. The C'D' segment has a lower slope than",
+        "normalization": "whitespace",
+        "context_before": "han the AB segment since the manufacturing speed has increased which implies that the price evolves less quickly during this operation. • segments BC and B'C'⇒ ",
+        "context_after": " the CD segment since the manufacturing speed has increased, which means that the price changes less quickly during this operation."
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0097",
+      "CPC-0098"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "ANALYST_RECONSTRUCTION_RULE_NOT_AUTHOR_QUOTATION",
+    "interpretive": true
+  },
+  {
+    "id": "INV-011",
+    "formulation": "Une dérivation mathématique conditionnelle ne doit pas devenir une validation empirique.",
+    "concepts": [
+      "work",
+      "money"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 198,
+        "pages": [
+          198
+        ],
+        "quotation": "they only give a measure of these speeds and in no case do they stipulate for what reason (just as in mechanics the speed relationship only gives a measure of the speed). Whether productivity decreases or increases, i.e. the speed at which labour is carried out varies for any reason (too much or too little supply, faulty supply of raw materials, absence or lack of personnel, machinery or motor breakdown, new, faster manufacturing method, etc.) the 04- 01 relationship will",
+        "normalization": "whitespace",
+        "context_before": "he labour is carried out in any country and the price of the Product is considered in any of them, the speeds will always be given by these relations. However, ",
+        "context_after": " always give a faithful and accurate measure of the instantaneous speed. Whether the speed of execution of the labour is cancelled due to snacks, strikes, inter"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0068",
+      "CPC-0096"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "ANALYST_RECONSTRUCTION_RULE_NOT_AUTHOR_QUOTATION",
+    "interpretive": true
+  },
+  {
+    "id": "INV-012",
+    "formulation": "Compatibilité énergie/PIB et énergie reconstruite ne prouvent pas causalité Work/Money.",
+    "concepts": [
+      "work",
+      "money"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 456,
+        "pages": [
+          456
+        ],
+        "quotation": "However, this relationship only expresses the energy in the form of heat needed to create Money. Therefore, the heat destroyed may be higher, but this supplement is economically useless since it doesn't create Money, although it may be useful for other purposes (as previously mentioned).",
+        "normalization": "whitespace",
+        "context_before": " for this production, or : • the richer the Buyer, the more energy the Transformer has used. This is perfectly logical and seems to correspond well to reality. ",
+        "context_after": ""
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0018",
+      "CPC-0105"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "ANALYST_RECONSTRUCTION_RULE_NOT_AUTHOR_QUOTATION",
+    "interpretive": true
+  },
+  {
+    "id": "INV-013",
+    "formulation": "Chaque mécanisme productif conserve conditions, exceptions, horizon et niveau micro/macro.",
+    "concepts": [
+      "work",
+      "money"
+    ],
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 205,
+        "pages": [
+          205
+        ],
+        "quotation": "It is therefore necessary to consider and study only the phenomena occurring in a single Transformer. Consequently, only the added Value and the task to be done must be taken into account, i.e. the Money and the Work of the single Transformer considered. During any negotiation, a Buyer (outside the system) always exerts a Force (FP) on the Transformer (inside the system) so as to increase the task done (or decrease the task to be done) by the latter. As a result, the task to",
+        "normalization": "whitespace",
+        "context_before": "205 the whole Product. ",
+        "context_after": " be done (B) decreases. Whatever the intensity of this Force, the variation of this task is therefore always negative. Consequently, it's possible to write : dB"
+      }
+    ],
+    "importance": "CORE_FIDELITY",
+    "claims": [
+      "CPC-0103",
+      "CPC-0104"
+    ],
+    "regression_type": "OMISSION_OR_CONFLATION",
+    "scope": "ANALYST_RECONSTRUCTION_RULE_NOT_AUTHOR_QUOTATION",
+    "interpretive": true
+  }
+]

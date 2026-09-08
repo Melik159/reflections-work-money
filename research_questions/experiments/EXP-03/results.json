@@ -1,0 +1,425 @@
+{
+  "status": [
+    "FORMALLY_SUPPORTED",
+    "FORMALLY_QUALIFIED"
+  ],
+  "cases": [
+    {
+      "products": 2,
+      "cases": [
+        {
+          "q": [
+            "1",
+            "1"
+          ],
+          "K": "5/3",
+          "replicated_K": "5/3",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "1",
+            "2"
+          ],
+          "K": "9/5",
+          "replicated_K": "9/5",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "1",
+            "3"
+          ],
+          "K": "13/7",
+          "replicated_K": "13/7",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "2",
+            "1"
+          ],
+          "K": "3/2",
+          "replicated_K": "3/2",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "2",
+            "2"
+          ],
+          "K": "5/3",
+          "replicated_K": "5/3",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "2",
+            "3"
+          ],
+          "K": "7/4",
+          "replicated_K": "7/4",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "3",
+            "1"
+          ],
+          "K": "7/5",
+          "replicated_K": "7/5",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "3",
+            "2"
+          ],
+          "K": "11/7",
+          "replicated_K": "11/7",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "3",
+            "3"
+          ],
+          "K": "5/3",
+          "replicated_K": "5/3",
+          "homogeneous_K": "2"
+        }
+      ],
+      "range": [
+        "7/5",
+        "13/7"
+      ]
+    },
+    {
+      "products": 3,
+      "cases": [
+        {
+          "q": [
+            "1",
+            "1",
+            "1"
+          ],
+          "K": "2",
+          "replicated_K": "2",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "1",
+            "1",
+            "2"
+          ],
+          "K": "11/5",
+          "replicated_K": "11/5",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "1",
+            "1",
+            "3"
+          ],
+          "K": "7/3",
+          "replicated_K": "7/3",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "1",
+            "2",
+            "1"
+          ],
+          "K": "2",
+          "replicated_K": "2",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "1",
+            "2",
+            "2"
+          ],
+          "K": "15/7",
+          "replicated_K": "15/7",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "1",
+            "2",
+            "3"
+          ],
+          "K": "9/4",
+          "replicated_K": "9/4",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "1",
+            "3",
+            "1"
+          ],
+          "K": "2",
+          "replicated_K": "2",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "1",
+            "3",
+            "2"
+          ],
+          "K": "19/9",
+          "replicated_K": "19/9",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "1",
+            "3",
+            "3"
+          ],
+          "K": "11/5",
+          "replicated_K": "11/5",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "2",
+            "1",
+            "1"
+          ],
+          "K": "9/5",
+          "replicated_K": "9/5",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "2",
+            "1",
+            "2"
+          ],
+          "K": "2",
+          "replicated_K": "2",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "2",
+            "1",
+            "3"
+          ],
+          "K": "15/7",
+          "replicated_K": "15/7",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "2",
+            "2",
+            "1"
+          ],
+          "K": "13/7",
+          "replicated_K": "13/7",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "2",
+            "2",
+            "2"
+          ],
+          "K": "2",
+          "replicated_K": "2",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "2",
+            "2",
+            "3"
+          ],
+          "K": "19/9",
+          "replicated_K": "19/9",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "2",
+            "3",
+            "1"
+          ],
+          "K": "17/9",
+          "replicated_K": "17/9",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "2",
+            "3",
+            "2"
+          ],
+          "K": "2",
+          "replicated_K": "2",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "2",
+            "3",
+            "3"
+          ],
+          "K": "23/11",
+          "replicated_K": "23/11",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "3",
+            "1",
+            "1"
+          ],
+          "K": "5/3",
+          "replicated_K": "5/3",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "3",
+            "1",
+            "2"
+          ],
+          "K": "13/7",
+          "replicated_K": "13/7",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "3",
+            "1",
+            "3"
+          ],
+          "K": "2",
+          "replicated_K": "2",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "3",
+            "2",
+            "1"
+          ],
+          "K": "7/4",
+          "replicated_K": "7/4",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "3",
+            "2",
+            "2"
+          ],
+          "K": "17/9",
+          "replicated_K": "17/9",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "3",
+            "2",
+            "3"
+          ],
+          "K": "2",
+          "replicated_K": "2",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "3",
+            "3",
+            "1"
+          ],
+          "K": "9/5",
+          "replicated_K": "9/5",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "3",
+            "3",
+            "2"
+          ],
+          "K": "21/11",
+          "replicated_K": "21/11",
+          "homogeneous_K": "2"
+        },
+        {
+          "q": [
+            "3",
+            "3",
+            "3"
+          ],
+          "K": "2",
+          "replicated_K": "2",
+          "homogeneous_K": "2"
+        }
+      ],
+      "range": [
+        "5/3",
+        "7/3"
+      ]
+    }
+  ],
+  "compensation": {
+    "q0": [
+      "1",
+      "1",
+      "1"
+    ],
+    "q1": [
+      "2",
+      "1",
+      "2"
+    ],
+    "weights0": [
+      "1/4",
+      "1/2",
+      "1/4"
+    ],
+    "weights1": [
+      "1/3",
+      "1/3",
+      "1/3"
+    ],
+    "K0": "2",
+    "K1": "2",
+    "weighted_delta": "0"
+  },
+  "normalization": {
+    "scales": [
+      "2",
+      "3",
+      "5"
+    ],
+    "raw_incommensurate_K": "8/13",
+    "restored_common_unit_K": "2",
+    "common_unit_K": "2/7",
+    "common_scale": "7"
+  },
+  "assumptions": [
+    "Ti strictly positive",
+    "Mi=KiTi and additive within same boundary",
+    "No double counting",
+    "Common units before aggregation",
+    "Ki fixed for composition theorem",
+    "No Utility sum"
+  ],
+  "stability_condition": "Σ_i (w_i_new−w_i_old) Ki = 0; w_i=qiTi/Σj qjTj",
+  "arbitrary_composition_condition": "All active Ki equal is necessary and sufficient for invariance over all positive compositions, with fixed positive Ti.",
+  "note": "For varying Ki use ΔKbar=Σ_i w_i_new ΔKi + Σ_i Δwi Ki_old; neither fixed composition nor a large count suffices alone.",
+  "economic_K_measured": false
+}

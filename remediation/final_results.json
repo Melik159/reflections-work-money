@@ -1,0 +1,59 @@
+{
+  "status": "REMEDIATION_COMPLETE_WITH_SCIENTIFIC_LIMITS",
+  "actions": {
+    "ACCEPT": 10,
+    "PARTIALLY_ACCEPT": 2
+  },
+  "major_closed": 4,
+  "moderate_closed": 6,
+  "closure_scope": "Documentary corrections applied, not mathematical/empirical unknowns solved; pending closure review",
+  "core_after": {
+    "REVIEWER_CONFIRMS": 9,
+    "REVIEWER_QUALIFIES": 14,
+    "REVIEWER_CANNOT_DETERMINE": 1
+  },
+  "core_after_is_provisional": true,
+  "trace_before": {
+    "complete": 8,
+    "partial": 6
+  },
+  "trace_after": {
+    "documented_with_explicit_limits": 14
+  },
+  "methodological_criteria": {
+    "PARTIALLY_SATISFIED": 4,
+    "AMBIGUOUS": 1,
+    "SATISFIED": 1,
+    "NOT_SATISFIED": 1
+  },
+  "tests": {
+    "total": 128,
+    "categories": {
+      "PROVENANCE_TEST": 60,
+      "LOGIC_TEST": 34,
+      "FORMAL_TEST": 17,
+      "INTEGRITY_TEST": 15,
+      "EMPIRICAL_REPRODUCTION_TEST": 2
+    },
+    "structural": 109,
+    "formal_scientific": 17,
+    "empirical_reproduction": 2,
+    "independent_discriminating": 0,
+    "classification": "Primary function, exclusive; mathematical diagnostics scientific locally, not economic validation"
+  },
+  "verify": {
+    "exit_code": 0,
+    "passed": 128,
+    "failed": 0,
+    "errors": 0,
+    "warnings": [
+      "COVERAGE_IN_PROGRESS",
+      "LITERATURE_PARTIAL",
+      "CHAPTERS_IN_PROGRESS",
+      "HYPOTHESES_NOT_ALL_TESTED"
+    ]
+  },
+  "external_review_unchanged": true,
+  "pdf_sha256": "7981eca40bca1c5ce54d96b3c840eda34d0e7d01fdc89fe9748c3c047c6f3827",
+  "ready_for_closure_review": true
+}

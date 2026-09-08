@@ -1,0 +1,27 @@
+{
+  "old_claims": 113,
+  "new_claims": 127,
+  "examined_pages": 247,
+  "chapters_reviewed": [
+    "CH-08",
+    "CH-09",
+    "CH-10"
+  ],
+  "new_experiments": [
+    "TEST-E1",
+    "TEST-E2",
+    "TEST-E3"
+  ],
+  "literature_added": 6,
+  "literature_verified": 5,
+  "literature_partially_verified": 1,
+  "relation_counts": {
+    "SUPPORTS": 1,
+    "QUALIFIES": 4,
+    "PARALLELS": 1,
+    "CONTRADICTS": 0,
+    "DOES_NOT_TEST": 3
+  },
+  "status": "ITERATIVE_REVIEW_QUALIFIED",
+  "global_theory_verdict": null
+}

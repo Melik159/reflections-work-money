@@ -1,0 +1,746 @@
+[
+  {
+    "path": "analysis/02_root_question.md",
+    "sha256": "8a11814a882b5d7e7537c71744a38716cad3bf3d3a69660dfad0b5f30c713586"
+  },
+  {
+    "path": "analysis/25_productive_review_report.md",
+    "sha256": "eed0bf31d1500568e94e8b013b3f5dc55831a53a333986df6ca9138ead8e076b"
+  },
+  {
+    "path": "analysis/27_energy_data_independence.md",
+    "sha256": "5c87db032ffd13e6234086a4be9974ebaa633fe63f9288ba0438aadf26f077b5"
+  },
+  {
+    "path": "analysis/27_energy_results.md",
+    "sha256": "80bfa903d52d8bfefacb51dc47e425d1d7d0907917209831255a12f34e3140c2"
+  },
+  {
+    "path": "analysis/29_agents_markets_review.md",
+    "sha256": "9aa00df7c13abd835127327d7324181ad70df83f5b3c67c4651b51c391ba16b4"
+  },
+  {
+    "path": "analysis/30_terminal_iteration_report.md",
+    "sha256": "2a4444f712f60ce5c9aec77fda50cd361318ddf6760b5f08dd4ffc23cf76c966"
+  },
+  {
+    "path": "analysis/31_micro_test_design.md",
+    "sha256": "b3dfa10cc8878c9e5345c3b0df8901be9e67ab0c1d8b52caf38e19d99c5dde6c"
+  },
+  {
+    "path": "analysis/34_micro_empirical_results.md",
+    "sha256": "67729768e9b531ec4df5879aaa9a45cdb9619c2a32c3bddad1b73417278c8f54"
+  },
+  {
+    "path": "analysis/build_final_synthesis.py",
+    "sha256": "c3b1e4c36b860d6b0695640142ca021d2cf9f807eb6548b438950f6b6ad5b49d"
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "sha256": "cb85c49d56f8564bc3757ed3cfd10d6b00f4f31b8438ef35d37c1986e0e3cb98"
+  },
+  {
+    "path": "analysis/data/claims.jsonl",
+    "sha256": "8dd6b6c85f84362a26e6dce82d381f17921f7ba772872b89073972ceb374dd66"
+  },
+  {
+    "path": "analysis/data/concepts.json",
+    "sha256": "5eea2782a4d9b991d0bc4bef7b156c43560fc1263f57a25107136ba2de954735"
+  },
+  {
+    "path": "analysis/data/money_compensation_scenarios.json",
+    "sha256": "d01a0cddedef14eb6fc5982cfa84bf95fdfc54fe89876ac52497f32d6dd0bdb3"
+  },
+  {
+    "path": "analysis/empirical/independent_energy/results.json",
+    "sha256": "7a1df98bb0720127c69932590217759fe5fa58a167320cf4133e11431e3a4b21"
+  },
+  {
+    "path": "analysis/empirical/micro_electricity/results.json",
+    "sha256": "38cb22289fcae80ca3ab5bf813abacb774caec094972db548567f62dceccf870"
+  },
+  {
+    "path": "analysis/finalize_synthesis.py",
+    "sha256": "b6ac7a0ec364609a77eb994fefcce8dcac6c5f59e319eb2e70dc5048cd24107c"
+  },
+  {
+    "path": "analysis/global_corpus_pass/claim_rechecks.json",
+    "sha256": "5cd29722d9410556601ee39defa1db9019781a0d68b913a5d46e8592c0604298"
+  },
+  {
+    "path": "analysis/global_corpus_pass/concept_consistency.md",
+    "sha256": "9f4a7579113abd37efd2c9bf1f4e60c6b5682d5291ccc5e634365fe810622129"
+  },
+  {
+    "path": "analysis/global_corpus_pass/final_report.md",
+    "sha256": "77bbaeeaef176d6de45b314fde6a765ff3c685c50036ad90b9fbb666b10bb750"
+  },
+  {
+    "path": "analysis/global_corpus_pass/findings.json",
+    "sha256": "fc55d2f96a654599a4ffd0287aa5d2e92679ea5f25371a598e0f74c2ba9609f7"
+  },
+  {
+    "path": "analysis/global_corpus_pass/formal_checks.json",
+    "sha256": "a58a703ac8fa9ca3d73a731d6e1c1aa6130c90e7e2e8a25bafde7fc89d14f53f"
+  },
+  {
+    "path": "analysis/global_corpus_pass/formula_families.json",
+    "sha256": "f63718d10b35fe7a6e8bab8f26ecbe9910499ebb70e9f865abbde43af1943300"
+  },
+  {
+    "path": "analysis/global_corpus_pass/root_question_chain.md",
+    "sha256": "c55a193e0ee8589c3e1e881a6a172f36d030f31adfbf9895561373aee0d9e2bf"
+  },
+  {
+    "path": "analysis/synthesis_catalog.py",
+    "sha256": "3c63ddc34767a6bf785ea2282466c0e90aa6f53f4c8a6fab5bd319c2c13df51a"
+  },
+  {
+    "path": "analysis/synthesis_narrative.py",
+    "sha256": "2fc90ddd3351d3b9099bcec50940ece0fa806ac96483ad78b2ea21aa810ba858"
+  },
+  {
+    "path": "research_questions/RQ-01.01/conclusion.md",
+    "sha256": "830931f7152778a0a45ec81e63d54114d6626f70e99f06b9f05abdbabdd36114"
+  },
+  {
+    "path": "research_questions/RQ-01.01/global_consolidation.md",
+    "sha256": "04c3498d4663a0b259fbb29e278640e0cc3b721b37c3031a49ee90a13f3c0da9"
+  },
+  {
+    "path": "research_questions/RQ-01.02/conclusion.md",
+    "sha256": "128f80111dca61736e6587c15c061975a45bcd2744e150ad0bc042c981634e7d"
+  },
+  {
+    "path": "research_questions/RQ-01.02/global_consolidation.md",
+    "sha256": "16013f9e1e08758174211c39df94576d98ebc2680f347d45571ab8e19113468a"
+  },
+  {
+    "path": "research_questions/RQ-01.03/conclusion.md",
+    "sha256": "34779b29407835dfabfe7ca559f926aa5b689abdb6551a837851f0397eef1df5"
+  },
+  {
+    "path": "research_questions/RQ-01.03/global_consolidation.md",
+    "sha256": "ea581866f023d12859de8d3e9593fbb6cdc45e4b4d25a9b6a685662aa436da54"
+  },
+  {
+    "path": "research_questions/RQ-01.03/metrology.md",
+    "sha256": "6b433aad17b2f271890b153aa791dd54afb91481fc103d7db6c4f4b724fe1479"
+  },
+  {
+    "path": "research_questions/RQ-01.04/conclusion.md",
+    "sha256": "d0142fe741d8aa2826f9940388d621b140a54671efaffc254d1199dc76ee82ad"
+  },
+  {
+    "path": "research_questions/RQ-01.04/global_consolidation.md",
+    "sha256": "f2535bb55c4a19f53e10c4709b65bc0799c8eb2566bb1717569bb1c29bda3993"
+  },
+  {
+    "path": "research_questions/RQ-01/conclusion.md",
+    "sha256": "6c494c64fcebee08ac376b556a3afcffa9a239c9c349b0954918887d6d9fd771"
+  },
+  {
+    "path": "research_questions/RQ-01/global_consolidation.md",
+    "sha256": "7932ff98b8d10f77a1da8481f257932554691ebbbd502f5fdb4b3103d7895ed4"
+  },
+  {
+    "path": "research_questions/RQ-02.01/conclusion.md",
+    "sha256": "29937f100f1fdd5b91b8536a32d8792afbd1eff5c7a1fb3ea05c5962e19d3ef9"
+  },
+  {
+    "path": "research_questions/RQ-02.01/global_consolidation.md",
+    "sha256": "831b68943e4bd77c466e59c84bd5f220c87642800c1a135fb58cde4924487e94"
+  },
+  {
+    "path": "research_questions/RQ-02.02/conclusion.md",
+    "sha256": "2f08f1dff6326fbc7972ba4665e2007803824ad71953008ee18091cb53cb7606"
+  },
+  {
+    "path": "research_questions/RQ-02.02/global_consolidation.md",
+    "sha256": "88922349db71f87c2ef6090e1ac416fd8a2b041cfa5b6f1f18ccf9ead84c1212"
+  },
+  {
+    "path": "research_questions/RQ-02.03/conclusion.md",
+    "sha256": "390625897820643eac60ebbcee730bf96412158e482afc4ef677c7a5e24fd259"
+  },
+  {
+    "path": "research_questions/RQ-02.03/global_consolidation.md",
+    "sha256": "a81b9552bd633899d5611b7178d1f3647b9dbbc705c817a7f738b1cd3869120b"
+  },
+  {
+    "path": "research_questions/RQ-02/conclusion.md",
+    "sha256": "db713ef73ee54595376ad1d41e62692f7e2eaaf00b4431b56369a2ad583d4fb9"
+  },
+  {
+    "path": "research_questions/RQ-02/global_consolidation.md",
+    "sha256": "497b941df0c508041687b804e1e87c493d420843f08c46c0dd337b956a3a3322"
+  },
+  {
+    "path": "research_questions/RQ-03.01/conclusion.md",
+    "sha256": "4dedebdb6fa33fc3e31944d4885dac33129f5f9ab8c6a2ac4e85796133497474"
+  },
+  {
+    "path": "research_questions/RQ-03.01/global_consolidation.md",
+    "sha256": "90a68be478db3681115130a9e8898e0aa2245299b8dc7000691e0daf09eec61d"
+  },
+  {
+    "path": "research_questions/RQ-03.02/conclusion.md",
+    "sha256": "8c436c4f1cc9abe034a975d0448f172fd938f70f8f68217a5ae2bce0168ed8a8"
+  },
+  {
+    "path": "research_questions/RQ-03.02/global_consolidation.md",
+    "sha256": "c4fb5f3ce80bc573bf3d1a550e9e20642242d6276d106c8d5767a58511a4d788"
+  },
+  {
+    "path": "research_questions/RQ-03.03/conclusion.md",
+    "sha256": "4bc0b5aa1343e0538bb739fd39cad024667b539fb474274d8edf0c5356053095"
+  },
+  {
+    "path": "research_questions/RQ-03.03/global_consolidation.md",
+    "sha256": "6db9148523271d5c499cea8b4b2459f071bcd6da816b1be32ea31e2a538c2819"
+  },
+  {
+    "path": "research_questions/RQ-03.04/conclusion.md",
+    "sha256": "efca717da73ee30b891f1fa157dbc895d3959eebc98e65c61eb3ed17f437680f"
+  },
+  {
+    "path": "research_questions/RQ-03.04/global_consolidation.md",
+    "sha256": "d0a82e8d010b1744bd59dbcce286098985f7708da117d2f0da520a1484336e5d"
+  },
+  {
+    "path": "research_questions/RQ-03/conclusion.md",
+    "sha256": "5f25e253213a0bde6dc6432b636ece7a8fd6df737c0fd0f08aaa103f2a80aa47"
+  },
+  {
+    "path": "research_questions/RQ-03/global_consolidation.md",
+    "sha256": "7e0498c0803b35823521b77c0af22f5907dac7c868e3382509ced91a83d320bd"
+  },
+  {
+    "path": "research_questions/RQ-04.01/conclusion.md",
+    "sha256": "796004946ed6b6fe8d73be347876de741be8d3d50c3813478e4e83f5f26470ca"
+  },
+  {
+    "path": "research_questions/RQ-04.01/global_consolidation.md",
+    "sha256": "a88f6d9d96562203460f24af109a39a7fc2f9a601fcd0a271b00a23364c0f8bf"
+  },
+  {
+    "path": "research_questions/RQ-04.02/conclusion.md",
+    "sha256": "5a2fd1ce9c1bd985b66cfe0bc738f602db2dfc804f53289e969400e431a72bf5"
+  },
+  {
+    "path": "research_questions/RQ-04.02/global_consolidation.md",
+    "sha256": "beb9f6885a33861e8f909d290bc1dfc64bbddda97d6a0f24ed706d7b253eb834"
+  },
+  {
+    "path": "research_questions/RQ-04.03/conclusion.md",
+    "sha256": "32e5009e077df7ef052624a5fb3fb109ede0a007dfa0af77589e112a4edcc82b"
+  },
+  {
+    "path": "research_questions/RQ-04.03/global_consolidation.md",
+    "sha256": "922d00415b0f84c687a2b5d0c13dfa6c24f1c090534ea92bf2e14769733149d3"
+  },
+  {
+    "path": "research_questions/RQ-04.04/conclusion.md",
+    "sha256": "13c8aed4f1148046d94e46b2b1e4d7af5e591e98a8bda968a547aa555f4020f5"
+  },
+  {
+    "path": "research_questions/RQ-04.04/global_consolidation.md",
+    "sha256": "5eb251b030bd9a2604e34a9f9a30831e2c5b817f86a7e3a77c7122641724a356"
+  },
+  {
+    "path": "research_questions/RQ-04/conclusion.md",
+    "sha256": "f1e15ba96bb20d6db412326694a34a04a97a32f4eaaee6b1716e417968dd3a30"
+  },
+  {
+    "path": "research_questions/RQ-04/global_consolidation.md",
+    "sha256": "bc7a2458aa022223d1aa6f4d89c32df76a5cf48924bb4fa731c1c9f0c7b8c215"
+  },
+  {
+    "path": "research_questions/RQ-05.01/conclusion.md",
+    "sha256": "d13f414595a1ba3d4a00cd70d4811374d43167dc0ba5d67cf11b33e00f9002cf"
+  },
+  {
+    "path": "research_questions/RQ-05.01/global_consolidation.md",
+    "sha256": "f101e5a374fa60fed2ff2f8fd482c4d23d5f8c1b97ccae5aa20f4fe513230064"
+  },
+  {
+    "path": "research_questions/RQ-05.01/metrology.md",
+    "sha256": "3330ce992a62f8067cb42ddafcb287cf266181cc9798c4b093fac7b6b68a04aa"
+  },
+  {
+    "path": "research_questions/RQ-05.02/conclusion.md",
+    "sha256": "e7a8ba5f9b928cb9e2adabb8f9a95f5f7d7283af1b0e2b5f0b19f47be32af3f0"
+  },
+  {
+    "path": "research_questions/RQ-05.02/global_consolidation.md",
+    "sha256": "bb5d971a0d59f26a3869c4875dd3a1f4b32a7979aed325211bb33ff487b63ceb"
+  },
+  {
+    "path": "research_questions/RQ-05.03/conclusion.md",
+    "sha256": "fd41b00eea6bea16ec278be29f1852deaa3f0ada683df1afc2ee09d13000c2a0"
+  },
+  {
+    "path": "research_questions/RQ-05.03/global_consolidation.md",
+    "sha256": "effe1a1cd3fdcbc710f279992e72139e32bec943fc2b63df660975dee1b5013f"
+  },
+  {
+    "path": "research_questions/RQ-05/conclusion.md",
+    "sha256": "b433a86f4c171edc084d109663907c3c8b7220de3005778f615a31e164e26c0a"
+  },
+  {
+    "path": "research_questions/RQ-05/global_consolidation.md",
+    "sha256": "0f44a4900cdc697f9b1c055616879152c509e17433044b4e77a03d53a0580e6d"
+  },
+  {
+    "path": "research_questions/RQ-06.01/conclusion.md",
+    "sha256": "658c65282b609ec086e425c61cdcfb55f7027cd077c9e0794e7e0928fb99e553"
+  },
+  {
+    "path": "research_questions/RQ-06.01/global_consolidation.md",
+    "sha256": "ff3000ee327559f1976f70e818231f6b0549757e8b96bd2ef96e5921e57592f2"
+  },
+  {
+    "path": "research_questions/RQ-06.02/conclusion.md",
+    "sha256": "036b64d3d66535c32e847c3b3212028c79ddfc775adc391aeb43c3c632278bf1"
+  },
+  {
+    "path": "research_questions/RQ-06.02/global_consolidation.md",
+    "sha256": "2be107c42ec062453738f36471e1e5bd1af14aa804df7670d320af0777fecb43"
+  },
+  {
+    "path": "research_questions/RQ-06.03/conclusion.md",
+    "sha256": "225208dbdbe2aa7ca21fcacafd92715b7c0ad738e422aad91dc3aa7edcbe014b"
+  },
+  {
+    "path": "research_questions/RQ-06.03/global_consolidation.md",
+    "sha256": "770575e7d14efb525d66744c3493607e3ca9ea5b6b19b843383593df6e46815b"
+  },
+  {
+    "path": "research_questions/RQ-06.04/conclusion.md",
+    "sha256": "881dab56cdb23ef5fb495bf2f1e5b44e31410517c2830211ada7e5a05751774b"
+  },
+  {
+    "path": "research_questions/RQ-06.04/global_consolidation.md",
+    "sha256": "a3fc86b6eef4d0de2876a1337cbb78e6c2e35f51b7bad2b7bddca12d52eb7e63"
+  },
+  {
+    "path": "research_questions/RQ-06/conclusion.md",
+    "sha256": "818695e36782403e79195a1ae3b11b18380a8ede7585a0488b4325766bb4104b"
+  },
+  {
+    "path": "research_questions/RQ-06/global_consolidation.md",
+    "sha256": "bb4dbc284684d3c89c246e9914d117cffb3df155a86816efb8bc27514f5d754e"
+  },
+  {
+    "path": "research_questions/RQ-07.01/conclusion.md",
+    "sha256": "fc6b2f0671e50f120e07e6df89b54583b5218ecd8548a34f324c45fa22683440"
+  },
+  {
+    "path": "research_questions/RQ-07.01/global_consolidation.md",
+    "sha256": "eec4389ff810377be3af13eaf7aff9a214e2e16481efef7d053ed7c5f2101b2d"
+  },
+  {
+    "path": "research_questions/RQ-07.02/conclusion.md",
+    "sha256": "6a986e016d26daa34a4bd1e5311a6df4dc39643ae324507f067a49d68b243493"
+  },
+  {
+    "path": "research_questions/RQ-07.02/global_consolidation.md",
+    "sha256": "330199829a96ce6610e68347bdd5259a3a8f0e3ebb4e84554198ab52f06e75c0"
+  },
+  {
+    "path": "research_questions/RQ-07.03/conclusion.md",
+    "sha256": "993803e7cc91aa7ed5674610a0c9811776d7693a88a1a6f6ff0f6fb46aa6841e"
+  },
+  {
+    "path": "research_questions/RQ-07.03/global_consolidation.md",
+    "sha256": "2ef89888cef575944011a9ada3f423232c83049973d5f630d1bdc71e12ddfa5f"
+  },
+  {
+    "path": "research_questions/RQ-07/conclusion.md",
+    "sha256": "05c4880dc8e107904a21f42e1fa96c3b54a22dd74fb36ad0d80834ef417a7675"
+  },
+  {
+    "path": "research_questions/RQ-07/global_consolidation.md",
+    "sha256": "13927c76c91caa5c7da40768f2694d2ad53271b9d6d73bcf3227304ad04a2cac"
+  },
+  {
+    "path": "research_questions/RQ-08.01/conclusion.md",
+    "sha256": "064ec7ac8b8bd6a6a74384580f229f0a282a0af1ee0a8699e5eb0cf24e62a0e7"
+  },
+  {
+    "path": "research_questions/RQ-08.01/global_consolidation.md",
+    "sha256": "dc056760253bc20824b87e368c2450e84708b4799b87faa8ce15cda05da073a0"
+  },
+  {
+    "path": "research_questions/RQ-08.02/conclusion.md",
+    "sha256": "ff13da44cadf626db42135f4237ab0e9f6f7cacf8b723f1a22c025a433b3c4c9"
+  },
+  {
+    "path": "research_questions/RQ-08.02/global_consolidation.md",
+    "sha256": "791dc605312f2a1b8089fe2d2083bb66af1e074b4c70cdf27e96d0434db71a08"
+  },
+  {
+    "path": "research_questions/RQ-08.03/conclusion.md",
+    "sha256": "125bce4a25ae402fb1b1f823c020bb8ffce0a33729bd4d315fe1f93628420fb6"
+  },
+  {
+    "path": "research_questions/RQ-08.03/global_consolidation.md",
+    "sha256": "c315d7393a99686b58b68cbddc6d26ac4e8d6d7a2397847832fc0008ec534f62"
+  },
+  {
+    "path": "research_questions/RQ-08.04/conclusion.md",
+    "sha256": "b04f8c4868381a4ff77423f2343d57659a9524a34d74012f39642deabe94a549"
+  },
+  {
+    "path": "research_questions/RQ-08.04/global_consolidation.md",
+    "sha256": "0eecb23ff406de9fda56d790602905398ee99e8ea35aacde3a5c5d74c1c7f776"
+  },
+  {
+    "path": "research_questions/RQ-08/conclusion.md",
+    "sha256": "5f82d2edc4e32aa908ecbe14810edef7b767bf757024d921e3197733e410bef0"
+  },
+  {
+    "path": "research_questions/RQ-08/global_consolidation.md",
+    "sha256": "0ed2beb523e59c483d5d221f5f0eba328113de653617f2c1ed3f44742ac1ae1d"
+  },
+  {
+    "path": "research_questions/RQ-09.01/conclusion.md",
+    "sha256": "6afaf1b835d23d99cdda0b3f85eaefd3afb56fb306fb9eb2995806b3ce59ad54"
+  },
+  {
+    "path": "research_questions/RQ-09.01/global_consolidation.md",
+    "sha256": "3356e21fe02dbd27a44758e8d535119433d4908a57a47514ac921237ecf7d940"
+  },
+  {
+    "path": "research_questions/RQ-09.02/conclusion.md",
+    "sha256": "8ae7706934020b28d6eb675ce4aa610a7d3b35d8df3f7687dc0d963be410c6b2"
+  },
+  {
+    "path": "research_questions/RQ-09.02/global_consolidation.md",
+    "sha256": "f505c2d7b1f7f82415a1f673c96a3665139b7fdca615f67e6c056ef1535c02c3"
+  },
+  {
+    "path": "research_questions/RQ-09.03/conclusion.md",
+    "sha256": "f58cb1f229fffb3ca7369a5748b1deccdf24e6b604b7919008d4df219d488cf8"
+  },
+  {
+    "path": "research_questions/RQ-09.03/global_consolidation.md",
+    "sha256": "d50abf7b7b27cf9b737f4e9c004a0b002817c1ee4d8bbcf2b55217c8cdf11c76"
+  },
+  {
+    "path": "research_questions/RQ-09/conclusion.md",
+    "sha256": "26df02c7a9098496543a4bdc6b5761a5de553649c6605703c59c5aefe3be0605"
+  },
+  {
+    "path": "research_questions/RQ-09/global_consolidation.md",
+    "sha256": "566a39aa8330838c803242f82019574abda194c2df9c3387667ed1d59cea5409"
+  },
+  {
+    "path": "research_questions/RQ-10.01/conclusion.md",
+    "sha256": "35e7b70fc13137ced91c2cc82acc558ab230cee555d77768b5d9c43e261df93f"
+  },
+  {
+    "path": "research_questions/RQ-10.01/global_consolidation.md",
+    "sha256": "aca3280a5ce717fb56a2c9781653663e5348c9f19b956db0a529602ba431904c"
+  },
+  {
+    "path": "research_questions/RQ-10.02/conclusion.md",
+    "sha256": "03aebee5fadc019aeaeb78c3839e44f55616cbfd017c81bad345c3a005ac434c"
+  },
+  {
+    "path": "research_questions/RQ-10.02/global_consolidation.md",
+    "sha256": "cd67de3e729c3e45ddfab5bb7d3cbb6cb9afd055aaba90980ba00231d6d8bf8b"
+  },
+  {
+    "path": "research_questions/RQ-10.02/metrology.md",
+    "sha256": "a274f5aa8b76f2e59ca304fa6bdcae756dd5e70384dbc48deac0a76d4ab05665"
+  },
+  {
+    "path": "research_questions/RQ-10.03/conclusion.md",
+    "sha256": "187bdda82b4aaabb349b345af52e6121eb39407374afd028786edd992b692fc2"
+  },
+  {
+    "path": "research_questions/RQ-10.03/global_consolidation.md",
+    "sha256": "8085c1c541572b5dae9fb7df9267f0fb07393c175efbc124145a44a8288fde81"
+  },
+  {
+    "path": "research_questions/RQ-10/conclusion.md",
+    "sha256": "fe2859e185aded0c877309ea8f954c2406556b9d87994a958b9b1ddee7e62de4"
+  },
+  {
+    "path": "research_questions/RQ-10/global_consolidation.md",
+    "sha256": "4fd93a5ef94f92c0746d4517e78e5a44bfd65df333b3ec94da7aca5fceec354d"
+  },
+  {
+    "path": "research_questions/RQ-11.01/conclusion.md",
+    "sha256": "aa4151d71a6f53bd463a6f01a7f324310ccad0d10510b73084f2df375a3e567e"
+  },
+  {
+    "path": "research_questions/RQ-11.01/environmental_measurands.md",
+    "sha256": "90dd4b028c67207107a12e3af043c9fff513a14e47a8ab999e3121475b45201c"
+  },
+  {
+    "path": "research_questions/RQ-11.01/global_consolidation.md",
+    "sha256": "9e91caadf464d7d379a39718e89f895d7a135b9150c2da2cf1a3a4015ea6ae7f"
+  },
+  {
+    "path": "research_questions/RQ-11.02/conclusion.md",
+    "sha256": "7f64ead34f79afcc0de09410462eae71ea1d135d8baa836977a9d5f7f1cbc838"
+  },
+  {
+    "path": "research_questions/RQ-11.02/global_consolidation.md",
+    "sha256": "0ef56d7cd4544dbefb4081f3ab3c5bad1247992f7e44160838142d71f8133a88"
+  },
+  {
+    "path": "research_questions/RQ-11.03/conclusion.md",
+    "sha256": "23e42dc250dfdd9ca4b777953811c1868aedecbae756be2e0f930e26fd853a09"
+  },
+  {
+    "path": "research_questions/RQ-11.03/global_consolidation.md",
+    "sha256": "bf6c51d820e10539fe4dbc32ede2079c9d48c583e73a5266cf6f77231f98557c"
+  },
+  {
+    "path": "research_questions/RQ-11/conclusion.md",
+    "sha256": "763ad9244cc4227a318d4a1b800263a2c9601b37b0668bbe6050b47d309a4aea"
+  },
+  {
+    "path": "research_questions/RQ-11/global_consolidation.md",
+    "sha256": "0488ff450a8df5baf28865f49276149a833919b12d44b33caf3bef6416c66cf4"
+  },
+  {
+    "path": "research_questions/RQ-12.01/conclusion.md",
+    "sha256": "76668e71dde5d9164ab962b6feca5f72c44e0699d0278d59a9255ea824bd0600"
+  },
+  {
+    "path": "research_questions/RQ-12.01/discrimination.md",
+    "sha256": "96a8c0d39753fd8696515bc77e34d4a4fa23087886b24be474dddacc25dd47f1"
+  },
+  {
+    "path": "research_questions/RQ-12.01/global_consolidation.md",
+    "sha256": "748c8bea4b909074c434879e77dd790ebeb185cbba25e98ef5d97ba4bb4c5202"
+  },
+  {
+    "path": "research_questions/RQ-12.02/conclusion.md",
+    "sha256": "a97a4c2acfc4d9ccf8d98b9c699746b9c4fffbb5bd8052949a15db79bbe9715b"
+  },
+  {
+    "path": "research_questions/RQ-12.02/global_consolidation.md",
+    "sha256": "e3e5c3a534260c2c1f72b0f3418d84b7c7d63a78225cfd7eddcb12d34449f170"
+  },
+  {
+    "path": "research_questions/RQ-12.02/signatures.md",
+    "sha256": "b84f0e22d5c77eeb956603ed167cb3d4af2034aa524ae99e2096f022bc6814a8"
+  },
+  {
+    "path": "research_questions/RQ-12.03/conclusion.md",
+    "sha256": "8ce8c668a2239ba37e49d64e5372f5e9bf841155c085f16f4022293c68b5348b"
+  },
+  {
+    "path": "research_questions/RQ-12.03/global_consolidation.md",
+    "sha256": "404a7e2f922aaa07645c91ce5e76a54de0ca1e0d9370fba21bd9f97b873ed137"
+  },
+  {
+    "path": "research_questions/RQ-12/conclusion.md",
+    "sha256": "837479db57477a514d215e12c321d05fe8cef9997efd4e0321ffd52717eb6ecb"
+  },
+  {
+    "path": "research_questions/RQ-12/global_consolidation.md",
+    "sha256": "ce6162fda4e179f836f0fb3a0089696d1d19c9713b10dae6e64c3fe1a81919c9"
+  },
+  {
+    "path": "research_questions/contribution/README.md",
+    "sha256": "6260fc3910e281d9947efcf926707d06e12a0675eee1fa0ea407bad0707a6954"
+  },
+  {
+    "path": "research_questions/contribution/candidate_contributions.md",
+    "sha256": "e74b549e24e9190b9b8aa9bbc52c17b2d1bbe2fc9c7ee84dbaed831ca02e7706"
+  },
+  {
+    "path": "research_questions/contribution/cash_money_crosswalk.md",
+    "sha256": "4bbc0bd6c6067727d34389baa8f5c4916296ef1348488ff9b7b00dbc0e2652ee"
+  },
+  {
+    "path": "research_questions/contribution/claim_comparisons.md",
+    "sha256": "ec59782a92fdbe21792e328e4b187dd09753e3d3e27287c0868164dc1e801c34"
+  },
+  {
+    "path": "research_questions/contribution/concept_comparisons.md",
+    "sha256": "6f5ef14ea9a06b5e69bffb066a8cd6580e4adb38a7d1899063b7fc6f1c95bab4"
+  },
+  {
+    "path": "research_questions/contribution/concepts.json",
+    "sha256": "da54a4eacf91da46030b70f7cb9e0df0409f51e5d7d07f1ea49fb678c02e5d86"
+  },
+  {
+    "path": "research_questions/contribution/contribution_matrix.csv",
+    "sha256": "13e4b1d557b5202fee2b0c91c54247820c30e7cbe5f0a46ded73d995a6fb4ad8"
+  },
+  {
+    "path": "research_questions/contribution/core_comparisons.json",
+    "sha256": "1fd29f1cbec002bf9142b4b30d9d0b78ce390feb07928e530861103a23c03fc9"
+  },
+  {
+    "path": "research_questions/contribution/creation_accounts_comparison.md",
+    "sha256": "d210fd36748a995f310f9651a63acae4d1f0f6ef761cf181e96f3ceb8f2671a4"
+  },
+  {
+    "path": "research_questions/contribution/false_novelty_risks.md",
+    "sha256": "89ef12668f771221943922b129a412bcd43d929285075a727f268ad2a759a78c"
+  },
+  {
+    "path": "research_questions/contribution/global_corpus_addendum.md",
+    "sha256": "9d46d1d87959ee24d1175aed2f760474596382a5c297d2e56ddcd0174443d3eb"
+  },
+  {
+    "path": "research_questions/contribution/global_corpus_review.json",
+    "sha256": "094ebe6beb500c383dcaaf98f5b5e4402c836b3a8eb4b734bc49308987575155"
+  },
+  {
+    "path": "research_questions/contribution/literature.json",
+    "sha256": "1ee11b09d2bcec1f732beda572fc4b11d58203ecd5fb3b7b88b8aba6ee432cdf"
+  },
+  {
+    "path": "research_questions/contribution/literature.md",
+    "sha256": "4acdfab36012a63a4a8a92466fac1518fc63c8ca71135538abd175942780a003"
+  },
+  {
+    "path": "research_questions/contribution/manifest.json",
+    "sha256": "8a6efad42774f179b47f86b9ee19a0e4d4e45df77b55c5fa592e731ef28aefe2"
+  },
+  {
+    "path": "research_questions/contribution/money_scenario_comparisons.json",
+    "sha256": "53cb54f7a5eb4ac038e4e6e260f72b4b59d1920a5b245ba4debc62f9bc46abcc"
+  },
+  {
+    "path": "research_questions/contribution/money_scenario_comparisons.md",
+    "sha256": "79761abaca3d25be1080ad72ab289b3d70e95b691693834844b79255284942cc"
+  },
+  {
+    "path": "research_questions/contribution/question_links.json",
+    "sha256": "97f2abc5c28e7f038f5327e4544c9d0c1564b4d7e10e6efd26bb3179d80ecebf"
+  },
+  {
+    "path": "research_questions/contribution/underappreciated_distinctions.md",
+    "sha256": "37fb4ed6a8030e29af74e5e5a7e655366a95b4c182150492c9bd048c3aaa0c6b"
+  },
+  {
+    "path": "research_questions/contribution/unresolved_novelty.md",
+    "sha256": "e37d7cea35083d6242a98ffca105dfc6af2e86ab31eddef41db5a72bf060d2bf"
+  },
+  {
+    "path": "research_questions/contribution/utility_comparison.md",
+    "sha256": "b6e75f252b434a57f3431c30c95164f820f673fcfddaa529feee23d9c2f77643"
+  },
+  {
+    "path": "research_questions/evidence_matrix.csv",
+    "sha256": "f3e0d691b3c6d57a4c5306211c3b11bd9ee5f06db031d0e191dd84d6610ebcb6"
+  },
+  {
+    "path": "research_questions/experiments/EXP-02/results.json",
+    "sha256": "1d5ff1b8e9c2d8726fb2e6adb15584370bcba061d626ce3c31356d97b256f2ec"
+  },
+  {
+    "path": "research_questions/experiments/EXP-03/results.json",
+    "sha256": "895ee19f80fe25e369120b6e69b619270580a4a6889b21d2ded403c34ad507c1"
+  },
+  {
+    "path": "research_questions/experiments/EXP-09/results.json",
+    "sha256": "206bf8aae5b8a6a12b5cd73a6cbbce2487e72dadc3b1051950764fe2c7ad785c"
+  },
+  {
+    "path": "research_questions/fifth_pass_report.md",
+    "sha256": "141d4eee3ebf8dd7a42ce8e36868b14f17336002378dfbd7c36be61228a936bd"
+  },
+  {
+    "path": "research_questions/first_pass_report.md",
+    "sha256": "68f50a78fce3a955c7a2b468a0476dc48ae37955f7065ecb11b2f04cd723482b"
+  },
+  {
+    "path": "research_questions/fourth_pass_report.md",
+    "sha256": "be039ac99744c59f43c14fa86880df3478b8a052f4dba490f524e3cee5387e32"
+  },
+  {
+    "path": "research_questions/operationalization/README.md",
+    "sha256": "ea64854e902387357efc0b52ffc7a33195a116c97c89d057fce482a04cb8b0ec"
+  },
+  {
+    "path": "research_questions/operationalization/circularity_review.md",
+    "sha256": "5707fead4242f60178b3154f323112131b58662d22c86ede23f749448afc5ed5"
+  },
+  {
+    "path": "research_questions/operationalization/experiments.json",
+    "sha256": "a019d61f7ed3d1daaa59bde9b77130146f5372535010520e31e12125832f476b"
+  },
+  {
+    "path": "research_questions/operationalization/experiments.md",
+    "sha256": "f46ea152422d61bc0e790c72c1d716220b43df422bcb73427c912c96cee1e858"
+  },
+  {
+    "path": "research_questions/operationalization/formal_results.json",
+    "sha256": "b34c677a66ff08c0dc66e51857b9268ea8e42cd8bc5033a1cc7db3ced8e9fdaf"
+  },
+  {
+    "path": "research_questions/operationalization/literature.md",
+    "sha256": "d42360448d0bdf204ab2fae82df06e203640ee34dc19367245b7eda30550c595"
+  },
+  {
+    "path": "research_questions/operationalization/manifest.json",
+    "sha256": "26ddd7f8cdf4ad4765d955869255363eb666e40bf716c00ad27aeb8260204983"
+  },
+  {
+    "path": "research_questions/operationalization/measurement_literature.json",
+    "sha256": "e6831cc72cb43c71f656b97f37f03db124f60e40f8658c26f458e611d8f84773"
+  },
+  {
+    "path": "research_questions/operationalization/measurement_matrix.csv",
+    "sha256": "73686377b672ce6d8665092ee876c79444103c77de0c87782c31f066416b2fd2"
+  },
+  {
+    "path": "research_questions/operationalization/money_observable_implications.md",
+    "sha256": "b4059f12fa0ac293a7ac9a28da6c8b512b2808ced8830aedde00d18c63f42c9f"
+  },
+  {
+    "path": "research_questions/operationalization/variables.json",
+    "sha256": "7705e7f67fe8bbd9b627a118d4d26022e5f63d35493067e8f3d0695a3606a091"
+  },
+  {
+    "path": "research_questions/operationalization/variables.md",
+    "sha256": "652573f885f43a93b96a254c7cf94959913c9dbfa0fb08cdc4e6a99bc8bd6dc5"
+  },
+  {
+    "path": "research_questions/question_graph.json",
+    "sha256": "31ce40435d8f95c11f8834d2e112d02313054a564b8920bd05a26319332a540f"
+  },
+  {
+    "path": "research_questions/questions.md",
+    "sha256": "704e1ccd294eec47ef1458a603170c06b1152c129dff3ab787ab6e52aa689687"
+  },
+  {
+    "path": "research_questions/second_pass_formal_results.json",
+    "sha256": "c96b0fb4d17e95708916f37abb931dba667e3f6403aca27d9f7b416da2a38177"
+  },
+  {
+    "path": "research_questions/second_pass_report.md",
+    "sha256": "03040713b24976659d478042b7a672423dcd1c7a7298beb5832b830ac99b39d6"
+  },
+  {
+    "path": "research_questions/third_pass_report.md",
+    "sha256": "be7ee6a0f1a374f7d1640e91c3b424594d2b077c27f8d948dd6ca499adb47982"
+  },
+  {
+    "path": "remediation/trace_contract.json",
+    "sha256": "1541edca885e02ebc53f841194d8713352fa2238fb88054d4b17ae2e5034c43b"
+  },
+  {
+    "path": "remediation/validate_contracts.py",
+    "sha256": "1b8286d5de784ec644bee8b341207beb952f1b00dc6bbde042e7ad4ac153bba8"
+  },
+  {
+    "path": "research_questions/methodology/criteria.json",
+    "sha256": "cee4bdad4fb3c74788c28480ad3500d45e27c9a080d3634f44cdf7da42ab4f76"
+  },
+  {
+    "path": "research_questions/methodology/epistemic_program.md",
+    "sha256": "0c281c71f7f7b99ebb74df4cbb6d9c765d9a67608b7858c2d0ebff889264c7a5"
+  }
+]

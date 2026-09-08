@@ -1,0 +1,92 @@
+{
+  "scope": "Reproduction of repository outputs, not validation of the theory",
+  "tests": [
+    {
+      "id": "EMP-001",
+      "kind": "SYNTHETIC_SMOKE",
+      "passed": true,
+      "expected": "loglog beta=1.5, R2>0.999999; code asserts these conditions."
+    },
+    {
+      "id": "EMP-002",
+      "kind": "REPOSITORY_REPRODUCTION",
+      "passed": true,
+      "comparisons": [
+        {
+          "file": "merged_energy_gdp.csv",
+          "rows": 204,
+          "passed": true,
+          "rtol": 1e-08,
+          "atol": 1e-10
+        },
+        {
+          "file": "regression_summary.csv",
+          "rows": 18,
+          "passed": true,
+          "rtol": 1e-08,
+          "atol": 1e-10
+        },
+        {
+          "file": "rolling_loglog_elasticity.csv",
+          "rows": 120,
+          "passed": true,
+          "rtol": 1e-08,
+          "atol": 1e-10
+        }
+      ],
+      "command": [
+        "/home/ubuntu/reflections-work-money/.venv-research/bin/python",
+        "/home/ubuntu/reflections-work-money/articles/campergue_energy_gdp_code/src/energy_gdp_analysis.py",
+        "--gdp-file",
+        "/home/ubuntu/reflections-work-money/articles/campergue_energy_gdp_code/data/code/API_NY.GDP.MKTP.KD.csv",
+        "--gdp-ppp-file",
+        "/home/ubuntu/reflections-work-money/articles/campergue_energy_gdp_code/data/code/API_NY.GDP.MKTP.PP.KD.csv",
+        "--gdp-per-energy-file",
+        "/home/ubuntu/reflections-work-money/articles/campergue_energy_gdp_code/data/code/API_EG.GDP.PUSE.KO.PP.KD.csv",
+        "--countries",
+        "WLD,USA,FRA,DEU,CHN,IND",
+        "--start-year",
+        "1965",
+        "--end-year",
+        "2023",
+        "--out",
+        "/tmp/campergue-reproduce-40ed4up3/macro"
+      ],
+      "limitations": [
+        "Energy reconstructed as PPP GDP divided by PPP GDP per energy.",
+        "No independent energy series or causal identification.",
+        "Plots executed but not compared pixel by pixel; only tabular outputs compared."
+      ]
+    },
+    {
+      "id": "FORM-001",
+      "kind": "CONDITIONAL_ARITHMETIC",
+      "hypothesis": "HYP-0006",
+      "passed": true,
+      "result": 0.7777777777777777,
+      "interpretation": "77.78% follows from an assumed square-speed law. The arithmetic does not establish that law or measure energy."
+    },
+    {
+      "id": "FORM-002",
+      "kind": "LOGICAL_NONIMPLICATION",
+      "passed": true,
+      "result": {
+        "M0": 100,
+        "M1": 110
+      },
+      "interpretation": "M=n.u alone does not imply neutrality. This arithmetic is compatible with Campergue possibility 4a when calibrated issuance accompanies productive creation; not a refutation of his multiple-scenario framework. See analysis/24_money_compensation_scenarios.md."
+    }
+  ],
+  "input_sha256": {
+    "articles/campergue_energy_gdp_code/src/energy_gdp_analysis.py": "586aab8b3f84f5ec800248ad339cdda8655f8fe1455e515e92f6f4a149831409",
+    "articles/campergue_energy_gdp_code/tests/smoke_test.py": "2e37a4fe9b873148465acdac3f4931de9ef5b397c07d16dfc9f212b14a7dd2ba",
+    "articles/campergue_energy_gdp_code/data/code/API_EG.GDP.PUSE.KO.PP.KD.csv": "8b44a18067a829209ac423ed247b1700b09f00b1f44a344e103fe7d04b7bf7c0",
+    "articles/campergue_energy_gdp_code/data/code/API_NY.GDP.MKTP.KD.csv": "b0735a92ac6e8883492305733d914792bbecb28d4d34ad535e7690cb1e87af98",
+    "articles/campergue_energy_gdp_code/data/code/API_NY.GDP.MKTP.PP.KD.csv": "7d37559f048eabf7039ee7c400050ef2f2f0a4d9552142599f6e76e32d6a4d8f"
+  },
+  "environment": {
+    "python": "3.14.4 (main, Jun 18 2026, 14:25:02) [GCC 15.2.0]",
+    "numpy": "2.5.3",
+    "pandas": "3.0.5"
+  }
+}

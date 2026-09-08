@@ -1,0 +1,251 @@
+[
+  {
+    "question": "RQ-02.01",
+    "concepts": [
+      "wealth",
+      "productive creation"
+    ],
+    "comparisons": [
+      "COMP-09",
+      "COMP-10"
+    ]
+  },
+  {
+    "question": "RQ-02.02",
+    "concepts": [
+      "productive creation",
+      "transfer"
+    ],
+    "comparisons": [
+      "COMP-10",
+      "COMP-11"
+    ]
+  },
+  {
+    "question": "RQ-02.03",
+    "concepts": [
+      "transfer",
+      "redistribution"
+    ],
+    "comparisons": [
+      "COMP-11",
+      "COMP-12"
+    ]
+  },
+  {
+    "question": "RQ-03.01",
+    "concepts": [
+      "Economic Work",
+      "labour"
+    ],
+    "comparisons": [
+      "COMP-05",
+      "COMP-06"
+    ]
+  },
+  {
+    "question": "RQ-03.02",
+    "concepts": [
+      "Economic Work"
+    ],
+    "comparisons": [
+      "COMP-05"
+    ]
+  },
+  {
+    "question": "RQ-03.03",
+    "concepts": [
+      "Economic Work",
+      "useful work"
+    ],
+    "comparisons": [
+      "COMP-05",
+      "COMP-18"
+    ]
+  },
+  {
+    "question": "RQ-04.02",
+    "concepts": [
+      "Economic Work",
+      "productivity-cost-price chain"
+    ],
+    "comparisons": [
+      "COMP-05",
+      "COMP-21"
+    ]
+  },
+  {
+    "question": "RQ-05.01",
+    "concepts": [
+      "cost",
+      "price",
+      "productivity-cost-price chain"
+    ],
+    "comparisons": [
+      "COMP-13",
+      "COMP-14",
+      "COMP-21"
+    ]
+  },
+  {
+    "question": "RQ-05.03",
+    "concepts": [
+      "Utility",
+      "consumer gain"
+    ],
+    "comparisons": [
+      "COMP-07",
+      "COMP-15"
+    ]
+  },
+  {
+    "question": "RQ-06.01",
+    "concepts": [
+      "Cash",
+      "Money",
+      "n",
+      "u"
+    ],
+    "comparisons": [
+      "COMP-01",
+      "COMP-02",
+      "COMP-03",
+      "COMP-04"
+    ]
+  },
+  {
+    "question": "RQ-06.02",
+    "concepts": [
+      "Cash",
+      "Money",
+      "n",
+      "u"
+    ],
+    "comparisons": [
+      "COMP-01",
+      "COMP-02",
+      "COMP-03",
+      "COMP-04"
+    ]
+  },
+  {
+    "question": "RQ-06.04",
+    "concepts": [
+      "Money",
+      "productive creation",
+      "transfer"
+    ],
+    "comparisons": [
+      "COMP-02",
+      "COMP-10",
+      "COMP-11"
+    ]
+  },
+  {
+    "question": "RQ-07.02",
+    "concepts": [
+      "redistribution",
+      "transfer"
+    ],
+    "comparisons": [
+      "COMP-12",
+      "COMP-11"
+    ]
+  },
+  {
+    "question": "RQ-08.01",
+    "concepts": [
+      "K",
+      "Utility"
+    ],
+    "comparisons": [
+      "COMP-16",
+      "COMP-07"
+    ]
+  },
+  {
+    "question": "RQ-08.02",
+    "concepts": [
+      "K"
+    ],
+    "comparisons": [
+      "COMP-16"
+    ]
+  },
+  {
+    "question": "RQ-09.02",
+    "concepts": [
+      "energy",
+      "useful work",
+      "Economic Work"
+    ],
+    "comparisons": [
+      "COMP-17",
+      "COMP-18",
+      "COMP-05"
+    ]
+  },
+  {
+    "question": "RQ-09.03",
+    "concepts": [
+      "energy",
+      "useful work",
+      "Money"
+    ],
+    "comparisons": [
+      "COMP-17",
+      "COMP-18",
+      "COMP-02"
+    ]
+  },
+  {
+    "question": "RQ-10.02",
+    "concepts": [
+      "consumer gain",
+      "environmental damage"
+    ],
+    "comparisons": [
+      "COMP-15",
+      "COMP-20"
+    ]
+  },
+  {
+    "question": "RQ-11.01",
+    "concepts": [
+      "environmental damage",
+      "losses"
+    ],
+    "comparisons": [
+      "COMP-20",
+      "COMP-19"
+    ]
+  },
+  {
+    "question": "RQ-12.01",
+    "concepts": [
+      "Economic Work",
+      "K",
+      "Utility",
+      "Money"
+    ],
+    "comparisons": [
+      "COMP-05",
+      "COMP-16",
+      "COMP-07",
+      "COMP-02"
+    ]
+  },
+  {
+    "question": "RQ-12.02",
+    "concepts": [
+      "wealth",
+      "environmental damage",
+      "productivity-cost-price chain"
+    ],
+    "comparisons": [
+      "COMP-09",
+      "COMP-20",
+      "COMP-21"
+    ]
+  }
+]

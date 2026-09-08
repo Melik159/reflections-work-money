@@ -1,0 +1,195 @@
+[
+  {
+    "id": "AG-01",
+    "claims": [
+      "CPC-0111"
+    ],
+    "pages": [
+      210
+    ],
+    "mechanism": "Somme des contributions T",
+    "conditions": [
+      "Unités et référence communes",
+      "Contributions sans double compte",
+      "Interactions non implicitement absorbées"
+    ],
+    "status": "ASSUMPTION_DEPENDENT",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 210,
+      "pages": [
+        210
+      ],
+      "quotation": "these characteristics being additive.",
+      "normalization": "whitespace",
+      "context_before": "eads of enterprises, e = slaves s = employees a = animals m = engines, machines it's possible to write : l=li+le+ls+la+lm T=T i+Te+T s+T a+T m e=ei+ee+es+ea+em ",
+      "context_after": ""
+    },
+    "interpretive": true
+  },
+  {
+    "id": "AG-02",
+    "claims": [
+      "CPC-0037",
+      "CPC-0114"
+    ],
+    "pages": [
+      402,
+      403,
+      406,
+      408
+    ],
+    "mechanism": "Débits et identité de valeur pQ",
+    "conditions": [
+      "Product homogène",
+      "Prix commun ou somme p_i Q_i",
+      "Débit total distinct de moyenne de vitesses",
+      "p*l=1 demande normalisation supplémentaire"
+    ],
+    "status": "QUALIFIED",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 403,
+      "pages": [
+        403
+      ],
+      "quotation": "In the same way as supply, demand D must be considered as speed, as it's necessary to specify the time during which a certain number of copies of the Product are sold.",
+      "normalization": "whitespace",
+      "context_before": "different speeds. Consequently, the number of copies produced QS is the number of times the labour or the task has been done during the time period considered (unit of time). Definition of the demand ",
+      "context_after": " Indeed, it's said, for example, that demand is 888 pairs of Charentaises per day. This number will be indicated by \"D\" as an index. However, as a general rule, there are several suppliers who do not "
+    },
+    "interpretive": true
+  },
+  {
+    "id": "AG-03",
+    "claims": [
+      "CPC-0115",
+      "CPC-0116"
+    ],
+    "pages": [
+      413,
+      414,
+      420,
+      422,
+      431,
+      432,
+      441,
+      446
+    ],
+    "mechanism": "Potentiels et dérivées partielles locales",
+    "conditions": [
+      "Absence de pertes annoncée",
+      "État intégrable et dérivable",
+      "Deux variables libres pour rP fixe",
+      "Dérivées inverses non nulles"
+    ],
+    "status": "ASSUMPTION_DEPENDENT",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 441,
+      "pages": [
+        441
+      ],
+      "quotation": "By choosing any 2 variables among them and since r P is a constant, there are therefore three possibilities, namely :",
+      "normalization": "whitespace",
+      "context_before": "that the evolution of an economic system in the transformation T→M is a function of the following 3 independent variables: FA ,V ,U P linked together by the Core Law (08-04), namely : FA ⋅V = r P⋅U P ",
+      "context_after": " 1. Utility and Added Value ⇒ U P and V 2. Utility and Force ⇒ U P and FA 3. Force and Added Value ⇒ FA and V Relationships giving the variation of Internal Energy (06-02) and Empraxia (09-10), namely"
+    },
+    "interpretive": true
+  },
+  {
+    "id": "AG-04",
+    "claims": [
+      "CPC-0089"
+    ],
+    "pages": [
+      536,
+      537,
+      538
+    ],
+    "mechanism": "Pondération locale n/N",
+    "conditions": [
+      "n local et N global distincts",
+      "Normalisation M/N à expliciter",
+      "Pas de somme répétant le même stock Cash"
+    ],
+    "status": "AMBIGUOUS",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 537,
+      "pages": [
+        537
+      ],
+      "quotation": "However, the number n of units is the one involved in the transformation considered and only it. It is obvious that in a complex system, such as a country, it is necessary to take into account the total number N of units that exist there. The relationship becomes : (∂M )n ,N = n N ⋅∂u ‹26-01› But we also know the 04-08 relationship giving the Money",
+      "normalization": "whitespace",
+      "context_before": "537 The quantity of Money created or destroyed is therefore directly proportional to the variation du in the value of the unit u. ",
+      "context_after": " according to price, namely : dM = −F A⋅dp It is therefore possible to write : n N ⋅∂u = −FA ⋅∂p which gives: ∂u = −F A⋅N n ⋅∂p ‹26-02› This relationship (26-02) and the relationship 04-08 show that : • if the price decreases, wealth increa",
+      "argument_function": "Pondération locale/globale proposée; limite macro explicite page538"
+    },
+    "interpretive": true
+  },
+  {
+    "id": "AG-05",
+    "claims": [
+      "CPC-0126"
+    ],
+    "pages": [
+      538,
+      539,
+      548,
+      550,
+      554,
+      558
+    ],
+    "mechanism": "Champ de vecteurs de compétitivité",
+    "conditions": [
+      "l,p pour même Product",
+      "Échelle commune ou métrique pour axes hétérogènes",
+      "Pas une fonction de production agrégée fournie"
+    ],
+    "status": "QUALIFIED",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 558,
+      "pages": [
+        558
+      ],
+      "quotation": "Therefore, considering a group of enterprises, it would be possible to plot a set of vectors, each of which represents the competitiveness of each enterprise.",
+      "normalization": "whitespace",
+      "context_before": "mount of Work he does, the Money he receives can take any value. Consequently, the competitiveness Ω can vary in very large proportions. Now, a company (manufacturer) is assimilated to a Transformer. ",
+      "context_after": " This would be identical to a wind speed field in meteorology. These vectors would be defined : • by their point of application corresponding to the respective values of labour and price. • by their d"
+    },
+    "interpretive": true
+  },
+  {
+    "id": "AG-06",
+    "claims": [
+      "CPC-0117",
+      "CPC-0118"
+    ],
+    "pages": [
+      558,
+      559
+    ],
+    "mechanism": "Stabilisation de K et passage GDP=K W",
+    "conditions": [
+      "Stabilité des poids et composition",
+      "Pont GDP/Money",
+      "Énergie utile et totale distinguées",
+      "Périodes et unités compatibles"
+    ],
+    "status": "NOT_ESTABLISHED",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 559,
+      "pages": [
+        559
+      ],
+      "quotation": "which shows the absolute coupling of the GDP of a system to the energy consumed in it.",
+      "normalization": "whitespace",
+      "context_before": "n the creation of Money, i.e, in the enrichment of the system. If we take into account this energy, which only influences the slope of the right-hand side, the relationship becomes : GDP=K⋅W consumed ",
+      "context_after": ""
+    },
+    "interpretive": true
+  }
+]

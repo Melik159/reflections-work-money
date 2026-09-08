@@ -1,0 +1,102 @@
+{
+  "synthetic": true,
+  "source_context": {
+    "document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      210,
+      406,
+      441,
+      536,
+      537,
+      538,
+      558,
+      559
+    ],
+    "claims": [
+      "CPC-0111",
+      "CPC-0116",
+      "CPC-0126"
+    ]
+  },
+  "assumptions": [
+    "Prices/costs share currency per physical copy; fixed boundary, no double counts.",
+    "Synthetic utility points have NO calibrated inter-product equivalence.",
+    "Synthetic local M_i=K_i*T_i and additive totals are conditional assumptions, not measured corpus quantities."
+  ],
+  "inputs": {
+    "p0": [
+      10.0,
+      20.0
+    ],
+    "p1": [
+      8.0,
+      24.0
+    ],
+    "c0": [
+      8.0,
+      12.0
+    ],
+    "c1": [
+      6.0,
+      14.0
+    ],
+    "q0": [
+      10.0,
+      3.0
+    ],
+    "q1": [
+      20.0,
+      2.0
+    ],
+    "U0": [
+      4.0,
+      9.0
+    ],
+    "U1": [
+      5.0,
+      8.0
+    ]
+  },
+  "expenditure": {
+    "base": 160.0,
+    "fixed_base_quantity": 152.0,
+    "actual_final": 208.0,
+    "base_basket_saving": 8.0,
+    "final_basket_saving": 32.0
+  },
+  "prices": {
+    "direct_Laspeyres": 0.95,
+    "normalized_correct_weights": 0.95,
+    "normalized_equal_weights": 1.0,
+    "final_quantity_weights": 0.8666666666666667,
+    "currency_conversion_invariant": true,
+    "physical_pack_conversion_invariant": true
+  },
+  "utility": {
+    "raw_fixed_basket": [
+      67.0,
+      74.0
+    ],
+    "rescaled_B_100": [
+      2740.0,
+      2450.0
+    ],
+    "interpretation": "Opposite aggregate directions without common metric; not a claim that Campergue authorizes arbitrary rescaling."
+  },
+  "coefficients": {
+    "local": [
+      0.5,
+      2.0
+    ],
+    "aggregate": [
+      1.1428571428571428,
+      0.8
+    ],
+    "replication_1000_does_not_fix_composition": true,
+    "interpretation": "Composition alone changes T-weighted aggregate K despite fixed local K."
+  },
+  "result_status": "FORMALLY_CONSISTENT",
+  "specificity_status": "NON_DISCRIMINATING",
+  "unique_Money_aggregation": "NOT_IDENTIFIABLE",
+  "global_theory_verdict": null
+}

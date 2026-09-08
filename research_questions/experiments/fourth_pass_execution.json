@@ -1,0 +1,12 @@
+{
+  "executed_at": "2026-09-08T12:27:05.199654+00:00",
+  "protocol_manifest_sha256": "90712fda216cb549a2420140704937685bc146732a4cb240a9bb5b579a3fa62d",
+  "executed": [
+    "EXP-02",
+    "EXP-03",
+    "EXP-09"
+  ],
+  "new_empirical_experiments": 0,
+  "protocol_amendments": [],
+  "Money_observed": false
+}

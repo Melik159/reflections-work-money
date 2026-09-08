@@ -1,0 +1,159 @@
+{
+  "edges": [
+    {
+      "id": "ENV-01",
+      "from_node": "subsistance",
+      "to_node": "abondance par cycles accélérés",
+      "epistemic_level": "SOURCE_EXPLICIT",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 34,
+        "pages": [
+          34
+        ],
+        "quotation": "This is how, at least in “occidental” countries, we have passed :",
+        "normalization": "whitespace",
+        "context_before": "stomary. In fact, at constant income, each time the cycle is run with greater speed, i.e. the Product is manufactured more quickly, the price of a Product can be lowered, thus enriching the consumer. ",
+        "context_after": "  from a society of subsistence, if not scarcity,  to a society of abundance, if not waste."
+      },
+      "conditions": [
+        "Pas de quantification des émissions, matières ou dommages; attribution causale non testée"
+      ],
+      "causal_validated": false
+    },
+    {
+      "id": "ENV-02",
+      "from_node": "énergie mécanique peu coûteuse",
+      "to_node": "mobilité et transports",
+      "epistemic_level": "SOURCE_EXPLICIT",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 460,
+        "pages": [
+          460
+        ],
+        "quotation": "this quasi-gratuity of mechanical energy that explains the development of mobility in general.",
+        "normalization": "whitespace",
+        "context_before": "460 ",
+        "context_after": " It isn't the purpose of this note to detail the impact of the very low cost of energy. However, it's possible to show that it promotes and catalyses : • long-distance transport of goods (maritime, ai"
+      },
+      "conditions": [
+        "Pas de quantification des émissions, matières ou dommages; attribution causale non testée"
+      ],
+      "causal_validated": false
+    },
+    {
+      "id": "ENV-03",
+      "from_node": "Work fourni et prix plus faible",
+      "to_node": "surplus Money et achats plus nombreux/qualitatifs",
+      "epistemic_level": "SOURCE_EXPLICIT",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 400,
+        "pages": [
+          400
+        ],
+        "quotation": "allows him to acquire more and/or higher quality Products.",
+        "normalization": "whitespace",
+        "context_before": "needed for this increase. This corresponds well to reality. In fact, the greater the Work done by the supplier, the lower the price, which leads to a surplus of Money for the consumer and, therefore, ",
+        "context_after": " • AN ECONOMIC DECISION IS NEVER NEUTRAL, NEITHER ON WORK NOR ON MONEY. ◦ it acts inversely for an actor, ◦ it acts identically for two actors."
+      },
+      "conditions": [
+        "Pas de quantification des émissions, matières ou dommages; attribution causale non testée"
+      ],
+      "causal_validated": false
+    },
+    {
+      "id": "ENV-04",
+      "from_node": "Money économisé",
+      "to_node": "usage ultérieur possible",
+      "epistemic_level": "SOURCE_EXPLICIT",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 33,
+        "pages": [
+          33
+        ],
+        "quotation": "The consumer can therefore use this Money at a later date, in principle at his convenience.",
+        "normalization": "whitespace",
+        "context_before": "Consequently :  the Money created that can be taken into account is that which the consumer holds in addition after a price reduction and not that which circulates from the consumer to the supplier. ",
+        "context_after": " It is this Money that moves a posteriori from the consumer to the supplier at the time of the acquisition of any Product. Consequently and beforehand, the consumer must have this Money at his disposa"
+      },
+      "conditions": [
+        "Pas de quantification des émissions, matières ou dommages; attribution causale non testée"
+      ],
+      "causal_validated": false
+    },
+    {
+      "id": "ENV-05",
+      "from_node": "achats supplémentaires",
+      "to_node": "empreinte énergétique et matérielle du nouveau panier",
+      "epistemic_level": "RESEARCH_INTERPRETATION",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 400,
+        "pages": [
+          400
+        ],
+        "quotation": "allows him to acquire more and/or higher quality Products.",
+        "normalization": "whitespace",
+        "context_before": "needed for this increase. This corresponds well to reality. In fact, the greater the Work done by the supplier, the lower the price, which leads to a surplus of Money for the consumer and, therefore, ",
+        "context_after": " • AN ECONOMIC DECISION IS NEVER NEUTRAL, NEITHER ON WORK NOR ON MONEY. ◦ it acts inversely for an actor, ◦ it acts identically for two actors."
+      },
+      "conditions": [
+        "Pas de quantification des émissions, matières ou dommages; attribution causale non testée"
+      ],
+      "causal_validated": false
+    },
+    {
+      "id": "ENV-06",
+      "from_node": "accélération des processus et pertes",
+      "to_node": "combustibles et environnement",
+      "epistemic_level": "SOURCE_EXPLICIT",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 460,
+        "pages": [
+          460
+        ],
+        "quotation": "increasing consumption of fuels induced by the acceleration of manufacturing processes",
+        "normalization": "whitespace",
+        "context_before": " the second doesn't. Knowing that losses increase faster than productivity, the final output of an economic system increases more slowly than productivity itself. This remark therefore highlights the ",
+        "context_after": ", and consequently its inevitable increasingly intense impact on the environment. Note 2 Historical analysis shows that, in general, the more “advanced” a society is, the more the ratio between the nu"
+      },
+      "conditions": [
+        "Pas de quantification des émissions, matières ou dommages; attribution causale non testée"
+      ],
+      "causal_validated": false
+    },
+    {
+      "id": "ENV-07",
+      "from_node": "développement et énergie fossile",
+      "to_node": "dommages environnementaux",
+      "epistemic_level": "SOURCE_EXPLICIT",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 454,
+        "pages": [
+          454
+        ],
+        "quotation": "contribute strongly to the current environmental degradations.",
+        "normalization": "whitespace",
+        "context_before": "pective yields of all physical and economic transforma- tions. It confirms the fact that the “developed” countries require a very important consumption of energy, in particular fossil fuels, and thus ",
+        "context_after": " In conclusion, all economic policies focused on the continuity of development and growth can only lead to harmful consequences. Of course, these policies carried out rationally and under certain cond"
+      },
+      "conditions": [
+        "Pas de quantification des émissions, matières ou dommages; attribution causale non testée"
+      ],
+      "causal_validated": false
+    }
+  ],
+  "missing": [
+    "Panier marginal et énergie incorporée",
+    "Mix et intensité carbone",
+    "Fonction émissions/matières → dommages",
+    "Contrefactuel efficacité sans réponse de demande"
+  ],
+  "rebound_comparison": "PARTIAL_PARALLEL",
+  "reason": "Usage du surplus explicite; gain d’efficacité énergétique et économies contrefactuelles non définis comme dans un test de rebond."
+}

@@ -1,0 +1,47 @@
+{
+  "command": "./verify.sh",
+  "exit_code": 0,
+  "tests_run": 128,
+  "passed": 128,
+  "failed": 0,
+  "errors": 0,
+  "classification": {
+    "total": 128,
+    "categories": {
+      "PROVENANCE_TEST": 60,
+      "LOGIC_TEST": 34,
+      "FORMAL_TEST": 17,
+      "INTEGRITY_TEST": 15,
+      "EMPIRICAL_REPRODUCTION_TEST": 2
+    },
+    "structural": 109,
+    "formal_scientific": 17,
+    "empirical_reproduction": 2,
+    "independent_discriminating": 0,
+    "classification": "Primary function, exclusive; mathematical diagnostics scientific locally, not economic validation"
+  },
+  "mutation": {
+    "positive_control": "PASS",
+    "executed": 7,
+    "rejected": 7,
+    "unexpected_acceptance": 0,
+    "tests": [
+      "test_78_universal_generalization",
+      "test_cash_money_confusion",
+      "test_compatibility_is_not_proof",
+      "test_correct_claim_wrong_page",
+      "test_empirical_overpromotion",
+      "test_removed_condition",
+      "test_wrong_existing_source"
+    ],
+    "interpretation": "Seven malformed inputs rejected; not seven scientific confirmations."
+  },
+  "scientific_warnings": [
+    "MEASUREMENT_OPEN",
+    "MONEY_GDP_BRIDGE_INCOMPLETE",
+    "NO_INDEPENDENT_DISCRIMINATING_PREDICTION",
+    "LITERATURE_PARTIAL",
+    "SYN_08_TRACEABILITY_PARTIAL"
+  ],
+  "scope": "Integrity/provenance/formal/reproduction, not global scientific validation."
+}

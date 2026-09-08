@@ -1,0 +1,34 @@
+{
+  "policy_change": {
+    "old": "INCOMPLETE blocks verify",
+    "new": "SUFFICIENT_FOR_ITERATIVE_RESEARCH; coverage warning",
+    "evidence": "Explicit user instruction this iteration"
+  },
+  "claims_added": [
+    "CPC-0064",
+    "CPC-0065",
+    "CPC-0066",
+    "CPC-0067",
+    "CPC-0068"
+  ],
+  "new_reading_pages": [
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    463,
+    464
+  ],
+  "interpretation_changes": [
+    "CPC-0052 qualified by CPC-0064, not silently replaced.",
+    "Entropy scope clarified by CPC-0067; ISS-007 retained OPEN pending full derivation."
+  ],
+  "bibliography_scope": "7 VERIFIED and 1 PARTIALLY_VERIFIED records; heterogeneous access depth."
+}

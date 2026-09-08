@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "change_log": [
+    {
+      "old_status": null,
+      "new_status": "INCOMPLETE",
+      "evidence": "Page coverage and phase 2 source citations.",
+      "justification": "First reconstruction baseline; not a scientific verdict."
+    }
+  ],
+  "invariants": {
+    "INV-001": "Ne pas assimiler une émission de Cash à la création de Money définie par l’auteur.",
+    "INV-002": "Ne pas mesurer T par des heures de labour sans reconstruire la relation.",
+    "INV-003": "Conserver distinction entre variation globale et redistribution interne.",
+    "INV-004": "Un déplacement comptable ne doit pas être étiqueté transformation productive sans passage source.",
+    "INV-005": "Une baisse de coût ne garantit pas la même baisse du prix de vente.",
+    "INV-006": "Conserver la distinction travail restant / travail accompli dans les bilans.",
+    "INV-007": "Ne pas confondre support et grandeur supportée.",
+    "INV-008": "L’analogie ne rend pas identiques variables économiques et physiques."
+  },
+  "open_issues": {
+    "ISS-001": "OPEN",
+    "ISS-002": "OPEN",
+    "ISS-003": "OPEN",
+    "ISS-004": "OPEN",
+    "ISS-005": "OPEN",
+    "ISS-006": "OPEN",
+    "ISS-007": "OPEN"
+  },
+  "rag_metrics": {
+    "legacy": {
+      "Recall@1": 0.23484848484848486,
+      "Recall@3": 0.553030303030303,
+      "Recall@5": 0.5833333333333334,
+      "MRR": 0.3838383838383838
+    },
+    "tfidf": {
+      "Recall@1": 0.4621212121212121,
+      "Recall@3": 0.6666666666666666,
+      "Recall@5": 0.7727272727272727,
+      "MRR": 0.5739898989898989
+    },
+    "bm25": {
+      "Recall@1": 0.49242424242424243,
+      "Recall@3": 0.6818181818181818,
+      "Recall@5": 0.803030303030303,
+      "MRR": 0.6121212121212121
+    }
+  }
+}

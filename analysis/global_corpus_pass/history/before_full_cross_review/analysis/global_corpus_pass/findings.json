@@ -1,0 +1,338 @@
+[
+  {
+    "id": "GC-01",
+    "pages": [
+      507,
+      508
+    ],
+    "claims": [
+      "CPC-0021",
+      "CPC-0098"
+    ],
+    "questions": [
+      "RQ-05.01",
+      "RQ-07.02"
+    ],
+    "type": "ALTERNATIVE_SCENARIO",
+    "SOURCE": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 507,
+      "quotation": "here is no evolution of the Wealth of the system. This price surplus can be : • totally retained by the supplier, • totally granted to the employee, • partially distributed (equally or unequally) between the supplier and the employee.",
+      "normalization": "whitespace"
+    },
+    "INTERPRETATION": "Le surplus peut aller au fournisseur, au salarié ou aux deux; variation des inégalités dépend des revenus. Qualification de transmission, non création additionnelle automatique.",
+    "full_corpus_reviewed": false
+  },
+  {
+    "id": "GC-02",
+    "pages": [
+      511,
+      512,
+      513
+    ],
+    "claims": [
+      "CPC-0113"
+    ],
+    "questions": [
+      "RQ-05.02",
+      "RQ-05.03"
+    ],
+    "type": "LIMITATION",
+    "SOURCE": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 511,
+      "quotation": "h one draws: p2 ≤p1⋅ r P2 r P1 ⋅ UP2 U P1 ‹24-04› No particular hypothesis has been formulated, a priori, to determine this relationship, it can therefore be considered : 1. as applying to all cases, 2. as at least one relationship governing competition. For the same Product (or two equivalent Products), the relationship is simplified as foll",
+      "normalization": "whitespace"
+    },
+    "INTERPRETATION": "La généralité revendiquée de la borne de choix suppose pourtant Core Law, ratios et équivalence de coefficients dans le cas simplifié.",
+    "full_corpus_reviewed": false
+  },
+  {
+    "id": "GC-03",
+    "pages": [
+      515
+    ],
+    "claims": [
+      "CPC-0113"
+    ],
+    "questions": [
+      "RQ-05.02"
+    ],
+    "type": "UNRESOLVED",
+    "SOURCE": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 515,
+      "quotation": " a much more powerful machine costs much less and sales are far lower than in the past. In this example, both Utility and price have decreased, but the latter much faster than the former. Choice has increased and consequently demand, according to the basic relationship.",
+      "normalization": "whitespace"
+    },
+    "INTERPRETATION": "L’exemple ordinateurs dit ventes moindres puis choix/demande accrus. Possible erreur de traduction, pas donnée contradictoire vérifiée.",
+    "full_corpus_reviewed": false
+  },
+  {
+    "id": "GC-04",
+    "pages": [
+      520,
+      521,
+      522
+    ],
+    "claims": [
+      "CPC-0034",
+      "CPC-0113"
+    ],
+    "questions": [
+      "RQ-05.03",
+      "RQ-07.03",
+      "RQ-08.01"
+    ],
+    "type": "LIMITATION",
+    "SOURCE": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 522,
+      "quotation": "'s always for the purpose of acquiring a Product (with the exception of finance for speculative purposes). Consequently, for the borrower, the Utility of the Cash is equal to the Utility of the Product he covets. Of all this, schemes 24-05a and 24-05b can be assimilated to schemes 24-04a and 24-04b in an absolutely rigorous manner. Consequently, the re",
+      "normalization": "whitespace"
+    },
+    "INTERPRETATION": "Location/crédit combinent Utility de Product/Cash et agents. Nécessitent échelles compatibles; emprunt spéculatif explicitement excepté. Pas identité générale crédit-location établie.",
+    "full_corpus_reviewed": false
+  },
+  {
+    "id": "GC-05",
+    "pages": [
+      523,
+      559
+    ],
+    "claims": [
+      "CPC-0084",
+      "CPC-0118"
+    ],
+    "questions": [
+      "RQ-09.03",
+      "RQ-10.02"
+    ],
+    "type": "APPARENT_CONTRADICTION",
+    "SOURCE": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 523,
+      "quotation": "as necessarily created prior to its use. However, the created Money Mc can be hoarded, so : Mc ≥M d or : gTM⋅T d ≥ T c gMT : hence:",
+      "normalization": "whitespace"
+    },
+    "INTERPRETATION": "Création antérieure à dépense ne suffit pas à leur égalité par période. L’égalité PIB finale doit préciser stocks, horizons et flux.",
+    "full_corpus_reviewed": false
+  },
+  {
+    "id": "GC-06",
+    "pages": [
+      525,
+      526
+    ],
+    "claims": [
+      "CPC-0109"
+    ],
+    "questions": [
+      "RQ-08.03",
+      "RQ-08.02"
+    ],
+    "type": "APPARENT_CONTRADICTION",
+    "SOURCE": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 526,
+      "quotation": "526 which give after integration (by measuring the characteristics with the same unit): P = r P ln p ‹25-03› and : A = r A ln l ‹25-04› Therefore in the T→M transformation, a variation in Laziness should normally generate a price variation and in the M→T transformation, a variation",
+      "normalization": "whitespace"
+    },
+    "INTERPRETATION": "L’inverse du logarithme imprimé n’est pas la primitive du différentiel précédent à r,g constants. Conflit local confirmé visuellement et par diagnostic calculable.",
+    "full_corpus_reviewed": false
+  },
+  {
+    "id": "GC-07",
+    "pages": [
+      523,
+      527,
+      528,
+      529
+    ],
+    "claims": [
+      "CPC-0109"
+    ],
+    "questions": [
+      "RQ-08.02",
+      "RQ-07.03"
+    ],
+    "type": "LIMITATION",
+    "SOURCE": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 528,
+      "quotation": "528 Knowing that the Money created is always greater than or equal to the Money spent, it is possible to write: gTM⋅dTd + T d⋅dgTM ≥ gMT⋅dT c −Tc⋅dgMT g MT2 ‹25-09› Two cases may arise depending on whether monetary developments are coherent or incoherent. Coherent developments In this hypothesis the coefficients ar",
+      "normalization": "whitespace"
+    },
+    "INTERPRETATION": "Inégalité de niveaux n’implique pas celle de variations; puis passage à égalité exige saturation ou hypothèse distincte.",
+    "full_corpus_reviewed": false
+  },
+  {
+    "id": "GC-08",
+    "pages": [
+      529,
+      538,
+      559
+    ],
+    "claims": [
+      "CPC-0048",
+      "CPC-0118"
+    ],
+    "questions": [
+      "RQ-02.01",
+      "RQ-09.03"
+    ],
+    "type": "APPARENT_CONTRADICTION",
+    "SOURCE": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 529,
+      "quotation": "ncompatible with its definition. For this reason, GDP has never been considered in the essay and should not be. In the context of this study, when it comes to wealth, reference should never be made, implicitly or explicitly, to this index, but only to the meaning derived from it. As a reminder, the example cited in the study is given below only if the percen",
+      "normalization": "whitespace"
+    },
+    "INTERPRETATION": "Exclusion explicite puis couplage PIB en fin. Requalifier périmètre: intrusion macro annoncée, mais non déduction générale acquise.",
+    "full_corpus_reviewed": false
+  },
+  {
+    "id": "GC-09",
+    "pages": [
+      534,
+      535,
+      540
+    ],
+    "claims": [
+      "CPC-0060",
+      "CPC-0100"
+    ],
+    "questions": [
+      "RQ-02.02",
+      "RQ-05.03",
+      "RQ-07.01"
+    ],
+    "type": "LIMITATION",
+    "SOURCE": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 535,
+      "quotation": "all in importance, the system can live with them. In the early stages, these non-producing components can improve the efficiency of the system, but as the system becomes more complex, they become more and more abundant, costly and no longer contribute to the creation of Money, leading to its general impoverishment. Consequently, it is necessary and indispensable to",
+      "normalization": "whitespace"
+    },
+    "INTERPRETATION": "Services exclus largement mais intermédiaires admis améliorer efficacité au début; luxe exception au critère sectoriel. Ne pas réduire création à une étiquette de secteur.",
+    "full_corpus_reviewed": false
+  },
+  {
+    "id": "GC-10",
+    "pages": [
+      546,
+      547
+    ],
+    "claims": [
+      "CPC-0062",
+      "CPC-0103"
+    ],
+    "questions": [
+      "RQ-08.03",
+      "RQ-05.03"
+    ],
+    "type": "RESOLVED_BY_CONTEXT",
+    "SOURCE": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 546,
+      "quotation": "formations. The explanation lies in the fact that the coordinates used are not the same, as shown in the table below, which, by setting out these different possibilities, avoids these contradictions. Case Functions Properties Thermomecanic isotherm T = f (time) zero gradient field T = f (altitude) continuous gradient T→M Transformation",
+      "normalization": "whitespace"
+    },
+    "INTERPRETATION": "Temps versus labour/prix et référent Transformer expliquent l’apparente opposition gradient/Utility constante selon l’auteur. Compatibilité le long d’une trajectoire reste à formaliser.",
+    "full_corpus_reviewed": false
+  },
+  {
+    "id": "GC-11",
+    "pages": [
+      501,
+      547,
+      553
+    ],
+    "claims": [
+      "CPC-0040"
+    ],
+    "questions": [
+      "RQ-03.02"
+    ],
+    "type": "EXCEPTION",
+    "SOURCE": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 553,
+      "quotation": "id for any change in any characteristic. However, it is compulsory to distinguish between these two hypotheses: the case “travelled” (indexed pos) and the possibility “to be travelled” (indexed neg). Therefore, by posing : Tpos = Work done Tneg = Work to be done Mpos = Money made Mnég = Money to be made, still to be created this relationship (26-14) authoris",
+      "normalization": "whitespace"
+    },
+    "INTERPRETATION": "Work restant est règle déclarée, mais indices pos/neg et labour accompli sont utilisés explicitement. Aucun remplacement silencieux des notations.",
+    "full_corpus_reviewed": false
+  },
+  {
+    "id": "GC-12",
+    "pages": [
+      435,
+      436,
+      439,
+      444,
+      445
+    ],
+    "claims": [
+      "CPC-0116"
+    ],
+    "questions": [
+      "RQ-08.03"
+    ],
+    "type": "APPARENT_CONTRADICTION",
+    "SOURCE": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 435,
+      "quotation": "435 Replacing FA by its above value (constant added Value), it comes : βTM = − rP⋅U P V ⋅ ∂ ∂U P ⋅( V rP⋅UP) which gives after simplification : βTM = − rP⋅U P V ⋅ ∂ ∂U P ⋅( V rP⋅UP) or : βTM = − 1 U P ‹17-06› The relations 17-05 and 17-06 show that the coefficien",
+      "normalization": "whitespace"
+    },
+    "INTERPRETATION": "Signes intermédiaires beta, copier-coller chi17-10 et différentiels tronqués: défauts imprimés confirmés, à distinguer des résultats finaux récupérables.",
+    "full_corpus_reviewed": false
+  },
+  {
+    "id": "GC-13",
+    "pages": [
+      558,
+      559
+    ],
+    "claims": [
+      "CPC-0117",
+      "CPC-0118"
+    ],
+    "questions": [
+      "RQ-08.02",
+      "RQ-09.03"
+    ],
+    "type": "LIMITATION",
+    "SOURCE": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 558,
+      "quotation": " system and its Gross Domestic Product (GDP), but this relationship does not prove their causality. We know the following relationships (04-15 and 04-16):",
+      "normalization": "whitespace"
+    },
+    "INTERPRETATION": "Avertissement causal explicite précède couplage dit absolu. Nombre de produits et absorption des pertes ne suffisent pas à stabiliser K.",
+    "full_corpus_reviewed": false
+  },
+  {
+    "id": "GC-14",
+    "pages": [
+      560,
+      561,
+      562
+    ],
+    "claims": [],
+    "questions": [
+      "RQ-12.01",
+      "RQ-12.02"
+    ],
+    "type": "LIMITATION",
+    "SOURCE": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 560,
+      "quotation": "e essay is built are un- published and therefore, to my knowledge, have never been exhibited, it is obvious that no reference to these concepts can be presented. It is of course the same for all the considerations, deductions and consequences directly re- sulting from them",
+      "normalization": "whitespace"
+    },
+    "INTERPRETATION": "Absence de références motivée par différence de concepts et nouveauté revendiquée. Ce n’est ni contrôle historique ni permission de renoncer à la comparaison.",
+    "full_corpus_reviewed": false
+  }
+]

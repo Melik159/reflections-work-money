@@ -1,0 +1,16 @@
+{
+  "positive_control": "PASS",
+  "executed": 7,
+  "rejected": 7,
+  "unexpected_acceptance": 0,
+  "tests": [
+    "test_78_universal_generalization",
+    "test_cash_money_confusion",
+    "test_compatibility_is_not_proof",
+    "test_correct_claim_wrong_page",
+    "test_empirical_overpromotion",
+    "test_removed_condition",
+    "test_wrong_existing_source"
+  ],
+  "interpretation": "Seven malformed inputs rejected; not seven scientific confirmations."
+}
