@@ -1,0 +1,50 @@
+{
+  "task": "ITER001-P0-03",
+  "cycle": "ITER001-C03",
+  "stage": "DOCUMENTARY_PREPARATION_ONLY",
+  "reading_attestation": false,
+  "analysis_performed": false,
+  "decision_performed": false,
+  "pages_hint_extracted": [
+    189,
+    190,
+    193,
+    385,
+    386
+  ],
+  "document": "Reflections_PierreCampergue.pdf",
+  "source_type": "SOURCE_CORPUS",
+  "input_sha256": {
+    "Reflections_PierreCampergue.pdf": "7981eca40bca1c5ce54d96b3c840eda34d0e7d01fdc89fe9748c3c047c6f3827",
+    "corpus/extracted/Reflections_PierreCampergue.pages.jsonl": "cc774cf5d62505450b50ba891fbd85d0d57a39750676e6b16459ea1056674239",
+    "rag/index/iterative.json": "91e2acaa1dfd9c0b8da43e067e14470854b908e48005310bac077ddaa2ff271a",
+    "research_state/iteration001/initial_tasks.json": "20c43c7ed94e2031ea42c2316ac2588b4c6a6ad113c381f4c1beffe501ef79f0"
+  },
+  "page_text_sha256": {
+    "189": "3ea345345d3716306c6cf26de597a04ee51157b9b63cdcb91cb508b79aca9eac",
+    "190": "1c95c50856cfcbba7c31d63aeea471550d9997436331066c1fcc5709d59054d8",
+    "193": "70770276e1762ec6cb605e3e3064e319a6bfbe9773d08c6a0e85126932052759",
+    "385": "ec505dd6c1f9392fedbdc0abdcf99635b806f1481812d9a138f4fc5361b7d8a5",
+    "386": "6fff9906812ea9b91ee84f727b4e1a0f9bd1e83d39ea62e5575d515f60b33695"
+  },
+  "source_pages_sha256": "dd2d86c700d49ff319ea37d16fefb2124c098b8d3c650f5a4657bdea346fbd05",
+  "retrieval": [
+    {
+      "collection": "SOURCE_CORPUS",
+      "query": "Utility : échelle et observabilité Une échelle de rapport par agent suffit-elle à un rendement entre agents ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_source.jsonl",
+      "hits": 3
+    },
+    {
+      "collection": "DERIVED_ANALYSIS",
+      "query": "Utility : échelle et observabilité Une échelle de rapport par agent suffit-elle à un rendement entre agents ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_derived.jsonl",
+      "hits": 3
+    }
+  ],
+  "note": "Extraction intégrale préparée pour lecture ultérieure. Ne constitue ni attestation de lecture ni preuve finale RAG."
+}

@@ -1,0 +1,103 @@
+{
+  "protocol_sha256": "07edf914ccb4b7ba503b73fa69b9d845f5ad2a1210a7454e8f8caa1f034b96c8",
+  "type": "FORMAL_SYNTHETIC_NOT_EMPIRICAL",
+  "checks": [
+    {
+      "id": "GC-CHECK-01",
+      "pages": [
+        525,
+        526
+      ],
+      "conditions": "r=g=1; dimensionless p=exp(z), z in {2,3}; g fixed",
+      "normalized_derivatives": [
+        {
+          "log_p": 2,
+          "from_differential": -1.0,
+          "from_printed_primitive": -0.25
+        },
+        {
+          "log_p": 3,
+          "from_differential": -1.0,
+          "from_printed_primitive": -0.1111111111111111
+        }
+      ],
+      "result": "FORMALLY_INCONSISTENT_LOCAL_DERIVATION"
+    },
+    {
+      "id": "GC-CHECK-02",
+      "pages": [
+        523,
+        528
+      ],
+      "conditions": "Mc=2-x, Md=x, x in [0,1]; 2-2x>=0 analytically",
+      "levels": [
+        {
+          "x": 0,
+          "Mc": 2,
+          "Md": 0
+        },
+        {
+          "x": 0.25,
+          "Mc": 1.75,
+          "Md": 0.25
+        },
+        {
+          "x": 0.5,
+          "Mc": 1.5,
+          "Md": 0.5
+        },
+        {
+          "x": 0.75,
+          "Mc": 1.25,
+          "Md": 0.75
+        },
+        {
+          "x": 1,
+          "Mc": 1,
+          "Md": 1
+        }
+      ],
+      "derivatives": {
+        "Mc": -1,
+        "Md": 1
+      },
+      "result": "LEVEL_INEQUALITY_DOES_NOT_IMPLY_DERIVATIVE_INEQUALITY"
+    },
+    {
+      "id": "GC-CHECK-03",
+      "pages": [
+        523,
+        528
+      ],
+      "conditions": "gTM=gMT=1, Td=2t,Tc=t,Mc=2t,Md=t,t>0",
+      "coefficient_product": 1.0,
+      "dTc_over_dTd": 0.5,
+      "result": "EQUALITY_REQUIRES_ADDITIONAL_CONDITION"
+    },
+    {
+      "id": "GC-CHECK-04",
+      "pages": [
+        435,
+        439
+      ],
+      "conditions": "r,V,B held fixed; U>0",
+      "values": [
+        {
+          "U": 2,
+          "TM_definition_and_final": -0.5,
+          "TM_printed_intermediate": 0.5,
+          "MT_definition_and_final": 0.5,
+          "MT_printed_intermediate": -0.5
+        },
+        {
+          "U": 5,
+          "TM_definition_and_final": -0.2,
+          "TM_printed_intermediate": 0.2,
+          "MT_definition_and_final": 0.2,
+          "MT_printed_intermediate": -0.2
+        }
+      ],
+      "result": "INTERMEDIATE_CONFLICT_FINAL_LOCALLY_RECOVERABLE"
+    }
+  ]
+}

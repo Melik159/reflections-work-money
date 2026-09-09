@@ -1,0 +1,525 @@
+[
+  {
+    "id": "CH-01",
+    "title": "Origine de la richesse et périmètre explicatif",
+    "central_question": "Comment la question historique est-elle traduite en un problème de richesse monétaire ?",
+    "status": "PROVISIONAL_INCOMPLETE",
+    "root_question_relation": "RQ racine : Comment la question historique est-elle traduite en un problème de richesse monétaire ?",
+    "page_ranges": [
+      [
+        1,
+        4
+      ],
+      [
+        12,
+        37
+      ],
+      [
+        184,
+        186
+      ]
+    ],
+    "claims": [
+      "CPC-0001",
+      "CPC-0003",
+      "CPC-0007",
+      "CPC-0008",
+      "CPC-0018",
+      "CPC-0028",
+      "CPC-0029",
+      "CPC-0030",
+      "CPC-0031",
+      "CPC-0048",
+      "CPC-0065"
+    ],
+    "concepts": [
+      "growth",
+      "living",
+      "environment",
+      "wealth"
+    ],
+    "dependencies": [],
+    "hypotheses": [
+      "HYP-0003"
+    ],
+    "empirical_claims": [
+      "CPC-0029"
+    ],
+    "potential_tests": [
+      "Comparer variations de niveaux de vie avant industrialisation avec intervalles d’incertitude."
+    ],
+    "bibliographic_domains": [
+      "À préciser après reconstruction intégrale"
+    ],
+    "major_uncertainties": [
+      "Couverture intégrale non atteinte ; plages issues en partie de la table des matières."
+    ],
+    "classification_status": "PROVISIONAL_STABLE_ITERATION1",
+    "analysis_status": "PARTIALLY_SUPPORTED",
+    "analysis_file": "analysis/chapters/CH01_scope_wealth.md"
+  },
+  {
+    "id": "CH-02",
+    "title": "Mesure monétaire et neutralité du nombre d’unités",
+    "central_question": "Quels scénarios distinguent mesure, compensation, création productive et redistribution, et sous quelles conditions ?",
+    "status": "PROVISIONAL_INCOMPLETE",
+    "root_question_relation": "Séparer accroissement réel du pouvoir d’achat, unités de compte et redistribution pour expliquer le passage à l’abondance.",
+    "page_ranges": [
+      [
+        12,
+        30
+      ],
+      [
+        168,
+        184
+      ],
+      [
+        95,
+        103
+      ],
+      [
+        213,
+        214
+      ],
+      [
+        290,
+        293
+      ],
+      [
+        523,
+        538
+      ],
+      [
+        57,
+        58
+      ],
+      [
+        145,
+        147
+      ],
+      [
+        343,
+        344
+      ],
+      [
+        379,
+        380
+      ],
+      [
+        399,
+        400
+      ]
+    ],
+    "claims": [
+      "CPC-0002",
+      "CPC-0005",
+      "CPC-0010",
+      "CPC-0011",
+      "CPC-0012",
+      "CPC-0013",
+      "CPC-0014",
+      "CPC-0025",
+      "CPC-0026",
+      "CPC-0027",
+      "CPC-0069",
+      "CPC-0070",
+      "CPC-0071",
+      "CPC-0072",
+      "CPC-0073",
+      "CPC-0074",
+      "CPC-0075",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079",
+      "CPC-0080",
+      "CPC-0081",
+      "CPC-0082",
+      "CPC-0083",
+      "CPC-0084",
+      "CPC-0085",
+      "CPC-0086",
+      "CPC-0087",
+      "CPC-0088",
+      "CPC-0089",
+      "CPC-0090",
+      "CPC-0091",
+      "CPC-0092",
+      "CPC-0093"
+    ],
+    "concepts": [
+      "money",
+      "unit",
+      "inflation",
+      "deflation"
+    ],
+    "dependencies": [],
+    "hypotheses": [
+      "HYP-0007"
+    ],
+    "empirical_claims": [],
+    "potential_tests": [
+      "Mesurer conjointement n et u lors d’une variation isolable ; dissocier identité et hypothèse de neutralité."
+    ],
+    "bibliographic_domains": [
+      "À préciser après reconstruction intégrale"
+    ],
+    "major_uncertainties": [
+      "Couverture intégrale non atteinte ; plages issues en partie de la table des matières."
+    ],
+    "classification_status": "PROVISIONAL_STABLE_ITERATION1",
+    "analysis_status": "UNCERTAIN",
+    "analysis_file": "analysis/chapters/CH02_monetary_measurement.md",
+    "money_review": "analysis/24_money_compensation_scenarios.md"
+  },
+  {
+    "id": "CH-03",
+    "title": "Objets, supports, tâches et points de vue",
+    "central_question": "Quelles grandeurs et quels observateurs rendent les définitions cohérentes ?",
+    "status": "PROVISIONAL_INCOMPLETE",
+    "root_question_relation": "RQ racine : Quelles grandeurs et quels observateurs rendent les définitions cohérentes ?",
+    "page_ranges": [
+      [
+        184,
+        194
+      ]
+    ],
+    "claims": [
+      "CPC-0006",
+      "CPC-0041",
+      "CPC-0046",
+      "CPC-0049",
+      "CPC-0050",
+      "CPC-0051",
+      "CPC-0052",
+      "CPC-0053",
+      "CPC-0054",
+      "CPC-0055",
+      "CPC-0056",
+      "CPC-0057",
+      "CPC-0059",
+      "CPC-0060",
+      "CPC-0061",
+      "CPC-0062",
+      "CPC-0063",
+      "CPC-0066"
+    ],
+    "concepts": [
+      "product",
+      "cash",
+      "labour",
+      "work",
+      "agent",
+      "utility",
+      "complexity"
+    ],
+    "dependencies": [],
+    "hypotheses": [
+      "HYP-0005"
+    ],
+    "empirical_claims": [],
+    "potential_tests": [
+      "Estimer relation revenu-utilité en déclarant explicitement la mesure choisie."
+    ],
+    "bibliographic_domains": [
+      "À préciser après reconstruction intégrale"
+    ],
+    "major_uncertainties": [
+      "Couverture intégrale non atteinte ; plages issues en partie de la table des matières."
+    ],
+    "classification_status": "PROVISIONAL_STABLE_ITERATION1",
+    "analysis_status": "COHERENT",
+    "analysis_file": "analysis/chapters/CH03_objects_tasks.md"
+  },
+  {
+    "id": "CH-04",
+    "title": "Productivité, énergie et transmission aux prix",
+    "central_question": "Quand une accélération de production exige-t-elle plus de Work et réduit-elle le prix payé ?",
+    "status": "PROVISIONAL_INCOMPLETE",
+    "root_question_relation": "RQ racine : Quand une accélération de production exige-t-elle plus de Work et réduit-elle le prix payé ?",
+    "page_ranges": [
+      [
+        19,
+        22
+      ],
+      [
+        32,
+        34
+      ],
+      [
+        194,
+        215
+      ]
+    ],
+    "claims": [
+      "CPC-0009",
+      "CPC-0015",
+      "CPC-0016",
+      "CPC-0017",
+      "CPC-0019",
+      "CPC-0020",
+      "CPC-0021",
+      "CPC-0035",
+      "CPC-0036",
+      "CPC-0058",
+      "CPC-0064",
+      "CPC-0068"
+    ],
+    "concepts": [
+      "productivity",
+      "work",
+      "price",
+      "cost",
+      "productive"
+    ],
+    "dependencies": [],
+    "hypotheses": [
+      "HYP-0001",
+      "HYP-0002",
+      "HYP-0004",
+      "HYP-0006"
+    ],
+    "empirical_claims": [],
+    "potential_tests": [
+      "Estimer énergie par tâche en fonction de vitesse, avec instrumentation indépendante.",
+      "Étude événementielle d’un changement technique ; vérifier tendances et chocs concomitants.",
+      "Rechercher baisses de prix sous stabilité documentée des conditions pertinentes.",
+      "Vérifier si la loi requise T proportionnel au carré de la vitesse est justifiée et applicable."
+    ],
+    "bibliographic_domains": [
+      "À préciser après reconstruction intégrale"
+    ],
+    "major_uncertainties": [
+      "Couverture intégrale non atteinte ; plages issues en partie de la table des matières."
+    ],
+    "classification_status": "PROVISIONAL_STABLE_ITERATION1",
+    "analysis_status": "PLAUSIBLE",
+    "analysis_file": "analysis/chapters/CH04_productivity_prices.md"
+  },
+  {
+    "id": "CH-05",
+    "title": "Principes, conservation et domaine du formalisme",
+    "central_question": "Quelles hypothèses permettent les équivalences et la conservation économiques ?",
+    "status": "PROVISIONAL_INCOMPLETE",
+    "root_question_relation": "RQ racine : Quelles hypothèses permettent les équivalences et la conservation économiques ?",
+    "page_ranges": [
+      [
+        30,
+        37
+      ],
+      [
+        216,
+        257
+      ]
+    ],
+    "claims": [
+      "CPC-0004",
+      "CPC-0022",
+      "CPC-0023",
+      "CPC-0024",
+      "CPC-0032",
+      "CPC-0033",
+      "CPC-0034",
+      "CPC-0039",
+      "CPC-0040",
+      "CPC-0042",
+      "CPC-0043",
+      "CPC-0044",
+      "CPC-0045",
+      "CPC-0047"
+    ],
+    "concepts": [
+      "transformation",
+      "remaining",
+      "coefficient",
+      "constraints"
+    ],
+    "dependencies": [],
+    "hypotheses": [],
+    "empirical_claims": [],
+    "potential_tests": [],
+    "bibliographic_domains": [
+      "À préciser après reconstruction intégrale"
+    ],
+    "major_uncertainties": [
+      "Couverture intégrale non atteinte ; plages issues en partie de la table des matières."
+    ],
+    "classification_status": "PROVISIONAL_STABLE_ITERATION1",
+    "analysis_status": "UNCERTAIN",
+    "analysis_file": "analysis/chapters/CH05_principles.md"
+  },
+  {
+    "id": "CH-06",
+    "title": "Lois constitutives et transformations élémentaires",
+    "central_question": "Quelles lois relient les variables avant le calcul des cycles ?",
+    "status": "PROVISIONAL_INCOMPLETE",
+    "root_question_relation": "RQ racine : Quelles lois relient les variables avant le calcul des cycles ?",
+    "page_ranges": [
+      [
+        258,
+        344
+      ]
+    ],
+    "claims": [],
+    "concepts": [
+      "transformation",
+      "utility",
+      "complexity"
+    ],
+    "dependencies": [],
+    "hypotheses": [],
+    "empirical_claims": [],
+    "potential_tests": [],
+    "bibliographic_domains": [
+      "À préciser après reconstruction intégrale"
+    ],
+    "major_uncertainties": [
+      "Couverture intégrale non atteinte ; plages issues en partie de la table des matières."
+    ],
+    "classification_status": "PROVISIONAL_STABLE_ITERATION1",
+    "analysis_status": "NOT_TESTED",
+    "analysis_file": null
+  },
+  {
+    "id": "CH-07",
+    "title": "Cycles, création et rendements",
+    "central_question": "Sous quelles conditions un cycle crée-t-il Money ou Work ?",
+    "status": "PROVISIONAL_INCOMPLETE",
+    "root_question_relation": "RQ racine : Sous quelles conditions un cycle crée-t-il Money ou Work ?",
+    "page_ranges": [
+      [
+        345,
+        401
+      ]
+    ],
+    "claims": [
+      "CPC-0037",
+      "CPC-0038"
+    ],
+    "concepts": [
+      "cycle",
+      "money",
+      "work",
+      "supply"
+    ],
+    "dependencies": [],
+    "hypotheses": [],
+    "empirical_claims": [],
+    "potential_tests": [],
+    "bibliographic_domains": [
+      "À préciser après reconstruction intégrale"
+    ],
+    "major_uncertainties": [
+      "Couverture intégrale non atteinte ; plages issues en partie de la table des matières."
+    ],
+    "classification_status": "PROVISIONAL_STABLE_ITERATION1",
+    "analysis_status": "NOT_TESTED",
+    "analysis_file": null
+  },
+  {
+    "id": "CH-08",
+    "title": "Agrégation, potentiels et coefficients",
+    "central_question": "Comment le formalisme local est-il agrégé et différencié ?",
+    "status": "PROVISIONAL_INCOMPLETE",
+    "root_question_relation": "RQ racine : Comment le formalisme local est-il agrégé et différencié ?",
+    "page_ranges": [
+      [
+        402,
+        453
+      ],
+      [
+        536,
+        559
+      ]
+    ],
+    "claims": [],
+    "concepts": [
+      "coefficient",
+      "supply",
+      "utility"
+    ],
+    "dependencies": [],
+    "hypotheses": [],
+    "empirical_claims": [],
+    "potential_tests": [],
+    "bibliographic_domains": [
+      "À préciser après reconstruction intégrale"
+    ],
+    "major_uncertainties": [
+      "Couverture intégrale non atteinte ; plages issues en partie de la table des matières."
+    ],
+    "classification_status": "PROVISIONAL_STABLE_ITERATION1",
+    "analysis_status": "NOT_TESTED",
+    "analysis_file": null
+  },
+  {
+    "id": "CH-09",
+    "title": "Couplage énergétique et conservation",
+    "central_question": "Quel lien mesurable est proposé entre chaleur consommée et monnaie créée ?",
+    "status": "PROVISIONAL_INCOMPLETE",
+    "root_question_relation": "RQ racine : Quel lien mesurable est proposé entre chaleur consommée et monnaie créée ?",
+    "page_ranges": [
+      [
+        454,
+        472
+      ]
+    ],
+    "claims": [
+      "CPC-0067"
+    ],
+    "concepts": [
+      "energy",
+      "entropy",
+      "money"
+    ],
+    "dependencies": [],
+    "hypotheses": [],
+    "empirical_claims": [],
+    "potential_tests": [],
+    "bibliographic_domains": [
+      "À préciser après reconstruction intégrale"
+    ],
+    "major_uncertainties": [
+      "Couverture intégrale non atteinte ; plages issues en partie de la table des matières."
+    ],
+    "classification_status": "PROVISIONAL_STABLE_ITERATION1",
+    "analysis_status": "NOT_TESTED",
+    "analysis_file": null
+  },
+  {
+    "id": "CH-10",
+    "title": "Agents, marchés et applications",
+    "central_question": "Comment les résultats changent-ils selon les agents et les structures de marché ?",
+    "status": "PROVISIONAL_INCOMPLETE",
+    "root_question_relation": "RQ racine : Comment les résultats changent-ils selon les agents et les structures de marché ?",
+    "page_ranges": [
+      [
+        473,
+        535
+      ],
+      [
+        560,
+        562
+      ]
+    ],
+    "claims": [],
+    "concepts": [
+      "agent",
+      "price",
+      "cycle"
+    ],
+    "dependencies": [],
+    "hypotheses": [],
+    "empirical_claims": [],
+    "potential_tests": [],
+    "bibliographic_domains": [
+      "À préciser après reconstruction intégrale"
+    ],
+    "major_uncertainties": [
+      "Couverture intégrale non atteinte ; plages issues en partie de la table des matières."
+    ],
+    "classification_status": "PROVISIONAL_STABLE_ITERATION1",
+    "analysis_status": "NOT_TESTED",
+    "analysis_file": null
+  }
+]

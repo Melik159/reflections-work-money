@@ -1,0 +1,279 @@
+[
+  {
+    "id": "ER-001",
+    "severity": "MAJOR",
+    "target": "final_synthesis.md: author/reviewer scope",
+    "claim_question": "RQ-11.01; RQ-12.01",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "pages": [
+        112,
+        159,
+        271,
+        454,
+        460,
+        533,
+        534,
+        535,
+        537
+      ]
+    },
+    "problem": "La reconstruction conditionnelle atténue des généralisations explicites.",
+    "evidence": "Le manuscrit affirme une dégradation systématique, des limites générales à la croissance et des jugements sectoriels/politiques. Les exemples de services productifs p159/271 empêchent une exclusion sectorielle simple, sans effacer p534.",
+    "impact": "Séparer AUTHOR_CLAIMED_GENERALITY et REVIEWER_SUPPORTED_SCOPE; conserver les tensions sectorielles et normatives.",
+    "recommended_correction": "Séparer AUTHOR_CLAIMED_GENERALITY et REVIEWER_SUPPORTED_SCOPE; conserver les tensions sectorielles et normatives.",
+    "confidence": "MEDIUM",
+    "reconstruction_direction": "SYNTHESIS_TOO_WEAK",
+    "charity_test": "PARTIALLY_RESOLVED_BY_CORPUS",
+    "review_evidence": "Direct corpus reading / literature_review.md"
+  },
+  {
+    "id": "ER-002",
+    "severity": "MAJOR",
+    "target": "GDP=K W; SYN-11",
+    "claim_question": "CPC-0127; RQ-08.01; RQ-09.03",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "pages": [
+        199,
+        205,
+        420,
+        529,
+        537,
+        559
+      ]
+    },
+    "problem": "Le raccord comptable au PIB précède et dépasse le problème de stabilité de K.",
+    "evidence": "P559 identifie PIB et Money dépensé; gain de pouvoir d’achat, prix total et valeur ajoutée ne sont pas automatiquement la même grandeur. Le contre-exemple brut 100+150=250 contre VA=150 est conditionnel: p205 exige précisément la valeur ajoutée, ce qui peut éviter ce double compte.",
+    "impact": "Définir flux par période, frontière nette, réemploi des paiements et prix nominal/réel avant de tester K. Ne pas attribuer au corpus un double compte inévitable.",
+    "recommended_correction": "Définir flux par période, frontière nette, réemploi des paiements et prix nominal/réel avant de tester K. Ne pas attribuer au corpus un double compte inévitable.",
+    "confidence": "MEDIUM",
+    "reconstruction_direction": "SYNTHESIS_TOO_WEAK",
+    "charity_test": "PARTIALLY_RESOLVED_BY_CORPUS",
+    "review_evidence": "external_review/independent_results.json"
+  },
+  {
+    "id": "ER-003",
+    "severity": "MAJOR",
+    "target": "Money: référent, signe et origine",
+    "claim_question": "CPC-0010; CPC-0015; CPC-0043; CPC-0045; RQ-06.04",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "pages": [
+        15,
+        19,
+        204,
+        205,
+        206,
+        207,
+        455,
+        467
+      ]
+    },
+    "problem": "Une variable unique mélange solde, gain, potentiel et transfert orienté.",
+    "evidence": "M=nu, gain budgétaire p204, primitive négative p207 et somme cinétique/potentielle p467 ne partagent pas nécessairement origine et référent. Le cas numérique 1 contre −1 ne constitue une incompatibilité que si on impose ces référents identiques.",
+    "impact": "Introduire un dictionnaire explicite M_solde, deltaM_gain, M_cinétique et transfert orienté, comme reconstruction du reviewer, non correction silencieuse du manuscrit.",
+    "recommended_correction": "Introduire un dictionnaire explicite M_solde, deltaM_gain, M_cinétique et transfert orienté, comme reconstruction du reviewer, non correction silencieuse du manuscrit.",
+    "confidence": "MEDIUM",
+    "reconstruction_direction": "SYNTHESIS_FAITHFUL",
+    "charity_test": "PARTIALLY_RESOLVED_BY_CORPUS",
+    "review_evidence": "external_review/independent_results.json"
+  },
+  {
+    "id": "ER-004",
+    "severity": "MAJOR",
+    "target": "Core Law: dérivation et inversion",
+    "claim_question": "RQ-08.01; RQ-05.03",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "pages": [
+        285,
+        299,
+        301,
+        303
+      ]
+    },
+    "problem": "Les limites invoquées ne justifient pas la dérivée; une inversion imprimée est incorrecte.",
+    "evidence": "U/ΔF à U fixe ne tend pas vers dU/dF. Pour Fp=rU, F=rU/p, non (p/r)U. Inspection visuelle p303 confirme la disposition. P301 autorise une hypothèse simplificatrice: la relation peut être postulée, pas ainsi démontrée.",
+    "impact": "Distinguer loi proposée, dérivation non établie et erreur algébrique locale; préserver le modèle postulé sous conditions.",
+    "recommended_correction": "Distinguer loi proposée, dérivation non établie et erreur algébrique locale; préserver le modèle postulé sous conditions.",
+    "confidence": "HIGH",
+    "reconstruction_direction": "SYNTHESIS_FAITHFUL",
+    "charity_test": "PARTIALLY_RESOLVED_BY_CORPUS",
+    "review_evidence": "external_review/independent_results.json"
+  },
+  {
+    "id": "ER-005",
+    "severity": "MODERATE",
+    "target": "SYN-07: moyenne puis carré",
+    "claim_question": "RQ-08.02",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "pages": [
+        538,
+        559
+      ]
+    },
+    "problem": "Le test de moyenne pondérée de K ne couvre pas le passage de moyenne des vitesses au carré.",
+    "evidence": "Avec cp=2, les vitesses 1 et 3 donnent moyenne de T=5, contre 4 pour le carré de la moyenne; 2 et 2 donnent 4 avec la même moyenne. Le terme de variance disparaît dans la substitution.",
+    "impact": "Ajouter une condition sur la dispersion ou conserver les seconds moments. Un K ajusté peut absorber ce terme sans devenir structurellement constant.",
+    "recommended_correction": "Ajouter une condition sur la dispersion ou conserver les seconds moments. Un K ajusté peut absorber ce terme sans devenir structurellement constant.",
+    "confidence": "HIGH",
+    "reconstruction_direction": "SYNTHESIS_TOO_STRONG",
+    "charity_test": "UNRESOLVED",
+    "review_evidence": "external_review/independent_results.json"
+  },
+  {
+    "id": "ER-006",
+    "severity": "MODERATE",
+    "target": "VAR-16 energy",
+    "claim_question": "RQ-09.02",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "pages": [
+        455,
+        456,
+        559
+      ]
+    },
+    "problem": "DIRECTLY_OBSERVABLE est trop fort pour la série primaire par substitution.",
+    "evidence": "La série indépendante du PIB utilise des conventions de conversion de l’électricité non fossile. Son acquisition est épinglée à une version; la reproductibilité L5 peut être conservée, pas le caractère directement mesuré de toute la grandeur.",
+    "impact": "Conserver L5 pour les données reproductibles; classer la quantité harmonisée DERIVABLE_FROM_OBSERVABLES avec hypothèses et méthode.",
+    "recommended_correction": "Conserver L5 pour les données reproductibles; classer la quantité harmonisée DERIVABLE_FROM_OBSERVABLES avec hypothèses et méthode.",
+    "confidence": "MEDIUM",
+    "reconstruction_direction": "SYNTHESIS_TOO_STRONG",
+    "charity_test": "RESOLVED_BY_DATA_DOCUMENTATION",
+    "review_evidence": "Direct corpus reading / literature_review.md"
+  },
+  {
+    "id": "ER-007",
+    "severity": "MODERATE",
+    "target": "Variables: Utility, dommage, coût",
+    "claim_question": "RQ-05.03; RQ-11.01; RQ-05.01",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "pages": [
+        108,
+        109,
+        112,
+        349,
+        386
+      ]
+    },
+    "problem": "Le niveau du concept cible est parfois confondu avec celui d’un proxy candidat.",
+    "evidence": "Qualité technique ou classement ordinal ne mesurent pas les ratios de Utility; énergie et matières sont des pressions, pas une fonction de dommage. Inversement un coût comptable peut avoir une procédure L3 même si le proxy sectoriel retenu est L2.",
+    "impact": "Séparer maturité du concept, disponibilité des données et validité de correspondance. Utility/dommage cibles restent L1 tant que cette correspondance manque; proxies candidats L2.",
+    "recommended_correction": "Séparer maturité du concept, disponibilité des données et validité de correspondance. Utility/dommage cibles restent L1 tant que cette correspondance manque; proxies candidats L2.",
+    "confidence": "MEDIUM",
+    "reconstruction_direction": "SYNTHESIS_TOO_STRONG",
+    "charity_test": "UNRESOLVED",
+    "review_evidence": "Direct corpus reading / literature_review.md"
+  },
+  {
+    "id": "ER-008",
+    "severity": "MODERATE",
+    "target": "Traceabilité sémantique et verify_synthesis",
+    "claim_question": "RQ-12.01",
+    "source": {
+      "document": "analysis/verify_synthesis.py",
+      "pages": []
+    },
+    "problem": "Existence de source et contrôle de structure ne vérifient pas son implication.",
+    "evidence": "Deux mutations uniquement en mémoire sont acceptées: causalité monétaire générale erronée, puis README.md comme source existante sans rapport. Cela démontre une limite du validateur, pas que toutes les conclusions actuelles sont erronées.",
+    "impact": "Ajouter passages précis et rôle de chaque preuve; conserver revue humaine et cas négatifs. Ne pas compter les PASS comme confirmations économiques.",
+    "recommended_correction": "Ajouter passages précis et rôle de chaque preuve; conserver revue humaine et cas négatifs. Ne pas compter les PASS comme confirmations économiques.",
+    "confidence": "HIGH",
+    "reconstruction_direction": "SYNTHESIS_FAITHFUL",
+    "charity_test": "UNRESOLVED",
+    "review_evidence": "external_review/independent_results.json"
+  },
+  {
+    "id": "ER-009",
+    "severity": "MODERATE",
+    "target": "CPC-0016: EMPIRICALLY_COMPATIBLE",
+    "claim_question": "CPC-0016; RQ-09.03",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "pages": [
+        21,
+        455,
+        456
+      ]
+    },
+    "problem": "La compatibilité du voisinage empirique est attribuée au claim complet.",
+    "evidence": "Les associations énergie/PIB et le cas coût/prix ne mesurent pas indépendamment Work→u→Money. Le texte prudent ne suffit pas à corriger la portée de l’étiquette machine.",
+    "impact": "NOT_IDENTIFIED pour la chaîne complète; compatibilité descriptive seulement pour sous-relations identifiées et non discriminantes.",
+    "recommended_correction": "NOT_IDENTIFIED pour la chaîne complète; compatibilité descriptive seulement pour sous-relations identifiées et non discriminantes.",
+    "confidence": "MEDIUM",
+    "reconstruction_direction": "SYNTHESIS_TOO_STRONG",
+    "charity_test": "UNRESOLVED",
+    "review_evidence": "Direct corpus reading / literature_review.md"
+  },
+  {
+    "id": "ER-010",
+    "severity": "MODERATE",
+    "target": "+78%: portée revendiquée",
+    "claim_question": "CPC-0035; RQ-04.04",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "pages": [
+        32,
+        196,
+        197,
+        198,
+        207
+      ]
+    },
+    "problem": "Le résultat arithmétique limité ne restitue pas à lui seul la généralité revendiquée.",
+    "evidence": "P32 généralise aux Products et aux lieux/époques, avec prémisses d’homogénéité. (8/6)^2−1 est reproductible; cette opération n’établit ni homogénéité interproduits ni énergie économique indépendante.",
+    "impact": "Conserver ARITHMETICALLY_REPRODUCED et ASSUMPTION_DEPENDENT, en citant aussi la revendication universelle et son absence de test indépendant.",
+    "recommended_correction": "Conserver ARITHMETICALLY_REPRODUCED et ASSUMPTION_DEPENDENT, en citant aussi la revendication universelle et son absence de test indépendant.",
+    "confidence": "HIGH",
+    "reconstruction_direction": "SYNTHESIS_TOO_WEAK",
+    "charity_test": "UNRESOLVED",
+    "review_evidence": "Direct corpus reading / literature_review.md"
+  },
+  {
+    "id": "ER-011",
+    "severity": "MINOR",
+    "target": "Citations CORE tronquées",
+    "claim_question": "CPC-0041; CPC-0048",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "pages": [
+        35,
+        185
+      ]
+    },
+    "problem": "Les citations isolées omettent une partie du contraste nécessaire.",
+    "evidence": "Le voisinage p35 ajoute Cash au Product; p185 précise le référent des actifs et de Money. Les citations ne sont pas inventées, mais leur contexte fait partie de la preuve.",
+    "impact": "Étendre les extraits associés sans changer les IDs ni le sens du claim.",
+    "recommended_correction": "Étendre les extraits associés sans changer les IDs ni le sens du claim.",
+    "confidence": "HIGH",
+    "reconstruction_direction": "SYNTHESIS_FAITHFUL",
+    "charity_test": "RESOLVED_BY_CORPUS",
+    "review_evidence": "Direct corpus reading / literature_review.md"
+  },
+  {
+    "id": "ER-012",
+    "severity": "NOTE",
+    "target": "CC-03: attribution de la contribution",
+    "claim_question": "RQ-05.03",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "pages": [
+        109,
+        349,
+        386
+      ]
+    },
+    "problem": "Un diagnostic métrologique du reviewer ne doit pas devenir une innovation attribuée à l’auteur.",
+    "evidence": "L’analyse interne le signale déjà. Les exigences d’échelles ont un précédent méthodologique explicite; le diagnostic appliqué aux formules reste utile.",
+    "impact": "Étiqueter CONTRIBUTION_OF_REVIEW pour le diagnostic et distinctement les opérations du corpus; aucune nouveauté historique affirmée.",
+    "recommended_correction": "Étiqueter CONTRIBUTION_OF_REVIEW pour le diagnostic et distinctement les opérations du corpus; aucune nouveauté historique affirmée.",
+    "confidence": "MEDIUM",
+    "reconstruction_direction": "SYNTHESIS_FAITHFUL",
+    "charity_test": "RESOLVED_BY_EXISTING_QUALIFICATION",
+    "review_evidence": "Direct corpus reading / literature_review.md"
+  }
+]

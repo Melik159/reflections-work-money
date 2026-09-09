@@ -1,0 +1,50 @@
+{
+  "task": "ITER001-P0-07",
+  "cycle": "ITER001-C07",
+  "stage": "DOCUMENTARY_PREPARATION_ONLY",
+  "reading_attestation": false,
+  "analysis_performed": false,
+  "decision_performed": false,
+  "pages_hint_extracted": [
+    19,
+    33,
+    400,
+    468,
+    523
+  ],
+  "document": "Reflections_PierreCampergue.pdf",
+  "source_type": "SOURCE_CORPUS",
+  "input_sha256": {
+    "Reflections_PierreCampergue.pdf": "7981eca40bca1c5ce54d96b3c840eda34d0e7d01fdc89fe9748c3c047c6f3827",
+    "corpus/extracted/Reflections_PierreCampergue.pages.jsonl": "cc774cf5d62505450b50ba891fbd85d0d57a39750676e6b16459ea1056674239",
+    "rag/index/iterative.json": "91e2acaa1dfd9c0b8da43e067e14470854b908e48005310bac077ddaa2ff271a",
+    "research_state/iteration001/initial_tasks.json": "20c43c7ed94e2031ea42c2316ac2588b4c6a6ad113c381f4c1beffe501ef79f0"
+  },
+  "page_text_sha256": {
+    "19": "d2585f0ce53a5a4978590bf9e462de1073bace37e69b29fd97a6a60335fe2e4c",
+    "33": "495e6b53fd12fe9b058ed37c64f29e8ed07934fecfc642bfe5ada66e9814cf96",
+    "400": "a1f98a0b58cd338185dfcde595bac058348890eb2e056b8c7fd92be237520ee1",
+    "468": "029a1dc51a385b638d0fa0511471035966df92d77d20d9658603f3318804c73c",
+    "523": "8cc2250e667b9fdb82e6b74d31404fe96585e8325fb90b73c750a1adfbd29a67"
+  },
+  "source_pages_sha256": "76469fd7bd8d6431023e1019e043406008efeaf3ee8789d5b6f1feae04ba37f7",
+  "retrieval": [
+    {
+      "collection": "SOURCE_CORPUS",
+      "query": "Destination des gains productifs Comment suivre le gain sans compter épargne et dépense ultérieure deux fois ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_source.jsonl",
+      "hits": 3
+    },
+    {
+      "collection": "DERIVED_ANALYSIS",
+      "query": "Destination des gains productifs Comment suivre le gain sans compter épargne et dépense ultérieure deux fois ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_derived.jsonl",
+      "hits": 3
+    }
+  ],
+  "note": "Extraction intégrale préparée pour lecture ultérieure. Ne constitue ni attestation de lecture ni preuve finale RAG."
+}

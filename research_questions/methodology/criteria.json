@@ -1,0 +1,92 @@
+[
+  {
+    "id": "CRITERION-01",
+    "criterion": "Concordance des résultats avec faits",
+    "source_pages": [
+      63,
+      205
+    ],
+    "demands": "Critère essentiel de l’approche",
+    "evidence": "Tests descriptifs et retour à expérience revendiqués",
+    "counterevidence": "T/cp/Utility non indépendamment mesurés",
+    "status": "PARTIALLY_SATISFIED"
+  },
+  {
+    "id": "CRITERION-02",
+    "criterion": "Concepts rationnels, monosemie et cohérence analytique",
+    "source_pages": [
+      15,
+      63,
+      64,
+      65
+    ],
+    "demands": "P64 réclame une désignation univoque, idéalement monosémique; p65 l’applique à Work/Money.",
+    "evidence": "Cash/Money, Work/labour et différentielle explicités",
+    "counterevidence": "Référents de M, inversion303, limites285",
+    "status": "PARTIALLY_SATISFIED"
+  },
+  {
+    "id": "CRITERION-03",
+    "criterion": "Séparer choix humains et lois/applications",
+    "source_pages": [
+      63,
+      79,
+      80
+    ],
+    "demands": "Ne pas confondre choix de projet et contraintes",
+    "evidence": "Exemple du viaduc et champ annoncé clairement séparés",
+    "counterevidence": "P535 prescrit interdictions/sanctions malgré exclusion annoncée; applications peuvent expliquer une partie du changement de champ",
+    "status": "AMBIGUOUS"
+  },
+  {
+    "id": "CRITERION-04",
+    "criterion": "Mesure relative à une grandeur de même espèce",
+    "source_pages": [
+      15,
+      109
+    ],
+    "demands": "Unité et comparaison homogènes",
+    "evidence": "M=n u explicite; p109 reconnaît difficulté de Utility",
+    "counterevidence": "Échelle indépendante Utility et conversion physique/économique manquent",
+    "status": "PARTIALLY_SATISFIED"
+  },
+  {
+    "id": "CRITERION-05",
+    "criterion": "Déclarer les hypothèses simplificatrices",
+    "source_pages": [
+      301,
+      303
+    ],
+    "demands": "Autorise hypothèse et Product parfait comme construction",
+    "evidence": "Réserves de p301/303 explicites",
+    "counterevidence": "Déclaration ne démontre pas adéquation empirique; généralisations tardives plus fortes",
+    "status": "SATISFIED"
+  },
+  {
+    "id": "CRITERION-06",
+    "criterion": "Ne pas substituer autorité à raison",
+    "source_pages": [
+      63,
+      79,
+      561,
+      562
+    ],
+    "demands": "Expliquer au-delà des doctrines et opinions dominantes",
+    "evidence": "Effort de définition et formalisation explicite",
+    "counterevidence": "P63 présume transférabilité du canon thermomécanique et limite la critique aux concepts initiaux; calculs locaux restent critiquables",
+    "status": "PARTIALLY_SATISFIED"
+  },
+  {
+    "id": "CRITERION-07",
+    "criterion": "La cohérence alléguée doit suivre les opérations exposées",
+    "source_pages": [
+      63,
+      301,
+      303
+    ],
+    "demands": "Cohérence du modèle analytique",
+    "evidence": "Postulat Fp=rU possible et différentielles locales correctes",
+    "counterevidence": "Inversion F=(p/r)U incompatible avec Fp=rU; statut limité à cette dérivation",
+    "status": "NOT_SATISFIED"
+  }
+]

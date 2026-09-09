@@ -1,0 +1,53 @@
+{
+  "task": "ITER001-C01",
+  "pages_read_pdf": [
+    15,
+    19,
+    184,
+    187,
+    204,
+    205,
+    206,
+    207,
+    208,
+    254,
+    255,
+    256,
+    257,
+    258,
+    466,
+    467,
+    468,
+    469,
+    559
+  ],
+  "method": "Full extracted source pages; no new formula derivation or visual formula verification claimed",
+  "input_sha256": {
+    "BASELINE_STATUS.md": "c6d54d07ea37ed1a89f7dae9d9556a90c29dbd8e5d17b3bd60795ecec0251fcc",
+    "remediation/money_referents.md": "1f3da39c51dd7ed9e98835f3014d98fb89482239c62a48d5351291a6f94dde12",
+    "remediation/money_gdp_bridge.md": "db3be93cafb1a42b2e46a7f9d047a44696da074301639bfbd1cfdc445d4641ea",
+    "research_state/iteration_report.md": "1202489993e902cfcbd54a13b7f6f6989c378b4aab809019b078f4320b52bbc3",
+    "research_state/cycles/CYCLE-001/results.json": "86d5a4a41fb4dd52a29af21b3e2751b460d70461a6d098e7a10a0ddf69f18fa1",
+    "corpus/extracted/Reflections_PierreCampergue.pages.jsonl": "cc774cf5d62505450b50ba891fbd85d0d57a39750676e6b16459ea1056674239",
+    "Reflections_PierreCampergue.pdf": "7981eca40bca1c5ce54d96b3c840eda34d0e7d01fdc89fe9748c3c047c6f3827",
+    "analysis/data/claims.jsonl": "8dd6b6c85f84362a26e6dce82d381f17921f7ba772872b89073972ceb374dd66",
+    "research_questions/questions.md": "704e1ccd294eec47ef1458a603170c06b1152c129dff3ab787ab6e52aa689687",
+    "rag/index/iterative.json": "91e2acaa1dfd9c0b8da43e067e14470854b908e48005310bac077ddaa2ff271a"
+  },
+  "retrieval": [
+    {
+      "collection": "SOURCE_CORPUS",
+      "query": "Money value added GDP spent consumer saved",
+      "method": "bm25",
+      "k": 5,
+      "file": "rag_source.jsonl"
+    },
+    {
+      "collection": "DERIVED_ANALYSIS",
+      "query": "Money GDP value added double counting referents",
+      "method": "bm25",
+      "k": 5,
+      "file": "rag_derived.jsonl"
+    }
+  ]
+}

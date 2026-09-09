@@ -1,0 +1,916 @@
+[
+  {
+    "id": "VAR-01",
+    "name": "T",
+    "definition_by_campergue": "Economic Work; primitive cinétique à origine choisie",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      203,
+      207,
+      471
+    ],
+    "formulas": [
+      "T=0.5 cp ω²"
+    ],
+    "source_unit": "UNRESOLVED",
+    "dimension": "[cp][labour]²/[time]²",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "primitive ou bilan selon passage",
+    "scale": "micro",
+    "measurement_status": "NOT_OPERATIONALIZED",
+    "measurement_level": 1,
+    "directly_observable": false,
+    "proxy_or_procedure": "PROXY: variation de vitesse; ne mesure pas T",
+    "proxy_explicit": true,
+    "necessary_data": "PROXY: variation de vitesse; ne mesure pas T",
+    "necessary_assumptions": "cp constant et unité de tâche; calibration indépendante de Force et cp absente",
+    "ambiguities": "cp constant et unité de tâche; calibration indépendante de Force et cp absente",
+    "dependent_questions": [
+      "RQ-03.03",
+      "RQ-09.02",
+      "RQ-12.02"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-02",
+    "name": "dT",
+    "definition_by_campergue": "Variation orientée de Work",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      203,
+      207,
+      471
+    ],
+    "formulas": [
+      "dT=cp ω dω"
+    ],
+    "source_unit": "UNRESOLVED",
+    "dimension": "[T]",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "variation infinitésimale",
+    "scale": "micro",
+    "measurement_status": "NOT_OPERATIONALIZED",
+    "measurement_level": 1,
+    "directly_observable": false,
+    "proxy_or_procedure": "PROXY: changement de débit de tâche",
+    "proxy_explicit": true,
+    "necessary_data": "PROXY: changement de débit de tâche",
+    "necessary_assumptions": "dT=0 ne signifie pas T=0; terme 0.5 ω² dcp si cp varie dans la primitive",
+    "ambiguities": "dT=0 ne signifie pas T=0; terme 0.5 ω² dcp si cp varie dans la primitive",
+    "dependent_questions": [
+      "RQ-03.03",
+      "RQ-09.02",
+      "RQ-12.02"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-03",
+    "name": "cp",
+    "definition_by_campergue": "Inertie du Product au changement de vitesse",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      189,
+      201,
+      202
+    ],
+    "formulas": [
+      "FP=cp dω/dt"
+    ],
+    "source_unit": "UNRESOLVED",
+    "dimension": "[T][time]²/[labour]²",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "coefficient local",
+    "scale": "micro",
+    "measurement_status": "NOT_OPERATIONALIZED",
+    "measurement_level": 1,
+    "directly_observable": false,
+    "proxy_or_procedure": "PROXY: dureté ou complexité technique, non équivalente",
+    "proxy_explicit": true,
+    "necessary_data": "PROXY: dureté ou complexité technique, non équivalente",
+    "necessary_assumptions": "Ni cp ni Force étalonnés indépendamment; cP distinct de cA",
+    "ambiguities": "Ni cp ni Force étalonnés indépendamment; cP distinct de cA",
+    "dependent_questions": [
+      "RQ-03.03",
+      "RQ-05.03",
+      "RQ-08.02"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-04",
+    "name": "ω",
+    "definition_by_campergue": "Vitesse de réalisation de la tâche restante",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      197,
+      198
+    ],
+    "formulas": [
+      "ω=−dl/dt"
+    ],
+    "source_unit": "task/time",
+    "dimension": "[labour]/[time]",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "taux instantané",
+    "scale": "micro",
+    "measurement_status": "IDENTIFIABLE_WITH_ASSUMPTIONS",
+    "measurement_level": 3,
+    "directly_observable": false,
+    "proxy_or_procedure": "Chronométrage de tâches homogènes; aucun nouveau jeu de mesures",
+    "proxy_explicit": false,
+    "necessary_data": "Chronométrage de tâches homogènes; aucun nouveau jeu de mesures",
+    "necessary_assumptions": "Frontière de tâche, échelle, qualité et version du procédé fixes; pas PIB/heure automatiquement",
+    "ambiguities": "Frontière de tâche, échelle, qualité et version du procédé fixes; pas PIB/heure automatiquement",
+    "dependent_questions": [],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-05",
+    "name": "Force / Forces",
+    "definition_by_campergue": "Action productrice ou pression du consommateur",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      201,
+      202,
+      283
+    ],
+    "formulas": [
+      "FP=cp γω; FA p=rP UP"
+    ],
+    "source_unit": "UNRESOLVED",
+    "dimension": "[T]/[labour] ou [M]/[price]",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "caractéristique locale",
+    "scale": "micro",
+    "measurement_status": "NOT_OPERATIONALIZED",
+    "measurement_level": 1,
+    "directly_observable": false,
+    "proxy_or_procedure": "PROXY: effort technique ou pouvoir de négociation",
+    "proxy_explicit": true,
+    "necessary_data": "PROXY: effort technique ou pouvoir de négociation",
+    "necessary_assumptions": "Une Force économique ne se mesure pas en newtons par renommage",
+    "ambiguities": "Une Force économique ne se mesure pas en newtons par renommage",
+    "dependent_questions": [
+      "RQ-03.03",
+      "RQ-08.02"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-06",
+    "name": "Utility",
+    "definition_by_campergue": "Caractéristique du Product pour un agent et un usage",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      108,
+      109,
+      189,
+      190
+    ],
+    "formulas": [
+      "FA p=rP UP"
+    ],
+    "source_unit": "UNRESOLVED",
+    "dimension": "intensive non additive; dimension non calibrée",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "niveau contextualisé",
+    "scale": "micro",
+    "measurement_status": "NOT_OPERATIONALIZED",
+    "measurement_level": 1,
+    "directly_observable": false,
+    "proxy_or_procedure": "PROXY: classement, caractéristiques, service rendu ou WTP",
+    "proxy_explicit": true,
+    "necessary_data": "PROXY: classement, caractéristiques, service rendu ou WTP",
+    "necessary_assumptions": "p109 reconnaît absence de mesure; ordinal ne donne pas rapports cardinaux; qualité technique insuffisante",
+    "ambiguities": "p109 reconnaît absence de mesure; ordinal ne donne pas rapports cardinaux; qualité technique insuffisante",
+    "dependent_questions": [
+      "RQ-03.03",
+      "RQ-05.03",
+      "RQ-12.02"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data.",
+    "candidate_proxy_level": 2,
+    "remediation_note": "ER-007: cible L1, candidats proxies L2 sans équivalence quantitative établie."
+  },
+  {
+    "id": "VAR-07",
+    "name": "Money",
+    "definition_by_campergue": "Grandeur économique portée par Cash; disponible pour acquérir",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      185,
+      192,
+      204,
+      207
+    ],
+    "formulas": [
+      "M=n u; dM=−FA dp"
+    ],
+    "source_unit": "UNRESOLVED",
+    "dimension": "[n][u]",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "état et variation à distinguer",
+    "scale": "micro/macro",
+    "measurement_status": "AMBIGUOUS",
+    "measurement_level": 1,
+    "directly_observable": false,
+    "proxy_or_procedure": "PROXY: gain budgétaire à panier fixe",
+    "proxy_explicit": true,
+    "necessary_data": "PROXY: gain budgétaire à panier fixe",
+    "necessary_assumptions": "Ne pas assimiler à dépôts ni USD; les scénarios monétaires ont des conditions distinctes",
+    "ambiguities": "Ne pas assimiler à dépôts ni USD; les scénarios monétaires ont des conditions distinctes",
+    "dependent_questions": [
+      "RQ-03.03",
+      "RQ-05.03",
+      "RQ-10.02",
+      "RQ-12.02",
+      "RQ-05.01"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data.",
+    "referents_source": "remediation/money_referents.json"
+  },
+  {
+    "id": "VAR-08",
+    "name": "Cash",
+    "definition_by_campergue": "Supports de circulation de Money, pas seulement espèces",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      189,
+      192
+    ],
+    "formulas": [
+      "aucune échelle universelle du support"
+    ],
+    "source_unit": "support/compte spécifié",
+    "dimension": "catégorielle",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "support et encours",
+    "scale": "micro/macro",
+    "measurement_status": "DIRECTLY_OBSERVABLE",
+    "measurement_level": 3,
+    "directly_observable": true,
+    "proxy_or_procedure": "Inventaire de supports et comptes dans un périmètre défini",
+    "proxy_explicit": false,
+    "necessary_data": "Inventaire de supports et comptes dans un périmètre défini",
+    "necessary_assumptions": "Éviter double compte support/solde; cartes et billets ne forment pas un agrégat homogène",
+    "ambiguities": "Éviter double compte support/solde; cartes et billets ne forment pas un agrégat homogène",
+    "dependent_questions": [
+      "RQ-03.03",
+      "RQ-05.03"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-09",
+    "name": "n",
+    "definition_by_campergue": "Nombre d’unités monétaires dans une frontière donnée",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      204,
+      537
+    ],
+    "formulas": [
+      "M=n u"
+    ],
+    "source_unit": "unité monétaire nominale",
+    "dimension": "compte d’unités",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "niveau",
+    "scale": "micro/macro",
+    "measurement_status": "DIRECTLY_OBSERVABLE",
+    "measurement_level": 3,
+    "directly_observable": true,
+    "proxy_or_procedure": "Comptage de soldes nominalement libellés",
+    "proxy_explicit": false,
+    "necessary_data": "Comptage de soldes nominalement libellés",
+    "necessary_assumptions": "Fixer monnaie, agents, instruments, consolidation et date; aucune nouvelle mesure collectée",
+    "ambiguities": "Fixer monnaie, agents, instruments, consolidation et date; aucune nouvelle mesure collectée",
+    "dependent_questions": [
+      "RQ-10.02",
+      "RQ-05.01"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-10",
+    "name": "u",
+    "definition_by_campergue": "Valeur économique de l’unité",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      204
+    ],
+    "formulas": [
+      "u=M/n"
+    ],
+    "source_unit": "UNRESOLVED",
+    "dimension": "[M]/[n]",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "niveau intensif",
+    "scale": "micro/macro",
+    "measurement_status": "PROXY_ONLY",
+    "measurement_level": 2,
+    "directly_observable": false,
+    "proxy_or_procedure": "PROXY: inverse d’un indice de prix de panier",
+    "proxy_explicit": true,
+    "necessary_data": "PROXY: inverse d’un indice de prix de panier",
+    "necessary_assumptions": "Choix du panier et distribution; ne constitue pas mesure de u universel",
+    "ambiguities": "Choix du panier et distribution; ne constitue pas mesure de u universel",
+    "dependent_questions": [
+      "RQ-10.02",
+      "RQ-05.01"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-11",
+    "name": "K",
+    "definition_by_campergue": "Coefficient local puis de couplage agrégé",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      559
+    ],
+    "formulas": [
+      "M=K T; GDP=K W"
+    ],
+    "source_unit": "dépend des grandeurs couplées",
+    "dimension": "[M]/[T] ou [GDP]/[W]",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "coefficient",
+    "scale": "micro/macro",
+    "measurement_status": "AMBIGUOUS",
+    "measurement_level": 1,
+    "directly_observable": false,
+    "proxy_or_procedure": "PROXY: PIB/énergie observés, K_RESIDUAL",
+    "proxy_explicit": true,
+    "necessary_data": "PROXY: PIB/énergie observés, K_RESIDUAL",
+    "necessary_assumptions": "Ratio estimable des proxies ≠ K_STRUCTURAL; composition, unités, pertes variables",
+    "ambiguities": "Ratio estimable des proxies ≠ K_STRUCTURAL; composition, unités, pertes variables",
+    "dependent_questions": [
+      "RQ-08.02",
+      "RQ-12.02"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-12",
+    "name": "cost",
+    "definition_by_campergue": "Coût d’exécution ou d’intrants dans un périmètre productif",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      273,
+      501
+    ],
+    "formulas": [
+      "coût unitaire=coût total/quantité (protocole analyste)"
+    ],
+    "source_unit": "monnaie/produit",
+    "dimension": "valeur/quantité",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "niveau ou variation",
+    "scale": "micro",
+    "measurement_status": "PROXY_ONLY",
+    "measurement_level": 2,
+    "directly_observable": false,
+    "proxy_or_procedure": "PROXY: combustible f×h dans le cas électrique existant",
+    "proxy_explicit": true,
+    "necessary_data": "PROXY: combustible f×h dans le cas électrique existant",
+    "necessary_assumptions": "Coût complet exige capital, travail, réseau, taxes; produit de moyennes ≠ moyenne des produits",
+    "ambiguities": "Coût complet exige capital, travail, réseau, taxes; produit de moyennes ≠ moyenne des produits",
+    "dependent_questions": [
+      "RQ-05.01"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data.",
+    "remediation_note": "Proxy actuellement L2; coût comptable défini pourrait être L3, pas promotion de ce proxy."
+  },
+  {
+    "id": "VAR-13",
+    "name": "price",
+    "definition_by_campergue": "Prix d’un exemplaire; distinguer formation et comparaison",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      197,
+      198,
+      204
+    ],
+    "formulas": [
+      "ϖ=dp/dt"
+    ],
+    "source_unit": "monnaie/produit",
+    "dimension": "valeur/quantité",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "niveau",
+    "scale": "micro",
+    "measurement_status": "DIRECTLY_OBSERVABLE",
+    "measurement_level": 3,
+    "directly_observable": true,
+    "proxy_or_procedure": "Facture d’un même produit; collecte proposée",
+    "proxy_explicit": false,
+    "necessary_data": "Facture d’un même produit; collecte proposée",
+    "necessary_assumptions": "Prix moyen EIA est PROXY du prix d’exemplaire, pas mesure individuelle",
+    "ambiguities": "Prix moyen EIA est PROXY du prix d’exemplaire, pas mesure individuelle",
+    "dependent_questions": [
+      "RQ-10.02",
+      "RQ-05.01"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-14",
+    "name": "profit",
+    "definition_by_campergue": "Gain conservé par le producteur selon scénario",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      43,
+      488,
+      490
+    ],
+    "formulas": [
+      "recettes−coûts complets (protocole)"
+    ],
+    "source_unit": "monnaie/période",
+    "dimension": "valeur par période",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "flux",
+    "scale": "micro",
+    "measurement_status": "DERIVABLE_FROM_OBSERVABLES",
+    "measurement_level": 3,
+    "directly_observable": false,
+    "proxy_or_procedure": "Comptes réconciliés, non disponibles dans le panel électrique",
+    "proxy_explicit": false,
+    "necessary_data": "Comptes réconciliés, non disponibles dans le panel électrique",
+    "necessary_assumptions": "Écart prix résidentiel−coût gaz n’est pas profit; distinguer rente et profit économique",
+    "ambiguities": "Écart prix résidentiel−coût gaz n’est pas profit; distinguer rente et profit économique",
+    "dependent_questions": [
+      "RQ-01.03",
+      "RQ-05.01"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-15",
+    "name": "productivity",
+    "definition_by_campergue": "Vitesse d’exécution dans le formalisme",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      197,
+      198,
+      203
+    ],
+    "formulas": [
+      "ω=−dl/dt"
+    ],
+    "source_unit": "task/time",
+    "dimension": "[labour]/[time]",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "taux",
+    "scale": "micro/macro",
+    "measurement_status": "IDENTIFIABLE_WITH_ASSUMPTIONS",
+    "measurement_level": 3,
+    "directly_observable": false,
+    "proxy_or_procedure": "PROXY macro: output/heure; direct seulement tâche homogène",
+    "proxy_explicit": true,
+    "necessary_data": "PROXY macro: output/heure; direct seulement tâche homogène",
+    "necessary_assumptions": "Composition, sous-traitance, qualité et travail des machines; alias de ω non variable indépendante",
+    "ambiguities": "Composition, sous-traitance, qualité et travail des machines; alias de ω non variable indépendante",
+    "dependent_questions": [
+      "RQ-03.03",
+      "RQ-09.02"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-16",
+    "name": "energy",
+    "definition_by_campergue": "Énergie physique consommée dans le procédé",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      455,
+      456,
+      459
+    ],
+    "formulas": [
+      "Q ou énergie physique comptabilisée"
+    ],
+    "source_unit": "joule, kWh pour données physiques",
+    "dimension": "énergie physique",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "flux intégré sur période",
+    "scale": "micro/macro",
+    "measurement_status": "DERIVABLE_FROM_OBSERVABLES",
+    "measurement_level": 5,
+    "directly_observable": false,
+    "proxy_or_procedure": "Séries indépendantes déjà archivées; protocole primaire/finale séparé",
+    "proxy_explicit": false,
+    "necessary_data": "Séries indépendantes déjà archivées; protocole primaire/finale séparé",
+    "necessary_assumptions": "Niveau5 pour quantité physique uniquement; primary/final/electricity/exergy non interchangeables",
+    "ambiguities": "Niveau5 pour quantité physique uniquement; primary/final/electricity/exergy non interchangeables",
+    "dependent_questions": [
+      "RQ-09.02",
+      "RQ-12.02"
+    ],
+    "empirical_measurement_claimed": true,
+    "available_data_artifact": "analysis/empirical/independent_energy/results.json",
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data.",
+    "remediation_note": "ER-006: série par substitution construite, indépendante du PIB; L5 reproductibilité conservé."
+  },
+  {
+    "id": "VAR-17",
+    "name": "useful work",
+    "definition_by_campergue": "Travail mécanique utile produit par conversion",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      455
+    ],
+    "formulas": [
+      "W=−ηQW Q"
+    ],
+    "source_unit": "joule pour travail physique",
+    "dimension": "énergie physique",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "transfert",
+    "scale": "micro",
+    "measurement_status": "IDENTIFIABLE_WITH_ASSUMPTIONS",
+    "measurement_level": 3,
+    "directly_observable": false,
+    "proxy_or_procedure": "Couple×angle ou force×distance; protocole non collecté",
+    "proxy_explicit": false,
+    "necessary_data": "Couple×angle ou force×distance; protocole non collecté",
+    "necessary_assumptions": "Frontière physique et rendement mesuré; chaleur utile et exergie ne sont pas W mécanique automatiquement",
+    "ambiguities": "Frontière physique et rendement mesuré; chaleur utile et exergie ne sont pas W mécanique automatiquement",
+    "dependent_questions": [
+      "RQ-09.02",
+      "RQ-12.02"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-18",
+    "name": "complexity",
+    "definition_by_campergue": "Inertie économique, non simple nombre de pièces",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      189,
+      202
+    ],
+    "formulas": [
+      "cp ou ca selon transformation"
+    ],
+    "source_unit": "UNRESOLVED",
+    "dimension": "voir cp/ca",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "coefficient",
+    "scale": "micro/macro",
+    "measurement_status": "NOT_OPERATIONALIZED",
+    "measurement_level": 1,
+    "directly_observable": false,
+    "proxy_or_procedure": "PROXY: caractéristiques techniques ou résistance à usinage",
+    "proxy_explicit": true,
+    "necessary_data": "PROXY: caractéristiques techniques ou résistance à usinage",
+    "necessary_assumptions": "Même mot plusieurs usages; ne remplace pas cp par un score arbitraire",
+    "ambiguities": "Même mot plusieurs usages; ne remplace pas cp par un score arbitraire",
+    "dependent_questions": [
+      "RQ-03.03",
+      "RQ-05.03",
+      "RQ-08.02"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-19",
+    "name": "labour",
+    "definition_by_campergue": "Tâche à effectuer, par homme, animal ou machine",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      197,
+      203
+    ],
+    "formulas": [
+      "l; dl=−ωdt"
+    ],
+    "source_unit": "tâche conventionnelle",
+    "dimension": "[labour]",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "quantité restante",
+    "scale": "micro",
+    "measurement_status": "IDENTIFIABLE_WITH_ASSUMPTIONS",
+    "measurement_level": 3,
+    "directly_observable": false,
+    "proxy_or_procedure": "Inventaire d’opérations et chronométrage",
+    "proxy_explicit": false,
+    "necessary_data": "Inventaire d’opérations et chronométrage",
+    "necessary_assumptions": "Pas heures de salarié par défaut; pondération de tâches hétérogènes à justifier",
+    "ambiguities": "Pas heures de salarié par défaut; pondération de tâches hétérogènes à justifier",
+    "dependent_questions": [
+      "RQ-03.03",
+      "RQ-09.02"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-20",
+    "name": "consumer gain",
+    "definition_by_campergue": "Possibilité d’achat libérée dans certains scénarios",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      204,
+      400
+    ],
+    "formulas": [
+      "G=q0(p0−p1) (indicateur analyste)"
+    ],
+    "source_unit": "monnaie nominale ou constante",
+    "dimension": "valeur",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "variation",
+    "scale": "micro",
+    "measurement_status": "PROXY_ONLY",
+    "measurement_level": 2,
+    "directly_observable": false,
+    "proxy_or_procedure": "PROXY: économie sur panier fixe",
+    "proxy_explicit": true,
+    "necessary_data": "PROXY: économie sur panier fixe",
+    "necessary_assumptions": "Ni surplus compensateur, ni revenu observé, ni Money; qualité et consommation différentes",
+    "ambiguities": "Ni surplus compensateur, ni revenu observé, ni Money; qualité et consommation différentes",
+    "dependent_questions": [
+      "RQ-10.02",
+      "RQ-05.01"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-21",
+    "name": "wealth",
+    "definition_by_campergue": "Richesse monétaire distinguée des patrimoines",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      185,
+      204
+    ],
+    "formulas": [
+      "quantité Money dans le domaine annoncé"
+    ],
+    "source_unit": "UNRESOLVED",
+    "dimension": "voir Money",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "niveau/variation",
+    "scale": "micro/macro",
+    "measurement_status": "NOT_OPERATIONALIZED",
+    "measurement_level": 1,
+    "directly_observable": false,
+    "proxy_or_procedure": "PROXY: ressources ou consommation réelles",
+    "proxy_explicit": true,
+    "necessary_data": "PROXY: ressources ou consommation réelles",
+    "necessary_assumptions": "Patrimoine net standard ne remplace pas richesse monétaire Campergue",
+    "ambiguities": "Patrimoine net standard ne remplace pas richesse monétaire Campergue",
+    "dependent_questions": [
+      "RQ-10.02",
+      "RQ-05.01"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-22",
+    "name": "standard of living",
+    "definition_by_campergue": "Disponibilité et usages de biens et services; transition historique",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      29,
+      34,
+      43,
+      180
+    ],
+    "formulas": [
+      "pas d’indice unique identifié"
+    ],
+    "source_unit": "UNRESOLVED",
+    "dimension": "multidimensionnelle",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "niveau",
+    "scale": "ménages/macro",
+    "measurement_status": "PROXY_ONLY",
+    "measurement_level": 2,
+    "directly_observable": false,
+    "proxy_or_procedure": "PROXY: consommation réelle, temps, logement, mobilité, PIB/hab",
+    "proxy_explicit": true,
+    "necessary_data": "PROXY: consommation réelle, temps, logement, mobilité, PIB/hab",
+    "necessary_assumptions": "Pas seuil source établi subsistance/abondance; moyenne ignore distribution",
+    "ambiguities": "Pas seuil source établi subsistance/abondance; moyenne ignore distribution",
+    "dependent_questions": [
+      "RQ-10.02",
+      "RQ-01.03",
+      "RQ-05.01"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-23",
+    "name": "environmental damage",
+    "definition_by_campergue": "Ensemble de dégradations liées aux transformations",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      68,
+      69,
+      112,
+      113,
+      460
+    ],
+    "formulas": [
+      "pas de fonction dommage calibrée identifiée"
+    ],
+    "source_unit": "UNRESOLVED",
+    "dimension": "pressions et dommages à séparer",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "flux et effets cumulés",
+    "scale": "micro/macro",
+    "measurement_status": "NOT_OPERATIONALIZED",
+    "measurement_level": 1,
+    "directly_observable": false,
+    "proxy_or_procedure": "PROXY: émissions, déchets, extraction; impacts distincts",
+    "proxy_explicit": true,
+    "necessary_data": "PROXY: émissions, déchets, extraction; impacts distincts",
+    "necessary_assumptions": "Énergie ou matière ne sont pas dommages; exposition, toxicité et horizon nécessaires",
+    "ambiguities": "Énergie ou matière ne sont pas dommages; exposition, toxicité et horizon nécessaires",
+    "dependent_questions": [
+      "RQ-11.01"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data.",
+    "candidate_proxy_level": 2,
+    "remediation_note": "ER-007: cible L1, candidats proxies L2 sans équivalence quantitative établie."
+  },
+  {
+    "id": "VAR-24",
+    "name": "ca",
+    "definition_by_campergue": "Inertie de Cash relative au système",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      202,
+      207
+    ],
+    "formulas": [
+      "M=−0.5 ca ϖ²"
+    ],
+    "source_unit": "UNRESOLVED",
+    "dimension": "[M][time]²/[price]²",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "coefficient",
+    "scale": "macro/local",
+    "measurement_status": "NOT_OPERATIONALIZED",
+    "measurement_level": 1,
+    "directly_observable": false,
+    "proxy_or_procedure": "Aucun proxy calibré",
+    "proxy_explicit": false,
+    "necessary_data": "Aucun proxy calibré",
+    "necessary_assumptions": "cp≠ca explicitement; normalisation commune non acquise",
+    "ambiguities": "cp≠ca explicitement; normalisation commune non acquise",
+    "dependent_questions": [
+      "RQ-03.03",
+      "RQ-08.02",
+      "RQ-12.02"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-25",
+    "name": "ϖ",
+    "definition_by_campergue": "Vitesse de formation du prix",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      198,
+      207
+    ],
+    "formulas": [
+      "ϖ=dp/dt"
+    ],
+    "source_unit": "prix/time",
+    "dimension": "[price]/[time]",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "taux",
+    "scale": "micro",
+    "measurement_status": "IDENTIFIABLE_WITH_ASSUMPTIONS",
+    "measurement_level": 3,
+    "directly_observable": false,
+    "proxy_or_procedure": "Historique des étapes de fabrication valorisées",
+    "proxy_explicit": false,
+    "necessary_data": "Historique des étapes de fabrication valorisées",
+    "necessary_assumptions": "Prix annuel d’autres exemplaires n’est pas cette trajectoire",
+    "ambiguities": "Prix annuel d’autres exemplaires n’est pas cette trajectoire",
+    "dependent_questions": [
+      "RQ-03.03",
+      "RQ-12.02"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  },
+  {
+    "id": "VAR-26",
+    "name": "η",
+    "definition_by_campergue": "Rendement de transformations couplées",
+    "definition_is_interpretation": true,
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "pages": [
+      385,
+      386,
+      387,
+      388,
+      389,
+      390
+    ],
+    "formulas": [
+      "ηg=ηTM ηMT; ηgmax=(2−√2)²"
+    ],
+    "source_unit": "UNRESOLVED avant unité commune T/M",
+    "dimension": "rapport de grandeurs économiques",
+    "dimension_is_analyst_inference": true,
+    "level_or_change": "ratio",
+    "scale": "micro",
+    "measurement_status": "NOT_OPERATIONALIZED",
+    "measurement_level": 1,
+    "directly_observable": false,
+    "proxy_or_procedure": "PROXY physique interdit comme substitution directe",
+    "proxy_explicit": true,
+    "necessary_data": "PROXY physique interdit comme substitution directe",
+    "necessary_assumptions": "Rapports Utility et signes requis; optimum conditionné par géométrie",
+    "ambiguities": "Rapports Utility et signes requis; optimum conditionné par géométrie",
+    "dependent_questions": [
+      "RQ-12.02",
+      "RQ-04.04"
+    ],
+    "empirical_measurement_claimed": false,
+    "available_data_artifact": null,
+    "maturity_scope": "Target quantity, not maturity of a substitute proxy; L3 is a procedure, not collected data."
+  }
+]

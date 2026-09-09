@@ -1,0 +1,31 @@
+{
+  "commit": "4249f7c21c2c833d76741e757be92a639517caa3",
+  "acquisition_date": "2026-09-08",
+  "files": [
+    {
+      "file": "analysis/empirical/independent_energy/source/owid-energy-data.csv",
+      "url": "https://raw.githubusercontent.com/owid/energy-data/4249f7c21c2c833d76741e757be92a639517caa3/owid-energy-data.csv",
+      "sha256": "dd2a16d4f2b7fc061d852d072104b61a1a819d5fb5b98cd268902e91510e8c30",
+      "bytes": 9180480
+    },
+    {
+      "file": "analysis/empirical/independent_energy/source/owid-energy-codebook.csv",
+      "url": "https://raw.githubusercontent.com/owid/energy-data/4249f7c21c2c833d76741e757be92a639517caa3/owid-energy-codebook.csv",
+      "sha256": "e9c46387eb5389343f6e29721c7de49015ec9e9fe53db2a2d6f083352feb53b8",
+      "bytes": 45884
+    },
+    {
+      "file": "analysis/empirical/independent_energy/source/README.md",
+      "url": "https://raw.githubusercontent.com/owid/energy-data/4249f7c21c2c833d76741e757be92a639517caa3/README.md",
+      "sha256": "c5609dd4c5174d7fb936796491c7037e9eff5f7326ad3529f948ffde42dfb5da",
+      "bytes": 14081
+    }
+  ],
+  "energy_column": "primary_energy_consumption",
+  "unit": "TWh",
+  "population_column": "population",
+  "independent_of_gdp_construction": true,
+  "statistically_exogenous": false,
+  "convention": "Pinned 2025 release; primary energy substitution convention, not final energy or exergy",
+  "scope": "Energy Institute/EIA compiled by OWID; see codebook and source README. No energy/GDP column used."
+}

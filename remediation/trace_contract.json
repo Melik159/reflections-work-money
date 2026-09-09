@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "SYN-01",
+    "approved_statement": "Cash, Money, création, transfert et redistribution restent distingués. M=n·u est une identité; neutralité conditionnelle au scénario, acteur, horizon et référent. Solde, gain, cinétique, potentiel et transfert ne sont pas unifiés sans dictionnaire.",
+    "sources": [
+      "analysis/data/money_compensation_scenarios.json",
+      "remediation/money_referents.md"
+    ],
+    "source_pages": [
+      15,
+      19,
+      204,
+      207,
+      467
+    ],
+    "claims": [
+      "CPC-0005",
+      "CPC-0012",
+      "CPC-0013",
+      "CPC-0014",
+      "CPC-0025",
+      "CPC-0026",
+      "CPC-0027",
+      "CPC-0028",
+      "CPC-0050",
+      "CPC-0069",
+      "CPC-0070",
+      "CPC-0071",
+      "CPC-0072",
+      "CPC-0073",
+      "CPC-0074",
+      "CPC-0075",
+      "CPC-0080",
+      "CPC-0081",
+      "CPC-0082",
+      "CPC-0083",
+      "CPC-0085",
+      "CPC-0086",
+      "CPC-0088",
+      "CPC-0090"
+    ],
+    "questions": [
+      "RQ-06.02",
+      "RQ-06.04"
+    ],
+    "conditions": "Scénario, référent, frontière et hypothèses formelles conservés; pas causalité par compatibilité.",
+    "passages": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 15,
+        "quotation": "15 We are therefore in the presence of three different meanings. Therefore, two are wrong and only one is likely to be possibly correct. In order to solve this problem it's therefore necessary to discriminate between these different hypotheses in order to determine which one, if any, would be correct. Coherent monetary developments By definition (Larousse L3-1970), a measure is defined as :  “the evaluation of a quantity made according to its relationship with a quantity of the same species, taken as a unit and as a term of comparison”. This means that in any discipline, any measurement of any quantity or dimension is always determined as follows : Measurement (M ) = number (n) of units × value (u) of the unit Consequently, in Economics the measurement of money, which cannot be an exception, is therefore defined by the relation : Money (M )=number (n)of monetaryunits×value (u)of the monetaryunit either: M=n.u whose differential : dM=n.du+u.dn Solving this equation returns all four, and only four, results: 1. dn = 0 and : du = 0 ⇒ (∂M)n,u = 0 ⇒ No evolution 2a. dn > 0 and : du < 0 ⇒ dM = 0 ⇒ No evolution 2b. dn < 0 and : du > 0 ⇒ dM = 0 ⇒ No evolution 3a. dn = 0 and : du > 0 ⇒ (∂M)n, > 0 ⇒ Creation of money",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 19,
+        "quotation": "19 Thus, in order to increase the wealth of any economic system, it's imperative to increase the value (u) of the monetary unit (possibility 3a). The only way to do this is to decrease the price of the Products (goods and services) put on the market. In fact, if yesterday a 1$ coin made it possible to buy 1 kg of pasta and today the price per kilogram falls to 0.9$, then the consumer keeps 0.1$ in his or her pocket, which he or she holds in addition, and has therefore become richer. This operation (price drop) causes the number (n) of units to remain constant (0.9 + 0.1 = 1), but also the unit (u) to increase by 11.1% since 1$ consents to the purchase of this extra pasta (1 / 9 = 0.111). It is only later that the consumer will use the extra Money he holds after a price reduction to purchase another good or service. However, all conventional economic doctrines consider Money to be that which circulates from the consumer to the supplier in exchange for a good or service, which circulates in the opposite direction. As a result, they are always obliged to conceive, imagine, and construct “initial endowments” that allow consumers to acquire goods and services. A contrario, following this new approach, it's possible to write :  The Money is what a consumer holds in addition after a price drop. It is only later that this Money will circulate from the consumer to the supplier in exchange for a Product (good or service). Thus, this new definition captures how these initial endowments could be generated and, as a result, wealth and increased purchasing power. Genesis of the money To achieve this price reduction it's normally necessary and indispensable to increase productivity in order to manufacture the good or service as quickly as possible (caeteris paribus). However, this increase in productivity necessarily requires the execution of additional Work (defined here as energy and not as a task, a job, a labour, something to be done). Consequently, it's therefore possible to exhibit the following phenomenological sequence:  Additional work of the supplier ⇒ increased productivity ⇒ price decline ⇒ increase of monetary unit ⇒ creation of money ⇒ additional money of the consumer. It should be noted that this price reduction should not be used to feed dividends, salaries, profits or anything else. Indeed, in this case and as already mentioned, this",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 204,
+        "quotation": "204 even if the economic Work is nil, the labour as well as the physical work can be significant, substantial and consequent. Even if agents don’t create monetary wealth, they may produce other types of wealth, for example cultural wealth or provide non-market services. The above-mentioned example of the contract worker who has been dismissed at the end of her service has clearly not enriched society in any way. Identically, the Money created will, of course, be a function of the intensity of the Force which will cause a variation in price. The lower the price, the more Money available to the consumer. Consequently, by posing : M = Money it's possible to write : dM=−FA⋅dp ‹04-08› It is quite obvious to say that if the price is constant, its differential is zero and this necessarily implies that no Money is created since the purchasing power of consumers will itself remain constant. In fact, if the price of a kilogram of noodles decreases from $1 to $0.9, it's possible to say that $0.1 of Money has been created (for each kilogram produced) since this amount remains in the consumer's pocket. Of course there is, before and after the price reduction, always $1. However, if the number of monetary units is always constant, it's the value of that unit that has increased in this case, corresponding to possibility 3 of the chapter “Value of the monetary unit”. The State (or any other issuer) could also beat a 10-cent coin and entrust it to the consumer, who would, as before, have this amount in his pocket. In this case, we can see that the value of the monetary unit remains constant but that it's the number of units that becomes variable, the latter corresponding to possibility 4 of this same chapter. In the same way as in the previous case, it's obvious that even if the Money created is zero, the price can be very high or very low. In thermodynamics, an engine or machine generally comprises several stages all operating on the same diagram, i.e. each stage operates according to the same Natural Laws. In the same way, in Economics there is a whole series of manufacturers placed chronologically one after the other and it's obvious that each of them is subject to the same Natural Laws (and not legal, regulatory or juridical, which are always the result of human will). In physics, as the process of each of the stages is identical, only the phenomena occurring in one is considered and studied. In the case we are interested in here, it's necessary to have the same approach. However, price and labour are two characteristics which are relative to",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 207,
+        "quotation": "207 Energy Replacing the Forces in the two relationships (04-09 and 04-10) above by their value (relationships 04-05 and 04-06), we obtain respectively : dT=−cP.γ ω.dB and : dM=−c A.γ ϖ.dV By replacing the speed variations ( γωand γϖ) in the two relations above by their value (relations 04-03 and 04-04), we obtain respectively : dT=−cP. d ω dt .dB and: dM=−c A. d ϖ dt .dV ‹04-11› ‹04-12› that it's possible to write : dT=−cP. dB dt .dω and: dM=−c A. d V dt .d ϖ By replacing the ratios dB/dt (dl/dt) and dV /dt (dp/dt) by their values (relations 04-01 and 04-02), we obtain respectively : dT=cP.ω.d ω and: dM=−c A.ϖ.d ϖ ‹04-13› ‹04-14› After integration, these relationships give respectively : T=1 2 .cP.ω² and: M=−1 2 .c A.ϖ ² ‹04-15› ‹04-16› Considering the constant zero, these relations represent the respective kinetic energies of Work and Money (see chapter “Basic Principles”). The presence of the negative sign (-) in the relation giving the Money is perfectly logical. Indeed, the slower the speed (ϖ) of price formation, the higher the Money held by the consumer. Employment - Purchasing power",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 467,
+        "quotation": "467 But we know the relation 04-18 giving the purchasing power (a), namely: a = −c A⋅ϖ then: FA ⋅(t2 −t 1) = at 2 −at 1 If no additional force is exerted by the consumer on the supplier to bring down the price, then the purchasing power cannot vary and remains constant. Therefore, if : FA = Constant ⇒ at 2 = at 1 ‹20-01› which shows the preservation of purchasing power, because the speed of price formation (ϖ) has no reason to change if nothing else changes. 2. Conservation of the total Money The total Money is considered here as the sum of kinetic energy (exchange mediator) and potential energy (savings). Again starting from the relation 04-06, namely : FA = −c A ⋅γ ϖ or : FA = −c A ⋅dϖ dt We also know the relation 04-02 giving the speed of formation (ϖ) of price formation, namely : dp = ϖ⋅dt By replacing the Force and the price in the relation 04-10 giving the Money, namely: dM = F A⋅dp it becomes :",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      }
+    ],
+    "status": [
+      "COHERENT_WITH_CONDITIONS",
+      "PARTIAL_PARALLEL",
+      "NO_DISTINCT_OBSERVABLE_ESTABLISHED"
+    ],
+    "external_compatibility": "PARTIAL_PARALLEL",
+    "distinctive_explanation": "NO_DISTINCT_OBSERVABLE_ESTABLISHED"
+  },
+  {
+    "id": "SYN-02",
+    "approved_statement": "Economic Work n'est pas labour. À cp fixe, dT=cp·ω·dω admet T=½cp·ω²+C; dT nul à vitesse constante n'impose ni T nul ni dépense physique nulle.",
+    "sources": [
+      "research_questions/experiments/EXP-09/results.json"
+    ],
+    "source_pages": [
+      187,
+      203,
+      207,
+      471,
+      472
+    ],
+    "claims": [
+      "CPC-0023",
+      "CPC-0039",
+      "CPC-0040",
+      "CPC-0041",
+      "CPC-0043",
+      "CPC-0044",
+      "CPC-0045",
+      "CPC-0051",
+      "CPC-0052",
+      "CPC-0054",
+      "CPC-0062",
+      "CPC-0063",
+      "CPC-0064",
+      "CPC-0066",
+      "CPC-0068",
+      "CPC-0094",
+      "CPC-0095",
+      "CPC-0121",
+      "CPC-0123"
+    ],
+    "questions": [
+      "RQ-03.01",
+      "RQ-03.02",
+      "RQ-03.03"
+    ],
+    "conditions": "Scénario, référent, frontière et hypothèses formelles conservés; pas causalité par compatibilité.",
+    "passages": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 187,
+        "quotation": "187 or other, etc., i.e. both a natural person and a legal entity, capable of either acquiring, processing or selling any Product (definition below). The verb to transform means to elabourate, to manufacture, to build as well as to consume, to use, to destroy. The fact that the verbs acquire and sell can be condensed by the verb exchange, shows that this discrimination is relative to the position of the agent (observer) to whom one refers (consumer or supplier),  the Product represents any object, merchandise, product, good or service that an economic agent (as defined above) can either acquire, transform or sell. It can be raw materials, semi-finished products, manufactured objects, agricultural products, any goods, services, etc., provided that they can be either acquired, transformed or sold. In conventional microeconomics, the Product can be related to the “good”. The Product must be considered as the vector-support of Work, in the same way as in thermodynamics, gas is considered as the vector-support of heat,  Cash is represented by banknotes, coins, gold and silver metal, cheques, credit cards, as well as shells (cowries), salt bars, feathers, teeth, nuggets of native copper in so-called “primitive” societies, etc., i.e. by everything that can be considered as containing an exchange value, a monetary value, of the Money. It should be noted that the inscription of a line of bank credit should not be considered as Money but only as Cash. In fact, the beneficiary of this line of credit will use notes, cheques, drafts, etc. to pay for his purchases in the same way as if he had possessed through him the quantity of Money corresponding to his credit. Cash must be considered as the vector-support of the Money, in the same way that in thermodynamics, gas is considered as the support vector of heat,  labour (l) must be understood as the thing to be done, the task, the job to be done. It is constant for a given Product and manufacturing method. In fact, it's generally considered",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 203,
+        "quotation": "203 Work – Money Moreover, the Work spent will, of course, be a function of the intensity of the Force that will cause the variation in the amount of labour done. The greater the amount of labour done per unit of time, i.e. the faster it's done, the greater the Work will be. As said before, this Work is performed by an individual as well as by an animal or even by a motor or machine. The Work, as defined below, represents the sum of the different Works done by all possible means. Therefore, the total Work may increase and that of Human may decrease, because that performed by machines is increased in greater proportions. This is the case that generally occurs at the present time, i.e. since the industrial revolution. Consequently, by posing : T = Work for economic purposes it's possible to write : dT=FP⋅dl ‹04-07› It must be made clear here that the Work defined by this relationship must be considered as economically useful Work and not taken, either in its usual and vehicular sense or as in the physical science. This Work is that which is capable of causing a variation in the speed of execution of the labour and, consequently, a possible variation in the speed of price formation. This is why this Work is designated by the letter T and not by the letter W (Work), as these two Works don’t have the same analytical definition (in spite of their similarity) and, above all, don’t have the same value. In fact, in reality, physical Work (W) is always superior to the economically useful Work (T) discussed in this study (chapter “Link Heat Consumed → Money Created”). It can be seen that if the speed of execution of the labour doesn't vary, the Work done (Economic Work) is zero, which may puzzle more than one reader not accustomed to mechanical reasoning, although the physical work can be very important. In fact, it's quite logical to say that if the labour is carried out at a constant speed, there is no additional Work done to accelerate this speed, i.e. to increase productivity. Consequently, an agent (individual in the strict sense of the word, association, administration, company, etc.) who doesn't accelerate the speed at which the Product is produced (increase in productivity) doesn't work in the economic sense of the word, since it cannot cause any reduction in the price of the product and therefore no increase in the purchasing power of consumers, i.e. it cannot generate any increase in monetary wealth (Rm). However, it's clear that",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 207,
+        "quotation": "207 Energy Replacing the Forces in the two relationships (04-09 and 04-10) above by their value (relationships 04-05 and 04-06), we obtain respectively : dT=−cP.γ ω.dB and : dM=−c A.γ ϖ.dV By replacing the speed variations ( γωand γϖ) in the two relations above by their value (relations 04-03 and 04-04), we obtain respectively : dT=−cP. d ω dt .dB and: dM=−c A. d ϖ dt .dV ‹04-11› ‹04-12› that it's possible to write : dT=−cP. dB dt .dω and: dM=−c A. d V dt .d ϖ By replacing the ratios dB/dt (dl/dt) and dV /dt (dp/dt) by their values (relations 04-01 and 04-02), we obtain respectively : dT=cP.ω.d ω and: dM=−c A.ϖ.d ϖ ‹04-13› ‹04-14› After integration, these relationships give respectively : T=1 2 .cP.ω² and: M=−1 2 .c A.ϖ ² ‹04-15› ‹04-16› Considering the constant zero, these relations represent the respective kinetic energies of Work and Money (see chapter “Basic Principles”). The presence of the negative sign (-) in the relation giving the Money is perfectly logical. Indeed, the slower the speed (ϖ) of price formation, the higher the Money held by the consumer. Employment - Purchasing power",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 471,
+        "quotation": "471 Replacing Force and labour in the relation 04-09 giving the Work, namely: dT = −FP⋅dl it becomes: dT = cP⋅dω dt ⋅ω⋅dt or: dT = cP⋅ω⋅dω By integrating between two considered instants, either to the initial time t1 and to the final time t2, it comes: T = 1 2 ⋅c P⋅ω t 2 2 −1 2 ⋅c P⋅ω t 1 2 By posing: Ecin = Kinetic energy and : Ecin = 1 2 ⋅c P⋅ω 2 then: T = Et 2 cin −Et 1 cin But this difference in Kinetic Energy between the instants t2 and t1 corresponds to the difference in transformed Potential Energy between the instants t1 and t2. By posing : Epot = Potential energy then : T = Et 1 pot −Et 2 pot It is thus possible to equalize these two Works and to write : Et 2 cin −Et1 cin = Et 1 pot −Et 2 pot",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 472,
+        "quotation": "472 or again: Et 2 pot + Et 2 cin = Et 1 pot + Et 1 cin Accordingly, it comes: Et 2 tot = Et1 tot ‹20-04› which shows the conservation, over time, of the total Work (Work created + Work to be done).",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      }
+    ],
+    "status": [
+      "LOCALLY_CONSISTENT",
+      "ECONOMIC_MEASUREMENT_NOT_IDENTIFIED",
+      "CONDITIONAL_FORMAL_RESTRICTION"
+    ],
+    "external_compatibility": "ECONOMIC_MEASUREMENT_NOT_IDENTIFIED",
+    "distinctive_explanation": "CONDITIONAL_FORMAL_RESTRICTION"
+  },
+  {
+    "id": "SYN-03",
+    "approved_statement": "La primitive quadratique ne fournit pas une mesure indépendante de T. Si cp varie, sa différentielle contient aussi ½ω²dcp. Réserve, état et transfert ne sont pas interchangeables.",
+    "sources": [
+      "research_questions/operationalization/circularity_review.md"
+    ],
+    "source_pages": [
+      207,
+      341,
+      471,
+      472
+    ],
+    "claims": [
+      "CPC-0023",
+      "CPC-0039",
+      "CPC-0040",
+      "CPC-0043",
+      "CPC-0044",
+      "CPC-0045",
+      "CPC-0052",
+      "CPC-0054",
+      "CPC-0062",
+      "CPC-0063",
+      "CPC-0066",
+      "CPC-0068",
+      "CPC-0121"
+    ],
+    "questions": [
+      "RQ-03.02",
+      "RQ-03.03"
+    ],
+    "conditions": "Scénario, référent, frontière et hypothèses formelles conservés; pas causalité par compatibilité.",
+    "passages": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 207,
+        "quotation": "207 Energy Replacing the Forces in the two relationships (04-09 and 04-10) above by their value (relationships 04-05 and 04-06), we obtain respectively : dT=−cP.γ ω.dB and : dM=−c A.γ ϖ.dV By replacing the speed variations ( γωand γϖ) in the two relations above by their value (relations 04-03 and 04-04), we obtain respectively : dT=−cP. d ω dt .dB and: dM=−c A. d ϖ dt .dV ‹04-11› ‹04-12› that it's possible to write : dT=−cP. dB dt .dω and: dM=−c A. d V dt .d ϖ By replacing the ratios dB/dt (dl/dt) and dV /dt (dp/dt) by their values (relations 04-01 and 04-02), we obtain respectively : dT=cP.ω.d ω and: dM=−c A.ϖ.d ϖ ‹04-13› ‹04-14› After integration, these relationships give respectively : T=1 2 .cP.ω² and: M=−1 2 .c A.ϖ ² ‹04-15› ‹04-16› Considering the constant zero, these relations represent the respective kinetic energies of Work and Money (see chapter “Basic Principles”). The presence of the negative sign (-) in the relation giving the Money is perfectly logical. Indeed, the slower the speed (ϖ) of price formation, the higher the Money held by the consumer. Employment - Purchasing power",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 341,
+        "quotation": "341 δT total = δT lost + dT useful ‹11-01› 2. the quantity of Money that can be obtained with a fixed total quantity of Work. In fact, according to the Principle of Equivalence and the First Principle, we have : δM created = δT useful but, in this transformation, there are always losses of Work, therefore: δM created < dT total with : dT total = δTlost + δT useful ‹11-02› In conclusion, in the transformation Work→Money : • if one knows the useful Work, it's not possible to know the total Work, • if one knows the total Work, it's not possible to know the useful Work. Identically, in the transformation Money→Work, it is impossible to know exactly : • the total quantity of Money that must be supplied to obtain a fixed quantity of Work. In fact, according to the Principle of Equivalence and the First Principle, we have : dT created = dM useful but, in this transformation, there are always losses of Money, therefore: dT created < δMtotal with : δM total = δMlost + dM useful ‹11-03›",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 471,
+        "quotation": "471 Replacing Force and labour in the relation 04-09 giving the Work, namely: dT = −FP⋅dl it becomes: dT = cP⋅dω dt ⋅ω⋅dt or: dT = cP⋅ω⋅dω By integrating between two considered instants, either to the initial time t1 and to the final time t2, it comes: T = 1 2 ⋅c P⋅ω t 2 2 −1 2 ⋅c P⋅ω t 1 2 By posing: Ecin = Kinetic energy and : Ecin = 1 2 ⋅c P⋅ω 2 then: T = Et 2 cin −Et 1 cin But this difference in Kinetic Energy between the instants t2 and t1 corresponds to the difference in transformed Potential Energy between the instants t1 and t2. By posing : Epot = Potential energy then : T = Et 1 pot −Et 2 pot It is thus possible to equalize these two Works and to write : Et 2 cin −Et1 cin = Et 1 pot −Et 2 pot",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 472,
+        "quotation": "472 or again: Et 2 pot + Et 2 cin = Et 1 pot + Et 1 cin Accordingly, it comes: Et 2 tot = Et1 tot ‹20-04› which shows the conservation, over time, of the total Work (Work created + Work to be done).",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      }
+    ],
+    "status": [
+      "ASSUMPTION_DEPENDENT",
+      "NOT_IDENTIFIED",
+      "BLOCKED_BY_MEASUREMENT"
+    ],
+    "external_compatibility": "NOT_IDENTIFIED",
+    "distinctive_explanation": "BLOCKED_BY_MEASUREMENT"
+  },
+  {
+    "id": "SYN-04",
+    "approved_statement": "Un ordre de Utility conserve des comparaisons, pas les rapports numériques utilisés dans certains rendements. Des différences pondérées peuvent covarier avec les coefficients; toutes les formules n'exigent donc pas la même échelle.",
+    "sources": [
+      "research_questions/experiments/EXP-02/results.json"
+    ],
+    "source_pages": [
+      108,
+      109,
+      283,
+      349,
+      386,
+      415
+    ],
+    "claims": [
+      "CPC-0034",
+      "CPC-0055",
+      "CPC-0056",
+      "CPC-0057",
+      "CPC-0058",
+      "CPC-0059",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079",
+      "CPC-0113"
+    ],
+    "questions": [
+      "RQ-05.03"
+    ],
+    "conditions": "Scénario, référent, frontière et hypothèses formelles conservés; pas causalité par compatibilité.",
+    "passages": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 108,
+        "quotation": "108 2. feeding of fish farming ponds, 3. supply of storage basins for irrigation, 4. supply of drinking water distribution systems. Each of these functions has a certain Utility, different for each of them. For each user the water of the torrent has a different Utility, however, that of each use doesn’t depend in any way on the size of that use, that is to say, it's independent of it. Since the Utility of the water varies according to its use (which is considered homogeneous), it's therefore an intensive characteristic. However, it's obvious that adding up these Utilities makes no sense. The Utility of the water of the stream is certainly not equal to the sum of the Utility of each use. Since the sum of all the Utilities doesn’t coincide with any reality, the Utility is therefore a non- additive characteristic. But for example, for role 1 each m3 has an identical Utility. It is the same for each of the other three uses in the enumeration. However, it's quite certain that the need varies over time according to the flow rate, i.e. the quantity of water already distributed. The greater the volume, the lower the need. The need for each use is indeed a function of the size of that use. But a quantity (volume, weight, size, ...) is by definition an extensive characteristic. However, it's indisputable that it's possible to calculate or measure the quantity of water used at any given time by each of the four above-mentioned items as well as the total consumption. Therefore, need (marginal utility) is of course an additive characteristic. Consider any document that requires a hand of paper for printing. No one will argue that the Utility of the first sheet is greater than that of the second, which in turn is greater than that of the third, and so on up to the twenty-fifth sheet. However, everyone will agree that at the beginning of the print run the requirement is 25 sheets, then after printing the first sheet the requirement is only 24, and thus decreases by one unit with each edition of one page until the requirement becomes zero at the 25th. This example shows again that the Utility of each sheet is constant but that the need (marginal utility) evolves according to the quantity. Consequently, of all that is explained above, it's possible to pose the following equivalences between Economy and Physics:  Utility⇔ Temperature⇒ (non-additive intensive characteristics)  Need ⇔ mass⇒ (additive extensive characteristics) Nevertheless, the two characteristics of Need (marginal utility) and Utility are inseparable, in the same way as mass and temperature in physics. Indeed :  it's impossible to determine the temperature of nothing, because one can only determine the temperature of",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 109,
+        "quotation": "109 something, i.e. of a certain quantity of matter (solid, liquid, gas, plasma),  it's impossible to determine the Utility of nothing, because one can only speak of Utility of something, i.e. a certain quantity of Product (good, service). Moreover, an intensive characteristic must be associated with an extensive characteristic. For example, in physics :  temperature (intensive characteristic) is combined with entropy (extensive characteristic),  pressure (intensive characteristic) is matched to the volume (extensive characteristic). However, the product of these characteristics must give an extensive characteristic, namely :  temperature (int. cha.) × entropy (ext. cha.) = heat (ext. cha.)⇒ T .dS=dQ  pressure (int. cha.) × volume (ext. cha.) = work (ext. cha.) ⇒ P.dV=dW It can only be the same in Economics and particularly in the case that concerns us. Of course, Utility is a completely intactable characteristic (like temperature) but nevertheless perfectly real. If it's possible to measure need, the same cannot be said for Utility. However, in physics, we had to wait until the 17th century with Galileo Galilei, but especially the 18th century with Réaumur, Fahrenheit, Celsius, to begin to apprehend the measurement of temperature. However, this didn’t prevent individuals from having perceived and grasped the notions and concepts of temperature (hot, warm, cold, icy, ...) and heat (quantity) long before these scientists. Nevertheless, as one should never prejudge the future, there is nothing to say that this characteristic can never become measurable one day (in a statistically similar way to the temperature based on the average energy of the components). However, in the absence of measurement, it's always possible to classify Products according to their Utility, just as in physics it's possible to order them according to their temperature (very hot, hot, warm, cold, ...). Moreover, the laws of thermodynamics have existed since the “Big Bang”, i.e. long before these laws were revealed and temperature could be measured. This didn’t prevent individuals from applying these laws, without knowing them,",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 283,
+        "quotation": "283 coefficient (mass) is a function of the nature of the gas used. Consequently, by posing : r P = f (complexity of the Product, number of copies) or : r P=f (cP) ‹08-03› the relationship becomes : F A⋅p ⏟ CASH =rP⋅U P ⏟ PRODUCT ‹08-04› It should be noted that :  this relationship doesn't in any way require economic agents to be imperatively rational. In fact, whatever the value of the Utility granted to the Product by the consumer, be it right or wrong, objective or subjective, the exchange price will always depend on it. For a given price of any Product: 1. if the consumer judges the Utility of the Product to be too low for his needs, he will not buy it because he will judge its price to be too high. It is possible to say that the consumer prefers Cash to the Product (U A>UP ), 2. if the consumer deems the Utility of the Product too high for his needs, he will buy it as he deems its price to be correct. It is possible to say that the consumer prefers the Product to Cash (U P>U A ). It is certain that these two hypotheses correspond to everyday reality. In this case, the second is the one that all advertisers are looking for. By all (legal) means, they seek to mislead the consumer as to the Utility of the Product (good or service) whose purchase they have the mission to incite. It isn't the intention here to discuss the means used to achieve this goal. If the consumer is fooled by advertising into believing that a particular Product is very useful to him, the supplier may increase the price of the Product or sell more of it. The result of this relationship is that :",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 349,
+        "quotation": "349 so: M = r P⋅U P (f ) −rP⋅UP (i) −γTM + 1 or: M = rP 1 −γTM ⋅( U P(f ) −UP(i )) ‹12-04› If the Final Utility is equal to the Initial Utility, there is no creation (or destruction) of Money. This is the case of an intermediary who increases the price of a Product without increasing its Utility. The Cash that the consumer gives to this intermediary and which corresponds to this increase is only transferred. Transformation T→M ⇒ Isoaxial Money Always starting from the 04-10 relationship, namely : dM = F A⋅dp we know that in an isoaxial transformation the price is, by definition constant, so it's possible to write: dp = 0 ⇒ dM = 0 and consequently: M = 0 ‹12-05› Leaving aside the constant, that is to say that in this type of transformation, there is no creation of Money realized. Transformation T→M ⇒ Isobaric Money We always ask the relation 04-10, namely :",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 386,
+        "quotation": "386 ηTM = 1 − U P2 UP1 The yield of the T→M transformation is totally independent of the nature of the Product, it's only a function of its Utility at the beginning and at the end of the transformation. Transformation M→T ⇒ Yield Let's assume any M→T transformation. In this one, the M→T yield is by definition : ηMT = −T M 1 In fact, it's equal to the Work to be done T (which leaves the system) obtained, in relation to the M1 realised Money (which enters the system) necessary to obtain it. The First Principle, implies : M 1 + M 2 + T = 0 either : −T = M 1 + M 2 Therefore: ηMT = M 1 + M 2 M 1 or : ηMT = 1 + M 2 M 1 Now, for this transformation of any kind (reversible or not), we know from the Second Principle that: M 1 U A1 + M 2 U A2 ≤0 that we can write:",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 415,
+        "quotation": "415 But we know that (relation 06-02): dETM = −U P⋅dP + FA ⋅dp By replacing and simplifying, we get: dETM L = P⋅dU P + F A⋅dp ‹16-03› Transformation T→M ⇒ Free Empraxia Let's always consider the same entrepreneur who wants to manufacture existing Products already on the market and of course sell them, and let's assume that he is subject to the same Avarice Force as the other Transformers. The existing Products obviously have a fixed and therefore constant Utility, however the price (Value) of these Products will evolve, therefore Money will be created or lost but will have to be added to the Money of the system. This Money is equal to (relation 04-10): dM = F A⋅dp By posing : FA0 = Constant Avarice Force this relationship becomes : dM = F A0⋅dp which for a finite variation is written: ΔM = F A0⋅Δp The relation 09-03, namely: ΔP(E ) + ΔETM (E ) U P0 ≥0 can be written: ΔETM (E) + U P0⋅ΔP(E) ≥0",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      }
+    ],
+    "status": [
+      "FORMALLY_QUALIFIED",
+      "MEASUREMENT_REQUIREMENT",
+      "REVIEW_DIAGNOSTIC_NOT_AUTHOR_NOVELTY"
+    ],
+    "external_compatibility": "MEASUREMENT_REQUIREMENT",
+    "distinctive_explanation": "REVIEW_DIAGNOSTIC_NOT_AUTHOR_NOVELTY"
+  },
+  {
+    "id": "SYN-05",
+    "approved_statement": "Une baisse de coût peut être transmise, retenue, partagée ou différée. Les pages tardives de partage empêchent d'attribuer au corpus une transmission automatique intégrale.",
+    "sources": [
+      "analysis/global_corpus_pass/findings.json"
+    ],
+    "source_pages": [
+      20,
+      21,
+      363,
+      364,
+      468,
+      504,
+      507,
+      508,
+      523
+    ],
+    "claims": [
+      "CPC-0013",
+      "CPC-0014",
+      "CPC-0015",
+      "CPC-0016",
+      "CPC-0019",
+      "CPC-0020",
+      "CPC-0021",
+      "CPC-0027",
+      "CPC-0028",
+      "CPC-0050",
+      "CPC-0053",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079",
+      "CPC-0085",
+      "CPC-0097",
+      "CPC-0098",
+      "CPC-0105",
+      "CPC-0110"
+    ],
+    "questions": [
+      "RQ-05.01",
+      "RQ-06.04",
+      "RQ-10.01"
+    ],
+    "conditions": "Scénario, référent, frontière et hypothèses formelles conservés; pas causalité par compatibilité.",
+    "passages": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 20,
+        "quotation": "20 would only be an accounting procedure that doesn't involve any energy expenditure since it's the result of an individual's choice and resolution, whereas price reduction is a physical process that necessarily requires the expenditure of energy in the form of work.  The supplier's work can be carried out by any entity, i.e. : individuals, slaves, employees, animals, motors. In this enumeration, individuals, slaves, wage earners and animals can be considered as natural sources of labour, while engines can be understood as artificial sources. Sources such as wind, waterfalls, etc., are commonly referred to as natural, but in the context of this study they are to be qualified as artificial, despite the fact that all existing sources in the Universe are obviously always natural. It isn't the intrinsic source that is taken into account, but more precisely the transmission or transformation system. Although wind is a natural source, a windmill must be considered an artificial source of work because it requires a whole system transmitting the energy of the wind to the millstones, a technical system that doesn’t exist in nature. The power of natural sources is always limited (conventionally 1 HP = 0.736 kW - practically a workhorse has about 2 kW of power), whereas, a priori, that of engines isn't (a modern turbojet engine provides 80,000 kW). It seems that it's the availability of these low-cost artificial sources of energy over the last two centuries that has made the transition possible:  of a subsistence society, if not of scarcity,  to a society of abundance, if not of waste (at least in “rich” countries), as a result of a general and consequent fall in the prices of goods and services. The case of “consumer” electronic products, as well as “low-cost” air travel, are blatant current examples. All this is very similar to the facts which occur daily in all companies, namely: working as hard as possible to increase the speed of production and thus reduce prices (at least “cost prices”). Work (energy) that allows a reduction in the cost price can be described as “productive Work”, while work that doesn’t allow a reduction in price can be defined as “unproductive work”. For example, if the selling price is kept constant despite this drop in cost price, then it's possible to consider that there are two variations, namely : 1. a prior reduction in price which is related to physics, 2. a subsequent consecutive price increase which is related to accounting.",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 21,
+        "quotation": "21  The first is therefore a matter for the “Natural Sciences”, while the second is a matter for the “Human Sciences”. Indeed, entrepreneurs are, in liberal systems, free to put any price on the labels of their Products. They are the sole judge and person responsible for selling prices, but always subject to the external constraints (competition, regulations, etc.) to which they are subject. Consequently, since prices are only set according to a human choice, this is a matter for applications, possibly clarified by the classical and conventional doctrines of Economics. A contrario, the hypothesis exposing a possible drop in cost prices necessarily involves Work (energy) as its cause, its driving force, which imposes a physical approach to the phenomenon. It is only this part (physical approach) which is the object of the study which follows from these first considerations. As a result:  before any distribution of wealth, being part of the Human Sciences, it's imperative to have ensured its creation according to a physical formalism dependent on the Natural Sciences. Notes From the above, for any Product (good or service), the more Work has been done to make it, the less expensive it's and the less it can be assumed to be included, supported by that Product. Then it can be argued that :  during an exchange, there is a growing imbalance, depending on productivity, between the Work done by the supplier and the Money he receives, or : ◦ more Work flows from the supplier to the consumer, less Money flows in the opposite direction.  For the same reason: ◦ it's the supplier who enriches the consumer.  if two copies (A, B) of the same Product are considered, they are normally indistinguishable. But, if B was manufactured faster than A, then B required a higher Work expenditure than A, requiring B's cost price to be lower than that of A. Consequently : ◦ a variation (±) in Work is never used to manufacture a Product, but exclusively to change (∓) its price in the opposite way.",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 363,
+        "quotation": "363 80 × 4 5 = 64 $ Therefore, the Transformer's added Value decreases by : 80 −64 = 16 $  4. Step 4 ⇒ Transformer-Acquirer Tractation (Isopheles Transformation) As assumed above, when negotiating with the Acquirer, the Transformer increases the price by 24 Dollars. As a result, the price increases to : 64 + 24 = 88 $ Therefore, the added Value of the Transformer increases by : 88 −64 = 24 $  It is worth noting : 1. assuming that the Seller and the Transformer make the same profit before and after the increase in productivity, isopheles 2 and 4 transformations don’t cause any creation of Money and therefore don’t determine absolutely any increase in the purchasing power of consumers. This is perfectly logical since, during these stages (2 and 4), neither the Seller nor the Transformer performs any Work. The table below lists the different transformations of the cycle. It can be seen that the Buyer's wealth (purchasing power) increases by 28 Dollars. This sum is composed of a first part due to the Seller for 12 Dollars and a second part due to the Transformer for 16 Dollars. Price before productivity gains Price after productivity gains Difference Step 1 Step 2 Step 3",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 364,
+        "quotation": "364 Step 4 2. for the Buyer, the price of the Product changes from 217 to 189 Dollars, i.e. a gain of 28 Dollars without the need for him to done any Work. 3. the agents who performed a Work (Seller and Transformer) are always paid the same per unit of time, bearing in mind that the term “agent” here covers any economic entity. In fact, after an increase in productivity, for 1 hour of Work : • the Seller's production is ⇒ 6/5=1.20copies • the production of the Transformer is ⇒ 5/4=1,25copies or the respective hourly wages of : • for the Seller ⇒ 60×1,20=72$ • for the Transformer ⇒ 64×1,25=80$ as it was originally. Cycle Money→Work ⇒ Introduction Understanding the different transformations of this cycle is greatly facilitated by considering that consumers (Buyer vis-à-vis the Transformer and Transformer vis-à-vis the Seller) order the Product from suppliers. It is therefore necessary to observe : • firstly, the Acquirer placing the order for a Product developed by the Transformer, • then, the Transformer shall place the order for the Product to be manufactured with the Seller. Consequently, the four steps can be presented schematically as follows: 1. Buyer-Transformer tractation during which the Buyer transfers Work to be done that the Transformer will have to done,",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 468,
+        "quotation": "468 dM = −c A⋅dϖ dt ⋅ϖ⋅dt either : dM = −c A⋅ϖ⋅dϖ By integrating between two considered instants, either at the initial time t1 and at the final time t2, it comes: M = −( 1 2 ⋅c A⋅ϖ t 2 2 −1 2 ⋅c A⋅ϖ t 1 2) By posing: Ecin = Kinetic energy either : Ecin = 1 2 ⋅c A ⋅ϖ 2 then it comes : M = −( Et 2 cin −Et 1 cin) But this difference of Kinetic Energy between the instants t2 and t1 corresponds to the difference of transformed Potential Energy between the instants t1 and t2. By posing : Epot = Potential energy then : M = −( Et 1 pot −Et 2 pot) The presence of the minus sign (-) is quite logical, because all this is related to the transformation Work→Money. Indeed, the slower the speed (ϖ) of price formation, the higher the Money, i.e. the Kinetic Energy, held by the consumer. As a result, the consumer can keep in his wallet this sum, which can now be considered as Potential Energy, and which can be used for any future use (acquisition of a Product, payment of a debt, payment of taxes, ...). Consequently, the greater the Work done by the supplier, the more Potential Energy (Money saved) is available to the consumer. So, this Energy is normally higher at time t2 than at time t1. These last two relations can therefore be written as follows:",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 504,
+        "quotation": "504 • the price is presumed to evolve in a regular way, which is generally not the case, • the trading sequences, as defined above, are condensed into the transaction sequences. These two assumptions have no bearing on the validity of the reasoning. Figure 24-01 expresses the evolution of the price over time, i.e. : • segments AB and A'B'⇒ points A and A' are obviously confused since they serve as the origin. The A'B' segment has a lower slope than the AB segment since the manufacturing speed has increased which implies that the price evolves less quickly during this operation. • segments BC and B'C'⇒ these segments have the same length which means that the profit before and after speed increase is always the same. As a result, point C' perceived as the selling price of the Raw Proceeds is now lower than the previous selling price C. The Transformer has in addition the quantity of Money translated by CC'. • segments CD and C'D'⇒ this stage of manufacture by the Transformer is similar to that representing manufacture by the Seller. The C'D' segment has a lower slope than the CD segment since the manufacturing speed has increased, which means that the price changes less quickly during this operation.",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 507,
+        "quotation": "507 In the above example, it was assumed that the profits before and after variation of the manufacturing speed were the same, respectively for the Seller and the Transformer, i.e. : BC ⏟ before = B'C' ⏟ after for theSeller and : DE ⏟ before = D'E' ⏟ after for theTransformer In reality, however, this equality isn't assured. Profits before and after a variation in productivity (speed of manufacture) are absolutely not always the same. However : 1. a variation in productivity is always due to the execution of extra Work, 2. a variation in profits is always due to human will and decision. However, it has already been stated many times that any phenomenon relating to the Human Being must be rejected. Consequently, the second possibility doesn't have to be studied here because it's a matter of applications and not of theory in the strict sense. In fact, it's quite obvious that this hypothesis comes from sociology, philosophy, etc., whereas the first concerns physics. It is for this reason that the profits are considered identical in order to avoid considerations relating to the social sciences and thus be confined to the field of the physical sciences. In spite of this comment, it's nevertheless useful to specify that if the manufacturer decides to increase its profit as a result of an increase in productivity, then this excess price can be considered as a capital loss for the consumer and a capital gain for the supplier, which marks the perfect relativity of these denominations since they are addressed to the same quantity of Money. Identically, it's also possible to posit that this surplus can either increase or decrease inequalities according to the income gap between the supplier and the consumer. In any case, this displacement of Money should only be interpreted as a transfer between non-communicating vessels; if one wins, the other loses and vice versa. As a consequence, it's obvious that all this is reflected in the accounts since only one flow (Money) is perceived and there is no evolution of the Wealth of the system. This price surplus can be : • totally retained by the supplier, • totally granted to the employee, • partially distributed (equally or unequally) between the supplier and the employee.",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 508,
+        "quotation": "508 Whatever the case considered, it's only the result of a human decision and has no property of enrichment for all the agents involved (supplier, consumer, employee). The outcome is only a variation in the respective incomes of the agents with a corollary increase or decrease in inequalities. To stipulate that this leads to a worsening or improvement of inequalities would be to make an ethical value judgment, which must be systematically excluded from any study of a physical nature. These different distributions are always only relevant to accounting and thus to the sociological and philosophical fields. However, this distribution is always only a loss for the consumer. In conclusion, the exclusive study of economic flows, either of Cash or of Products (goods or services), cannot lead to an understanding of their variations. To state that it's “factors of production” which allow the elabouration, the manufacture of Products doesn't lead to anything. If these factors are at a standstill, for whatever reason (strikes, holidays, illness, machine maintenance, disruption of energy supply, etc.), they still exist but produce absolutely nothing. If they work slowly or very quickly, they are always the same and yet do not provide the same productivity at all. It isn't the factors of production that have to be taken into account but the Work (energy) they perform. The example of mechanics perfectly illustrates this observation. In order to move any mobile from one point to another, it's possible to use different means (man, animal, car, truck, plane, ship, ...). However, the laws of kinetics or dynamics that deal with the phenomena of displacement are totally indifferent to the nature of these means. The same is true in economics: • whatever the factor of production, only Work must be taken into consideration. Consequently, knowing that it's Work that creates wealth, the study of the flows of Products and Cash is completely inoperative. The doctrine of trickle- down being relative only to one flow is therefore strictly useless to vary the wealth of a society. It can therefore only be the transformation of Work into Money that is likely to make the basic economic phenomena explicit. Self-regulation and Chronological price amortisation It has been shown, in particular in the paragraph “Supply-Demand” of the chapter “Prolegomena”, that the only sequence that can exist between the price of a Product, its supply and its demand is the following:",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 523,
+        "quotation": "523 2.25 Transformations coefficients ABSTRACT: The entire study was conducted considering the transformation coeffi- cients (gTM, gMT ) as constant, i.e. we assumed that a certain amount of Work provided would always result in the same amount of Money and vice versa. But, a priori, noth- ing allows us to affirm this, because it does not seem to be systematically true. This chapter therefore attempts to show that to ensure a correct, regular, unvaried functioning of an economic system, it is imperative that the constancy of the coeffi- cients be guaranteed. In this case, the different possibilities of evolution are coherent and incoherent in the opposite case (chapter 00 - monetary evolutions). Money and Work – Creation and expenditure We know the relations (05-01, 05-02) of the equivalence principles for each T→M and M→T transformation respectively, namely : M = gTM ⋅T and : T = gMT⋅M Taking into account the cause (index d for spent) and the effect (index c for created), these relations are respectively written : M c = gTM⋅T d and : T c = gMT⋅M d ⇒M d = T c gMT However, the Money spent Md was necessarily created prior to its use. However, the created Money Mc can be hoarded, so : Mc ≥M d or : gTM⋅T d ≥ T c gMT : hence:",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      }
+    ],
+    "status": [
+      "CONDITIONAL_BRANCHES",
+      "PARTIAL_PARALLEL",
+      "NON_DISCRIMINATING"
+    ],
+    "external_compatibility": "PARTIAL_PARALLEL",
+    "distinctive_explanation": "NON_DISCRIMINATING"
+  },
+  {
+    "id": "SYN-06",
+    "approved_statement": "Le +78% reproduit (8/6)²−1 sous tâche, cp et hypothèse quadratique fixes. P32 revendique une généralité sous homogénéité; le calcul ne l’établit pas. NOT_GENERALIZED_EMPIRICALLY.",
+    "sources": [
+      "analysis/25_productive_review_report.md",
+      "remediation/formal_corrections.md"
+    ],
+    "source_pages": [
+      32,
+      197,
+      207
+    ],
+    "claims": [
+      "CPC-0032",
+      "CPC-0033",
+      "CPC-0035",
+      "CPC-0038",
+      "CPC-0096",
+      "CPC-0101",
+      "CPC-0102",
+      "CPC-0103",
+      "CPC-0104",
+      "CPC-0108"
+    ],
+    "questions": [
+      "RQ-04.02",
+      "RQ-04.04"
+    ],
+    "conditions": "Scénario, référent, frontière et hypothèses formelles conservés; pas causalité par compatibilité.",
+    "passages": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 32,
+        "quotation": "32  there can be no Economic Work without a difference in the Utility of the Cash exchanged. These statements are strictly of the same nature as that of the “First Principle” of thermodynamics, i.e. :  there can be no mechanical work without a temperature difference. Premises Let us suppose that the manufacturing of any Product requires, initially, a duration of 8 hours and that, after an increase in productivity, this duration decreases to 6 hours. Let us suppose moreover that the cost per hour of work is 20 $, then caeteris paribus :  according to the first hypothesis (8hrs. of Work) the cost price of the Product is 160 $,  according to the second hypothesis (6hrs. of Work) the cost price is 120 $, i.e. 40 $ less. But the laws of physics state that the higher the speed, the more energy is expended, in the form of Work, to increase that speed. The second hypothesis therefore requires more Work than the first (about 78% more). This thought experiment, valid for any Product, everywhere and always in accordance with the Principle of Homogeneity, shows without ambiguity that more Work was necessary for the elabouration of a Product less is the cost price (caeteris paribus). An analysis of the daily facts shows that all companies are always seeking to improve productivity, i.e. to accelerate the speed of production, in order to reduce the price of the goods produced. But in order to do so, it's essential to work more, and this by any means (individuals, slaves, animals, employees, mainly motors or machines for the last 2 centuries). It has just been shown that the more Work there is in a Product, the cheaper it's. Therefore, in an exchange there can only be an imbalance, more and more accentuated according to productivity, because this means that :  more Work done flows from the supplier to the consumer, less Money flows in the opposite direction. However, when the price of a Product decreases due to higher Work, the consumer keeps an additional quantity of Money equal to this decrease in price. The result is that :",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 197,
+        "quotation": "197 In physics, the mechanical Work (W) is associated with the space travelled, whereas here, in Economics, the economic Work (T) is combined with the labour to be performed. For this reason, it's essential to differentiate these two jobs by different symbols (W and T). The labour as well as the Work referred to here can be performed by an agent, an animal, a motor or a machine, but, whatever the means used, this labour and/or Work must always be performed. In fact, during antiquity and until the 18th or 19th century, the economic agent could have the labour and Work he had to perform replaced by one or more slaves, by wage-earners or by simple machines using natural or animal energy. From the second half of the 18th century onwards, more complex machines appeared due to the development of efficient and powerful engines (steam engines, internal combustion engines, electric motors, etc.) which made it possible to replace labour and, above all, to increase the amount of Work that had to be done by Human. Consequently, by posing : t = time l= labour to be done - task – job to be done ω= speed of execution of the labour to be done - productivity it's possible to write : ω=−dl dt ‹04-01› The relationship is marked with a negative sign because the amount of labour to be done decreases with time as opposed to the amount of labour done, which increases. However, between these two types of labour (labour to be done and labour done), the important one is the labour to be done, because the greater the labour, the more personnel (employees, slaves), animals or engines are needed to do it. The labour done out is of no interest because once a Product is manufactured, there is nothing more to be done. If there is still something to be done, it can only be labour to be done. In the same way, each time an elementary operation on the chair (or any other Product) is performed, it's possible to say that the price increases by a certain amount, i.e. the price is formed as the labour is performed, but not necessarily at the same speed as the labour itself. Consequently, by posing :",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 207,
+        "quotation": "207 Energy Replacing the Forces in the two relationships (04-09 and 04-10) above by their value (relationships 04-05 and 04-06), we obtain respectively : dT=−cP.γ ω.dB and : dM=−c A.γ ϖ.dV By replacing the speed variations ( γωand γϖ) in the two relations above by their value (relations 04-03 and 04-04), we obtain respectively : dT=−cP. d ω dt .dB and: dM=−c A. d ϖ dt .dV ‹04-11› ‹04-12› that it's possible to write : dT=−cP. dB dt .dω and: dM=−c A. d V dt .d ϖ By replacing the ratios dB/dt (dl/dt) and dV /dt (dp/dt) by their values (relations 04-01 and 04-02), we obtain respectively : dT=cP.ω.d ω and: dM=−c A.ϖ.d ϖ ‹04-13› ‹04-14› After integration, these relationships give respectively : T=1 2 .cP.ω² and: M=−1 2 .c A.ϖ ² ‹04-15› ‹04-16› Considering the constant zero, these relations represent the respective kinetic energies of Work and Money (see chapter “Basic Principles”). The presence of the negative sign (-) in the relation giving the Money is perfectly logical. Indeed, the slower the speed (ϖ) of price formation, the higher the Money held by the consumer. Employment - Purchasing power",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      }
+    ],
+    "status": [
+      "FORMALLY_DERIVED_WITH_ASSUMPTIONS",
+      "NOT_EMPIRICALLY_TESTED",
+      "REQUIRES_INDEPENDENT_T"
+    ],
+    "external_compatibility": "NOT_EMPIRICALLY_TESTED",
+    "distinctive_explanation": "REQUIRES_INDEPENDENT_T"
+  },
+  {
+    "id": "SYN-07",
+    "approved_statement": "Sous additivité et unités communes, K est une moyenne pondérée; invariance sous composition fixe reste conditionnelle. P559 moyenne les vitesses: moyenne des carrés ≠ carré de moyenne; conserver dispersion et coefficients avant agrégation.",
+    "sources": [
+      "research_questions/experiments/EXP-03/results.json",
+      "remediation/formal_corrections.md"
+    ],
+    "source_pages": [
+      538,
+      559
+    ],
+    "claims": [
+      "CPC-0037",
+      "CPC-0043",
+      "CPC-0044",
+      "CPC-0089",
+      "CPC-0109",
+      "CPC-0111",
+      "CPC-0112",
+      "CPC-0114",
+      "CPC-0116",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0126"
+    ],
+    "questions": [
+      "RQ-08.01",
+      "RQ-08.02",
+      "RQ-08.04"
+    ],
+    "conditions": "Scénario, référent, frontière et hypothèses formelles conservés; pas causalité par compatibilité.",
+    "passages": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 538,
+        "quotation": "538 Moreover, this relationship indicates that the issue of monetary units N inexorably leads to a decrease in the value of the unit u, which causes the price p to increase. Introduction remark The whole essay focuses on the only approach that allows the creation of wealth (Money, purchasing power, ...) through the study of the transformation of Work into Money. This is only valid for a single transformation, that is to say, what a single Transformer carries out in order to produce a single copy of the Product he manufactures. If we consider a complex (macroeconomic) system, such as a country, with a very large number of elements that can provide Work and therefore create Money, then this essay is still valid for the understanding of each of the transformations, but it cannot apprehend this creation of wealth directly in its entirety. In physics, certain generalisations could be “understood” by the notion of field. For example, in meteorology, it is possible to consider a volume of atmosphere for which certain characteristics (pressure, temperature, speed, etc.) allow its dynamics to be calculated. But in order to perceive the values of these intensive characteristics and this dynamic at a global, if not terrestrial level, fields are used, particularly scalar and vectorial fields. A priori, from the characteristics defined in the study it is quite possible to determine certain fields, knowing that these characteristics are similar to those of physics, since the formalism used is rigorously identical. In physics the field is generally determined in a geometrical space, which is obviously not the case in economics where this type of space does not exist, which does not prevent one or other from being established. Labour-Price Field In physics, fields are generally understood in space : for example, coordinates are usually defined by longitude, latitude, altitude (length, width, height). We know that in this essay, labour and price are characteristics that are similar to the spatial coordinates of physics. It would therefore be possible to use them in the same way. However, in the study the labour and the price are respectively considered in one or the other of the transformations T→M or M→T . Now, to",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 559,
+        "quotation": "559 T=1 2⋅cP⋅ω 2 and : M=−1 2⋅c A⋅ϖ 2 We also know that the higher the speed of production ω of a product, the slower the speed of price formation ϖ. It is therefore possible to write : M=−K⋅1 2 ⋅cP⋅ω 2 As the two speeds are not necessarily equal, it is necessary to introduce a proportionality coefficient which is also a function of the units used for their respective measurement. This relationship is only valid for one product, the coefficient K being variablefor each. However, it is possible to design an average speed ωm . Then, the more Products are taken into account, the more the coefficient K can be considered constant, and therefore only a function of the units used. At the macroeconomic level, it is therefore possible to pose : M CREATED=K⋅T SPENT We know that GDP is the sum of all the Money spent in a system for each Money→Work transformation, but also that all this Money had to be previously created in each Work→Money transformation. Consequently, it is possible to write: GDP=K⋅T SPENT However, we also know that in any system, there is energy consumed that does not participate in the creation of Money, i.e, in the enrichment of the system. If we take into account this energy, which only influences the slope of the right-hand side, the relationship becomes : GDP=K⋅W consumed which shows the absolute coupling of the GDP of a system to the energy consumed in it.",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      }
+    ],
+    "status": [
+      "FORMALLY_SUPPORTED_WITHIN_RECONSTRUCTION",
+      "NOT_STRUCTURAL_K_ESTIMATE",
+      "GENERAL_AGGREGATION_PROBLEM"
+    ],
+    "external_compatibility": "NOT_STRUCTURAL_K_ESTIMATE",
+    "distinctive_explanation": "GENERAL_AGGREGATION_PROBLEM"
+  },
+  {
+    "id": "SYN-08",
+    "approved_statement": "Les erreurs locales de limites, inversion p303, Force constante et substitutions restent distinctes de postulats admissibles. P301 autorise une hypothèse simplificatrice; elle ne répare pas sa dérivation. Portée strictement locale.",
+    "sources": [
+      "analysis/global_corpus_pass/formal_checks.json",
+      "analysis/global_corpus_pass/final_report.md",
+      "remediation/formal_corrections.md"
+    ],
+    "source_pages": [
+      249,
+      250,
+      285,
+      301,
+      303,
+      467,
+      470
+    ],
+    "claims": [
+      "CPC-0004",
+      "CPC-0023",
+      "CPC-0034",
+      "CPC-0040",
+      "CPC-0045",
+      "CPC-0047",
+      "CPC-0055",
+      "CPC-0056",
+      "CPC-0057",
+      "CPC-0058",
+      "CPC-0059",
+      "CPC-0062",
+      "CPC-0063",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079",
+      "CPC-0113",
+      "CPC-0115",
+      "CPC-0116",
+      "CPC-0121"
+    ],
+    "questions": [
+      "RQ-05.03",
+      "RQ-08.03",
+      "RQ-03.02"
+    ],
+    "conditions": "Scénario, référent, frontière et hypothèses formelles conservés; pas causalité par compatibilité.",
+    "passages": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 249,
+        "quotation": "249 Moreover, during this negotiation, the respective variations of Laziness decrease and therefore tend towards zero: dP (A )→0 and : dP (B )→0 which implies that the ratio of Laziness tends towards 1, that is to say: UP ( A ) U P (B ) = dP(B) dP( A ) →1 and consequently: U P (A )=U P (B) at the transaction ‹06-09› 2. For the exchange of Cash for Cash (change) From the 05-07 relationship, i.e. : dM=U A⋅dA for each agent A and B above, it becomes respectively : dM (A )=U A (A )⋅dA ( A ) and : dM (B )=U A (B )⋅dA ( B) These two agents form an isolated economic system, since they exchange Cash only between themselves. The internal Energy variation is therefore null. Thus, we know the relation 05-08, namely : dM +dT=0 which becomes respectively, for these same agents: dM (A )+dT ( B )=0 and : dM (B )+dT ( A )=0 Or: dM (A )+dT (B )=dM (B)+dA ( A ) As in exchange economy, there is no exchanged Work, the relation is simplified as follows: dM ( A )=dM (B )",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 250,
+        "quotation": "250 Replacing these Money variations by their respective values, we have : U A (A )⋅dA( A )=U A (B )⋅dA ( B) or : U A (A ) U A (B ) = dA (B ) dA (A ) But, during a negotiation between a supplier and a consumer (isopheles transformation), we know that the Utility of Cash doesn't vary, so it's possible to write: U A ( A ) U A (B ) = dA ( B ) dA ( A ) =Constant Moreover, during this negotiation, the respective variations of Avarice decrease and therefore tend towards zero, that is to say: dA ( A ) →0 and: dA ( B) →0 which implies that the ratio of Avarice tends towards 1, that is to say: U A (A ) U A (B ) = dA ( B ) dA ( A ) →1 and consequently: U A (A )=U A (B ) at the transaction ‹06-10› 3. For the exchange Product for Cash (exchange) From the 05-04 and 05-07 relations, namely : dT=−UP⋅dP and : dM=U A⋅dA for each agent A and B above, they become respectively :",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 285,
+        "quotation": "285 p=rP⋅U P FA For a given Product and a given consumer (i.e. for a fixed UP Utility), the exchange price pe (i.e. the price at which this consumer acquires the Product) is equal to : pe=r P⋅limit ΔF A →0 U P ΔF A with : ΔF A=function ( pD−pS ) (since rP and UP are constant) with : pD = asking price (selling price of the Product) pS = price offered (price at which the consumer is willing to purchase the Product). In fact, the demand price, at constant Utility, can only decrease as the External Force exerted by the consumer increases. This relationship only means that as long as the limit's not reached (i.e. as long as the ΔFA ≠ 0) the demand price is higher than the offer price, therefore the exchange cannot occur and the basic relationship is always an inequality. As a consequence and in a general way, for any Product and for any consumer (different utility for each of them), the above relationship becomes : pe=r P.dU P dFA ‹08-05› So, during any kind of negotiation:  the exchange price of a Product is the derivative of the Utility granted to it by the consumer in relation to the Force he deploys to obtain it.",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 301,
+        "quotation": "301 FP1⋅l1=r A⋅UA1 and : FP2⋅l2=r A⋅U A2 or : FP1 U A1 =r A l1 and : FP2 U A2 =r A l2 since labour is constant (l1 = l2), then: FP1 U A1 = FP2 U A2 through constant labour. ‹08-15› 3. Core Law of Constant Utility of Cash From the core law (relation 08-12), for two different states indexed 1 and 2, it's always possible to write : FP1⋅l1=r A⋅U A1 and : FP2⋅l2=r A⋅U A2 since the Utility of Cash is constant (UA1 = UA2), then : FP1.l1=FP2.l2 through constant Utility of Cash. ‹08-16› Note At the end of this chapter, it should of course be noted that the main relationships (08-04, 08-12) known as \"Core Laws\" or \"Market Laws\", namely :  for T→M transformation F A⋅p=r P⋅U P  for M→T transformation FP⋅l=r A⋅U A each have an eminently empirical character. Nevertheless, without being violent, it's possible to formulate them, at least, as a simplifying hypothesis and certainly not a prohibitive one as to the validity of this approach.",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 303,
+        "quotation": "303 Furthermore, these experiments indicate that the curves representing the pressure of the different gases as a function of their temperature converge towards a single point (absolute zero), as shown in Figure 09-01. It would therefore be necessary to consider how the Force exerted by the consumer and the price (Added Value) evolves as a function of Utility, i.e. the following functions : FA = p r P ⋅U P = f (U P) and : p = F A r P ⋅U P = f (UP) where we consider first the constant price and then the constant Force. Previously, among the infinite number of all the existing possibilities of the Utility level of a Product for all consumers, three types of Products have been defined by way of examples, represented on the diagrams 08-01 (08- 01a, 08-01b and 08-01c). Since no experiments similar to those performed in physics can be performed in Economics, it appears that only the analysis of phenomena occurring in daily life is likely to answer the above- mentioned questions. In the “exact” sciences there are certain fields of study, in particular astronomy, where it's impossible to performed any kind of experiment. For example, it's out of the question to cause the fusion of two black holes in order to measure the gravitational waves generated by this phenomenon. In spite of this incapacity, this doesn't prevent their detection, as does the detection of the cosmic background due to the decoupling of radiation. With this reservation and in order to continue this dynamic study, it will be considered that there exists a perfect Product which allows us to verify exactly the validity of the constancy of the aforementioned ratio, that is to say that the Avarice Force as a function of price or added Value is geometrically represented by a hyperbola. Elementary operation It is obvious and logical that the Work required to vary the UP Utility by a certain amount depends on the Product manufactured. Some Products are indeed more difficult to manufacture than others, and this to vary the Utility of the same quantity. If this variation in Utility is considered very",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 467,
+        "quotation": "467 But we know the relation 04-18 giving the purchasing power (a), namely: a = −c A⋅ϖ then: FA ⋅(t2 −t 1) = at 2 −at 1 If no additional force is exerted by the consumer on the supplier to bring down the price, then the purchasing power cannot vary and remains constant. Therefore, if : FA = Constant ⇒ at 2 = at 1 ‹20-01› which shows the preservation of purchasing power, because the speed of price formation (ϖ) has no reason to change if nothing else changes. 2. Conservation of the total Money The total Money is considered here as the sum of kinetic energy (exchange mediator) and potential energy (savings). Again starting from the relation 04-06, namely : FA = −c A ⋅γ ϖ or : FA = −c A ⋅dϖ dt We also know the relation 04-02 giving the speed of formation (ϖ) of price formation, namely : dp = ϖ⋅dt By replacing the Force and the price in the relation 04-10 giving the Money, namely: dM = F A⋅dp it becomes :",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 470,
+        "quotation": "470 By integrating between two considered instants, that is to say at the initial time t1 and at the final time t2, it comes : FP⋅(t2 −t1) = cP⋅(ω t 2 −ω t 1) or : FP⋅(t2 −t1) = cP⋅ω t 2 −cP⋅ω t1 But we know the relation 04-17 giving the job (e), namely: e = cP⋅ω then: FP⋅(t2 −t1) = et 2 −et 1 If no additional Force is exerted by the consumer on the supplier to increase the labour, then the employment cannot vary and remains constant. Therefore, if : FP = Constant ⇒ et 2 = et1 ‹20-03› which shows the conservation of the employment, because the speed of the labour (ω) has no reason to change if nothing else changes. 2. Conservation of Total Work Total Work is considered here as the sum of Work done and Work to be done. Still starting from the relation 04-05, i.e. : FP = cP⋅γ ω or : FP = cP⋅dω dt We also know the relation 04-01 giving the speed of execution ( ω ) of the Work, namely: dl = −ω⋅dt",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      }
+    ],
+    "status": [
+      "LOCALLY_PROBLEMATIC",
+      "DOES_NOT_TEST_EMPIRICAL_SYSTEM",
+      "NOT_A_GLOBAL_REJECTION"
+    ],
+    "external_compatibility": "DOES_NOT_TEST_EMPIRICAL_SYSTEM",
+    "distinctive_explanation": "NOT_A_GLOBAL_REJECTION"
+  },
+  {
+    "id": "SYN-09",
+    "approved_statement": "Une corrélation avec une énergie reconstituée depuis un ratio incorporant le PIB demande un audit de filiation. La présence du PIB dans le ratio ne prouve pas seule une circularité si une mesure énergétique indépendante est restituée.",
+    "sources": [
+      "analysis/27_energy_data_independence.md"
+    ],
+    "source_pages": [
+      558,
+      559
+    ],
+    "claims": [
+      "CPC-0067",
+      "CPC-0108",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119"
+    ],
+    "questions": [
+      "RQ-09.03"
+    ],
+    "conditions": "Scénario, référent, frontière et hypothèses formelles conservés; pas causalité par compatibilité.",
+    "passages": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 558,
+        "quotation": "558 evolution is not represented by a circle. It has already been pointed out that this evolution is divided into four stages, namely : 1. manufacture by the Seller or use by the Buyer, 2. Seller-Transformer tractation, 3. manufacture by the Transformer, 4. Transformer-Acquirer tractation. The economic agents (Seller, Buyer, Transformer) can be more or less lazy during the manufacturing or use phases and more or less stingy during the negotiation episodes.So considering any manufacturer: • for a certain amount of Money he receives, the Work he performs can take any value, • for a certain amount of Work he does, the Money he receives can take any value. Consequently, the competitiveness Ω can vary in very large proportions. Now, a company (manufacturer) is assimilated to a Transformer. Therefore, considering a group of enterprises, it would be possible to plot a set of vectors, each of which represents the competitiveness of each enterprise. This would be identical to a wind speed field in meteorology. These vectors would be defined : • by their point of application corresponding to the respective values of labour and price. • by their direction corresponding to the tangent of the angle formed by labour and price (relation 26-07), • by their norm corresponding to the competitiveness (relation 26-08). GDP – Energy Coupling Despite the microeconomic nature of the essay, this paragraph is an intrusion into the macroeconomic domain. All econometric studies unambiguously indicate a strong correlation (of the form: y = a.x) between the amount of energy consumed by any economic system and its Gross Domestic Product (GDP), but this relationship does not prove their causality. We know the following relationships (04-15 and 04-16):",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 559,
+        "quotation": "559 T=1 2⋅cP⋅ω 2 and : M=−1 2⋅c A⋅ϖ 2 We also know that the higher the speed of production ω of a product, the slower the speed of price formation ϖ. It is therefore possible to write : M=−K⋅1 2 ⋅cP⋅ω 2 As the two speeds are not necessarily equal, it is necessary to introduce a proportionality coefficient which is also a function of the units used for their respective measurement. This relationship is only valid for one product, the coefficient K being variablefor each. However, it is possible to design an average speed ωm . Then, the more Products are taken into account, the more the coefficient K can be considered constant, and therefore only a function of the units used. At the macroeconomic level, it is therefore possible to pose : M CREATED=K⋅T SPENT We know that GDP is the sum of all the Money spent in a system for each Money→Work transformation, but also that all this Money had to be previously created in each Work→Money transformation. Consequently, it is possible to write: GDP=K⋅T SPENT However, we also know that in any system, there is energy consumed that does not participate in the creation of Money, i.e, in the enrichment of the system. If we take into account this energy, which only influences the slope of the right-hand side, the relationship becomes : GDP=K⋅W consumed which shows the absolute coupling of the GDP of a system to the energy consumed in it.",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      }
+    ],
+    "status": [
+      "PROVENANCE_QUALIFICATION",
+      "INDEPENDENCE_REQUIRES_SOURCE_AUDIT",
+      "METHODOLOGICAL_NOT_SPECIFIC"
+    ],
+    "external_compatibility": "INDEPENDENCE_REQUIRES_SOURCE_AUDIT",
+    "distinctive_explanation": "METHODOLOGICAL_NOT_SPECIFIC"
+  },
+  {
+    "id": "SYN-10",
+    "approved_statement": "La série primaire indépendante montre une association monde PIB–énergie et des régimes différents en France/Allemagne. Une association ou un co-mouvement ne démontre ni causalité ni conversion énergie→Money.",
+    "sources": [
+      "analysis/27_energy_results.md"
+    ],
+    "source_pages": [
+      455,
+      456,
+      558,
+      559
+    ],
+    "claims": [
+      "CPC-0003",
+      "CPC-0067",
+      "CPC-0068",
+      "CPC-0108",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119"
+    ],
+    "questions": [
+      "RQ-09.03",
+      "RQ-12.01"
+    ],
+    "conditions": "Scénario, référent, frontière et hypothèses formelles conservés; pas causalité par compatibilité.",
+    "passages": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 455,
+        "quotation": "455 • for thermodynamics ⇒ dU = dQ + dW = 0 • for the Economy ⇒ dE = dT + dM = 0 Transformation Work→Money By definition, we know that in Economics, for the transformation Work→Money(T→M) the return is given by the relation : ηTM = − M created Tused or: Tused = − M created ηTM and that in Physics, for the transformation heat→work (Q→W), it's given by the relation: ηQW = − W created Q consumed But: Tused = −W created Indeed, the mechanical work created (Wcreated) (negative since it leaves the physical system) corresponds well to the useful economic Work (Tutilized) (positive since it enters the economic system) which is going to be used by an individual, an employee, a slave, an animal, a motor or a machine to increase productivity (ω). However, it must be kept in mind that this mechanical work (Wcreated) is only economically useful if it allows the Utility of a Product to evolve. If this condition isn't fulfilled, the Economic Work spent (Tutilized) is absolutely nil and therefore the Money created (Mcreated) too. This is why the contract worker, mentioned above in the chapter “Mechanics of Exchange”, can spend a lot of mechanical work (W) and therefore be exhausted at the end of her service without having carried out any Economic Work (T). Therefore :",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 456,
+        "quotation": "456 ηQW = Tused Qconsumed hence : ηQW = − M created Qconsumed ⋅ηTM or : Qconsumed = − M created ηQW ⋅ηTM By generalizing this relationship to a compound system: • of an energy chain, for example, with thermal, mechanical, electrical, chemical, etc. elements, • various economic components, and taking into account the returns of each constituent, the relationship can be written : Q consumed = −M created⋅ 1 ∏ηi (QW ) ⏟ PHYSICS ⋅ 1 ∏ηi (TM ) ⏟ ECONOMY ‹19-01› We know that the Money created leaves the economic system under study, and therefore is negative. Consequently, this relation demonstrates that the more Money is created, the more thermal energy is spent for this production, or : • the richer the Buyer, the more energy the Transformer has used. This is perfectly logical and seems to correspond well to reality. However, this relationship only expresses the energy in the form of heat needed to create Money. Therefore, the heat destroyed may be higher, but this supplement is economically useless since it doesn't create Money, although it may be useful for other purposes (as previously mentioned).",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 558,
+        "quotation": "558 evolution is not represented by a circle. It has already been pointed out that this evolution is divided into four stages, namely : 1. manufacture by the Seller or use by the Buyer, 2. Seller-Transformer tractation, 3. manufacture by the Transformer, 4. Transformer-Acquirer tractation. The economic agents (Seller, Buyer, Transformer) can be more or less lazy during the manufacturing or use phases and more or less stingy during the negotiation episodes.So considering any manufacturer: • for a certain amount of Money he receives, the Work he performs can take any value, • for a certain amount of Work he does, the Money he receives can take any value. Consequently, the competitiveness Ω can vary in very large proportions. Now, a company (manufacturer) is assimilated to a Transformer. Therefore, considering a group of enterprises, it would be possible to plot a set of vectors, each of which represents the competitiveness of each enterprise. This would be identical to a wind speed field in meteorology. These vectors would be defined : • by their point of application corresponding to the respective values of labour and price. • by their direction corresponding to the tangent of the angle formed by labour and price (relation 26-07), • by their norm corresponding to the competitiveness (relation 26-08). GDP – Energy Coupling Despite the microeconomic nature of the essay, this paragraph is an intrusion into the macroeconomic domain. All econometric studies unambiguously indicate a strong correlation (of the form: y = a.x) between the amount of energy consumed by any economic system and its Gross Domestic Product (GDP), but this relationship does not prove their causality. We know the following relationships (04-15 and 04-16):",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 559,
+        "quotation": "559 T=1 2⋅cP⋅ω 2 and : M=−1 2⋅c A⋅ϖ 2 We also know that the higher the speed of production ω of a product, the slower the speed of price formation ϖ. It is therefore possible to write : M=−K⋅1 2 ⋅cP⋅ω 2 As the two speeds are not necessarily equal, it is necessary to introduce a proportionality coefficient which is also a function of the units used for their respective measurement. This relationship is only valid for one product, the coefficient K being variablefor each. However, it is possible to design an average speed ωm . Then, the more Products are taken into account, the more the coefficient K can be considered constant, and therefore only a function of the units used. At the macroeconomic level, it is therefore possible to pose : M CREATED=K⋅T SPENT We know that GDP is the sum of all the Money spent in a system for each Money→Work transformation, but also that all this Money had to be previously created in each Work→Money transformation. Consequently, it is possible to write: GDP=K⋅T SPENT However, we also know that in any system, there is energy consumed that does not participate in the creation of Money, i.e, in the enrichment of the system. If we take into account this energy, which only influences the slope of the right-hand side, the relationship becomes : GDP=K⋅W consumed which shows the absolute coupling of the GDP of a system to the energy consumed in it.",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      }
+    ],
+    "status": [
+      "PROXIES_NOT_SOURCE_VARIABLES",
+      "EMPIRICALLY_SUPPORTED_WITHIN_DESCRIPTIVE_SCOPE",
+      "NON_DISCRIMINATING"
+    ],
+    "external_compatibility": "EMPIRICALLY_SUPPORTED_WITHIN_DESCRIPTIVE_SCOPE",
+    "distinctive_explanation": "NON_DISCRIMINATING"
+  },
+  {
+    "id": "SYN-11",
+    "approved_statement": "GDP=K·W à K strictement constant et W énergie primaire est qualifié par les ratios observés. Le raccord Money/valeur ajoutée/PIB et nominal/réel reste auparavant incomplet; p205 empêche d’imputer un double compte brut inévitable.",
+    "sources": [
+      "analysis/27_energy_results.md",
+      "remediation/money_gdp_bridge.md"
+    ],
+    "source_pages": [
+      205,
+      529,
+      537,
+      559
+    ],
+    "claims": [
+      "CPC-0001",
+      "CPC-0009",
+      "CPC-0018",
+      "CPC-0029",
+      "CPC-0043",
+      "CPC-0044",
+      "CPC-0067",
+      "CPC-0108",
+      "CPC-0109",
+      "CPC-0116",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119",
+      "CPC-0120"
+    ],
+    "questions": [
+      "RQ-08.02",
+      "RQ-09.03",
+      "RQ-12.02"
+    ],
+    "conditions": "Scénario, référent, frontière et hypothèses formelles conservés; pas causalité par compatibilité.",
+    "passages": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 205,
+        "quotation": "205 the whole Product. It is therefore necessary to consider and study only the phenomena occurring in a single Transformer. Consequently, only the added Value and the task to be done must be taken into account, i.e. the Money and the Work of the single Transformer considered. During any negotiation, a Buyer (outside the system) always exerts a Force (FP) on the Transformer (inside the system) so as to increase the task done (or decrease the task to be done) by the latter. As a result, the task to be done (B) decreases. Whatever the intensity of this Force, the variation of this task is therefore always negative. Consequently, it's possible to write : dB<0 Now, when the task to be done decreases, the Acquirer increases the amount of Work that is given to the Transformer, that is to say, that enters the system. In accordance with the sign convention, this Work is therefore always positive. As a result, the 04-07 relationship, namely : dT=FP⋅dl becomes: dT=−FP⋅dB ‹04-09› Physically, this Work must be considered as destruction or creation depending on whether it goes in or out of the system, respectively, and corresponds to the increase or decrease in the supplier's employment. It remains to be asked what is the creation and/or destruction of Work? Generally speaking, and since we must always rely on experience, that is to say, on the reality of economic life, what is sought is always the increase in the supplier's employment and not that of the consumer. So:  the destruction of Work corresponds to the reduction of the labour to be done,  the creation of Work corresponds to the increase in labour to be done. This can be represented as follows: Labour to be done Work  destruction",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 529,
+        "quotation": "529 The relation 25-09 becomes : T d⋅dgTM = −T c⋅ dgMT g MT2 or : T c Td = −g MT2⋅ dgTM dgMT ‹25-11› or : T c Td = dgTM d( 1 gMT) ‹25-12› Wealth - GDP It is essential to provide here some clarifications regarding the definition of wealth considered in this essay and the definition of GDP. It is generally accepted that a nation's GDP reflects its wealth, although it is well known that this index is far from representing reality, but “In want of thrushes, one eats blackbirds!”. In fact, in the study wealth always and only emanates from the fall in prices during the elaboration of the Products, which implies a fall in the GDP, which is incompatible with its definition. For this reason, GDP has never been considered in the essay and should not be. In the context of this study, when it comes to wealth, reference should never be made, implicitly or explicitly, to this index, but only to the meaning derived from it. As a reminder, the example cited in the study is given below only if the percentage of situations where the Core Law (Law of the market) is verified is included : • between 80 and 100% ⇒ the system is very rich,",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 537,
+        "quotation": "537 The quantity of Money created or destroyed is therefore directly proportional to the variation du in the value of the unit u. However, the number n of units is the one involved in the transformation considered and only it. It is obvious that in a complex system, such as a country, it is necessary to take into account the total number N of units that exist there. The relationship becomes : (∂M )n ,N = n N ⋅∂u ‹26-01› But we also know the 04-08 relationship giving the Money according to price, namely : dM = −F A⋅dp It is therefore possible to write : n N ⋅∂u = −FA ⋅∂p which gives: ∂u = −F A⋅N n ⋅∂p ‹26-02› This relationship (26-02) and the relationship 04-08 show that : • if the price decreases, wealth increases, • if the price goes up, wealth decreases. Obviously, if the price does not vary, wealth remains constant. All human decisions and actions can therefore be discerned according to the variation in price. However, since GDP is a function of economic transactions, it increases when the price of Products (goods or services) rises, which is now shown to be harmful. While the current method of calculating GDP cannot be contested, the conclusion drawn from it (the higher the GDP, the richer the system) is totally wrong, incorrect and aberrant as regards the measurement of the wealth of an economic system. In conclusion, any action : • which causes a decrease in price is beneficial to society by enriching it, • which leads to an increase in price is detrimental to society by impoverishing it.",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 559,
+        "quotation": "559 T=1 2⋅cP⋅ω 2 and : M=−1 2⋅c A⋅ϖ 2 We also know that the higher the speed of production ω of a product, the slower the speed of price formation ϖ. It is therefore possible to write : M=−K⋅1 2 ⋅cP⋅ω 2 As the two speeds are not necessarily equal, it is necessary to introduce a proportionality coefficient which is also a function of the units used for their respective measurement. This relationship is only valid for one product, the coefficient K being variablefor each. However, it is possible to design an average speed ωm . Then, the more Products are taken into account, the more the coefficient K can be considered constant, and therefore only a function of the units used. At the macroeconomic level, it is therefore possible to pose : M CREATED=K⋅T SPENT We know that GDP is the sum of all the Money spent in a system for each Money→Work transformation, but also that all this Money had to be previously created in each Work→Money transformation. Consequently, it is possible to write: GDP=K⋅T SPENT However, we also know that in any system, there is energy consumed that does not participate in the creation of Money, i.e, in the enrichment of the system. If we take into account this energy, which only influences the slope of the right-hand side, the relationship becomes : GDP=K⋅W consumed which shows the absolute coupling of the GDP of a system to the energy consumed in it.",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      }
+    ],
+    "status": [
+      "CONDITIONAL_OPERATIONALIZATION",
+      "EMPIRICALLY_QUALIFIED",
+      "REJECTS_PROXY_RESTRICTION_ONLY"
+    ],
+    "external_compatibility": "EMPIRICALLY_QUALIFIED",
+    "distinctive_explanation": "REJECTS_PROXY_RESTRICTION_ONLY"
+  },
+  {
+    "id": "SYN-12",
+    "approved_statement": "Le cas électrique compare des frontières de coût et de prix non appariées. Il ne permet ni transmission structurelle, ni marge totale, ni mesure de Utility ou Money; les données négatives sont conservées.",
+    "sources": [
+      "analysis/34_micro_empirical_results.md"
+    ],
+    "source_pages": [
+      363,
+      364,
+      349,
+      400
+    ],
+    "claims": [
+      "CPC-0001",
+      "CPC-0009",
+      "CPC-0018",
+      "CPC-0019",
+      "CPC-0020",
+      "CPC-0021",
+      "CPC-0029",
+      "CPC-0034",
+      "CPC-0055",
+      "CPC-0056",
+      "CPC-0057",
+      "CPC-0058",
+      "CPC-0059",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079",
+      "CPC-0097",
+      "CPC-0098",
+      "CPC-0105",
+      "CPC-0110",
+      "CPC-0113",
+      "CPC-0118",
+      "CPC-0120"
+    ],
+    "questions": [
+      "RQ-05.01",
+      "RQ-05.03",
+      "RQ-12.02"
+    ],
+    "conditions": "Scénario, référent, frontière et hypothèses formelles conservés; pas causalité par compatibilité.",
+    "passages": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 363,
+        "quotation": "363 80 × 4 5 = 64 $ Therefore, the Transformer's added Value decreases by : 80 −64 = 16 $  4. Step 4 ⇒ Transformer-Acquirer Tractation (Isopheles Transformation) As assumed above, when negotiating with the Acquirer, the Transformer increases the price by 24 Dollars. As a result, the price increases to : 64 + 24 = 88 $ Therefore, the added Value of the Transformer increases by : 88 −64 = 24 $  It is worth noting : 1. assuming that the Seller and the Transformer make the same profit before and after the increase in productivity, isopheles 2 and 4 transformations don’t cause any creation of Money and therefore don’t determine absolutely any increase in the purchasing power of consumers. This is perfectly logical since, during these stages (2 and 4), neither the Seller nor the Transformer performs any Work. The table below lists the different transformations of the cycle. It can be seen that the Buyer's wealth (purchasing power) increases by 28 Dollars. This sum is composed of a first part due to the Seller for 12 Dollars and a second part due to the Transformer for 16 Dollars. Price before productivity gains Price after productivity gains Difference Step 1 Step 2 Step 3",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 364,
+        "quotation": "364 Step 4 2. for the Buyer, the price of the Product changes from 217 to 189 Dollars, i.e. a gain of 28 Dollars without the need for him to done any Work. 3. the agents who performed a Work (Seller and Transformer) are always paid the same per unit of time, bearing in mind that the term “agent” here covers any economic entity. In fact, after an increase in productivity, for 1 hour of Work : • the Seller's production is ⇒ 6/5=1.20copies • the production of the Transformer is ⇒ 5/4=1,25copies or the respective hourly wages of : • for the Seller ⇒ 60×1,20=72$ • for the Transformer ⇒ 64×1,25=80$ as it was originally. Cycle Money→Work ⇒ Introduction Understanding the different transformations of this cycle is greatly facilitated by considering that consumers (Buyer vis-à-vis the Transformer and Transformer vis-à-vis the Seller) order the Product from suppliers. It is therefore necessary to observe : • firstly, the Acquirer placing the order for a Product developed by the Transformer, • then, the Transformer shall place the order for the Product to be manufactured with the Seller. Consequently, the four steps can be presented schematically as follows: 1. Buyer-Transformer tractation during which the Buyer transfers Work to be done that the Transformer will have to done,",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 349,
+        "quotation": "349 so: M = r P⋅U P (f ) −rP⋅UP (i) −γTM + 1 or: M = rP 1 −γTM ⋅( U P(f ) −UP(i )) ‹12-04› If the Final Utility is equal to the Initial Utility, there is no creation (or destruction) of Money. This is the case of an intermediary who increases the price of a Product without increasing its Utility. The Cash that the consumer gives to this intermediary and which corresponds to this increase is only transferred. Transformation T→M ⇒ Isoaxial Money Always starting from the 04-10 relationship, namely : dM = F A⋅dp we know that in an isoaxial transformation the price is, by definition constant, so it's possible to write: dp = 0 ⇒ dM = 0 and consequently: M = 0 ‹12-05› Leaving aside the constant, that is to say that in this type of transformation, there is no creation of Money realized. Transformation T→M ⇒ Isobaric Money We always ask the relation 04-10, namely :",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 400,
+        "quotation": "400 Instead of considering the influences of variations in the causes of the transformations (variations in Avarice and Laziness), it's possible to present the influences of variations in their consequences (variations in Money and Work), as below, which is certainly much more telling. Hyp. RECIPROCAL INFLUENCES OF CHANGES IN CONSEQUENCES Causes Consumer Supplier 1 Money   ⇕ ⇕ Work   2 Money   ⇕ ⇕ Work   3 Work   ⇕ ⇕ Money   From the tables showing the reciprocal influences (causes and consequences), and as already mentioned several times, it can be said that if the Avarice (A) of the consumer increases, then the heat (Q) also increases. Indeed, if the consumer's Avarice (A) increases, the supplier's Laziness (dP) decreases, therefore his Work (dT) increases and, consequently, the energy needed for this increase. This corresponds well to reality. In fact, the greater the Work done by the supplier, the lower the price, which leads to a surplus of Money for the consumer and, therefore, allows him to acquire more and/or higher quality Products. • AN ECONOMIC DECISION IS NEVER NEUTRAL, NEITHER ON WORK NOR ON MONEY. ◦ it acts inversely for an actor, ◦ it acts identically for two actors.",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      }
+    ],
+    "status": [
+      "BOUNDARIES_UNMATCHED",
+      "NOT_IDENTIFIABLE",
+      "NON_DISCRIMINATING"
+    ],
+    "external_compatibility": "NOT_IDENTIFIABLE",
+    "distinctive_explanation": "NON_DISCRIMINATING"
+  },
+  {
+    "id": "SYN-13",
+    "approved_statement": "Le pont entre travail physique et Economic Work comporte une condition sur Utility. Toute énergie consommée ne devient donc pas automatiquement richesse; les pertes et usages non productifs restent distincts.",
+    "sources": [
+      "analysis/global_corpus_pass/concept_consistency.md"
+    ],
+    "source_pages": [
+      159,
+      203,
+      455,
+      456
+    ],
+    "claims": [
+      "CPC-0003",
+      "CPC-0017",
+      "CPC-0039",
+      "CPC-0042",
+      "CPC-0067",
+      "CPC-0108",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119",
+      "CPC-0122"
+    ],
+    "questions": [
+      "RQ-09.02",
+      "RQ-09.03"
+    ],
+    "conditions": "Scénario, référent, frontière et hypothèses formelles conservés; pas causalité par compatibilité.",
+    "passages": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 159,
+        "quotation": "159 created a difference in Utility for certain individuals whose vanity had to be satisfied. Work and Money were required for their manufacture and sale (purchase by the consumer). Whenever there was a difference in Utility, an Economic Work was obligatorily spent. In this case all economic phenomena are ipso facto related to the principles and law set out above. Moreover, any economic Work provided necessarily requires the expenditure of mechanical work. But the reciprocal isn't true: not all mechanical work generates economic Work. In fact, as already stipulated, mechanical work can only generate economic Work if it provides a difference in Utility. For example, rubbish collection, ironing, cleaning, etc. are also dependent on these laws because their realization causes a difference in Utility between before and after the provision of Work. But if the performance of the service in question doesn't result in a difference in Utility, then mechanical work doesn't entail either Economic Work or Money. Thus, a policeman or a religious person doesn't bring about any change in Utility despite the fact that they are very useful in terms of security or otherwise and can render eminent services to society. It was stated at the beginning of the chapter that for two million years, for any Product (good or service) manufactured or moved, the process has always been the same and this process isn't about to be reformed. Of course, while Work is very old, the Money has only been around for three or four millennia. But it's only indispensable in exchange and has only been invented because more and more different Products (goods or services) have been produced and each of them in greater numbers. Our very distant forefathers had no Money because they made their tools for themselves. The same is true today, where any individual doesn’t use a Money when growing cabbage or lettuce for his own needs. As our distant ancestors had contacts, tribal or otherwise, more and more frequent exchanges appeared and a certain and obligatory reciprocity came into being in the form of barter. As already stated above (paragraph “Exchange - Barter - change”) Work and Money are two fundamentally equivalent entities. Consequently, during an exchange, any Product can be considered as Cash and Cash as a Product, the laws must be absolutely general and apply in the same way and without exclusivity, to any component of Nature. Also from this paragraph onwards, it should be noted that : in a barter, only the respective Utilities of the exchanged Products count,",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 203,
+        "quotation": "203 Work – Money Moreover, the Work spent will, of course, be a function of the intensity of the Force that will cause the variation in the amount of labour done. The greater the amount of labour done per unit of time, i.e. the faster it's done, the greater the Work will be. As said before, this Work is performed by an individual as well as by an animal or even by a motor or machine. The Work, as defined below, represents the sum of the different Works done by all possible means. Therefore, the total Work may increase and that of Human may decrease, because that performed by machines is increased in greater proportions. This is the case that generally occurs at the present time, i.e. since the industrial revolution. Consequently, by posing : T = Work for economic purposes it's possible to write : dT=FP⋅dl ‹04-07› It must be made clear here that the Work defined by this relationship must be considered as economically useful Work and not taken, either in its usual and vehicular sense or as in the physical science. This Work is that which is capable of causing a variation in the speed of execution of the labour and, consequently, a possible variation in the speed of price formation. This is why this Work is designated by the letter T and not by the letter W (Work), as these two Works don’t have the same analytical definition (in spite of their similarity) and, above all, don’t have the same value. In fact, in reality, physical Work (W) is always superior to the economically useful Work (T) discussed in this study (chapter “Link Heat Consumed → Money Created”). It can be seen that if the speed of execution of the labour doesn't vary, the Work done (Economic Work) is zero, which may puzzle more than one reader not accustomed to mechanical reasoning, although the physical work can be very important. In fact, it's quite logical to say that if the labour is carried out at a constant speed, there is no additional Work done to accelerate this speed, i.e. to increase productivity. Consequently, an agent (individual in the strict sense of the word, association, administration, company, etc.) who doesn't accelerate the speed at which the Product is produced (increase in productivity) doesn't work in the economic sense of the word, since it cannot cause any reduction in the price of the product and therefore no increase in the purchasing power of consumers, i.e. it cannot generate any increase in monetary wealth (Rm). However, it's clear that",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 455,
+        "quotation": "455 • for thermodynamics ⇒ dU = dQ + dW = 0 • for the Economy ⇒ dE = dT + dM = 0 Transformation Work→Money By definition, we know that in Economics, for the transformation Work→Money(T→M) the return is given by the relation : ηTM = − M created Tused or: Tused = − M created ηTM and that in Physics, for the transformation heat→work (Q→W), it's given by the relation: ηQW = − W created Q consumed But: Tused = −W created Indeed, the mechanical work created (Wcreated) (negative since it leaves the physical system) corresponds well to the useful economic Work (Tutilized) (positive since it enters the economic system) which is going to be used by an individual, an employee, a slave, an animal, a motor or a machine to increase productivity (ω). However, it must be kept in mind that this mechanical work (Wcreated) is only economically useful if it allows the Utility of a Product to evolve. If this condition isn't fulfilled, the Economic Work spent (Tutilized) is absolutely nil and therefore the Money created (Mcreated) too. This is why the contract worker, mentioned above in the chapter “Mechanics of Exchange”, can spend a lot of mechanical work (W) and therefore be exhausted at the end of her service without having carried out any Economic Work (T). Therefore :",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 456,
+        "quotation": "456 ηQW = Tused Qconsumed hence : ηQW = − M created Qconsumed ⋅ηTM or : Qconsumed = − M created ηQW ⋅ηTM By generalizing this relationship to a compound system: • of an energy chain, for example, with thermal, mechanical, electrical, chemical, etc. elements, • various economic components, and taking into account the returns of each constituent, the relationship can be written : Q consumed = −M created⋅ 1 ∏ηi (QW ) ⏟ PHYSICS ⋅ 1 ∏ηi (TM ) ⏟ ECONOMY ‹19-01› We know that the Money created leaves the economic system under study, and therefore is negative. Consequently, this relation demonstrates that the more Money is created, the more thermal energy is spent for this production, or : • the richer the Buyer, the more energy the Transformer has used. This is perfectly logical and seems to correspond well to reality. However, this relationship only expresses the energy in the form of heat needed to create Money. Therefore, the heat destroyed may be higher, but this supplement is economically useless since it doesn't create Money, although it may be useful for other purposes (as previously mentioned).",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      }
+    ],
+    "status": [
+      "EXPLICIT_CONDITIONAL_CONSTRUCTION",
+      "ECONOMIC_BRIDGE_NOT_MEASURED",
+      "POTENTIALLY_DISTINCT_CLASSIFICATION"
+    ],
+    "external_compatibility": "ECONOMIC_BRIDGE_NOT_MEASURED",
+    "distinctive_explanation": "POTENTIALLY_DISTINCT_CLASSIFICATION"
+  },
+  {
+    "id": "SYN-14",
+    "approved_statement": "La chaîne vers les dommages est présente; l’auteur revendique une dégradation systématique p112 et formule des généralisations p454/537. La conclusion défendable reste conditionnelle: allocation marginale et fonction de dommage non identifiées.",
+    "sources": [
+      "analysis/global_corpus_pass/root_question_chain.md",
+      "remediation/traceability_repairs.md"
+    ],
+    "source_pages": [
+      112,
+      159,
+      271,
+      454,
+      460,
+      534,
+      537,
+      523
+    ],
+    "claims": [
+      "CPC-0001",
+      "CPC-0003",
+      "CPC-0008",
+      "CPC-0015",
+      "CPC-0016",
+      "CPC-0018",
+      "CPC-0031",
+      "CPC-0053",
+      "CPC-0068",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079",
+      "CPC-0084",
+      "CPC-0099",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119",
+      "CPC-0120",
+      "CPC-0127"
+    ],
+    "questions": [
+      "RQ-10.01",
+      "RQ-10.02",
+      "RQ-11.01",
+      "RQ-11.02",
+      "RQ-11.03",
+      "RQ-12.01"
+    ],
+    "conditions": "Scénario, référent, frontière et hypothèses formelles conservés; pas causalité par compatibilité.",
+    "passages": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 112,
+        "quotation": "112 exothermic reaction and in Economics to provoke the reaction increasing the Utility as much as possible, which could possibly be called \"exophelic\" (from the Greek opheleia = utility). Experience shows that in all cases, Transformers seek to obtain maximum Value added and to achieve this goal, they develop Products with the greatest possible variation in Utility between the purchase of raw materials and the sale of the Product. As a general rule, it should be noted that :  for a mixture, the name of each element is stipulated (mixture of sulphur and oxygen, mixture of screws and nuts, mixture of blades and handles, ...),  for a reaction, a new name is used which includes the name of the different elements (sulphur dioxide, bolt, knife, ...). Flows – Transformations This study sticks to the facts and doesn’t concern itself in any way with its applications, i.e. it only seeks to uncover the laws that govern economic exchanges. Consequently, it doesn't concern itself in any way with knowing whether these laws are good or bad, favourable or detrimental to the Human Being, identical to physics where a theory is always indifferent to human nature. As already stated, she shows that :  all monetary wealth comes only from the transformation of Work into Money, Work itself coming from the transformation of heat, Therefore, there is necessarily at least a relationship between the Money created and the amount of heat used. An analytical relationship that may play this role of association is proposed in the chapter “Link heat consumed - money created”. Furthermore, it's reasonable to assume that their respective variation is of the same sign. This is in line with ecology, which isn't the aim of this study. However, it's possible to present that :  these transformations systematically degrade the environment,  these degradations are more than proportional to the square of the speed of the transformations,  these transformations cannot be infinite.",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 159,
+        "quotation": "159 created a difference in Utility for certain individuals whose vanity had to be satisfied. Work and Money were required for their manufacture and sale (purchase by the consumer). Whenever there was a difference in Utility, an Economic Work was obligatorily spent. In this case all economic phenomena are ipso facto related to the principles and law set out above. Moreover, any economic Work provided necessarily requires the expenditure of mechanical work. But the reciprocal isn't true: not all mechanical work generates economic Work. In fact, as already stipulated, mechanical work can only generate economic Work if it provides a difference in Utility. For example, rubbish collection, ironing, cleaning, etc. are also dependent on these laws because their realization causes a difference in Utility between before and after the provision of Work. But if the performance of the service in question doesn't result in a difference in Utility, then mechanical work doesn't entail either Economic Work or Money. Thus, a policeman or a religious person doesn't bring about any change in Utility despite the fact that they are very useful in terms of security or otherwise and can render eminent services to society. It was stated at the beginning of the chapter that for two million years, for any Product (good or service) manufactured or moved, the process has always been the same and this process isn't about to be reformed. Of course, while Work is very old, the Money has only been around for three or four millennia. But it's only indispensable in exchange and has only been invented because more and more different Products (goods or services) have been produced and each of them in greater numbers. Our very distant forefathers had no Money because they made their tools for themselves. The same is true today, where any individual doesn’t use a Money when growing cabbage or lettuce for his own needs. As our distant ancestors had contacts, tribal or otherwise, more and more frequent exchanges appeared and a certain and obligatory reciprocity came into being in the form of barter. As already stated above (paragraph “Exchange - Barter - change”) Work and Money are two fundamentally equivalent entities. Consequently, during an exchange, any Product can be considered as Cash and Cash as a Product, the laws must be absolutely general and apply in the same way and without exclusivity, to any component of Nature. Also from this paragraph onwards, it should be noted that : in a barter, only the respective Utilities of the exchanged Products count,",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 271,
+        "quotation": "271 2. agents who are in the “work market” and who can be sorted according to the 3 cases defined by the sign of the Utility variation, namely :  agents who create Money by increasing the Utility of the Product for the Acquirer (dU P>0) but decreasing for the Transformer (dU P<0) with a decrease in price (dp<0) and who are the only creators of monetary wealth in the strict sense,  agents that don’t create or destroy Money, leaving the Utility of the Product unchanged for the Acquirer ( dU P=0 for the Transformer) with no change in price ( dp=0),  Money shredders that reduce the Product's Utility for the Acquirer (dU P>0 for the Transformer) with an increase in price (dp>0). Extensive lists of examples can be provided. It is a matter of taking any agent (as previously defined) and determining the direction of evolution of the Utility of the Product that it develops. 1. an employee who manufactures tyres is a creator of Money because it's quite obvious that he increases for the motorist the Utility of the starting rubber mass. The same applies to a truck driver who transports tyres from the factory to a wholesaler and another truck driver who links this wholesaler to retailers. So : dU P ( Transformer: −tyre manufacturer −transporter ) <0 or : dU P ( Buyer: −Motorist)>0 This example is shown in Figure 07-03a, 2. a wholesaler and a retailer, are neither creators nor destroyers of Money, as they don’t develop the Utility of tyres and don’t transport them. In fact, they don’t spend any Work (energy) neither to transform the Product nor to move it, that is to say that : dU P ( Transformer −tyre Wholesaler −retailer ) =0 or : dU P ( Buyer −Motorist)=0",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 454,
+        "quotation": "454 2.19 Link heat consumption to money created ABSTRACT: This chapter presents a link between the wealth produced (money cre- ated) and the energy consumed for this production. The relation exposed shows well, in accordance with reality, that these two characteristics are proportionally linked, naturally subject to the respective yields of all physical and economic transforma- tions. It confirms the fact that the “developed” countries require a very important consumption of energy, in particular fossil fuels, and thus contribute strongly to the current environmental degradations. In conclusion, all economic policies focused on the continuity of development and growth can only lead to harmful consequences. Of course, these policies carried out rationally and under certain conditions by the use of “renewable energies”, are able to reduce or limit these effects but without eliminating them. General It was pointed out (chapter “Prolegomena”, paragraph “Reductionism”) that in Economics, just like in Physics, it was possible to use the technique of reductionism in order to facilitate the understanding of phenomena and in particular economic exchanges. Therefore, what follows is subject to this approach, but without being redhibitory as to its sincerity and rigour. When any consumer goes to fetch his morning croissant, it's not forbidden, for the sake of simplification, to consider the baker and this consumer as an isolated system, without contact with the outside world, since the exchange (Product for Cash - Work for Money) only takes place between these two people. It is the same when the baker acquires his flour from his miller and similarly between the miller and the agricultural cooperative supplying him with grain, etc. The same can be said for an exchange between a merchant and an importer of toys both located in the same country. But it's also possible to extend the concept of a closed system between this importer and a manufacturer outside that country, since only the exchange, which has absolutely no geographical character, is considered and is always limited to two economic agents. On the other hand, by looking at all of France's imports and exports, coming and going everywhere, it's no longer possible to treat France and, for example, Argentina as a closed system. Consequently, if we consider isolated systems, both physical and economic, the respective variations in their internal Energy are nil, namely :",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 460,
+        "quotation": "460 this quasi-gratuity of mechanical energy that explains the development of mobility in general. It isn't the purpose of this note to detail the impact of the very low cost of energy. However, it's possible to show that it promotes and catalyses : • long-distance transport of goods (maritime, air, road, etc.), • the movement of people (distance from the suburbs, weekends, holidays, etc.), • etc. If the unit prices of fuel and human energy were equal, then for every 1 Dollar of extra Money (wealth) created, 1,000 times more would have to be spent on fossil fuel. This calculation shows in the most obvious and explicit way the reason why the standard of living has risen sharply over the last two centuries, i.e. since the industrial revolution. However, it also shows the underlying certainty that this development will come to a halt in the longer or shorter term. Consequently, an inverse, i.e. regressive, variation will inevitably occur, which can only take one of two forms: • either, a slow and progressive deceleration, • or, a rapid and violent slowdown. However, the first hypothesis can be programmed and controlled to avoid economic, social, health, etc. clashes, while the second doesn't. Knowing that losses increase faster than productivity, the final output of an economic system increases more slowly than productivity itself. This remark therefore highlights the increasing consumption of fuels induced by the acceleration of manufacturing processes, and consequently its inevitable increasingly intense impact on the environment. Note 2 Historical analysis shows that, in general, the more “advanced” a society is, the more the ratio between the number of productive people (performing economic work) and the number of unproductive people (performing only labour) tends to decrease. The reason for this is the increasing divergence between the price of energy and the price of manpower. Indeed, by posing : pR = cost price of the Product pQ = cost of thermal energy expended (heat = Q) pS = cost of manpower used (remuneration + charges = S) C = China",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 534,
+        "quotation": "534 can participate in the development of a society, but wholesalers and traders who do not modify the Products they handle are totally unable to make any contribution. Of course, this does not in any way preclude strictly internal modifications to the economic system envisaged, but its overall characteristics will remain absolutely unchanged. Thus, if one element of the system becomes richer, another will become inexorably poorer because the total wealth of the system will remain constant. However, it is undeniable that a society becomes more complex over time, until it declines. This complexification leads to a decrease in the ratio between the number of components that can increase wealth and the number that cannot. At present, at least in the rich “occidental” countries, the importance of the primary and secondary sectors is diminishing in favour of the tertiary sector, which is becoming preponderant, if not overwhelming. However, the first two are the only ones likely to increase wealth because they are the only ones to provide a difference in the Utility of Manufactured Products, a contrario, of the tertiary sector which generally does not allow it and therefore cannot generate any wealth. All this is perfectly examined, studied, defined and mastered by mathematical analysis in the body of Development, which stipulates that a difference in Utility must imperatively exist in order to make purchasing power evolve. However, certain components of the tertiary sector such as tourism, sport, conventional as well as electronic commerce, etc., highlighted in the media are totally ineffective in increasing the wealth of a system. For example: • an e-commerce platform is totally incapable of increasing the wealth of the economic system of which it is an element because its actions do not cause any change in the Product (good or service), • purchasing center that only engage in trade, do not provide any Work for economic purposes and therefore do not collaborate in any increase in purchasing power, • Sports organisations (IOC, FIFA, Tour de France, etc.) do not contribute in any way to any increase in the overall wealth of a society, • etc. Consequently, all these structures can only become richer at the expense of their suppliers, subcontractors, customers, etc., i.e. others. As soon as an economic system is organised, its structure contains elements that do not and cannot participate in the production of monetary wealth. As long",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 537,
+        "quotation": "537 The quantity of Money created or destroyed is therefore directly proportional to the variation du in the value of the unit u. However, the number n of units is the one involved in the transformation considered and only it. It is obvious that in a complex system, such as a country, it is necessary to take into account the total number N of units that exist there. The relationship becomes : (∂M )n ,N = n N ⋅∂u ‹26-01› But we also know the 04-08 relationship giving the Money according to price, namely : dM = −F A⋅dp It is therefore possible to write : n N ⋅∂u = −FA ⋅∂p which gives: ∂u = −F A⋅N n ⋅∂p ‹26-02› This relationship (26-02) and the relationship 04-08 show that : • if the price decreases, wealth increases, • if the price goes up, wealth decreases. Obviously, if the price does not vary, wealth remains constant. All human decisions and actions can therefore be discerned according to the variation in price. However, since GDP is a function of economic transactions, it increases when the price of Products (goods or services) rises, which is now shown to be harmful. While the current method of calculating GDP cannot be contested, the conclusion drawn from it (the higher the GDP, the richer the system) is totally wrong, incorrect and aberrant as regards the measurement of the wealth of an economic system. In conclusion, any action : • which causes a decrease in price is beneficial to society by enriching it, • which leads to an increase in price is detrimental to society by impoverishing it.",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 523,
+        "quotation": "523 2.25 Transformations coefficients ABSTRACT: The entire study was conducted considering the transformation coeffi- cients (gTM, gMT ) as constant, i.e. we assumed that a certain amount of Work provided would always result in the same amount of Money and vice versa. But, a priori, noth- ing allows us to affirm this, because it does not seem to be systematically true. This chapter therefore attempts to show that to ensure a correct, regular, unvaried functioning of an economic system, it is imperative that the constancy of the coeffi- cients be guaranteed. In this case, the different possibilities of evolution are coherent and incoherent in the opposite case (chapter 00 - monetary evolutions). Money and Work – Creation and expenditure We know the relations (05-01, 05-02) of the equivalence principles for each T→M and M→T transformation respectively, namely : M = gTM ⋅T and : T = gMT⋅M Taking into account the cause (index d for spent) and the effect (index c for created), these relations are respectively written : M c = gTM⋅T d and : T c = gMT⋅M d ⇒M d = T c gMT However, the Money spent Md was necessarily created prior to its use. However, the created Money Mc can be hoarded, so : Mc ≥M d or : gTM⋅T d ≥ T c gMT : hence:",
+        "role": "SOURCE_CONTEXT_NOT_AUTOMATIC_ENTAILMENT"
+      }
+    ],
+    "status": [
+      "EXPLICIT_LINKS_WITH_MISSING_CLOSURE",
+      "GENERAL_COMPATIBILITY_NOT_ATTRIBUTION",
+      "SPECIFIC_CAUSAL_EXPLANATION_NOT_IDENTIFIED"
+    ],
+    "external_compatibility": "GENERAL_COMPATIBILITY_NOT_ATTRIBUTION",
+    "distinctive_explanation": "SPECIFIC_CAUSAL_EXPLANATION_NOT_IDENTIFIED"
+  }
+]

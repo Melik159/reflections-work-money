@@ -1,0 +1,19 @@
+{
+  "document": "Reflections_PierreCampergue.pdf",
+  "sha256": "7981eca40bca1c5ce54d96b3c840eda34d0e7d01fdc89fe9748c3c047c6f3827",
+  "method": "Human visual inspection of PDF rendering; manual transcription, not extracted text",
+  "pages_inspected": [171,173,177,531,532],
+  "checks": [
+    {"page":171,"region":"bottom definitions","observation":"Constant Money refers to constant unit; Current Money to variable unit."},
+    {"page":173,"region":"bottom formula","observation":"u=1/n followed by Constant Money; inconsistent with page171 terminology and integration constant omitted."},
+    {"page":177,"region":"possibility4 formula","observation":"u=constant followed by Current Money; label inconsistent with page171."},
+    {"page":531,"region":"upper T→M table,2a2","columns":["n","u","Td","gTM","Mc","P"],"directions":["UP","DOWN","UP","DOWN","DOWN","CONSTANT"]},
+    {"page":532,"region":"2a2 T→M row","columns":["Td","gTM","Mc"],"directions":["CONSTANT","DOWN","DOWN"],"issue":"Td differs from page531."},
+    {"page":531,"region":"lower M→T table,2a2","columns":["n","u","Md","gMT","Tc","A"],"directions":["UP","DOWN","CONSTANT","DOWN","DOWN","CONSTANT"]},
+    {"page":531,"region":"lower M→T table,2b2","columns":["n","u","Md","gMT","Tc","A"],"directions":["DOWN","UP","UP","DOWN","CONSTANT","DOWN"]}
+  ],
+  "analyst_corrections": [
+    {"old":"Md decreases in lower2a2","new":"Md constant","reason":"Second enlarged inspection; original first draft misread arrow."},
+    {"old":"n increases in lower2b2","new":"n decreases","reason":"Second enlarged inspection; not a manuscript contradiction."}
+  ]
+}

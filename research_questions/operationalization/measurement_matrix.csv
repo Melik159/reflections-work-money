@@ -1,0 +1,27 @@
+id,name,measurement_level,measurement_status,candidate_proxy_level,necessary_assumptions
+VAR-01,T,1,NOT_OPERATIONALIZED,NOT_ASSIGNED,cp constant et unité de tâche; calibration indépendante de Force et cp absente
+VAR-02,dT,1,NOT_OPERATIONALIZED,NOT_ASSIGNED,dT=0 ne signifie pas T=0; terme 0.5 ω² dcp si cp varie dans la primitive
+VAR-03,cp,1,NOT_OPERATIONALIZED,NOT_ASSIGNED,Ni cp ni Force étalonnés indépendamment; cP distinct de cA
+VAR-04,ω,3,IDENTIFIABLE_WITH_ASSUMPTIONS,NOT_ASSIGNED,"Frontière de tâche, échelle, qualité et version du procédé fixes; pas PIB/heure automatiquement"
+VAR-05,Force / Forces,1,NOT_OPERATIONALIZED,NOT_ASSIGNED,Une Force économique ne se mesure pas en newtons par renommage
+VAR-06,Utility,1,NOT_OPERATIONALIZED,2,p109 reconnaît absence de mesure; ordinal ne donne pas rapports cardinaux; qualité technique insuffisante
+VAR-07,Money,1,AMBIGUOUS,NOT_ASSIGNED,Ne pas assimiler à dépôts ni USD; les scénarios monétaires ont des conditions distinctes
+VAR-08,Cash,3,DIRECTLY_OBSERVABLE,NOT_ASSIGNED,Éviter double compte support/solde; cartes et billets ne forment pas un agrégat homogène
+VAR-09,n,3,DIRECTLY_OBSERVABLE,NOT_ASSIGNED,"Fixer monnaie, agents, instruments, consolidation et date; aucune nouvelle mesure collectée"
+VAR-10,u,2,PROXY_ONLY,NOT_ASSIGNED,Choix du panier et distribution; ne constitue pas mesure de u universel
+VAR-11,K,1,AMBIGUOUS,NOT_ASSIGNED,"Ratio estimable des proxies ≠ K_STRUCTURAL; composition, unités, pertes variables"
+VAR-12,cost,2,PROXY_ONLY,NOT_ASSIGNED,"Coût complet exige capital, travail, réseau, taxes; produit de moyennes ≠ moyenne des produits"
+VAR-13,price,3,DIRECTLY_OBSERVABLE,NOT_ASSIGNED,"Prix moyen EIA est PROXY du prix d’exemplaire, pas mesure individuelle"
+VAR-14,profit,3,DERIVABLE_FROM_OBSERVABLES,NOT_ASSIGNED,Écart prix résidentiel−coût gaz n’est pas profit; distinguer rente et profit économique
+VAR-15,productivity,3,IDENTIFIABLE_WITH_ASSUMPTIONS,NOT_ASSIGNED,"Composition, sous-traitance, qualité et travail des machines; alias de ω non variable indépendante"
+VAR-16,energy,5,DERIVABLE_FROM_OBSERVABLES,NOT_ASSIGNED,Niveau5 pour quantité physique uniquement; primary/final/electricity/exergy non interchangeables
+VAR-17,useful work,3,IDENTIFIABLE_WITH_ASSUMPTIONS,NOT_ASSIGNED,Frontière physique et rendement mesuré; chaleur utile et exergie ne sont pas W mécanique automatiquement
+VAR-18,complexity,1,NOT_OPERATIONALIZED,NOT_ASSIGNED,Même mot plusieurs usages; ne remplace pas cp par un score arbitraire
+VAR-19,labour,3,IDENTIFIABLE_WITH_ASSUMPTIONS,NOT_ASSIGNED,Pas heures de salarié par défaut; pondération de tâches hétérogènes à justifier
+VAR-20,consumer gain,2,PROXY_ONLY,NOT_ASSIGNED,"Ni surplus compensateur, ni revenu observé, ni Money; qualité et consommation différentes"
+VAR-21,wealth,1,NOT_OPERATIONALIZED,NOT_ASSIGNED,Patrimoine net standard ne remplace pas richesse monétaire Campergue
+VAR-22,standard of living,2,PROXY_ONLY,NOT_ASSIGNED,Pas seuil source établi subsistance/abondance; moyenne ignore distribution
+VAR-23,environmental damage,1,NOT_OPERATIONALIZED,2,"Énergie ou matière ne sont pas dommages; exposition, toxicité et horizon nécessaires"
+VAR-24,ca,1,NOT_OPERATIONALIZED,NOT_ASSIGNED,cp≠ca explicitement; normalisation commune non acquise
+VAR-25,ϖ,3,IDENTIFIABLE_WITH_ASSUMPTIONS,NOT_ASSIGNED,Prix annuel d’autres exemplaires n’est pas cette trajectoire
+VAR-26,η,1,NOT_OPERATIONALIZED,NOT_ASSIGNED,Rapports Utility et signes requis; optimum conditionné par géométrie

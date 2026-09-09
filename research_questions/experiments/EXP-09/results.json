@@ -1,0 +1,79 @@
+{
+  "status": [
+    "FORMALLY_SUPPORTED",
+    "FORMALLY_QUALIFIED",
+    "NOT_IDENTIFIABLE"
+  ],
+  "omega": [
+    "1",
+    "3",
+    "2",
+    "1"
+  ],
+  "state_A": [
+    "1",
+    "9",
+    "4",
+    "1"
+  ],
+  "transfer_C": [
+    "8",
+    "-5",
+    "-3"
+  ],
+  "reserve_B": [
+    "100",
+    "92",
+    "97",
+    "100"
+  ],
+  "signed_accumulation": "0",
+  "positive_accumulation": "8",
+  "variable_cp": {
+    "delta_state": "4",
+    "omega_only_integral": "0",
+    "missing_term": "0.5 omega² dcp"
+  },
+  "models": [
+    {
+      "id": "MODEL-A",
+      "interpretation": "state E",
+      "compatible_pages": [
+        207
+      ],
+      "qualified_pages": [
+        203,
+        471
+      ],
+      "condition": "T on p471 must mean ΔE; work zero at constant speed means transfer, not state"
+    },
+    {
+      "id": "MODEL-B",
+      "interpretation": "potential reserve R",
+      "compatible_pages": [
+        471,
+        472
+      ],
+      "qualified_pages": [
+        207
+      ],
+      "condition": "R+E fixed in isolated balance; R is not the same 0.5 cp omega²; accumulated positive work is another quantity"
+    },
+    {
+      "id": "MODEL-C",
+      "interpretation": "interval transfer T[a,b]",
+      "compatible_pages": [
+        203,
+        471
+      ],
+      "qualified_pages": [
+        207
+      ],
+      "condition": "T[a,b]=E(b)−E(a); p207 primitive requires chosen reference. Intervals telescope; same units, different object"
+    }
+  ],
+  "units": "[T]=[cp][labour]²/[time]²; dT and reserve share this formal unit, not calibrated joules",
+  "independent_T_measured": false,
+  "diagnostic": "REQUIRES_INDEPENDENT_T",
+  "source_rewritten": false
+}

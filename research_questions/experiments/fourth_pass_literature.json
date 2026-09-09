@@ -1,0 +1,32 @@
+[
+  {
+    "id": "EXP-BIB-01",
+    "title": "JCGM VIM3 1.26 Ordinal quantity",
+    "year": 2012,
+    "url": "https://jcgm.bipm.org/vim/en/1.26.html",
+    "status": "VERIFIED",
+    "accessed": "2026-09-08",
+    "role": "MEASUREMENT_METHOD",
+    "experiments": [
+      "EXP-02"
+    ],
+    "scope": "Entry and notes read, not all linked resources",
+    "result": "Ordinal order distinct from numerical algebraic operations",
+    "limit": "Does not operationalize Campergue Utility"
+  },
+  {
+    "id": "BIB-0018",
+    "title": "OpenStax Calculus Volume 3, 6.3 Conservative Vector Fields",
+    "url": "https://openstax.org/books/calculus-volume-3/pages/6-3-conservative-vector-fields",
+    "status": "VERIFIED",
+    "accessed": "2026-09-08",
+    "role": "MEASUREMENT_METHOD",
+    "experiments": [
+      "EXP-09"
+    ],
+    "previously_registered": true,
+    "scope": "Selected section reconsulted",
+    "result": "Potential and endpoint difference distinction",
+    "limit": "Does not establish existence of economic potential"
+  }
+]

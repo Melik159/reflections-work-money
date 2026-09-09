@@ -1,0 +1,225 @@
+[
+  {
+    "id": "CC-01",
+    "title": "Séparer paiement, transformation et destination du gain",
+    "classifications": [
+      "DISTINCT_DECOMPOSITION",
+      "REFORMULATION"
+    ],
+    "claims": [
+      "CPC-0015",
+      "CPC-0022",
+      "CPC-0046"
+    ],
+    "questions": [
+      "RQ-02.02",
+      "RQ-06.04",
+      "RQ-10.01"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      159,
+      271,
+      363,
+      468,
+      479,
+      490,
+      507,
+      523
+    ],
+    "literature": [
+      "BIB-0001",
+      "BIB-0003",
+      "CBIB-04",
+      "CBIB-10"
+    ],
+    "difference": "Classement conditionnel et audit de frontières; les comptes usuels et le surplus représentent déjà plusieurs de ces distinctions.",
+    "limit": "Pas de chiffre nouveau; supériorité pédagogique ou décisionnelle non testée.",
+    "current_evidence": "Séparation production/paiement/destinataire utile, mais périmètre sectoriel variable et emploi du gain non automatique; pas supériorité empirique établie.",
+    "global_review_status": "QUALIFIED_BY_FULL_CORPUS",
+    "source_artifacts": [
+      "research_questions/contribution/candidate_contributions.md",
+      "research_questions/contribution/global_corpus_review.json"
+    ],
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "originality_asserted": false,
+    "different_testable_prediction_established": false,
+    "new_measurement_established": false,
+    "conceptual_clarity": "MODERATE",
+    "measurement_value": "POSSIBLE",
+    "empirical_value": "UNDETERMINED",
+    "decision_value": "POSSIBLE",
+    "internal_coherence": "QUALIFIED",
+    "external_compatibility": "PARTIAL_PARALLEL",
+    "distinctive_explanation": "DISTINCT_DECOMPOSITION",
+    "status": "POTENTIALLY_DISTINCT",
+    "confidence": "MEDIUM",
+    "epistemic_kind": "REVIEW_INTERPRETATION"
+  },
+  {
+    "id": "CC-02",
+    "title": "Tâche, vitesse et Work additionnel",
+    "classifications": [
+      "DISTINCT_FORMAL_RESTRICTION",
+      "NOVELTY_UNRESOLVED"
+    ],
+    "claims": [
+      "CPC-0040",
+      "CPC-0051",
+      "CPC-0052"
+    ],
+    "questions": [
+      "RQ-03.02",
+      "RQ-03.03"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      203,
+      207,
+      208,
+      341,
+      355,
+      467,
+      470,
+      501,
+      547
+    ],
+    "literature": [
+      "BIB-0002",
+      "CBIB-11",
+      "BIB-0017"
+    ],
+    "difference": "cp et primitive quadratique ne sont pas simplement des heures, de la TFP ou de la valeur ajoutée.",
+    "limit": "T indépendant manque; primitive peut être une définition plutôt qu’une prédiction.",
+    "current_evidence": "Distinction tâche/vitesse/variation conservée, mais T niveau/transfert et force constante/nulle exigent conventions locales; restriction formelle non mesure nouvelle.",
+    "global_review_status": "QUALIFIED_BY_FULL_CORPUS",
+    "source_artifacts": [
+      "research_questions/contribution/candidate_contributions.md",
+      "research_questions/contribution/global_corpus_review.json"
+    ],
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "originality_asserted": false,
+    "different_testable_prediction_established": false,
+    "new_measurement_established": false,
+    "conceptual_clarity": "POSSIBLE",
+    "measurement_value": "UNDETERMINED",
+    "empirical_value": "UNDETERMINED",
+    "decision_value": "UNDETERMINED",
+    "internal_coherence": "QUALIFIED",
+    "external_compatibility": "PARTIAL_PARALLEL",
+    "distinctive_explanation": "DISTINCT_FORMAL_RESTRICTION",
+    "status": "POTENTIALLY_DISTINCT",
+    "confidence": "MEDIUM",
+    "epistemic_kind": "REVIEW_INTERPRETATION"
+  },
+  {
+    "id": "CC-03",
+    "title": "Exigences d’échelle de Utility",
+    "classifications": [
+      "DISTINCT_FORMAL_RESTRICTION",
+      "NOVELTY_UNRESOLVED"
+    ],
+    "claims": [
+      "CPC-0100",
+      "CPC-0104",
+      "CPC-0113"
+    ],
+    "questions": [
+      "RQ-05.03"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      111,
+      132,
+      249,
+      285,
+      301,
+      377,
+      392,
+      425,
+      511,
+      520
+    ],
+    "literature": [
+      "CBIB-03",
+      "CBIB-07",
+      "MET-BIB-02"
+    ],
+    "difference": "Diagnostic de l’étude: mêmes préférences ordinales, rendements de ratios différents; ce n’est pas une invention historique attribuée à Campergue.",
+    "limit": "Exigence métrologique connue; peut constituer un obstacle plutôt qu’un gain empirique.",
+    "current_evidence": "Diagnostic des exigences d’échelle renforcé par égalités interpersonnelles, dérivées et ratios. Renforcement de notre analyse métrologique, pas de nouveauté historique ni des lois du corpus.",
+    "global_review_status": "STRENGTHENED",
+    "source_artifacts": [
+      "research_questions/contribution/candidate_contributions.md",
+      "research_questions/contribution/global_corpus_review.json"
+    ],
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "originality_asserted": false,
+    "different_testable_prediction_established": false,
+    "new_measurement_established": false,
+    "conceptual_clarity": "MODERATE",
+    "measurement_value": "POSSIBLE",
+    "empirical_value": "UNDETERMINED",
+    "decision_value": "UNDETERMINED",
+    "internal_coherence": "QUALIFIED",
+    "external_compatibility": "PARTIAL_PARALLEL",
+    "distinctive_explanation": "DISTINCT_FORMAL_RESTRICTION",
+    "status": "POTENTIALLY_DISTINCT",
+    "confidence": "MEDIUM",
+    "epistemic_kind": "REVIEW_INTERPRETATION"
+  },
+  {
+    "id": "CC-04",
+    "title": "Condition Utility dans le pont physique",
+    "classifications": [
+      "DISTINCT_DECOMPOSITION",
+      "NOVELTY_UNRESOLVED"
+    ],
+    "claims": [
+      "CPC-0017",
+      "CPC-0039"
+    ],
+    "questions": [
+      "RQ-09.02",
+      "RQ-09.03"
+    ],
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "source_pages": [
+      72,
+      159,
+      271,
+      454,
+      455,
+      456,
+      479,
+      559
+    ],
+    "literature": [
+      "CBIB-02",
+      "BIB-0013",
+      "BIB-0021"
+    ],
+    "difference": "Le travail physique utile reçoit une condition économique supplémentaire; ni chaque joule ni toute efficacité physique ne crée Money.",
+    "limit": "Utility/T sans étalon; aucune observable exclusive démontrée.",
+    "current_evidence": "Critère Utility du travail physique utile confirmé; énergie totale/PIB ajoute un changement de frontière. Aucune conversion indépendante T/Utility trouvée.",
+    "global_review_status": "QUALIFIED_BY_FULL_CORPUS",
+    "source_artifacts": [
+      "research_questions/contribution/candidate_contributions.md",
+      "research_questions/contribution/global_corpus_review.json"
+    ],
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "originality_asserted": false,
+    "different_testable_prediction_established": false,
+    "new_measurement_established": false,
+    "conceptual_clarity": "POSSIBLE",
+    "measurement_value": "UNDETERMINED",
+    "empirical_value": "UNDETERMINED",
+    "decision_value": "UNDETERMINED",
+    "internal_coherence": "QUALIFIED",
+    "external_compatibility": "PARTIAL_PARALLEL",
+    "distinctive_explanation": "DISTINCT_DECOMPOSITION",
+    "status": "POTENTIALLY_DISTINCT",
+    "confidence": "MEDIUM",
+    "epistemic_kind": "REVIEW_INTERPRETATION"
+  }
+]

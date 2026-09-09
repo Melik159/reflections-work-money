@@ -1,0 +1,54 @@
+[
+  {
+    "path": "analysis/global_corpus_pass/blocks/p001_p025.md",
+    "sha256": "3a8c9009375478430608206c1fb38a5f58bde98b34a711ddda20699f2ae6834b"
+  },
+  {
+    "path": "analysis/global_corpus_pass/blocks/p026_p050.md",
+    "sha256": "edec7698369be8a5062ebe02229255a9bb6bf77e15cbf5b08b317f7ff26f1ae4"
+  },
+  {
+    "path": "analysis/global_corpus_pass/blocks/p051_p075.md",
+    "sha256": "7e51184da0adb3097f8a2ec5b881c323b190fdbd597d5554da5d8aa43ad9b37d"
+  },
+  {
+    "path": "analysis/global_corpus_pass/blocks/p076_p100.md",
+    "sha256": "485601df4a2c57c9db5fa4b77027e2f5e17993e13a801e1becf59425006bcf5c"
+  },
+  {
+    "path": "analysis/global_corpus_pass/blocks/p101_p125.md",
+    "sha256": "9891b823dc277d8b34ef0b918577753ba66d84f46c086865f7ecd5bdfc57ba20"
+  },
+  {
+    "path": "analysis/global_corpus_pass/blocks/p126_p150.md",
+    "sha256": "16c5ab09d7a33d72efa55cca0ede9f399e61015012a07006069dd338a0f417ba"
+  },
+  {
+    "path": "analysis/global_corpus_pass/blocks/p151_p175.md",
+    "sha256": "d416a55f54faa26f01b5cd7beb94f5f3cabfd98387eebaa6ec88f1e1294b8bdd"
+  },
+  {
+    "path": "analysis/global_corpus_pass/blocks/p176_p200.md",
+    "sha256": "0cb874322bfe1e56a356060a81125930ef7dfee28ac5225b0ae5cca3284fe434"
+  },
+  {
+    "path": "analysis/global_corpus_pass/page_matrix.csv",
+    "sha256": "b34a6023374ffb627b9908ed5ccf8bb344d7ebc76032ed87afa0232490b78e5f"
+  },
+  {
+    "path": "analysis/global_corpus_pass/manifest.json",
+    "sha256": "a8ee99c43359c5f23f74a9daba809577ce6f9509e309fd0ed863f0f96bd4a094"
+  },
+  {
+    "path": "analysis/data/page_coverage.json",
+    "sha256": "768338531df4c83e43a3c14adc46ea044fbbb3d3c88b0435aee419832380c602"
+  },
+  {
+    "path": "analysis/data/phase2_progress.json",
+    "sha256": "66c9355acd87231040cc2f6fe2e6473425e5b90de3dacd7bf4d30a289e61d25d"
+  },
+  {
+    "path": "analysis/global_corpus_pass/final_report.md",
+    "sha256": "477901b1ace5c54be27c5d78c69185c08ba2144f08fa93109c4583f31d517a41"
+  }
+]

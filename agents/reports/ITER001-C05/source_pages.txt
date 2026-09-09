@@ -1,0 +1,206 @@
+PDF PAGE 203
+203
+Work – Money
+Moreover, the Work spent will, of course, be a function of the intensity of the
+Force that will cause the variation in the amount of labour done. The greater the
+amount of labour done per unit of time, i.e. the faster it's done, the greater the
+Work will be. As said before, this Work is performed by an individual as well as
+by an animal or even by a motor or machine. The Work, as defined below,
+represents the sum of the different Works done by all possible means. Therefore,
+the total Work may increase and that of Human may decrease, because that
+performed by machines is increased in greater proportions. This is the case that
+generally occurs at the present time, i.e. since the industrial revolution.
+Consequently, by posing :
+T = Work for economic purposes
+it's possible to write :
+dT=FP⋅dl
+‹04-07›
+It must be made clear here that the Work defined by this relationship must be
+considered as economically useful Work and not taken, either in its usual and
+vehicular sense or as in the physical science. This Work is that which is capable of
+causing a variation in the speed of execution of the labour and, consequently, a
+possible variation in the speed of price formation. This is why this Work is
+designated by the letter T and not by the letter W (Work), as these two Works
+don’t have the same analytical definition (in spite of their similarity) and, above
+all, don’t have the same value. In fact, in reality, physical Work (W) is always
+superior to the economically useful Work (T) discussed in this study (chapter
+“Link Heat Consumed → Money Created”).
+It can be seen that if the speed of execution of the labour doesn't vary, the Work
+done (Economic Work) is zero, which may puzzle more than one reader not
+accustomed to mechanical reasoning, although the physical work can be very
+important. In fact, it's quite logical to say that if the labour is carried out at a
+constant speed, there is no additional Work done to accelerate this speed, i.e. to
+increase productivity. Consequently, an agent (individual in the strict sense of the
+word, association, administration, company, etc.) who doesn't accelerate the speed
+at which the Product is produced (increase in productivity) doesn't work in the
+economic sense of the word, since it cannot cause any reduction in the price of
+the product and therefore no increase in the purchasing power of consumers, i.e.
+it cannot generate any increase in monetary wealth (Rm). However, it's clear that
+
+
+PDF PAGE 454
+454
+2.19
+Link heat consumption to money created
+ABSTRACT: This chapter presents a link between the wealth produced (money cre-
+ated) and the energy consumed for this production. The relation exposed shows well,
+in accordance with reality, that these two characteristics are proportionally linked,
+naturally subject to the respective yields of all physical and economic transforma-
+tions. It confirms the fact that the “developed” countries require a very important
+consumption of energy, in particular fossil fuels, and thus contribute strongly to the
+current environmental degradations.
+In conclusion, all economic policies focused on the continuity of development and
+growth can only lead to harmful consequences. Of course, these policies carried out
+rationally and under certain conditions by the use of “renewable energies”, are able
+to reduce or limit these effects but without eliminating them.
+General
+It was pointed out (chapter “Prolegomena”, paragraph “Reductionism”) that in
+Economics, just like in Physics, it was possible to use the technique of
+reductionism in order to facilitate the understanding of phenomena and in
+particular economic exchanges. Therefore, what follows is subject to this
+approach, but without being redhibitory as to its sincerity and rigour.
+When any consumer goes to fetch his morning croissant, it's not forbidden, for
+the sake of simplification, to consider the baker and this consumer as an isolated
+system, without contact with the outside world, since the exchange (Product for
+Cash - Work for Money) only takes place between these two people. It is the same
+when the baker acquires his flour from his miller and similarly between the miller
+and the agricultural cooperative supplying him with grain, etc. The same can be
+said for an exchange between a merchant and an importer of toys both located in
+the same country. But it's also possible to extend the concept of a closed system
+between this importer and a manufacturer outside that country, since only the
+exchange, which has absolutely no geographical character, is considered and is
+always limited to two economic agents. On the other hand, by looking at all of
+France's imports and exports, coming and going everywhere, it's no longer
+possible to treat France and, for example, Argentina as a closed system.
+Consequently, if we consider isolated systems, both physical and economic, the
+respective variations in their internal Energy are nil, namely :
+
+
+PDF PAGE 455
+455
+•
+for thermodynamics 
+⇒ dU = dQ + dW = 0
+•
+for the Economy 
+⇒ dE = dT + dM = 0
+Transformation Work→Money
+By definition, we know that in Economics, for the transformation
+Work→Money(T→M) the return is given by the relation :
+ηTM = −
+M created
+Tused
+or:
+Tused = −
+M created
+ηTM
+and that in Physics, for the transformation heat→work (Q→W), it's given by
+the relation:
+ηQW = −
+W created
+Q consumed
+But:
+Tused = −W created
+Indeed, the mechanical work created (Wcreated) (negative since it leaves the
+physical system) corresponds well to the useful economic Work (Tutilized) (positive
+since it enters the economic system) which is going to be used by an individual, an
+employee, a slave, an animal, a motor or a machine to increase productivity (ω).
+However, it must be kept in mind that this mechanical work (Wcreated) is only
+economically useful if it allows the Utility of a Product to evolve. If this
+condition isn't fulfilled, the Economic Work spent (Tutilized) is absolutely nil and
+therefore the Money created (Mcreated) too. This is why the contract worker,
+mentioned above in the chapter “Mechanics of Exchange”, can spend a lot of
+mechanical work (W) and therefore be exhausted at the end of her service without
+having carried out any Economic Work (T).
+Therefore :
+
+
+PDF PAGE 456
+456
+ηQW =
+Tused
+Qconsumed
+hence :
+ηQW = −
+M created
+Qconsumed ⋅ηTM
+or :
+Qconsumed = −
+M created
+ηQW ⋅ηTM
+By generalizing this relationship to a compound system:
+•
+of an energy chain, for example, with thermal, mechanical, electrical,
+chemical, etc. elements,
+•
+various economic components,
+and taking into account the returns of each constituent, the relationship can be
+written :
+Q consumed = −M created⋅
+1
+∏ηi
+(QW )
+⏟
+PHYSICS
+⋅
+1
+∏ηi
+(TM )
+⏟
+ECONOMY
+‹19-01›
+We know that the Money created leaves the economic system under study, and
+therefore is negative. Consequently, this relation demonstrates that the more
+Money is created, the more thermal energy is spent for this production, or :
+•
+the richer the Buyer, the more energy the Transformer has used.
+This is perfectly logical and seems to correspond well to reality.
+However, this relationship only expresses the energy in the form of heat
+needed to create Money. Therefore, the heat destroyed may be higher, but this
+supplement is economically useless since it doesn't create Money, although it may
+be useful for other purposes (as previously mentioned).
+
+
+PDF PAGE 466
+466
+In this note, which is outside the realm of physics, there is neither quantity of
+movement nor energy in the mechanical sense. Here, similar characteristics have
+been determined as follows (chapter “Mechanics of Exchanges”):
+•
+in the transformation Work→Money :
+◦
+quantity of motion 
+⇔ purchasing power
+◦
+total energy 
+⇔ total Money
+•
+in the transformation Money→Work :
+◦
+amount of movement
+ ⇔ employment
+◦
+total energy 
+⇔ total Work
+Purchasing power and employment on the one hand, total Money and total
+Work on the other, must remain constant in space and time respectively, i.e. in
+any place and at any time, obviously if nothing else changes.
+Transformation Work→Money
+1.
+Preservation of purchasing power
+ 
+ 
+It has been defined, by Principle, the 04-06 relation linking the Force
+(FA) to the acceleration (γϖ) of the speed (ϖ) of price formation (p),
+namely :
+FA = −c A ⋅γϖ
+or :
+FA = −c A ⋅dϖ
+dt
+that it's possible to write:
+FA ⋅dt = −c A⋅dϖ
+By integrating between two considered instants, that is to say at the
+initial time t1 and at the final time t2, it comes :
+FA ⋅(t2 −t1) = −c A ⋅(ϖt 2 −ϖt 1)
+or :
+FA ⋅(t2 −t1) = −c A ⋅ϖt 2 + c A ⋅ϖ t1

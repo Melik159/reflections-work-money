@@ -1,0 +1,39 @@
+{
+  "id": "ITER001-C07",
+  "task": "ITER001-P0-07",
+  "decision": "QUALIFY",
+  "finding_class": "NEW_SCENARIO",
+  "finding": "Bilan à deux mondes et plusieurs dates: une économie temporairement épargnée puis dépensée n’est comptée qu’une fois; perte de revenu peut compenser le gain de panier.",
+  "claims": [
+    "CPC-0015",
+    "CPC-0084",
+    "CPC-0099",
+    "CPC-0127"
+  ],
+  "questions": [
+    "RQ-10.02",
+    "RQ-07.02"
+  ],
+  "sources": [
+    "agents/reports/ITER001-C07/specialist.md",
+    "agents/reports/ITER001-C07/adversarial.md",
+    "agents/reports/ITER001-C07/evidence.md",
+    "agents/reports/ITER001-C07/results.json",
+    "agents/reports/ITER001-C07/source_pages.txt",
+    "agents/reports/ITER001-C07/provenance.json"
+  ],
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C07/specialist.md",
+    "adversarial": "agents/reports/ITER001-C07/adversarial.md",
+    "evidence": "agents/reports/ITER001-C07/evidence.md"
+  },
+  "candidate_path": "candidate_changes/empirical/ITER001-C07.json",
+  "negative_results": [
+    "NOT_IDENTIFIABLE",
+    "NON_DISCRIMINATING",
+    "REQUIRES_EXOGENOUS_VARIATION"
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "tests": "FORMAL: bilan deux périodes et compensation revenu PASS; double compte20 rejeté; données synthétiques uniquement.",
+  "experiment": "ITER001-EXP-07"
+}

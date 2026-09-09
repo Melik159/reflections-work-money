@@ -1,0 +1,20 @@
+{
+  "rag_benchmark.json": "cf75de180e68243ae2cfbda78af072113063ae3bc1567b2626b3bc96b6aa778a",
+  "cycle.py": "0bfad7f1da337566d7319c46908a9bd54daa08718508fdfa6c11052fc8cf58f9",
+  "coverage_overlay.json": "99d41c626bf00840f9e06372698492453f88a4bd596ac0cf00b34d6400c4ba35",
+  "report.py": "0d4352c700d96f2ea9fd6c0205842b94590323481cc6850b1dafabd88c16015d",
+  "README.md": "2c079aa710613fb0a4c25971729523c0276bbd3106f3816d53c480bfb7d26e16",
+  "LAST_CYCLE.md": "0decf43c0ed14020484468fc01ef8801f91196fd992797256a50932911464366",
+  "calibration_protocols.md": "5cb6b81ac60b8afab6b4fc87ec842667dd6ca77650f598b0044638855a640f7f",
+  "test_state.py": "84c54c541f4a50127dc829fb7279cbf39db08b2409f84fbc023216e05a6723eb",
+  "NEXT_ACTIONS.yaml": "108dca00e3e283d21beb295c6e68b2da7bf29d7dc4e75c578daba735accb80b2",
+  "baseline_guard.json": "acd76b6845a77d05df9ee2432f1d5ac76df31445a5d5304c673a01194b0d2464",
+  "energy_growth_branch.md": "1dfd70a23880a9a20a0c68062b78eaad2f6f98356642761f81387b79d678be09",
+  "DECISIONS.md": "c6b5fc4b0fb676d93212b7edf02ec5b25fe543304622cba15cb5b3effbe6faa6",
+  "iteration_report.md": "1202489993e902cfcbd54a13b7f6f6989c378b4aab809019b078f4320b52bbc3",
+  "coverage_gaps.json": "a7f140085fa48325d9c4e4e2c5460a880cf9168f334472e04b16a968de463bda",
+  "verify.sh": "d8ceb199e0bae7bc69e799cfbbbe9ac3036dcbdcf40cfe3dad45d30bf1faacf7",
+  "COVERAGE_GAPS.md": "3b6e4ebc6aa6d48b39b5de0c0c6e86b54f79af69b14b95699ea4c27935a3bb6f",
+  "RESEARCH_LEDGER.md": "4297be6a9997e357756e005872b0b6c45fd0ca7fae9e69e03dd60feb7ca0c727",
+  "OPEN_CONTRADICTIONS.md": "09d8ca74b74308add93027c22fa93a0bac23d43b4dfb17273f79cd808b687b56"
+}

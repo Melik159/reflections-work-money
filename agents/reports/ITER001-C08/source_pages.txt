@@ -1,0 +1,206 @@
+PDF PAGE 400
+400
+Instead of considering the influences of variations in the causes of the
+transformations (variations in Avarice and Laziness), it's possible to present the
+influences of variations in their consequences (variations in Money and Work), as
+below, which is certainly much more telling.
+Hyp.
+RECIPROCAL INFLUENCES OF CHANGES IN CONSEQUENCES
+Causes
+Consumer
+Supplier
+1
+Money
+
+
+⇕
+⇕
+Work
+
+
+2
+Money
+
+
+⇕
+⇕
+Work
+
+
+3
+Work
+
+
+⇕
+⇕
+Money
+
+
+From the tables showing the reciprocal influences (causes and consequences),
+and as already mentioned several times, it can be said that if the Avarice (A) of
+the consumer increases, then the heat (Q) also increases. Indeed, if the consumer's
+Avarice (A) increases, the supplier's Laziness (dP) decreases, therefore his Work
+(dT) increases and, consequently, the energy needed for this increase. This
+corresponds well to reality. In fact, the greater the Work done by the supplier, the
+lower the price, which leads to a surplus of Money for the consumer and,
+therefore, allows him to acquire more and/or higher quality Products.
+•
+AN ECONOMIC DECISION IS NEVER NEUTRAL,
+NEITHER ON WORK NOR ON MONEY.
+◦
+it acts inversely for an actor,
+◦
+it acts identically for two actors.
+
+
+PDF PAGE 454
+454
+2.19
+Link heat consumption to money created
+ABSTRACT: This chapter presents a link between the wealth produced (money cre-
+ated) and the energy consumed for this production. The relation exposed shows well,
+in accordance with reality, that these two characteristics are proportionally linked,
+naturally subject to the respective yields of all physical and economic transforma-
+tions. It confirms the fact that the “developed” countries require a very important
+consumption of energy, in particular fossil fuels, and thus contribute strongly to the
+current environmental degradations.
+In conclusion, all economic policies focused on the continuity of development and
+growth can only lead to harmful consequences. Of course, these policies carried out
+rationally and under certain conditions by the use of “renewable energies”, are able
+to reduce or limit these effects but without eliminating them.
+General
+It was pointed out (chapter “Prolegomena”, paragraph “Reductionism”) that in
+Economics, just like in Physics, it was possible to use the technique of
+reductionism in order to facilitate the understanding of phenomena and in
+particular economic exchanges. Therefore, what follows is subject to this
+approach, but without being redhibitory as to its sincerity and rigour.
+When any consumer goes to fetch his morning croissant, it's not forbidden, for
+the sake of simplification, to consider the baker and this consumer as an isolated
+system, without contact with the outside world, since the exchange (Product for
+Cash - Work for Money) only takes place between these two people. It is the same
+when the baker acquires his flour from his miller and similarly between the miller
+and the agricultural cooperative supplying him with grain, etc. The same can be
+said for an exchange between a merchant and an importer of toys both located in
+the same country. But it's also possible to extend the concept of a closed system
+between this importer and a manufacturer outside that country, since only the
+exchange, which has absolutely no geographical character, is considered and is
+always limited to two economic agents. On the other hand, by looking at all of
+France's imports and exports, coming and going everywhere, it's no longer
+possible to treat France and, for example, Argentina as a closed system.
+Consequently, if we consider isolated systems, both physical and economic, the
+respective variations in their internal Energy are nil, namely :
+
+
+PDF PAGE 459
+459
+amount of heat used. If productivity is high, this implies that the time taken to
+form the price is short. In fact, the time taken to change the price from the
+purchase price to the selling price is obviously equal to the manufacturing time.
+Therefore, the greater the speed (ω) of manufacture, the greater the speed (ϖ)
+of price formation (always caeteris paribus).
+Note 1
+We know from experience that the average efficiency of a common internal
+combustion engine is about (0.30). We have seen earlier that the overall
+efficiency of any economic system cannot exceed (0.34). It is therefore possible to
+admit that the latter efficiency is, in practice, less than or equal to (0.30).
+Consequently, in daily reality, the final yield between the enrichment of a system
+represented by the Money created (M) and the thermal energy (Q) necessary for
+this creation must be, except in very special cases, at most 10%. The actual yield
+must in the majority of cases be well below this value, i.e. around a few percent,
+if not less. Knowing now the relation (19-01) connecting Economy to Physics, it's
+therefore possible to make a comparison between the energy price of a litre of
+fuel and that of human energy.
+We know that a litre of petroleum fuel gives off thermal energy during its
+combustion that is approximately equal to 10 kW/h. Knowing also that an
+individual develops in everyday life a mechanical energy of less than 0.2 kW/h,
+we can therefore write :
+Energy of a litre of fuel ≈ 50 Mechanical energy of a Human
+Taking into account the final yield between the Money created and the total
+energy spent (relation 19-01), which can reasonably be assumed to be equal to
+(0.05) (which is relatively high), we can ask :
+Energy 1 litre of fuel ≈ 50 Human energy / 0.05
+either :
+Energy 1 litre of fuel ≈ 1 000 Human energy
+This calculation, taking into account the maximum overall yield (0.34), could
+have been carried out with the optimal yield (0.58), which would have changed
+absolutely nothing in the reasoning and very little in terms of the final result. It is
+
+
+PDF PAGE 460
+460
+this quasi-gratuity of mechanical energy that explains the development of
+mobility in general. It isn't the purpose of this note to detail the impact of the very
+low cost of energy. However, it's possible to show that it promotes and catalyses :
+•
+long-distance transport of goods (maritime, air, road, etc.),
+•
+the movement of people (distance from the suburbs, weekends, holidays,
+etc.),
+•
+etc.
+If the unit prices of fuel and human energy were equal, then for every 1 Dollar
+of extra Money (wealth) created, 1,000 times more would have to be spent on
+fossil fuel. This calculation shows in the most obvious and explicit way the reason
+why the standard of living has risen sharply over the last two centuries, i.e. since
+the industrial revolution. However, it also shows the underlying certainty that this
+development will come to a halt in the longer or shorter term. Consequently, an
+inverse, i.e. regressive, variation will inevitably occur, which can only take one of
+two forms:
+•
+either, a slow and progressive deceleration,
+•
+or, a rapid and violent slowdown.
+However, the first hypothesis can be programmed and controlled to avoid
+economic, social, health, etc. clashes, while the second doesn't. Knowing that
+losses increase faster than productivity, the final output of an economic system
+increases more slowly than productivity itself. This remark therefore highlights
+the increasing consumption of fuels induced by the acceleration of manufacturing
+processes, and consequently its inevitable increasingly intense impact on the
+environment.
+Note 2
+Historical analysis shows that, in general, the more “advanced” a society is, the
+more the ratio between the number of productive people (performing economic
+work) and the number of unproductive people (performing only labour) tends to
+decrease. The reason for this is the increasing divergence between the price of
+energy and the price of manpower. Indeed, by posing :
+pR = cost price of the Product
+pQ = cost of thermal energy expended (heat = Q)
+pS = cost of manpower used (remuneration + charges = S)
+C = China
+
+
+PDF PAGE 523
+523
+2.25
+ Transformations coefficients
+ABSTRACT: The entire study was conducted considering the transformation coeffi-
+cients (gTM, gMT ) as constant, i.e. we assumed that a certain amount of Work provided
+would always result in the same amount of Money and vice versa. But, a priori, noth-
+ing allows us to affirm this, because it does not seem to be systematically true.
+This chapter therefore attempts to show that to ensure a correct, regular, unvaried
+functioning of an economic system, it is imperative that the constancy of the coeffi-
+cients be guaranteed. In this case, the different possibilities of evolution are coherent
+and incoherent in the opposite case (chapter 00 - monetary evolutions).
+Money and Work – Creation and expenditure
+We know the relations (05-01, 05-02) of the equivalence principles for each
+T→M and M→T  transformation respectively, namely :
+M = gTM ⋅T
+and :
+T = gMT⋅M
+Taking into account the cause (index d for spent) and the effect (index c for
+created), these relations are respectively written :
+M c = gTM⋅T d
+and :
+T c = gMT⋅M d
+⇒M d =
+T c
+gMT
+However, the Money spent Md was necessarily created prior to its use.
+However, the created Money Mc  can be hoarded, so :
+Mc ≥M d
+or :
+ gTM⋅T d ≥
+T c
+gMT
+:
+hence:

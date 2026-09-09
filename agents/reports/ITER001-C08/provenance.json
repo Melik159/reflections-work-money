@@ -1,0 +1,50 @@
+{
+  "task": "ITER001-P0-08",
+  "cycle": "ITER001-C08",
+  "stage": "DOCUMENTARY_PREPARATION_ONLY",
+  "reading_attestation": false,
+  "analysis_performed": false,
+  "decision_performed": false,
+  "pages_hint_extracted": [
+    400,
+    454,
+    459,
+    460,
+    523
+  ],
+  "document": "Reflections_PierreCampergue.pdf",
+  "source_type": "SOURCE_CORPUS",
+  "input_sha256": {
+    "Reflections_PierreCampergue.pdf": "7981eca40bca1c5ce54d96b3c840eda34d0e7d01fdc89fe9748c3c047c6f3827",
+    "corpus/extracted/Reflections_PierreCampergue.pages.jsonl": "cc774cf5d62505450b50ba891fbd85d0d57a39750676e6b16459ea1056674239",
+    "rag/index/iterative.json": "91e2acaa1dfd9c0b8da43e067e14470854b908e48005310bac077ddaa2ff271a",
+    "research_state/iteration001/initial_tasks.json": "20c43c7ed94e2031ea42c2316ac2588b4c6a6ad113c381f4c1beffe501ef79f0"
+  },
+  "page_text_sha256": {
+    "400": "a1f98a0b58cd338185dfcde595bac058348890eb2e056b8c7fd92be237520ee1",
+    "454": "9f51e2269408ecf086e664f154485c6963102b7d850f30274201dcf665c81916",
+    "459": "30268d2951635cb5b6e7503e622812bb24df983bf2ddb75c4d8e1940c857ce95",
+    "460": "b359ad596991851e4a44f5005595f4f165bf6b959bb9b6a900245ba8381a1765",
+    "523": "8cc2250e667b9fdb82e6b74d31404fe96585e8325fb90b73c750a1adfbd29a67"
+  },
+  "source_pages_sha256": "46e92fa7d3e35f6611b1cdd76532c5a874bf613b5df84b68e1c46b47b8f303cd",
+  "retrieval": [
+    {
+      "collection": "SOURCE_CORPUS",
+      "query": "Consommation marginale → énergie / matière Quel seuil de réemploi annule une économie physique directe donnée ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_source.jsonl",
+      "hits": 3
+    },
+    {
+      "collection": "DERIVED_ANALYSIS",
+      "query": "Consommation marginale → énergie / matière Quel seuil de réemploi annule une économie physique directe donnée ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_derived.jsonl",
+      "hits": 3
+    }
+  ],
+  "note": "Extraction intégrale préparée pour lecture ultérieure. Ne constitue ni attestation de lecture ni preuve finale RAG."
+}

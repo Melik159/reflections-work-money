@@ -1,0 +1,82 @@
+[
+  {
+    "old": {
+      "claim_id": "CPC-0005",
+      "source_id": "BIB-0001",
+      "relation": "QUALIFIES",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    "new": {
+      "claim_id": "CPC-0005",
+      "source_id": "BIB-0001",
+      "relation": "QUALIFIES",
+      "scope": "Cash/dépôts ≠ Money. Bilan bancaire ne teste pas compensation de u. Effet réel d’un choc monétaire ne réfute ni redistribution ni inertie déjà admises; il faut distinguer création productive ultérieure, horizon et invariant revendiqué.",
+      "assessment_status": "TARGETED_REVISION",
+      "interpretive": true,
+      "conceptual_translation_required": true
+    },
+    "reason": "L’ancienne contradiction visait une généralisation de l’analyste, pas tous les scénarios effectivement décrits."
+  },
+  {
+    "old": {
+      "claim_id": "CPC-0005",
+      "source_id": "BIB-0005",
+      "relation": "CONTRADICTS",
+      "scope": "Only the stronger inference of unconditional causal monetary neutrality, not the author’s private definition of Money.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    "new": {
+      "claim_id": "CPC-0005",
+      "source_id": "BIB-0005",
+      "relation": "UNCLEAR",
+      "scope": "Cash/dépôts ≠ Money. Bilan bancaire ne teste pas compensation de u. Effet réel d’un choc monétaire ne réfute ni redistribution ni inertie déjà admises; il faut distinguer création productive ultérieure, horizon et invariant revendiqué.",
+      "assessment_status": "TARGETED_REVISION",
+      "interpretive": true,
+      "conceptual_translation_required": true
+    },
+    "reason": "L’ancienne contradiction visait une généralisation de l’analyste, pas tous les scénarios effectivement décrits."
+  },
+  {
+    "old": {
+      "claim_id": "CPC-0012",
+      "source_id": "BIB-0005",
+      "relation": "CONTRADICTS",
+      "scope": "Only the stronger inference of unconditional causal monetary neutrality, not the author’s private definition of Money.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    "new": {
+      "claim_id": "CPC-0012",
+      "source_id": "BIB-0005",
+      "relation": "UNCLEAR",
+      "scope": "Cash/dépôts ≠ Money. Bilan bancaire ne teste pas compensation de u. Effet réel d’un choc monétaire ne réfute ni redistribution ni inertie déjà admises; il faut distinguer création productive ultérieure, horizon et invariant revendiqué.",
+      "assessment_status": "TARGETED_REVISION",
+      "interpretive": true,
+      "conceptual_translation_required": true
+    },
+    "reason": "L’ancienne contradiction visait une généralisation de l’analyste, pas tous les scénarios effectivement décrits."
+  },
+  {
+    "old": {
+      "claim_id": "CPC-0012",
+      "source_id": "BIB-0001",
+      "relation": "QUALIFIES",
+      "scope": "Local conceptual comparison; not validation of the full claim.",
+      "assessment_status": "INITIAL_REVIEW",
+      "interpretive": true
+    },
+    "new": {
+      "claim_id": "CPC-0012",
+      "source_id": "BIB-0001",
+      "relation": "QUALIFIES",
+      "scope": "Cash/dépôts ≠ Money. Bilan bancaire ne teste pas compensation de u. Effet réel d’un choc monétaire ne réfute ni redistribution ni inertie déjà admises; il faut distinguer création productive ultérieure, horizon et invariant revendiqué.",
+      "assessment_status": "TARGETED_REVISION",
+      "interpretive": true,
+      "conceptual_translation_required": true
+    },
+    "reason": "L’ancienne contradiction visait une généralisation de l’analyste, pas tous les scénarios effectivement décrits."
+  }
+]

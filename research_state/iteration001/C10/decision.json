@@ -1,0 +1,37 @@
+{
+  "id": "ITER001-C10",
+  "task": "ITER001-P0-10",
+  "decision": "QUALIFY",
+  "finding_class": "CONFIRMS_EXISTING",
+  "finding": "Contrat de test par sous-énoncé reliant source, type, métrologie, construction/calibration/test et prédiction concurrente; intention méthodologique et réussite restent séparées.",
+  "claims": [
+    "CPC-0003",
+    "CPC-0009",
+    "CPC-0042",
+    "CPC-0068"
+  ],
+  "questions": [
+    "RQ-01.01",
+    "RQ-02.03",
+    "RQ-12.03"
+  ],
+  "sources": [
+    "agents/reports/ITER001-C10/specialist.md",
+    "agents/reports/ITER001-C10/adversarial.md",
+    "agents/reports/ITER001-C10/evidence.md",
+    "agents/reports/ITER001-C10/source_pages.txt",
+    "agents/reports/ITER001-C10/provenance.json"
+  ],
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C10/specialist.md",
+    "adversarial": "agents/reports/ITER001-C10/adversarial.md",
+    "evidence": "agents/reports/ITER001-C10/evidence.md"
+  },
+  "candidate_path": "candidate_changes/questions/ITER001-C10.json",
+  "negative_results": [
+    "NON_DISCRIMINATING"
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "tests": "Aucun nouveau test exécuté; protocole seulement.",
+  "experiment": "ITER001-EXP-10"
+}

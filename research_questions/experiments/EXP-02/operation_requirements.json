@@ -1,0 +1,56 @@
+[
+  {
+    "id": "U-ORDER",
+    "formula": "UP>UA",
+    "source_page": 283,
+    "operation": "ORDER",
+    "ordinal_sufficient": true,
+    "ratio_scale_required": false,
+    "condition": "Common agent/context and common increasing recoding"
+  },
+  {
+    "id": "U-DIFF",
+    "formula": "M=rP(UPf−UPi)/(1−gamma)",
+    "source_page": 349,
+    "operation": "DIFFERENCE",
+    "ordinal_sufficient": false,
+    "ratio_scale_required": false,
+    "condition": "Interval structure; rP covaries; gamma!=1"
+  },
+  {
+    "id": "U-RATIO",
+    "formula": "eta=1−UP2/UP1",
+    "source_page": 386,
+    "operation": "RATIO",
+    "ordinal_sufficient": false,
+    "ratio_scale_required": true,
+    "condition": "Reversible case; UP1 nonzero; meaningful common origin"
+  },
+  {
+    "id": "U-BOUND",
+    "formula": "eta>=1−UP2/UP1",
+    "source_page": 385,
+    "operation": "RATIO",
+    "ordinal_sufficient": false,
+    "ratio_scale_required": true,
+    "condition": "Keep inequality and reference/sign convention"
+  },
+  {
+    "id": "U-LEVEL",
+    "formula": "FA p=rP UP",
+    "source_page": 283,
+    "operation": "LEVEL_PRODUCT",
+    "ordinal_sufficient": false,
+    "ratio_scale_required": true,
+    "condition": "Same multiplicative model, rP fixed across states; inverse scaling of rP under common unit conversion"
+  },
+  {
+    "id": "U-DIFFERENTIAL",
+    "formula": "P dUP",
+    "source_page": 415,
+    "operation": "DIFFERENTIAL",
+    "ordinal_sufficient": false,
+    "ratio_scale_required": false,
+    "condition": "Numerical differentiable coordinate and covariant conjugate coefficient"
+  }
+]

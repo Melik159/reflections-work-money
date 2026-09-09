@@ -1,0 +1,65 @@
+[
+  {
+    "id": "ER-BIB-01",
+    "citation": "BEA, FAQ1197, 2018",
+    "url": "https://www.bea.gov/help/faq/1197",
+    "result": "Définition institutionnelle: valeur ajoutée nette des consommations intermédiaires; somme égale au PIB.",
+    "targets": "CC-01; ER-002",
+    "verification": "VERIFIED_SELECTED_PASSAGES",
+    "limit": "Entrée lue, pas audit complet des comptes."
+  },
+  {
+    "id": "ER-BIB-02",
+    "citation": "JCGM, VIM3 §1.26, 2012",
+    "url": "https://jcgm.bipm.org/vim/en/1.26.html",
+    "result": "Les grandeurs ordinales ne permettent pas les opérations algébriques des quantités à échelle appropriée.",
+    "targets": "CC-03",
+    "verification": "VERIFIED_SELECTED_PASSAGES",
+    "limit": "Entrée métrologique; ne fournit pas une mesure de Utility."
+  },
+  {
+    "id": "ER-BIB-03",
+    "citation": "Ayres & Warr, 2002/70/EPS/CMER, INSEAD working paper",
+    "url": "https://flora.insead.edu/fichiersti_wp/inseadwp2002/2002-70.pdf",
+    "result": "Le passage pp6–7 du PDF décrit déjà énergie/travail utile, coût, prix concurrentiel, demande et rétroactions; distingue corrélation et causalité.",
+    "targets": "CC-04; CC-02",
+    "verification": "VERIFIED_SELECTED_PASSAGES",
+    "limit": "Working paper de 2002, pas substitution au texte publié en 2005; aucun résultat économétrique repris ici."
+  },
+  {
+    "id": "ER-BIB-04",
+    "citation": "Ritchie & Rosado, OWID, méthode de substitution, version historique",
+    "url": "https://archive.ourworldindata.org/20260807-182216/energy-substitution-method.html",
+    "result": "L’équivalence primaire de l’électricité non fossile repose sur une efficacité thermique supposée.",
+    "targets": "ER-006",
+    "verification": "VERIFIED_SELECTED_PASSAGES",
+    "limit": "Méthode consultée; la base interne est épinglée en 2025, non la série actuelle modifiée en 2026."
+  },
+  {
+    "id": "ER-BIB-05",
+    "citation": "Marshall, Principles of Economics, 8e éd., 1920, III.VI",
+    "url": "https://www.econlib.org/library/Marshall/marP.html?chapter_num=15",
+    "result": "Le surplus distingue paiement et bénéfice, avec demande et disposition à payer; ce n’est pas un gain budgétaire fixe identique.",
+    "targets": "CC-01",
+    "verification": "VERIFIED_SELECTED_PASSAGES",
+    "limit": "Section sur surplus lue; pas identité entre surplus et Money."
+  },
+  {
+    "id": "ER-BIB-06",
+    "citation": "BLS, Handbook of Methods, Productivity: Concepts",
+    "url": "https://www.bls.gov/opub/hom/msp/concepts.htm",
+    "result": "Output, heures, composition du travail et inputs sont déjà séparés; les décompositions imposent leurs propres hypothèses.",
+    "targets": "CC-02",
+    "verification": "VERIFIED_SELECTED_PASSAGES",
+    "limit": "Méthode consultée, pas équivalence de T avec TFP."
+  },
+  {
+    "id": "ER-BIB-07",
+    "citation": "McLeay, Radia & Thomas, Money creation in the modern economy, 2014",
+    "url": "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf",
+    "result": "Création de dépôts par crédit et destruction par remboursement sont des opérations de bilan.",
+    "targets": "CC-01",
+    "verification": "VERIFIED_SELECTED_PASSAGES",
+    "limit": "Passages de bilan et remboursement lus; money institutionnel non automatiquement Money Campergue."
+  }
+]

@@ -1,0 +1,433 @@
+[
+  {
+    "id": "CPC-0023",
+    "statement": "Dans un système isolé, la baisse du travail restant à faire compense la hausse de Money créé.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 22,
+      "pages": [
+        22
+      ],
+      "quotation": "the decrease (destruction) of the Work to be done is compensated by the increase (creation) of the Money generated and vice versa",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 22,
+    "quotation": "the decrease (destruction) of the Work to be done is compensated by the increase (creation) of the Money generated and vice versa",
+    "type": "AXIOM",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "remaining",
+      "work",
+      "money",
+      "transformation"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "CORE",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": []
+  },
+  {
+    "id": "CPC-0039",
+    "statement": "Economic Work et Money sont posés comme deux formes d’énergie économique.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 35,
+      "pages": [
+        35
+      ],
+      "quotation": "Economic Work and Money are logically considered two different forms of Economic Energy",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 35,
+    "quotation": "Economic Work and Money are logically considered two different forms of Economic Energy",
+    "type": "ASSUMPTION",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "work",
+      "money",
+      "energy"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "CORE",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": []
+  },
+  {
+    "id": "CPC-0040",
+    "statement": "Le modèle doit compter le travail à effectuer et non le travail déjà effectué.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 35,
+      "pages": [
+        35
+      ],
+      "quotation": "only the Work to be done must be taken into account and not the Work performed.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 35,
+    "quotation": "only the Work to be done must be taken into account and not the Work performed.",
+    "type": "METHODOLOGICAL",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "remaining",
+      "work"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "CORE",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0043",
+    "statement": "Le principe d’équivalence est écrit M=g.T.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 36,
+      "pages": [
+        36
+      ],
+      "quotation": "M=g.T",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 36,
+    "quotation": "M=g.T",
+    "type": "AXIOM",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "money",
+      "work",
+      "coefficient"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "CORE",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": []
+  },
+  {
+    "id": "CPC-0044",
+    "statement": "La constance du coefficient g n’est pas garantie en économie.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 36,
+      "pages": [
+        36
+      ],
+      "quotation": "the transformation coefficient g should be a constant, which isn't necessarily the case in Economics",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 36,
+    "quotation": "the transformation coefficient g should be a constant, which isn't necessarily the case in Economics",
+    "type": "ASSUMPTION",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "coefficient"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0045",
+    "statement": "Le différentiel de Money est défini par dM=-F.dp.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 36,
+      "pages": [
+        36
+      ],
+      "quotation": "dM=−F.dp",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 36,
+    "quotation": "dM=−F.dp",
+    "type": "DEFINITION",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "money",
+      "force",
+      "price"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "CORE",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": []
+  },
+  {
+    "id": "CPC-0052",
+    "statement": "Pour une tâche constante, Work dépend de sa vitesse d’exécution.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 188,
+      "pages": [
+        188
+      ],
+      "quotation": "for a constant labour, the Work varies according to its speed of execution.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 188,
+    "quotation": "for a constant labour, the Work varies according to its speed of execution.",
+    "type": "DEFINITION",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "work",
+      "labour",
+      "productivity",
+      "force"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "CORE",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0054",
+    "statement": "La complexité désigne l’inertie du produit face au changement de vitesse d’exécution de la tâche.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 189,
+      "pages": [
+        189
+      ],
+      "quotation": "the complexity (c) must be understood as the inertia that a Product presents at the change in speed of execution of the labour.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 189,
+    "quotation": "the complexity (c) must be understood as the inertia that a Product presents at the change in speed of execution of the labour.",
+    "type": "DEFINITION",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "complexity",
+      "product",
+      "labour"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0062",
+    "statement": "Le signe des variations d’utilité dépend de la position de l’observateur dans la chaîne.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 193,
+      "pages": [
+        193
+      ],
+      "quotation": "this is a function of the position of the observer",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 193,
+    "quotation": "this is a function of the position of the observer",
+    "type": "CONCEPTUAL",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "agent",
+      "utility"
+    ],
+    "depends_on": [
+      "CPC-0055",
+      "CPC-0061"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0063",
+    "statement": "Les flux entrants du Transformer sont comptés positivement, les sortants négativement.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 194,
+      "pages": [
+        194
+      ],
+      "quotation": "everything that enters the system, that is to say, everything that the Transformer receives will be counted positively;",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 194,
+    "quotation": "everything that enters the system, that is to say, everything that the Transformer receives will be counted positively;",
+    "type": "DEFINITION",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "transformation",
+      "agent"
+    ],
+    "depends_on": [
+      "CPC-0061"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0066",
+    "statement": "Les complexités du Product et de Cash ne sont pas égales malgré une notation c parfois commune.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 202,
+      "pages": [
+        202
+      ],
+      "quotation": "This simplification means that they would be equal, which isn't true."
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 202,
+    "quotation": "This simplification means that they would be equal, which isn't true.",
+    "type": "CONCEPTUAL",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "criticality": "MAJOR",
+    "concepts": [
+      "complexity",
+      "cash",
+      "product"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Précise le domaine du mécanisme travail–Money.",
+    "interpretation_notes": "Lecture dirigée itération 1 ; qualification du claim initial, pas remplacement silencieux.",
+    "confidence_in_reconstruction": 0.9,
+    "money_scenarios": []
+  },
+  {
+    "id": "CPC-0068",
+    "statement": "Les relations de vitesse mesurent les évolutions sans en déterminer les causes.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 198,
+      "pages": [
+        198
+      ],
+      "quotation": "they only give a measure of these speeds and in no case do they stipulate for what reason"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 198,
+    "quotation": "they only give a measure of these speeds and in no case do they stipulate for what reason",
+    "type": "METHODOLOGICAL",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "criticality": "MAJOR",
+    "concepts": [
+      "productivity",
+      "price"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Précise le domaine du mécanisme travail–Money.",
+    "interpretation_notes": "Lecture dirigée itération 1 ; qualification du claim initial, pas remplacement silencieux.",
+    "confidence_in_reconstruction": 0.9,
+    "money_scenarios": []
+  },
+  {
+    "id": "CPC-0121",
+    "statement": "La conservation du Work total est obtenue en compensant la variation cinétique par la variation de Work potentiel restant.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 472,
+      "pages": [
+        472
+      ],
+      "quotation": "which shows the conservation, over time, of the total Work (Work created + Work to be done).",
+      "normalization": "whitespace",
+      "context_before": "472 or again: Et 2 pot + Et 2 cin = Et 1 pot + Et 1 cin Accordingly, it comes: Et 2 tot = Et1 tot ‹20-04› ",
+      "context_after": ""
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 472,
+    "quotation": "which shows the conservation, over time, of the total Work (Work created + Work to be done).",
+    "type": "HYPOTHESIS",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "energy",
+      "work",
+      "money"
+    ],
+    "depends_on": [
+      "CPC-0023"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "conditions": [
+      "Système ceteris paribus; cp fixe dans l’intégration; identification des variations potentielles et cinétiques."
+    ],
+    "chapters": [
+      "CH-09"
+    ],
+    "testability": "CONDITIONAL_NOT_EMPIRICALLY_VALIDATED",
+    "root_question_relevance": "Relier transformations locales, richesse, consommation et environnement sans supposer leur agrégation automatique.",
+    "interpretation_notes": "Reconstruction française; citation anglaise seule verbatim. Voir revue27–29 et cas alternatifs.",
+    "confidence_in_reconstruction": 0.85
+  }
+]

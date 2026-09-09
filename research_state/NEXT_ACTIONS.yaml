@@ -1,0 +1,966 @@
+- id: ITER001-P0-01
+  priority: P0
+  topic: Money / référents / PIB / valeur ajoutée
+  question: Quel registre exclut doubles comptes, frontières et dates incompatibles
+    dans le raccord Money–PIB ?
+  related_rq: &id007
+  - RQ-06.01
+  - RQ-06.03
+  - RQ-09.03
+  related_claims: &id008
+  - CPC-0010
+  - CPC-0016
+  - CPC-0046
+  - CPC-0118
+  roles: &id009
+  - AGENT-CORPUS
+  - AGENT-MONEY
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  pages_hint: &id010
+  - 15
+  - 19
+  - 187
+  - 204
+  - 205
+  - 468
+  - 559
+  data_needed:
+  - Registre transactions/production/paiement et étalon Money
+  status: DONE
+  created_from: Instruction humaine; baseline figée; prolongement des cycles historiques
+    001–003
+  expected_output: Quatre portes admissibilité du raccord
+  completion_scope: Revue et proposition terminées; question scientifique non résolue
+    automatiquement
+  result: research_state/iteration001/C01/decision.json
+- id: ITER001-P0-02
+  priority: P0
+  topic: 'T et cp : mesure indépendante'
+  question: Quelles données minimales rendraient un exposant quadratique réfutable
+    sans réestimer cp sur le test ?
+  related_rq: &id011
+  - RQ-03.03
+  - RQ-04.02
+  related_claims: &id012
+  - CPC-0035
+  - CPC-0052
+  - CPC-0054
+  - CPC-0066
+  roles: &id013
+  - AGENT-CORPUS
+  - AGENT-FORMAL
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  pages_hint: &id014
+  - 32
+  - 189
+  - 201
+  - 202
+  - 203
+  data_needed:
+  - Indication T/Force indépendante et calibration cp
+  status: DONE
+  created_from: Instruction humaine; baseline figée; prolongement des cycles historiques
+    001–003
+  expected_output: Protocole exposant et règle arrêt pour circularité
+  completion_scope: Revue et proposition terminées; question scientifique non résolue
+    automatiquement
+  result: research_state/iteration001/C02/decision.json
+- id: ITER001-P0-03
+  priority: P0
+  topic: 'Utility : échelle et observabilité'
+  question: Une échelle de rapport par agent suffit-elle à un rendement entre agents
+    ?
+  related_rq: &id015
+  - RQ-05.03
+  - RQ-04.04
+  related_claims: &id016
+  - CPC-0055
+  - CPC-0057
+  - CPC-0062
+  - CPC-0104
+  roles: &id017
+  - AGENT-CORPUS
+  - AGENT-FORMAL
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  pages_hint: &id018
+  - 189
+  - 190
+  - 193
+  - 385
+  - 386
+  data_needed:
+  - Ancrage commun et justification des transformations admissibles
+  status: DONE
+  created_from: Instruction humaine; baseline figée; prolongement des cycles historiques
+    001–003
+  expected_output: Condition de raccord interagents, test formel conditionnel
+  completion_scope: Revue et proposition terminées; question scientifique non résolue
+    automatiquement
+  result: research_state/iteration001/C03/decision.json
+- id: ITER001-P0-04
+  priority: P0
+  topic: 'K : stabilité et agrégation'
+  question: Comment décomposer une dérive de K entre recomposition et variation des
+    coefficients ?
+  related_rq: &id019
+  - RQ-08.02
+  - RQ-09.03
+  related_claims: &id020
+  - CPC-0043
+  - CPC-0044
+  - CPC-0109
+  - CPC-0117
+  - CPC-0118
+  roles: &id021
+  - AGENT-CORPUS
+  - AGENT-FORMAL
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  pages_hint: &id022
+  - 36
+  - 526
+  - 558
+  - 559
+  data_needed:
+  - Micro coefficients et poids indépendants, dispersion des vitesses
+  status: DONE
+  created_from: Instruction humaine; baseline figée; prolongement des cycles historiques
+    001–003
+  expected_output: Décomposition exacte conditionnelle avec terme interaction
+  completion_scope: Revue et proposition terminées; question scientifique non résolue
+    automatiquement
+  result: research_state/iteration001/C04/decision.json
+- id: ITER001-P0-05
+  priority: P0
+  topic: Energy → useful work → Economic Work
+  question: Quelles mesures et interventions séparent conversion physique et effet
+    productif économique ?
+  related_rq: &id023
+  - RQ-09.01
+  - RQ-09.02
+  - RQ-12.02
+  related_claims: &id024
+  - CPC-0003
+  - CPC-0017
+  - CPC-0119
+  - CPC-0122
+  roles: &id025
+  - AGENT-CORPUS
+  - AGENT-ENERGY
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  pages_hint: &id026
+  - 203
+  - 454
+  - 455
+  - 456
+  - 466
+  data_needed:
+  - Compteurs primaire/finale, travail utile, T/Utility indépendants
+  status: DONE
+  created_from: Instruction humaine; baseline figée; prolongement des cycles historiques
+    001–003
+  expected_output: Protocole conjoint H1/H2/H3 sans exclusivité
+  completion_scope: Revue et proposition terminées; question scientifique non résolue
+    automatiquement
+  result: research_state/iteration001/C05/decision.json
+- id: ITER001-P0-06
+  priority: P0
+  topic: Innovation → productivity → growth
+  question: Quels mécanismes innovation procédé/produit/diffusion la vitesse à tâche
+    fixe ne suffit-elle pas à identifier ?
+  related_rq: &id027
+  - RQ-04.01
+  - RQ-04.03
+  - RQ-12.01
+  related_claims: &id028
+  - CPC-0017
+  - CPC-0051
+  - CPC-0052
+  - CPC-0106
+  - CPC-0112
+  roles: &id029
+  - AGENT-CORPUS
+  - AGENT-INNOVATION
+  - AGENT-LITERATURE
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  pages_hint: &id030
+  - 187
+  - 188
+  - 198
+  - 212
+  - 490
+  data_needed:
+  - Dates adoption, qualité, coûts complets, intrants et contrôles
+  status: DONE
+  created_from: Instruction humaine; baseline figée; prolongement des cycles historiques
+    001–003
+  expected_output: Comparateur primaire et restriction prédictive explicite
+  completion_scope: Revue et proposition terminées; question scientifique non résolue
+    automatiquement
+  result: research_state/iteration001/C06/decision.json
+- id: ITER001-P0-07
+  priority: P0
+  topic: Destination des gains productifs
+  question: Comment suivre le gain sans compter épargne et dépense ultérieure deux
+    fois ?
+  related_rq: &id031
+  - RQ-10.02
+  - RQ-07.02
+  related_claims: &id032
+  - CPC-0015
+  - CPC-0084
+  - CPC-0099
+  - CPC-0127
+  roles: &id033
+  - AGENT-CORPUS
+  - AGENT-MONEY
+  - AGENT-ENVIRONMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  pages_hint: &id034
+  - 19
+  - 33
+  - 400
+  - 468
+  - 523
+  data_needed:
+  - Panel budgets, actifs, dettes, prix et dates
+  status: DONE
+  created_from: Instruction humaine; baseline figée; prolongement des cycles historiques
+    001–003
+  expected_output: Bilan longitudinal du gain, contrefactuel distinct
+  completion_scope: Revue et proposition terminées; question scientifique non résolue
+    automatiquement
+  result: research_state/iteration001/C07/decision.json
+- id: ITER001-P0-08
+  priority: P0
+  topic: Consommation marginale → énergie / matière
+  question: Quel seuil de réemploi annule une économie physique directe donnée ?
+  related_rq: &id035
+  - RQ-10.02
+  - RQ-11.02
+  - RQ-11.03
+  related_claims: &id036
+  - CPC-0084
+  - CPC-0120
+  - CPC-0127
+  roles: &id037
+  - AGENT-CORPUS
+  - AGENT-ENVIRONMENT
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  pages_hint: &id038
+  - 400
+  - 454
+  - 459
+  - 460
+  - 523
+  data_needed:
+  - Économie physique directe et intensités marginales par destination
+  status: DONE
+  created_from: Instruction humaine; baseline figée; prolongement des cycles historiques
+    001–003
+  expected_output: Seuil conditionnel et protocole empreinte marginale
+  completion_scope: Revue et proposition terminées; question scientifique non résolue
+    automatiquement
+  result: research_state/iteration001/C08/decision.json
+- id: ITER001-P0-09
+  priority: P0
+  topic: Dommages environnementaux
+  question: Quelles observations distinguent pression physique et dommage selon lieu
+    et horizon ?
+  related_rq: &id039
+  - RQ-01.04
+  - RQ-11.01
+  - RQ-11.03
+  related_claims: &id040
+  - CPC-0001
+  - CPC-0031
+  - CPC-0120
+  roles: &id041
+  - AGENT-CORPUS
+  - AGENT-ENVIRONMENT
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  pages_hint: &id042
+  - 68
+  - 69
+  - 112
+  - 460
+  data_needed:
+  - Émissions, exposition, réponse, référence et incertitude
+  status: DONE
+  created_from: Instruction humaine; baseline figée; prolongement des cycles historiques
+    001–003
+  expected_output: Chaîne mesurable pression/exposition/dommage
+  completion_scope: Revue et proposition terminées; question scientifique non résolue
+    automatiquement
+  result: research_state/iteration001/C09/decision.json
+- id: ITER001-P0-10
+  priority: P0
+  topic: Programme épistémologique et cohérence interne
+  question: Quelle règle de recherche distingue identité, hypothèse assumée et restriction
+    réfutable ?
+  related_rq: &id043
+  - RQ-01.01
+  - RQ-02.03
+  - RQ-12.03
+  related_claims: &id044
+  - CPC-0003
+  - CPC-0009
+  - CPC-0042
+  - CPC-0068
+  roles: &id045
+  - AGENT-CORPUS
+  - AGENT-EPISTEMIC
+  - AGENT-FORMAL
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  pages_hint: &id046
+  - 63
+  - 64
+  - 65
+  - 79
+  - 80
+  - 198
+  - 301
+  - 561
+  - 562
+  data_needed:
+  - Conditions et critères de réfutation préspécifiés
+  status: DONE
+  created_from: Instruction humaine; baseline figée; prolongement des cycles historiques
+    001–003
+  expected_output: Matrice METHODOLOGICAL_INTENT / METHODOLOGICAL_SUCCESS
+  completion_scope: Revue et proposition terminées; question scientifique non résolue
+    automatiquement
+  result: research_state/iteration001/C10/decision.json
+- id: TASK-001
+  priority: P0
+  topic: Money / référents
+  question: Quelles unités et frontières distinguent Cash, Money, n, u et pouvoir
+    d’achat ?
+  related_rq:
+  - RQ-06.01
+  - RQ-06.04
+  - RQ-09.03
+  related_claims:
+  - CPC-0002
+  - CPC-0010
+  - CPC-0011
+  - CPC-0013
+  - CPC-0014
+  - CPC-0027
+  - CPC-0028
+  - CPC-0041
+  - CPC-0046
+  - CPC-0050
+  - CPC-0053
+  - CPC-0067
+  - CPC-0085
+  - CPC-0108
+  - CPC-0117
+  - CPC-0118
+  - CPC-0119
+  pages_hint:
+  - 204
+  - 205
+  - 206
+  - 207
+  - 208
+  - 254
+  - 255
+  - 256
+  - 257
+  - 258
+  - 466
+  - 467
+  - 468
+  - 469
+  required_sources:
+  - remediation/money_referents.md
+  - remediation/money_gdp_bridge.md
+  - external_review/02_formal_review.md
+  status: DONE
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+  roles:
+  - AGENT-CORPUS
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  data_needed:
+  - remediation/money_referents.md
+  - remediation/money_gdp_bridge.md
+  - external_review/02_formal_review.md
+  - Voir notes historiques; aucune mesure indépendante ajoutée par clôture documentaire
+  expected_output: Suivi historique à rapprocher des tâches ITER002; ne pas réexécuter
+    automatiquement un cycle DONE
+  queue_scope: HISTORICAL_PRESERVED; sélection future privilégie ITER002, aucun doublon
+    réputé réalisé
+- id: TASK-002
+  priority: P0
+  topic: 'T / cp : changement de l’unité de tâche'
+  question: Quelles conventions réconcilient T, dT, Work restant, travail accumulé
+    et signes ?
+  related_rq: &id004
+  - RQ-03.02
+  - RQ-03.03
+  related_claims: &id005
+  - CPC-0023
+  - CPC-0039
+  - CPC-0040
+  - CPC-0043
+  - CPC-0044
+  - CPC-0045
+  - CPC-0052
+  - CPC-0054
+  - CPC-0062
+  - CPC-0063
+  - CPC-0066
+  - CPC-0068
+  - CPC-0121
+  pages_hint: &id006
+  - 201
+  - 202
+  - 203
+  - 204
+  - 205
+  - 206
+  - 207
+  - 208
+  - 209
+  - 210
+  required_sources:
+  - research_questions/RQ-03.03/conclusion.md
+  - research_questions/experiments/EXP-09/results.md
+  status: DONE
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+  roles:
+  - AGENT-CORPUS
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  data_needed:
+  - research_questions/RQ-03.03/conclusion.md
+  - research_questions/experiments/EXP-09/results.md
+  - Voir notes historiques; aucune mesure indépendante ajoutée par clôture documentaire
+  expected_output: Suivi historique à rapprocher des tâches ITER002; ne pas réexécuter
+    automatiquement un cycle DONE
+  queue_scope: HISTORICAL_PRESERVED; sélection future privilégie ITER002, aucun doublon
+    réputé réalisé
+- id: TASK-003
+  priority: P0
+  topic: 'Utility : comparabilité entre référents'
+  question: Utility peut-elle être mesurée indépendamment du prix et de la quantité
+    pour comparer les scénarios ?
+  related_rq: &id001
+  - RQ-05.03
+  - RQ-08.01
+  - RQ-12.02
+  related_claims: &id002
+  - CPC-0001
+  - CPC-0009
+  - CPC-0018
+  - CPC-0029
+  - CPC-0034
+  - CPC-0037
+  - CPC-0055
+  - CPC-0056
+  - CPC-0057
+  - CPC-0058
+  - CPC-0059
+  - CPC-0076
+  - CPC-0077
+  - CPC-0078
+  - CPC-0079
+  - CPC-0089
+  - CPC-0111
+  - CPC-0113
+  - CPC-0114
+  - CPC-0118
+  - CPC-0120
+  - CPC-0126
+  pages_hint: &id003
+  - 108
+  - 109
+  - 110
+  - 111
+  - 384
+  - 385
+  - 386
+  - 387
+  required_sources:
+  - research_questions/RQ-05.03/conclusion.md
+  - research_questions/experiments/EXP-02/results.md
+  status: DONE
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+  roles:
+  - AGENT-CORPUS
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  data_needed:
+  - research_questions/RQ-05.03/conclusion.md
+  - research_questions/experiments/EXP-02/results.md
+  - Voir notes historiques; aucune mesure indépendante ajoutée par clôture documentaire
+  expected_output: Suivi historique à rapprocher des tâches ITER002; ne pas réexécuter
+    automatiquement un cycle DONE
+  queue_scope: HISTORICAL_PRESERVED; sélection future privilégie ITER002, aucun doublon
+    réputé réalisé
+- id: TASK-004
+  priority: P0
+  topic: K
+  question: Un grand nombre de produits suffit-il à stabiliser K malgré des coefficients
+    et compositions hétérogènes ?
+  related_rq:
+  - RQ-08.02
+  related_claims:
+  - CPC-0043
+  - CPC-0044
+  - CPC-0109
+  - CPC-0116
+  - CPC-0117
+  - CPC-0118
+  pages_hint: []
+  required_sources:
+  - closure_review/final_open_questions.md
+  status: OPEN
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+  roles:
+  - AGENT-CORPUS
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  data_needed:
+  - closure_review/final_open_questions.md
+  - Voir notes historiques; aucune mesure indépendante ajoutée par clôture documentaire
+  expected_output: Suivi historique à rapprocher des tâches ITER002; ne pas réexécuter
+    automatiquement un cycle DONE
+  queue_scope: HISTORICAL_PRESERVED; sélection future privilégie ITER002, aucun doublon
+    réputé réalisé
+- id: TASK-005
+  priority: P0
+  topic: Energy → Economic Work
+  question: Quel critère et quelle conversion séparent énergie consommée, travail
+    physique utile et Work économique ?
+  related_rq:
+  - RQ-09.02
+  related_claims:
+  - CPC-0003
+  - CPC-0017
+  - CPC-0039
+  - CPC-0042
+  - CPC-0067
+  - CPC-0119
+  - CPC-0122
+  pages_hint: []
+  required_sources:
+  - closure_review/final_open_questions.md
+  status: OPEN
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+  roles:
+  - AGENT-CORPUS
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  data_needed:
+  - closure_review/final_open_questions.md
+  - Voir notes historiques; aucune mesure indépendante ajoutée par clôture documentaire
+  expected_output: Suivi historique à rapprocher des tâches ITER002; ne pas réexécuter
+    automatiquement un cycle DONE
+  queue_scope: HISTORICAL_PRESERVED; sélection future privilégie ITER002, aucun doublon
+    réputé réalisé
+- id: TASK-006
+  priority: P0
+  topic: Innovation / productivity
+  question: Quand accélérer une tâche constante réduit-il effectivement les intrants
+    nécessaires par produit ?
+  related_rq:
+  - RQ-04.01
+  related_claims:
+  - CPC-0017
+  - CPC-0019
+  - CPC-0052
+  - CPC-0094
+  - CPC-0110
+  - CPC-0112
+  pages_hint: []
+  required_sources:
+  - closure_review/final_open_questions.md
+  status: OPEN
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+  roles:
+  - AGENT-CORPUS
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  data_needed:
+  - closure_review/final_open_questions.md
+  - Voir notes historiques; aucune mesure indépendante ajoutée par clôture documentaire
+  expected_output: Suivi historique à rapprocher des tâches ITER002; ne pas réexécuter
+    automatiquement un cycle DONE
+  queue_scope: HISTORICAL_PRESERVED; sélection future privilégie ITER002, aucun doublon
+    réputé réalisé
+- id: TASK-007
+  priority: P0
+  topic: Destination des gains
+  question: Quelle fraction du gain est épargnée, dépensée plus tard, consommée davantage
+    ou affectée à la qualité ?
+  related_rq:
+  - RQ-10.02
+  related_claims:
+  - CPC-0008
+  - CPC-0084
+  - CPC-0099
+  - CPC-0127
+  pages_hint: []
+  required_sources:
+  - closure_review/final_open_questions.md
+  status: OPEN
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+  roles:
+  - AGENT-CORPUS
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  data_needed:
+  - closure_review/final_open_questions.md
+  - Voir notes historiques; aucune mesure indépendante ajoutée par clôture documentaire
+  expected_output: Suivi historique à rapprocher des tâches ITER002; ne pas réexécuter
+    automatiquement un cycle DONE
+  queue_scope: HISTORICAL_PRESERVED; sélection future privilégie ITER002, aucun doublon
+    réputé réalisé
+- id: TASK-008
+  priority: P0
+  topic: Dommages environnementaux
+  question: Quels maillons sourcés relient gains productifs, flux physiques et dommages,
+    et lesquels restent manquants ?
+  related_rq:
+  - RQ-11.01
+  related_claims:
+  - CPC-0001
+  - CPC-0018
+  - CPC-0031
+  - CPC-0120
+  - CPC-0127
+  pages_hint: []
+  required_sources:
+  - closure_review/final_open_questions.md
+  status: OPEN
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+  roles:
+  - AGENT-CORPUS
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  data_needed:
+  - closure_review/final_open_questions.md
+  - Voir notes historiques; aucune mesure indépendante ajoutée par clôture documentaire
+  expected_output: Suivi historique à rapprocher des tâches ITER002; ne pas réexécuter
+    automatiquement un cycle DONE
+  queue_scope: HISTORICAL_PRESERVED; sélection future privilégie ITER002, aucun doublon
+    réputé réalisé
+- id: TASK-009
+  priority: P0
+  topic: Programme épistémologique
+  question: Le domaine annoncé couvre-t-il réellement les dommages environnementaux
+    de la question racine ?
+  related_rq:
+  - RQ-01.01
+  related_claims:
+  - CPC-0001
+  - CPC-0003
+  - CPC-0030
+  - CPC-0031
+  - CPC-0042
+  - CPC-0065
+  pages_hint: []
+  required_sources:
+  - closure_review/final_open_questions.md
+  status: OPEN
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+  roles:
+  - AGENT-CORPUS
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  data_needed:
+  - closure_review/final_open_questions.md
+  - Voir notes historiques; aucune mesure indépendante ajoutée par clôture documentaire
+  expected_output: Suivi historique à rapprocher des tâches ITER002; ne pas réexécuter
+    automatiquement un cycle DONE
+  queue_scope: HISTORICAL_PRESERVED; sélection future privilégie ITER002, aucun doublon
+    réputé réalisé
+- id: TASK-010
+  priority: P0
+  topic: Review adversariale transversale
+  question: Quelles observations départageraient Campergue des explications concurrentes
+    à conditions comparables ?
+  related_rq:
+  - RQ-12.01
+  related_claims:
+  - CPC-0003
+  - CPC-0068
+  - CPC-0117
+  - CPC-0118
+  - CPC-0119
+  pages_hint: []
+  required_sources:
+  - closure_review/final_open_questions.md
+  status: OPEN
+  created_from: Consolidated baseline and user initial priorities
+  notes: Priority provisional; no automatic scientific conclusion.
+  roles:
+  - AGENT-CORPUS
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  data_needed:
+  - closure_review/final_open_questions.md
+  - Voir notes historiques; aucune mesure indépendante ajoutée par clôture documentaire
+  expected_output: Suivi historique à rapprocher des tâches ITER002; ne pas réexécuter
+    automatiquement un cycle DONE
+  queue_scope: HISTORICAL_PRESERVED; sélection future privilégie ITER002, aucun doublon
+    réputé réalisé
+- id: TASK-012
+  priority: P0
+  topic: Calibration commune de Utility
+  question: Utility peut-elle être mesurée indépendamment du prix et de la quantité
+    pour comparer les scénarios ?
+  related_rq: *id001
+  related_claims: *id002
+  pages_hint: *id003
+  required_sources:
+  - research_state/calibration_protocols.md
+  status: BLOCKED
+  created_from: CYCLE-003
+  notes: 'NEEDS_DEFINITION: aucune mesure indépendante disponible; tâche scientifique
+    distincte du contrôle documentaire terminé.'
+  roles:
+  - AGENT-CORPUS
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  data_needed:
+  - research_state/calibration_protocols.md
+  - Voir notes historiques; aucune mesure indépendante ajoutée par clôture documentaire
+  expected_output: Suivi historique à rapprocher des tâches ITER002; ne pas réexécuter
+    automatiquement un cycle DONE
+  queue_scope: HISTORICAL_PRESERVED; sélection future privilégie ITER002, aucun doublon
+    réputé réalisé
+- id: TASK-011
+  priority: P0
+  topic: Étalonnage indépendant T/cp
+  question: Quelles conventions réconcilient T, dT, Work restant, travail accumulé
+    et signes ?
+  related_rq: *id004
+  related_claims: *id005
+  pages_hint: *id006
+  required_sources:
+  - research_state/calibration_protocols.md
+  status: BLOCKED
+  created_from: CYCLE-002
+  notes: NEEDS_DEFINITION; ajout de suivi après clôture documentaire du cycle, pas
+    une mesure indépendante.
+  roles:
+  - AGENT-CORPUS
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  data_needed:
+  - research_state/calibration_protocols.md
+  - Voir notes historiques; aucune mesure indépendante ajoutée par clôture documentaire
+  expected_output: Suivi historique à rapprocher des tâches ITER002; ne pas réexécuter
+    automatiquement un cycle DONE
+  queue_scope: HISTORICAL_PRESERVED; sélection future privilégie ITER002, aucun doublon
+    réputé réalisé
+- id: TASK-013
+  priority: P0
+  topic: Retrieval multi-niveaux et embeddings
+  question: La recherche de passages et collections gagne-t-elle sur un jeu tenu à
+    l’écart ?
+  related_rq: []
+  related_claims: []
+  pages_hint: []
+  required_sources:
+  - research_state/rag_benchmark.json
+  status: OPEN
+  created_from: Initial retrieval benchmark
+  notes: Golden set DERIVED_ANALYSIS et multi-niveaux manquant; modèle sémantique
+    local non installé. Ne pas appeler TF-IDF embeddings sémantiques.
+  roles:
+  - AGENT-CORPUS
+  - AGENT-MEASUREMENT
+  - AGENT-ADVERSARIAL
+  - AGENT-EVIDENCE
+  data_needed:
+  - research_state/rag_benchmark.json
+  - Voir notes historiques; aucune mesure indépendante ajoutée par clôture documentaire
+  expected_output: Suivi historique à rapprocher des tâches ITER002; ne pas réexécuter
+    automatiquement un cycle DONE
+  queue_scope: HISTORICAL_PRESERVED; sélection future privilégie ITER002, aucun doublon
+    réputé réalisé
+- priority: P0
+  related_rq: *id007
+  related_claims: *id008
+  roles: *id009
+  pages_hint: *id010
+  id: ITER002-P0-01
+  topic: 'Money : contrat comptable complet'
+  question: Quelles règles datation, stocks, taxes et services rendent exécutable
+    le registre C01 sans assimiler Money à VA ?
+  data_needed:
+  - Sources officielles et fixtures transactions, référents Money séparés
+  status: OPEN
+  created_from: ITER001-C01 — candidature qualifiée; prochain lot non lancé
+  expected_output: Dictionnaire de colonnes et cas limites non exécutés auparavant
+- priority: P0
+  related_rq: *id011
+  related_claims: *id012
+  roles: *id013
+  pages_hint: *id014
+  id: ITER002-P0-02
+  topic: 'T/cp : candidats d’instruments'
+  question: Une indication publiée indépendante de T ou Force satisfait-elle les exigences
+    C02 ?
+  data_needed:
+  - Littérature de mesure et instrumentation, calibration indépendante
+  status: OPEN
+  created_from: ITER001-C02 — candidature qualifiée; prochain lot non lancé
+  expected_output: Liste admissible/rejetée avec raison, même si aucun instrument
+    trouvé
+- priority: P0
+  related_rq: *id015
+  related_claims: *id016
+  roles: *id017
+  pages_hint: *id018
+  id: ITER002-P0-03
+  topic: 'Utility : ancrages et transformations'
+  question: Quel mesurande commun et quelle classe de transformations justifieraient
+    les raccords C03 ?
+  data_needed:
+  - Définition et état commun, texte primaire Utility référencé par auteur
+  status: OPEN
+  created_from: ITER001-C03 — candidature qualifiée; prochain lot non lancé
+  expected_output: Protocole ancres et diagnostic affine/multiplicatif sans présumer
+    comparabilité
+- priority: P0
+  related_rq: *id019
+  related_claims: *id020
+  roles: *id021
+  pages_hint: *id022
+  id: ITER002-P0-04
+  topic: 'K : produits entrants et sortants'
+  question: Comment borner la part non appariée sans attribuer des coefficients fictifs
+    aux nouveaux produits ?
+  data_needed:
+  - Catégories micro appariées, conventions unités et couverture
+  status: OPEN
+  created_from: ITER001-C04 — candidature qualifiée; prochain lot non lancé
+  expected_output: Décomposition avec entrées/sorties et bornes explicites
+- priority: P0
+  related_rq: *id023
+  related_claims: *id024
+  roles: *id025
+  pages_hint: *id026
+  id: ITER002-P0-05
+  topic: 'Énergie : variation exogène exploitable'
+  question: Quel jeu public permettrait de distinguer assignation énergétique, adoption
+    et demande sans effets directs omis ?
+  data_needed:
+  - Documentation dataset, traitement, témoins et interférences
+  status: OPEN
+  created_from: ITER001-C05 — candidature qualifiée; prochain lot non lancé
+  expected_output: Étude faisabilité causalité; rejet si identification insuffisante
+- priority: P0
+  related_rq: *id027
+  related_claims: *id028
+  roles: *id029
+  pages_hint: *id030
+  id: ITER002-P0-06
+  topic: 'Innovation : données et modèles restreints'
+  question: Quels événements procédé/produit/diffusion et modèles primaires peuvent
+    produire des prévisions incompatibles ?
+  data_needed:
+  - Texte complet modèles concurrents, événements adoption et sorties
+  status: OPEN
+  created_from: ITER001-C06 — candidature qualifiée; prochain lot non lancé
+  expected_output: Contrastes numériques conditionnels ou NON_DISCRIMINATING motivé
+- priority: P0
+  related_rq: *id031
+  related_claims: *id032
+  roles: *id033
+  pages_hint: *id034
+  id: ITER002-P0-07
+  topic: 'Gains : contrefactuel budgétaire'
+  question: Quel panel et quel choc permettent de distinguer réallocation du gain
+    et variation simultanée de revenu ?
+  data_needed:
+  - Prix/quantités qualité, flux revenus/actifs/dette et témoins
+  status: OPEN
+  created_from: ITER001-C07 — candidature qualifiée; prochain lot non lancé
+  expected_output: Plan budget contrefactuel avec horizon et données manquantes
+- priority: P0
+  related_rq: *id035
+  related_claims: *id036
+  roles: *id037
+  pages_hint: *id038
+  id: ITER002-P0-08
+  topic: 'Empreinte : intensités marginales et Z'
+  question: Quelles bornes indépendantes sur m_j et Z rendent le signe de ΔF identifiable
+    ?
+  data_needed:
+  - Intensités marginales, investissement, effets producteurs/épargne et horizon
+  status: OPEN
+  created_from: ITER001-C08 — candidature qualifiée; prochain lot non lancé
+  expected_output: Sensibilité Z non encore exécutée et seuils robustes par grandeur
+- priority: P0
+  related_rq: *id039
+  related_claims: *id040
+  roles: *id041
+  pages_hint: *id042
+  id: ITER002-P0-09
+  topic: 'Dommages : sens opérationnel de p112'
+  question: Le carré porte-t-il sur taux, total à durée fixe ou dommage par service,
+    et quelle mesure indépendante peut le tester ?
+  data_needed:
+  - Contexte manuscrit112 et sections liées; source primaire fonction dommage
+  status: OPEN
+  created_from: ITER001-C09 — candidature qualifiée; prochain lot non lancé
+  expected_output: Interprétations concurrentes et protocole; AMBIGUOUS si source
+    ne tranche pas
+- priority: P0
+  related_rq: *id043
+  related_claims: *id044
+  roles: *id045
+  pages_hint: *id046
+  id: ITER002-P0-10
+  topic: 'Contrat : audit de la chaîne de preuves'
+  question: Le contrat C10 détecte-t-il effectivement une confusion construction/test
+    au-delà de la présence des champs ?
+  data_needed:
+  - Dossiers auditables et évaluateur distinct, exemples préspécifiés
+  status: OPEN
+  created_from: ITER001-C10 — candidature qualifiée; prochain lot non lancé
+  expected_output: Audit sémantique traçable sans score de vérité globale

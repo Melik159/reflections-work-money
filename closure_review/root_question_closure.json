@@ -1,0 +1,228 @@
+[
+  {
+    "id": "LINK-01",
+    "link": "Subsistance → énergie bon marché / transformations",
+    "source_pages": [
+      20,
+      29,
+      62,
+      72
+    ],
+    "questions": [
+      "RQ-01.03",
+      "RQ-09.01"
+    ],
+    "claims": [
+      "CPC-0018",
+      "CPC-0029"
+    ],
+    "status": "QUALIFIED",
+    "limit": "Contexte historique proposé, contrefactuel non testé.",
+    "causal_identification": "NOT_IDENTIFIED",
+    "scope": "Textual narrative/qualification, not demonstrated historical causality"
+  },
+  {
+    "id": "LINK-02",
+    "link": "Énergie physique → transformation Utility",
+    "source_pages": [
+      159,
+      455,
+      456
+    ],
+    "questions": [
+      "RQ-09.02"
+    ],
+    "claims": [
+      "CPC-0119"
+    ],
+    "status": "NOT_IDENTIFIED",
+    "limit": "Condition économique explicite, étalon manquant.",
+    "causal_identification": "NOT_IDENTIFIED",
+    "scope": "Textual narrative/qualification, not demonstrated historical causality"
+  },
+  {
+    "id": "LINK-03",
+    "link": "Accélération productive → coût",
+    "source_pages": [
+      19,
+      20,
+      32,
+      196,
+      207,
+      361,
+      364
+    ],
+    "questions": [
+      "RQ-04.01",
+      "RQ-04.02"
+    ],
+    "claims": [
+      "CPC-0096"
+    ],
+    "status": "ROBUST_WITHIN_SCOPE",
+    "limit": "Seulement sous tâche, cp et frontière du modèle local.",
+    "causal_identification": "NOT_IDENTIFIED",
+    "scope": "Conditional local cost arithmetic only"
+  },
+  {
+    "id": "LINK-04",
+    "link": "Coût → prix / partage du gain",
+    "source_pages": [
+      20,
+      21,
+      363,
+      364,
+      504,
+      508
+    ],
+    "questions": [
+      "RQ-05.01"
+    ],
+    "claims": [
+      "CPC-0097",
+      "CPC-0098"
+    ],
+    "status": "QUALIFIED",
+    "limit": "Ni automatique ni total.",
+    "causal_identification": "NOT_IDENTIFIED",
+    "scope": "Textual narrative/qualification, not demonstrated historical causality"
+  },
+  {
+    "id": "LINK-05",
+    "link": "Prix / Utility → pouvoir d’achat / Money",
+    "source_pages": [
+      19,
+      291,
+      349,
+      400
+    ],
+    "questions": [
+      "RQ-06.01",
+      "RQ-05.03"
+    ],
+    "claims": [
+      "CPC-0015",
+      "CPC-0100"
+    ],
+    "status": "NOT_IDENTIFIED",
+    "limit": "Construction de Money non indépendamment mesurée.",
+    "causal_identification": "NOT_IDENTIFIED",
+    "scope": "Textual narrative/qualification, not demonstrated historical causality"
+  },
+  {
+    "id": "LINK-06",
+    "link": "Gain → possibilités de consommation",
+    "source_pages": [
+      52,
+      180,
+      400,
+      468,
+      523
+    ],
+    "questions": [
+      "RQ-10.02"
+    ],
+    "claims": [
+      "CPC-0099",
+      "CPC-0127"
+    ],
+    "status": "QUALIFIED",
+    "limit": "Possibilité, avec épargne et autres destinations.",
+    "causal_identification": "NOT_IDENTIFIED",
+    "scope": "Textual narrative/qualification, not demonstrated historical causality"
+  },
+  {
+    "id": "LINK-07",
+    "link": "Production / usages → flux physiques",
+    "source_pages": [
+      72,
+      112,
+      163,
+      164,
+      165,
+      454,
+      460
+    ],
+    "questions": [
+      "RQ-11.01"
+    ],
+    "claims": [
+      "CPC-0120"
+    ],
+    "status": "QUALIFIED",
+    "limit": "Mix, composition et périmètre à fixer.",
+    "causal_identification": "NOT_IDENTIFIED",
+    "scope": "Textual narrative/qualification, not demonstrated historical causality"
+  },
+  {
+    "id": "LINK-08",
+    "link": "Carburants / déchets → dommages",
+    "source_pages": [
+      72,
+      112,
+      454,
+      460
+    ],
+    "questions": [
+      "RQ-11.03"
+    ],
+    "claims": [
+      "CPC-0120"
+    ],
+    "status": "QUALIFIED",
+    "limit": "Pressions générales, pas fonction de dommage complète.",
+    "causal_identification": "NOT_IDENTIFIED",
+    "scope": "Textual narrative/qualification, not demonstrated historical causality"
+  },
+  {
+    "id": "LINK-09",
+    "link": "Allocation marginale exacte du gain → panier",
+    "source_pages": [],
+    "questions": [
+      "RQ-10.02"
+    ],
+    "claims": [
+      "CPC-0127"
+    ],
+    "status": "MISSING",
+    "limit": "Pas de fermeture comportementale précise.",
+    "causal_identification": "NOT_IDENTIFIED",
+    "scope": "Textual narrative/qualification, not demonstrated historical causality"
+  },
+  {
+    "id": "LINK-10",
+    "link": "Panier hétérogène → dommage quantifié",
+    "source_pages": [],
+    "questions": [
+      "RQ-11.03"
+    ],
+    "claims": [
+      "CPC-0120"
+    ],
+    "status": "MISSING",
+    "limit": "Pas de fonction physique/exposition complète.",
+    "causal_identification": "NOT_IDENTIFIED",
+    "scope": "Textual narrative/qualification, not demonstrated historical causality"
+  },
+  {
+    "id": "LINK-11",
+    "link": "Relations locales → GDP=K·W macro",
+    "source_pages": [
+      538,
+      558,
+      559
+    ],
+    "questions": [
+      "RQ-09.03",
+      "RQ-08.02"
+    ],
+    "claims": [
+      "CPC-0117",
+      "CPC-0118"
+    ],
+    "status": "AMBIGUOUS",
+    "limit": "Affirmation source; composition, étalons et stabilité non déduits.",
+    "causal_identification": "NOT_IDENTIFIED",
+    "scope": "Textual narrative/qualification, not demonstrated historical causality"
+  }
+]

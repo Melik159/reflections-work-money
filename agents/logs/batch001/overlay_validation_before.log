@@ -1,0 +1,33 @@
+{
+  "category": "STRUCTURAL",
+  "scientific_evidence_established": false,
+  "complete_required": false,
+  "status": "FAIL",
+  "counts": {
+    "cycles": 10,
+    "tasks": 10,
+    "experiments": 10,
+    "manifest_entries": 961
+  },
+  "errors": [
+    "C02: provenance task mismatch",
+    "C02: invalid source page locators",
+    "C03: provenance task mismatch",
+    "C03: invalid source page locators",
+    "C04: provenance task mismatch",
+    "C04: invalid source page locators",
+    "C05: provenance task mismatch",
+    "C05: invalid source page locators",
+    "C06: provenance task mismatch",
+    "C06: invalid source page locators",
+    "C07: provenance task mismatch",
+    "C07: invalid source page locators",
+    "C08: provenance task mismatch",
+    "C08: invalid source page locators",
+    "C09: provenance task mismatch",
+    "C09: invalid source page locators",
+    "C10: provenance task mismatch",
+    "C10: invalid source page locators"
+  ],
+  "limitations": "Checks presence, links, schemas, source provenance and hashes; contiguous cycle numbering and review dependency presence do not establish real-time review chronology, source meaning, review quality, independent measurement or scientific conclusions."
+}

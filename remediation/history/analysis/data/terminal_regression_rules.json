@@ -1,0 +1,61 @@
+{
+  "energy_gdp_derived_is_independent": false,
+  "energy_direct_is_statistically_exogenous": false,
+  "correlation_implies_causation": false,
+  "physical_energy_equals_economic_variable_by_default": false,
+  "transfer_implies_global_creation": false,
+  "aggregation_requires_conditions": true,
+  "required_aggregation_ids": [
+    "AG-01",
+    "AG-02",
+    "AG-03",
+    "AG-04",
+    "AG-05",
+    "AG-06"
+  ],
+  "environmental_levels": [
+    "SOURCE_EXPLICIT",
+    "SOURCE_IMPLICIT",
+    "RESEARCH_INTERPRETATION"
+  ],
+  "required_alternatives": [
+    "CPC-0124",
+    "CPC-0125"
+  ],
+  "prior_claims_preserved": true,
+  "aggregation_conditions": {
+    "AG-01": [
+      "Unités et référence communes",
+      "Contributions sans double compte",
+      "Interactions non implicitement absorbées"
+    ],
+    "AG-02": [
+      "Product homogène",
+      "Prix commun ou somme p_i Q_i",
+      "Débit total distinct de moyenne de vitesses",
+      "p*l=1 demande normalisation supplémentaire"
+    ],
+    "AG-03": [
+      "Absence de pertes annoncée",
+      "État intégrable et dérivable",
+      "Deux variables libres pour rP fixe",
+      "Dérivées inverses non nulles"
+    ],
+    "AG-04": [
+      "n local et N global distincts",
+      "Normalisation M/N à expliciter",
+      "Pas de somme répétant le même stock Cash"
+    ],
+    "AG-05": [
+      "l,p pour même Product",
+      "Échelle commune ou métrique pour axes hétérogènes",
+      "Pas une fonction de production agrégée fournie"
+    ],
+    "AG-06": [
+      "Stabilité des poids et composition",
+      "Pont GDP/Money",
+      "Énergie utile et totale distinguées",
+      "Périodes et unités compatibles"
+    ]
+  }
+}

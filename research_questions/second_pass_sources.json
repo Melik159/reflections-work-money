@@ -1,0 +1,861 @@
+[
+  {
+    "question": "RQ-03.02",
+    "id": "SOURCE-RQ-03.02-01",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 207,
+    "pages": [
+      207
+    ],
+    "quotation": "Considering the constant zero, these relations represent the respective kinetic energies of Work and Money (see chapter “Basic Principles”).",
+    "context_before": "V /dt (dp/dt) by their values (relations 04-01 and 04-02), we obtain respectively : dT=cP.ω.d ω and: dM=−c A.ϖ.d ϖ ‹04-13› ‹04-14› After integration, these relationships give respectively : T=1 2 .cP.ω² and: M=−1 2 .c A.ϖ ² ‹04-15› ‹04-16› ",
+    "context_after": " The presence of the negative sign (-) in the relation giving the Money is perfectly logical. Indeed, the slower the speed (ϖ) of price formation, the higher the Money held by the consumer. Employment - Purchasing power",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0023",
+      "CPC-0040",
+      "CPC-0045",
+      "CPC-0062",
+      "CPC-0063",
+      "CPC-0121"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-03.02",
+    "id": "SOURCE-RQ-03.02-02",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 208,
+    "pages": [
+      208
+    ],
+    "quotation": "Work is zero (neither created nor destroyed) when the labour is done at a constant speed and therefore the supplier's employment obviously remains constant,  Money is nil (neither created nor destroyed) when the price is formed at constant speed and therefore the consumer's purchasing power obviously remains constant itself.",
+    "context_before": "creases, it means that the labour to be done decreases. The faster this labour decreases, the more important is the job (e). Similarly, if the speed (relation 04- 02, ϖ = dp/dt) is slow, the higher the purchasing power (a) is. Moreover :  ",
+    "context_after": " Note It should be noted that it's usually convenient to measure purchasing power by saying that it takes x hours of average salary to acquire such a Product. From this “definition” it's possible to pose :",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0023",
+      "CPC-0040",
+      "CPC-0045",
+      "CPC-0062",
+      "CPC-0063",
+      "CPC-0121"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-03.02",
+    "id": "SOURCE-RQ-03.02-03",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 471,
+    "pages": [
+      471
+    ],
+    "quotation": "By integrating between two considered instants, either to the initial time t1 and to the final time t2, it comes: T = 1 2 ⋅c P⋅ω t 2 2 −1 2 ⋅c P⋅ω t 1 2 By posing: Ecin = Kinetic energy and : Ecin = 1 2 ⋅c P⋅ω 2 then: T = Et 2 cin −Et 1 cin But this difference in Kinetic Energy between the instants t2 and t1 corresponds to the difference in transformed Potential Energy between the instants t1 and t2.",
+    "context_before": "471 Replacing Force and labour in the relation 04-09 giving the Work, namely: dT = −FP⋅dl it becomes: dT = cP⋅dω dt ⋅ω⋅dt or: dT = cP⋅ω⋅dω ",
+    "context_after": " By posing : Epot = Potential energy then : T = Et 1 pot −Et 2 pot It is thus possible to equalize these two Works and to write : Et 2 cin −Et1 cin = Et 1 pot −Et 2 pot",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0023",
+      "CPC-0040",
+      "CPC-0045",
+      "CPC-0062",
+      "CPC-0063",
+      "CPC-0121"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-03.02",
+    "id": "SOURCE-RQ-03.02-04",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 553,
+    "pages": [
+      553
+    ],
+    "quotation": "Tpos = Work done Tneg = Work to be done Mpos = Money made Mnég = Money to be made, still to be created this relationship (26-14) authorises you to write : Ω = √ 2( T pos cP −M neg c A ) = √ 2 ( M pos c A −T neg cP ) ‹26-15› But we also know the relationships 04-17 and 04-18 giving employment e and purchasing power a : e = cP⋅ω and : a = −c A⋅ϖ which allows us to write, with the relations 04-15 and 04-16 already seen above: T = 1 2 ⋅e2 cP and : M = −1 2 ⋅a 2 c A",
+    "context_before": "lled. This is valid for any change in any characteristic. However, it is compulsory to distinguish between these two hypotheses: the case “travelled” (indexed pos) and the possibility “to be travelled” (indexed neg). Therefore, by posing : ",
+    "context_after": "",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0023",
+      "CPC-0040",
+      "CPC-0045",
+      "CPC-0062",
+      "CPC-0063",
+      "CPC-0121"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-08.03",
+    "id": "SOURCE-RQ-08.03-01",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 413,
+    "pages": [
+      413
+    ],
+    "quotation": "By definition “state functions” are only a function of the final and initial values and in no way of the method and path followed between these values.",
+    "context_before": "alled \"ecodynamic potentials\". However, its main interest lies in the presentation of the spontaneous variations of these characteristics, i.e. how they evolve according to the constraints to which the agents are subjected. State functions ",
+    "context_after": " Only the values at the end and at the beginning of the transformation are taken into account. However, it should be noted that these relationships are only valid in the absence of losses. In Economics, in the two transformations T→M and M→",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0004",
+      "CPC-0047",
+      "CPC-0115",
+      "CPC-0116"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-08.03",
+    "id": "SOURCE-RQ-08.03-02",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 414,
+    "pages": [
+      414
+    ],
+    "quotation": "If there were losses (which cannot be known with certainty), they would no longer be state functions because these losses are, of course, a function of the path followed, of the method used, between the initial and final states.",
+    "context_before": "d Money). These variations are obviously equal and only equal to the difference between the final and initial values of these quantities, since it was assumed at the beginning of the paragraph that the transformations occur without losses. ",
+    "context_after": " Transformation T→M ⇒ Free energy In the T→M transformation, the 09-03 relationship, namely : ΔP(E ) + ΔETM (E ) U P0 ≥0 can be written: ΔETM (E) + U P0⋅ΔP(E) ≥0 By considering this relation at the end (f) and the beginning (i) of the trans",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0004",
+      "CPC-0047",
+      "CPC-0115",
+      "CPC-0116"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-08.03",
+    "id": "SOURCE-RQ-08.03-03",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 427,
+    "pages": [
+      427
+    ],
+    "quotation": "The example shown in Figure 16-02b gives : dETM L = + P⋅dU P + F A⋅dV ‹16-03› The other relationships are presented above under the references: 06-02, 09-10 and 16-08.",
+    "context_before": "positive) 1. Potential (Figure 16-02a) The example shown in Figure 16-02a gives : X = + ETM −V ⋅F A ‹09-07› The other relationships are presented above under the references: 16-01, 16-06 and 16-07. 2. Potential differential (Figure 16-02b) ",
+    "context_after": " 3. Partial differential of potential and conjugated variables (Figure 16- 02c) The example shown in Figure 16-02c gives : p = −( ∂X ∂F A)P = −( ∂X L ∂F A)U P ‹16-18› The other relationships are presented above under the references: 16-17, ",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0004",
+      "CPC-0047",
+      "CPC-0115",
+      "CPC-0116"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-08.01",
+    "id": "SOURCE-RQ-08.01-01",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 108,
+    "pages": [
+      108
+    ],
+    "quotation": "However, it's obvious that adding up these Utilities makes no sense.",
+    "context_before": "f each use doesn’t depend in any way on the size of that use, that is to say, it's independent of it. Since the Utility of the water varies according to its use (which is considered homogeneous), it's therefore an intensive characteristic. ",
+    "context_after": " The Utility of the water of the stream is certainly not equal to the sum of the Utility of each use. Since the sum of all the Utilities doesn’t coincide with any reality, the Utility is therefore a non- additive characteristic. But for exa",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0037",
+      "CPC-0089",
+      "CPC-0111",
+      "CPC-0114",
+      "CPC-0126"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-08.01",
+    "id": "SOURCE-RQ-08.01-02",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 210,
+    "pages": [
+      210
+    ],
+    "quotation": "these characteristics being additive.",
+    "context_before": ": i = individuals, self-employed workers (craftsmen, merchants, farmers, ...), heads of enterprises, e = slaves s = employees a = animals m = engines, machines it's possible to write : l=li+le+ls+la+lm T=T i+Te+T s+T a+T m e=ei+ee+es+ea+em ",
+    "context_after": "",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0037",
+      "CPC-0089",
+      "CPC-0111",
+      "CPC-0114",
+      "CPC-0126"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-08.01",
+    "id": "SOURCE-RQ-08.01-03",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 275,
+    "pages": [
+      275
+    ],
+    "quotation": "In all that follows, Work represents the amount of the human Work provided by the agent and the mechanical Work provided by the machines (and of the other causes - slaves, animals).",
+    "context_before": "they are balanced by the reaction forces of the system. We can then consider that the transformation is a succession of states of equilibrium very close in time. It is in this case that the transformation will be qualified as quasi-static. ",
+    "context_after": " In the same way, the Money is the sum of the Money received or provided by manpower and the Money relating to the Energy consumed by the machines (and of the other causes - slaves, animals). In Economics, the application of the analysis ca",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0037",
+      "CPC-0089",
+      "CPC-0111",
+      "CPC-0114",
+      "CPC-0126"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-08.01",
+    "id": "SOURCE-RQ-08.01-04",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 307,
+    "pages": [
+      307
+    ],
+    "quotation": "Knowing that Laziness is an additive characteristic, it's possible to write, for a finished transformation : Δ PE+ Z=Δ( E)+Δ P(Z) The First Principle makes it possible to write: Δ ETM=T+ M However, for Products already existing on the market, the Money is null because the price of these Products is also fixed.",
+    "context_before": "307 E = New Entrepreneur Z = Other Transformers UP 0 = Utility of already existing products ",
+    "context_after": " Consequently, this relationship is simplified as follows: Δ ETM=T For a finite transformation, the relation 05-04, namely: dT=−U P⋅dP is written as follows: ΔT=−U P⋅ΔP and replacing: Δ ETM Z=−U P0⋅Δ P(Z) Since only the two systems E and Z ",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0037",
+      "CPC-0089",
+      "CPC-0111",
+      "CPC-0114",
+      "CPC-0126"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-08.04",
+    "id": "SOURCE-RQ-08.04-01",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 536,
+    "pages": [
+      536
+    ],
+    "quotation": "The term \"link\" should not be understood in the sense of a relation- ship, mathematical or otherwise, between microeconomics and macroeconomics, but more precisely as a common point, as something related to these two disciplines.",
+    "context_before": "536 2.26 Micro – Macro link ABSTRACT: ",
+    "context_after": " Competitiveness is defined here as the result of the labour required to elaborate a Product and its price. Indeed, the higher the labour, the better the productivity and the lower the price, the lower the speed of price formation. It is th",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0089",
+      "CPC-0112",
+      "CPC-0116",
+      "CPC-0126"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-08.04",
+    "id": "SOURCE-RQ-08.04-02",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 537,
+    "pages": [
+      537
+    ],
+    "quotation": "The relationship becomes : (∂M )n ,N = n N ⋅∂u ‹26-01› But we also know the 04-08 relationship giving the Money according to price, namely : dM = −F A⋅dp It is therefore possible to write : n N ⋅∂u = −FA ⋅∂p which gives: ∂u = −F A⋅N n ⋅∂p ‹26-02› This relationship (26-02) and the relationship 04-08 show that : • if the price decreases, wealth increases, • if the price goes up, wealth decreases.",
+    "context_before": " However, the number n of units is the one involved in the transformation considered and only it. It is obvious that in a complex system, such as a country, it is necessary to take into account the total number N of units that exist there. ",
+    "context_after": " Obviously, if the price does not vary, wealth remains constant. All human decisions and actions can therefore be discerned according to the variation in price. However, since GDP is a function of economic transactions, it increases when th",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0089",
+      "CPC-0112",
+      "CPC-0116",
+      "CPC-0126"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-08.04",
+    "id": "SOURCE-RQ-08.04-03",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 548,
+    "pages": [
+      548
+    ],
+    "quotation": "Ω = ϖ ω ‹26-03› or, with the relations 04-01 and 04-02, namely : ω = −dl dt and : ϖ = dp dt and after simplification: Ω = −dp dl ‹26-04›",
+    "context_before": ". Moreover, the standard would also no longer be known. But in economics this ratio, i.e. the ratio of productivity ω and tachyaxy ϖ , could be defined as the competitiveness Ω of a company. Indeed, it would be possible to set the report : ",
+    "context_after": "",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0089",
+      "CPC-0112",
+      "CPC-0116",
+      "CPC-0126"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-08.04",
+    "id": "SOURCE-RQ-08.04-04",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 554,
+    "pages": [
+      554
+    ],
+    "quotation": "It is understood that here employment and purchasing power do not have the same meaning as usual.",
+    "context_before": " as in the whole study, only the Mpos Money realized on the one hand and the Tneg Work to be done on the other hand were considered, so for the sake of simplicity it is preferable to write : Ω = √ 2 ( M cA −T cP) = √ a2 c A + e2 cP ‹26-17› ",
+    "context_after": " In fact, it should always be remembered that employment and purchasing power are a direct function of the speed at which work is done (productivity) and the speed at which prices are formed (tachyaxy) respectively. From the latter relation",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0089",
+      "CPC-0112",
+      "CPC-0116",
+      "CPC-0126"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-06.04",
+    "id": "SOURCE-RQ-06.04-01",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 18,
+    "pages": [
+      18
+    ],
+    "quotation": "Thus the increase in the number of monetary units (granting of a loan not covered by deposits) doesn’t create money and its decrease (repayment of a loan) doesn't destroy it.",
+    "context_before": "ematically varying the unit in an inversely proportional manner. Conversely, the repayment of a loan is similar to possibility 2b, with :  makes the number (n) of units to fall (dn < 0)  causes the value of the unit (u) increase (du > 0) ",
+    "context_after": " The various developments represented by all the possibilities (1, 2, 3, 4) listed above exist and form a mixture that shapes daily reality. Whichever economic system is considered, it follows from this paragraph that any change in the numb",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0013",
+      "CPC-0014",
+      "CPC-0027",
+      "CPC-0028",
+      "CPC-0050",
+      "CPC-0085"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-06.04",
+    "id": "SOURCE-RQ-06.04-02",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 18,
+    "pages": [
+      18
+    ],
+    "quotation": "The various developments represented by all the possibilities (1, 2, 3, 4) listed above exist and form a mixture that shapes daily reality.",
+    "context_before": "ll (dn < 0)  causes the value of the unit (u) increase (du > 0) Thus the increase in the number of monetary units (granting of a loan not covered by deposits) doesn’t create money and its decrease (repayment of a loan) doesn't destroy it. ",
+    "context_after": " Whichever economic system is considered, it follows from this paragraph that any change in the number of monetary units doesn't alter the overall wealth of that system. This is due to the fact that no Work (energy) commensurate with this c",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0013",
+      "CPC-0014",
+      "CPC-0027",
+      "CPC-0028",
+      "CPC-0050",
+      "CPC-0085"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-06.04",
+    "id": "SOURCE-RQ-06.04-03",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 255,
+    "pages": [
+      255
+    ],
+    "quotation": "This function is for storing Cash (Money) for later use.",
+    "context_before": "255 Economic Energy) will be, and therefore the lower the speed of its formation, the slower it will be. Therefore this point (role of exchange mediator) is similar in Physics and Economics. 3. Value reserve role ",
+    "context_after": " In physics, potential energy is energy that is stored for later use. This definition applies perfectly to the Money when it's conserved (saved money) for future purchase. When it's considered as a reserve of value, the Money must be assimi",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0013",
+      "CPC-0014",
+      "CPC-0027",
+      "CPC-0028",
+      "CPC-0050",
+      "CPC-0085"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-06.04",
+    "id": "SOURCE-RQ-06.04-04",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 522,
+    "pages": [
+      522
+    ],
+    "quotation": "The interest paid by the borrower therefore corresponds to the cost of renting a Product as indicated in the paragraph “Rental of movable property”.",
+    "context_before": "lter the reasoning followed so far for rentals. This is so true that bankers offer and sell so-called “financial” Products to consumers. Figures 24-04a and 24-04b (renting) are, therefore, transformed as shown in Figures 24-05a and 24-05b. ",
+    "context_after": " However, it should also be noted that if any economic agent borrows Cash it's always for the purpose of acquiring a Product (with the exception of finance for speculative purposes). Consequently, for the borrower, the Utility of the Cash i",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0013",
+      "CPC-0014",
+      "CPC-0027",
+      "CPC-0028",
+      "CPC-0050",
+      "CPC-0085"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-10.01",
+    "id": "SOURCE-RQ-10.01-01",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 43,
+    "pages": [
+      43
+    ],
+    "quotation": "However, nobody can deny the fact that the lower the prices, the higher the purchasing power, caeteris paribus, i.e.",
+    "context_before": "natory corpus, because it's indeed imperative to create the cake before sharing it. It seems obvious that research efforts should, prior to its distribution, focus on the recipe for its creation, and therefore on the genesis of the wealth. ",
+    "context_after": " at constant income. This is in fact what we see in everyday life, where all companies try to obtain a minimum cost price (according to the external constraints to which they are subject) in order to lower the selling price while keeping th",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0015",
+      "CPC-0016",
+      "CPC-0053",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-10.01",
+    "id": "SOURCE-RQ-10.01-02",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 180,
+    "pages": [
+      180
+    ],
+    "quotation": "It is well known that, as these expenditure items declined, the income generated was transferred to other consumption items.",
+    "context_before": "ated above, the only adequate answer can only be that the value of the Cash only comes from price reductions that have taken place previously. A few centuries ago, almost all of a household's income was spent on food, clothing and housing. ",
+    "context_after": " This is exclusively the only method of increasing purchasing power. However, it's normal to always seek the best possible purchasing power, which obviously requires lowering the general",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0015",
+      "CPC-0016",
+      "CPC-0053",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-10.01",
+    "id": "SOURCE-RQ-10.01-03",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 273,
+    "pages": [
+      273
+    ],
+    "quotation": "This third case is the opposite of the first.",
+    "context_before": "273 3. ",
+    "context_after": " If the consumer acquires a tyre which is completely worn down after 20 000 km, he will be obliged to spend a quantity of Cash on a new tyre. It is possible to say that this option costs him twice as much as if he had purchased a Product li",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0015",
+      "CPC-0016",
+      "CPC-0053",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-10.01",
+    "id": "SOURCE-RQ-10.01-04",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 468,
+    "pages": [
+      468
+    ],
+    "quotation": "can be used for any future use (acquisition of a Product, payment of a debt, payment of taxes, ...).",
+    "context_before": "Indeed, the slower the speed (ϖ) of price formation, the higher the Money, i.e. the Kinetic Energy, held by the consumer. As a result, the consumer can keep in his wallet this sum, which can now be considered as Potential Energy, and which ",
+    "context_after": " Consequently, the greater the Work done by the supplier, the more Potential Energy (Money saved) is available to the consumer. So, this Energy is normally higher at time t2 than at time t1. These last two relations can therefore be written",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0015",
+      "CPC-0016",
+      "CPC-0053",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-09.03",
+    "id": "SOURCE-RQ-09.03-01",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 112,
+    "pages": [
+      112
+    ],
+    "quotation": "all monetary wealth comes only from the transformation of Work into Money, Work itself coming from the transformation of heat, Therefore, there is necessarily at least a relationship between the Money created and the amount of heat used.",
+    "context_before": "esn't concern itself in any way with knowing whether these laws are good or bad, favourable or detrimental to the Human Being, identical to physics where a theory is always indifferent to human nature. As already stated, she shows that :  ",
+    "context_after": " An analytical relationship that may play this role of association is proposed in the chapter “Link heat consumed - money created”. Furthermore, it's reasonable to assume that their respective variation is of the same sign. This is in line ",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0067",
+      "CPC-0108",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-09.03",
+    "id": "SOURCE-RQ-09.03-02",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 217,
+    "pages": [
+      217
+    ],
+    "quotation": "provided that these coefficients are constant implying that the two transformations are symmetrical.",
+    "context_before": "ever claimed by anyone. The first sentence relates to the T →M transformation, and the second to the M →T transformation. Then the relationship must be converted as follows: T=gMT .M ‹05-02› or : M= 1 gMT .T Accordingly: gTM= 1 gMT ‹05-03› ",
+    "context_after": " T→M Transformation ⇒ Definition Anyone can imagine the T →M transformation in the following classical way. Everybody perfectly understands that in order to manufacture any Product, it's necessary to start from the beginning where there are",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0067",
+      "CPC-0108",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-09.03",
+    "id": "SOURCE-RQ-09.03-03",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 459,
+    "pages": [
+      459
+    ],
+    "quotation": "the greater the speed (ω) of manufacture, the greater the speed (ϖ) of price formation (always caeteris paribus).",
+    "context_before": "t used. If productivity is high, this implies that the time taken to form the price is short. In fact, the time taken to change the price from the purchase price to the selling price is obviously equal to the manufacturing time. Therefore, ",
+    "context_after": " Note 1 We know from experience that the average efficiency of a common internal combustion engine is about (0.30). We have seen earlier that the overall efficiency of any economic system cannot exceed (0.34). It is therefore possible to ad",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0067",
+      "CPC-0108",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-09.03",
+    "id": "SOURCE-RQ-09.03-04",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 460,
+    "pages": [
+      460
+    ],
+    "quotation": "Knowing that losses increase faster than productivity, the final output of an economic system increases more slowly than productivity itself.",
+    "context_before": " one of two forms: • either, a slow and progressive deceleration, • or, a rapid and violent slowdown. However, the first hypothesis can be programmed and controlled to avoid economic, social, health, etc. clashes, while the second doesn't. ",
+    "context_after": " This remark therefore highlights the increasing consumption of fuels induced by the acceleration of manufacturing processes, and consequently its inevitable increasingly intense impact on the environment. Note 2 Historical analysis shows t",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0067",
+      "CPC-0108",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-11.02",
+    "id": "SOURCE-RQ-11.02-01",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 163,
+    "pages": [
+      163
+    ],
+    "quotation": "four times as much waste, at least, for a doubling of speed.",
+    "context_before": "ergy, the less the possibility of getting closer to its initial state is achievable by following another evolution of any kind. We also know that these losses are all the more substantial the higher the speed of the evolution, in this case ",
+    "context_after": " Irreversibility is thus all the more notable. It is accepted that by the end of the 21st century or the beginning of the next, the Earth will have a population of about 10 billion people. Of this number 2 billion will be considered “rich”,",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0084",
+      "CPC-0099",
+      "CPC-0120",
+      "CPC-0127"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-11.02",
+    "id": "SOURCE-RQ-11.02-02",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 165,
+    "pages": [
+      165
+    ],
+    "quotation": "to double the speed and theoretically be able to divide the price by 2, it's obligatory to spend, as a minimum, 4 times more energy in the form of work, thus causing 4 times more energy losses and also involving more material waste.",
+    "context_before": "er, in return for the increase in speed, Nature imposes to spend more energy according to the well known relation : W =1 2 ⋅m⋅v 2 with : W = energy (work) m = mass v = speed It should be noted that this natural law stipulates that in order ",
+    "context_after": " Nature prescribes and therefore requires that : to gain little of this, it's obligatory to lose much of that. And Human wants to gain a lot. Conclusion In this study, finance was never discussed because this discipline is only related to ",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0084",
+      "CPC-0099",
+      "CPC-0120",
+      "CPC-0127"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-11.02",
+    "id": "SOURCE-RQ-11.02-03",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 180,
+    "pages": [
+      180
+    ],
+    "quotation": "transferred to other consumption items.",
+    "context_before": "s from price reductions that have taken place previously. A few centuries ago, almost all of a household's income was spent on food, clothing and housing. It is well known that, as these expenditure items declined, the income generated was ",
+    "context_after": " This is exclusively the only method of increasing purchasing power. However, it's normal to always seek the best possible purchasing power, which obviously requires lowering the general",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0084",
+      "CPC-0099",
+      "CPC-0120",
+      "CPC-0127"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-11.02",
+    "id": "SOURCE-RQ-11.02-04",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 460,
+    "pages": [
+      460
+    ],
+    "quotation": "the movement of people (distance from the suburbs, weekends, holidays, etc.), • etc.",
+    "context_before": "f mobility in general. It isn't the purpose of this note to detail the impact of the very low cost of energy. However, it's possible to show that it promotes and catalyses : • long-distance transport of goods (maritime, air, road, etc.), • ",
+    "context_after": " If the unit prices of fuel and human energy were equal, then for every 1 Dollar of extra Money (wealth) created, 1,000 times more would have to be spent on fossil fuel. This calculation shows in the most obvious and explicit way the reason",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0084",
+      "CPC-0099",
+      "CPC-0120",
+      "CPC-0127"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-11.03",
+    "id": "SOURCE-RQ-11.03-01",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 68,
+    "pages": [
+      68
+    ],
+    "quotation": "waste will be inexorably produced, i.e.",
+    "context_before": "rously identical. Even today, the procedure still consists of provoking a difference in Utility by any modification in order to improve the adaptation of the object (Product) to the required function, but regardless of this transformation, ",
+    "context_after": " loss of usable material. This difference in Utility is always sought as much as possible but is always limited by certain constraints independent of the will of H. habilis and now of H. sapiens and therefore external to the latter. The sta",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0018",
+      "CPC-0031",
+      "CPC-0120",
+      "CPC-0127"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-11.03",
+    "id": "SOURCE-RQ-11.03-02",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 112,
+    "pages": [
+      112
+    ],
+    "quotation": "these transformations systematically degrade the environment,  these degradations are more than proportional to the square of the speed of the transformations,  these transformations cannot be infinite.",
+    "context_before": "r “Link heat consumed - money created”. Furthermore, it's reasonable to assume that their respective variation is of the same sign. This is in line with ecology, which isn't the aim of this study. However, it's possible to present that :  ",
+    "context_after": "",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0018",
+      "CPC-0031",
+      "CPC-0120",
+      "CPC-0127"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-11.03",
+    "id": "SOURCE-RQ-11.03-03",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 113,
+    "pages": [
+      113
+    ],
+    "quotation": "natural resources, fossil or not (oil, gas, uranium, coal, metals, sand, water, ...), which will lead ipso facto to the inevitable cessation of the consumption of these Products and consequently of quantitative growth as it's currently defined and understood.",
+    "context_before": "rs, colloquia and other notes and which relate to the last three points, i.e. which concern ecology in its entirety. All studies referring to “Sustainable Development” or “Degrowth” postulate first the rarefaction and then the depletion of ",
+    "context_after": " In general, these studies only discuss energy flows , Product or Cash. In Economics, it's the Money that is the main feature. However, it's indisputable that the search for the maximum acquisition of goods or services by individuals requir",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0018",
+      "CPC-0031",
+      "CPC-0120",
+      "CPC-0127"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-11.03",
+    "id": "SOURCE-RQ-11.03-04",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 273,
+    "pages": [
+      273
+    ],
+    "quotation": "In the transport of fuel it's quite certain that the quantity on arrival at the pump attendant is equal to the quantity on departure from the refinery.",
+    "context_before": "erfect, and in each case there are losses that modify the perfect vision of the examples that have just been given. The economic losses of Money can, always very easily, be explained by mechanical analogies. Only one example will be cited. ",
+    "context_after": " Nevertheless, a certain volume of fuel has been consumed by the tanker's engine, which in physical (thermodynamic) terms is considered a loss. In the same way, economically, the costs inherent to this transport (cost of diesel, driver's re",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0018",
+      "CPC-0031",
+      "CPC-0120",
+      "CPC-0127"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-12.01",
+    "id": "SOURCE-RQ-12.01-01",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 138,
+    "pages": [
+      138
+    ],
+    "quotation": "F⋅p=r⋅U P either: Force × price = r × Utility that can be compared to Boyle-Mariotte's famous experimental law in physics, namely : P⋅V=r ⋅T either: Pressure × Volume = r × Temperature Presenting the economic relationship as follows :",
+    "context_before": "e nature of the Product by introducing a coefficient (r) which is a function of an intrinsic property. This coefficient is a function of the complexity of the Product under examination. The relationship is therefore presented in the form : ",
+    "context_after": "",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0003",
+      "CPC-0068",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-12.01",
+    "id": "SOURCE-RQ-12.01-02",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 157,
+    "pages": [
+      157
+    ],
+    "quotation": "this evolution always takes place if this difference exists.",
+    "context_before": "n a certain characteristic, and it can only be the same in the case that concerns us here, that is to say in Economics. Any evolution of an economic phenomenon can only take place if there is a difference in the Utility of the Product, and ",
+    "context_after": " To corroborate this fact, the example of Homo habilis, who modified a stone to adapt it to the purpose he had set himself to achieve, has been presented in the “Introduction” paragraph above. He improved the Utility of the stone and thus m",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0003",
+      "CPC-0068",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-12.01",
+    "id": "SOURCE-RQ-12.01-03",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 284,
+    "pages": [
+      284
+    ],
+    "quotation": "It is possible to consider this relation (08-04) as an experimental Law which is similar, in its substance and form, to Boyle-Mariotte's Law in physics, namely : P⋅V=r ⋅T In physics this relation isn't rigorously exact for a real gas, but only for a virtual entity called “perfect gas”.",
+    "context_before": "es that he isn't necessarily rational and that he is ill-informed. This is perfectly consistent with strict reality, and therefore implies that the definition of the economic agent must be modified with respect to its supposed rationality. ",
+    "context_after": " Nevertheless, it's considered to be correct in current calculations and for the understanding of phenomena. In the case we are concerned with, it's necessary to have the same approach. It is possible that one or more other criteria (other ",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0003",
+      "CPC-0068",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  },
+  {
+    "question": "RQ-12.01",
+    "id": "SOURCE-RQ-12.01-04",
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 165,
+    "pages": [
+      165
+    ],
+    "quotation": "4 times more energy in the form of work, thus causing 4 times more energy losses and also involving more material waste.",
+    "context_before": "n : W =1 2 ⋅m⋅v 2 with : W = energy (work) m = mass v = speed It should be noted that this natural law stipulates that in order to double the speed and theoretically be able to divide the price by 2, it's obligatory to spend, as a minimum, ",
+    "context_after": " Nature prescribes and therefore requires that : to gain little of this, it's obligatory to lose much of that. And Human wants to gain a lot. Conclusion In this study, finance was never discussed because this discipline is only related to ",
+    "normalization": "whitespace only",
+    "classification": "PRIMARY",
+    "claims": [
+      "CPC-0003",
+      "CPC-0068",
+      "CPC-0117",
+      "CPC-0118",
+      "CPC-0119"
+    ],
+    "importance": "Evidence for the reconstruction below; not proof of empirical truth."
+  }
+]

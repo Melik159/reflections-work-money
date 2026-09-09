@@ -1,0 +1,213 @@
+PDF PAGE 189
+189
+cheques, bills of exchange, drafts, action coupons, magnetic
+or optical supports (tapes, discs, CDs, DVDs, etc.) in the
+clearing houses, etc..,
+
+the complexity (c) must be understood as the inertia that a
+Product presents at the change in speed of execution of the
+labour. In fact, as we have seen above, the labour required
+to produce a Product can be performed at different speeds.
+However, it's certain that some Products will be more
+easily modified and transformed than others. A piece of
+hardened steel is much more difficult to machine than the
+same piece of annealed steel, a piece of Quercy oak than a
+piece of Landes pine,
+
+the Utility of the Product (UP) (which can be both objective
+and subjective, accurate and erroneous) must be considered
+in its most general meaning and be placed in the exclusive
+framework of the exchanges. Conventionally, the notion of
+“marginal utility” is commonly used but has absolutely no
+purpose in this paper for the reason developed in the
+chapter “Prolegomena” and is therefore not used. Utility
+should be taken, in this study, in the sense of Walras, as
+already explained in the chapter “Prolegomena”.
+If an individual acquires any Product, it necessarily has a
+certain Utility, which may be higher or lower. For himself,
+the Utility of use of the Product may be nil, but it may be
+very high if he wishes to give it as a gift. The following
+example is in line with what has just been said. A few years
+ago, dummy car telephone antennas were offered for sale
+despite their null technical utility, but whose Utility for the
+consumer's vanity could be very high.
+Someone will buy an object for its Utility as a tool, such as
+a knife, a trowel or a pair of straps, but he may acquire
+another object for its Food, Gastronomic or Taste Utility.
+Someone else may purchase a Product for its Visual Beauty
+Utility such as a work of art. A third person may purchase a
+pleasure trip to the islands for its relaxing and scenic
+
+
+PDF PAGE 190
+190
+Utility. A company may purchase machine tools, ballpoint
+pens, etc., for its own use. An agent may purchase a piece
+of clothing for sports or to fight against the cold, but he
+may also purchase a ceremonial garment, but in each case
+the object, the merchandise, the service, the Product will
+have its Utility. The satisfaction or extinction of a person's
+vanity is also a Utility for the latter. It is possible to enrich
+this enumeration ad infinitum. Every object or service has
+its own Utility and it's, in fact, this characteristic that agents
+are looking for.
+To refute the idea that Utility is an important characteristic
+of economic exchanges, some say that air is very useful and
+yet costs nothing. Yet, if they ran out of it, they would be
+prepared to pay a high price for it. A bit of logic shows that
+if the need for a Product is satisfied, it's quite certain that it
+would be absurd to acquire it. But in places where air is
+lacking, it has a cost: for example in submarines, mines,
+manned aircraft and satellites, and what about the air used
+by hunters, fishermen and scuba divers. For an agent the
+Utility can be variable over time. Indeed, during the
+development of a Product, the consumer sees its Utility
+increase but on the contrary decrease during its use.
+Moreover, this Utility is variable according to the agents
+considered: a scalpel is very useful for a surgeon and nil for
+other agents. A very high quality High Fidelity channel is
+very useful for an informed music lover or for musical
+institutions, but much less for the average person and none
+for the deaf. It is necessary to underline that the value of
+Utility attributed to a Product by a consumer can be right or
+wrong, correct or unfounded.
+The rate at which a Product depreciates through use or
+becomes obsolete through technical evolution can vary
+greatly, from almost instantaneous to almost nil. For
+example, the use of a match causes its Utility to fall from its
+maximum to almost zero almost instantaneously. And even
+if the user uses it as a toothpick, the Utility of the match
+
+
+PDF PAGE 193
+193
+
+a Seller  ⇒ an agent selling a raw or partially processed Product to a
+Transformer,
+
+a Transformer ⇒ an agent transforming this raw Product and selling it to
+a Acquirer,
+
+an Acquirer  ⇒ an agent continuing to develop the Product or an end
+user.
+By definition :
+
+the Transformer is considered to be placed within the system,
+
+the Seller and the Acquirer are considered to be outside the system.
+For any given consumer, the Utility of the Product evolves during its
+manufacture and use as follows:
+1.
+during the manufacture of the Product by a Transformer,
+the Buyer sees the Utility increase,
+2.
+when using this Product by himself, he sees the Utility diminish.
+Like everything else, this is a function of the position of the observer, i.e.
+perfectly in accordance with the Principle of Relativity. This means that any
+manufacturer must always be considered as a user for the previous manufacturer.
+Therefore, it's absolutely necessary to admit that :
+
+the Transformer is a user for the Seller,
+
+the Acquirer is a user for the Transformer,
+and that :
+
+the Seller is a manufacturer for the Transformer,
+
+the Transformer is a manufacturer for the Acquirer.
+Consequently, it follows that for the Transformer (inside the system) :
+1.
+the Utility of the Product increases during manufacture by the Seller,
+2.
+the Utility of the Product diminishes when he elabourates it himself,
+3.
+the Utility of the Product increases when the Acquirer uses it.
+
+
+PDF PAGE 385
+385
+that we can write:
+T 2
+U P2
+≥−
+T 1
+U P1
+or:
+which gives, by replacing:
+ηTM ≥1 −
+U P2
+UP1
+‹14-01›
+This expression seems, at first sight, to be wrong because it's given the sign
+“greater or equal” (≥), contrary to any usual relationship of any return. This is due
+to the fact that the Work from which this relation derives is the Work to be done
+which has not yet entered the system and not the Work done which is logically the
+one to be taken into account. Furthermore, it's possible to show that in this
+transformation the final Utility of the Product is lower or equal to the initial
+Utility of the Transformer, that is to say:
+U P2 ≤U P1
+Therefore, for both limit cases, it follows that :
+1.
+if:
+U P2 = U P1
+ then:
+U P2
+U P1
+= 1
+hence:
+ηTM = 0
+2.
+if:
+U P2 = 0
+ then:
+U P2
+U P1
+= 0
+hence:
+ηTM = 1
+Which shows that the real efficiency is always positive (or nil) but less (or
+equal) than the unit, that is to say :
+0 ≤ηTM ≤1
+‹14-02›
+like any yield whatsoever.
+In the case where the T→M transformation of the cycle would be completely
+reversible (without loss), the yield relationship would become :
+
+
+PDF PAGE 386
+386
+ηTM = 1 −
+U P2
+UP1
+The yield of the T→M transformation is totally independent of the nature of the
+Product, it's only a function of its Utility at the beginning and at the end of the
+transformation.
+Transformation M→T ⇒ Yield
+Let's assume any M→T transformation. In this one, the M→T  yield is by
+definition :
+ηMT = −T
+M 1
+In fact, it's equal to the Work to be done T (which leaves the system) obtained,
+in relation to the M1 realised Money (which enters the system) necessary to obtain
+it.
+The First Principle, implies :
+M 1 + M 2 + T = 0
+either :
+−T = M 1 + M 2
+Therefore:
+ηMT =
+M 1 + M 2
+M 1
+or :
+ηMT = 1 +
+M 2
+M 1
+Now, for this transformation of any kind (reversible or not), we know from the
+Second Principle that:
+M 1
+U A1
++
+M 2
+U A2
+≤0
+that we can write:

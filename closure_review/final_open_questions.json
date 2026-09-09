@@ -1,0 +1,77 @@
+[
+  {
+    "type": "FORMAL",
+    "question": "Référents T, dT, réserve et transfert: raccords cohérents",
+    "related_rq": "RQ-03.02"
+  },
+  {
+    "type": "METROLOGICAL",
+    "question": "Étalonnage indépendant de cp et Force",
+    "related_rq": "RQ-03.03"
+  },
+  {
+    "type": "METROLOGICAL",
+    "question": "Échelle de Utility compatible avec ratios et contexte",
+    "related_rq": "RQ-05.03"
+  },
+  {
+    "type": "METROLOGICAL",
+    "question": "Mesure des différents référents Money sans les confondre",
+    "related_rq": "RQ-06.01"
+  },
+  {
+    "type": "FORMAL",
+    "question": "Money/VA/PIB: net, période, prix réels, double compte",
+    "related_rq": "RQ-09.03"
+  },
+  {
+    "type": "FORMAL",
+    "question": "K: dispersion, composition, coefficients et unités",
+    "related_rq": "RQ-08.02"
+  },
+  {
+    "type": "FORMAL",
+    "question": "Potentiels: intégrabilité, domaine et contraintes",
+    "related_rq": "RQ-08.03"
+  },
+  {
+    "type": "EMPIRICAL",
+    "question": "Variables appariées coût/prix/qualité/marge",
+    "related_rq": "RQ-05.01"
+  },
+  {
+    "type": "CAUSAL",
+    "question": "Sélection préalable de scénario et usage marginal du gain",
+    "related_rq": "RQ-10.02"
+  },
+  {
+    "type": "EMPIRICAL",
+    "question": "Panier marginal, matières/énergie et importations",
+    "related_rq": "RQ-11.03"
+  },
+  {
+    "type": "CAUSAL",
+    "question": "Exposition et fonction de dommages du panier",
+    "related_rq": "RQ-11.01"
+  },
+  {
+    "type": "CAUSAL",
+    "question": "Conversion travail physique utile→Economic Work",
+    "related_rq": "RQ-09.02"
+  },
+  {
+    "type": "CAUSAL",
+    "question": "Signature indépendante discriminant les explications",
+    "related_rq": "RQ-12.01"
+  },
+  {
+    "type": "HISTORICAL",
+    "question": "Subsistance, seuils, chronologie et alternatives institutionnelles",
+    "related_rq": "RQ-01.03"
+  },
+  {
+    "type": "HISTORICAL",
+    "question": "Nouveauté historique et utilité décisionnelle comparée",
+    "related_rq": "RQ-12.03"
+  }
+]

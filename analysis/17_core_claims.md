@@ -1,0 +1,60 @@
+# Claims structurants — sélection provisoire
+
+Criticité : impact d’un changement du claim sur la reconstruction, pas degré de vérité. L’identification finale attend le reste du manuscrit.
+
+- CPC-0001 [CORE] Comprendre le passage de la subsistance à l’abondance et les dommages environnementaux associés à la hausse du niveau de vie.
+- CPC-0002 [MAJOR] La valeur de l’unité monétaire varie dans le temps.
+- CPC-0003 [CORE] L’étude compare la transformation du travail en monnaie à celle de la chaleur en travail, en les distinguant.
+- CPC-0004 [MAJOR] Le formalisme suppose des comportements suffisamment lents et réguliers.
+- CPC-0005 [CORE] Changer le nombre d’unités monétaires ne change pas la richesse globale du système.
+- CPC-0006 [MAJOR] Product englobe biens et services produits par l’être humain.
+- CPC-0007 [MAJOR] La création et l’usage relèvent des lois naturelles ; la distribution relève de décisions humaines.
+- CPC-0009 [CORE] Seul le travail engendre un changement.
+- CPC-0010 [CORE] Money est défini comme le nombre d’unités multiplié par la valeur de l’unité.
+- CPC-0011 [MAJOR] Le différentiel du produit M=n.u est dM=n.du+u.dn.
+- CPC-0012 [CORE] Toute variation du nombre d’unités entraîne une variation inverse de leur valeur, empêchant de créer Money.
+- CPC-0013 [MAJOR] Le crédit non couvert par des dépôts ne crée pas Money au sens de l’auteur.
+- CPC-0014 [MAJOR] Sans dépense de Work, une politique ne fait que redistribuer Money dans le système.
+- CPC-0015 [CORE] Money créé désigne le supplément détenu par le consommateur après une baisse de prix.
+- CPC-0016 [CORE] Le mécanisme proposé relie travail supplémentaire, productivité, baisse de prix, hausse de l’unité et supplément de Money.
+- CPC-0017 [CORE] Une hausse de productivité exige nécessairement un travail supplémentaire assimilé ici à une énergie.
+- CPC-0018 [MAJOR] Les sources artificielles d’énergie peu coûteuses auraient permis le passage à l’abondance.
+- CPC-0019 [MAJOR] Le travail productif est défini par sa capacité à réduire le coût de revient.
+- CPC-0020 [MAJOR] Une baisse du coût peut coexister avec un prix de vente constant.
+- CPC-0021 [MAJOR] Le prix de vente relève du choix de l’entrepreneur sous contraintes de concurrence et de réglementation.
+- CPC-0022 [CORE] L’auteur postule la transformation du travail supplémentaire du fournisseur en Money supplémentaire du consommateur.
+- CPC-0023 [CORE] Dans un système isolé, la baisse du travail restant à faire compense la hausse de Money créé.
+- CPC-0024 [MAJOR] Une transformation physique est distinguée du flux comptable.
+- CPC-0029 [MAJOR] Le manuscrit affirme un niveau de vie constant du Néolithique au XVIIIe siècle sous sources naturelles limitées.
+- CPC-0030 [MAJOR] La recherche de la genèse de Money exclut selon l’auteur toute référence à l’être humain.
+- CPC-0031 [MAJOR] Le préambule limite explicitement son propos économique en excluant les répercussions environnementales.
+- CPC-0032 [CORE] L’économie de travail augmente vers un maximum sous contraintes externes.
+- CPC-0033 [CORE] L’économie de Money augmente vers un maximum sous contraintes externes.
+- CPC-0034 [MAJOR] Le troc est présenté comme un échange sans Money entre produits d’utilités égales.
+- CPC-0035 [CORE] L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.
+- CPC-0036 [MAJOR] La variation de Work servirait exclusivement à varier le prix, non à fabriquer le produit.
+- CPC-0037 [MAJOR] L’offre est définie comme un nombre de cycles de fabrication par unité de temps.
+- CPC-0038 [MAJOR] Le cycle économique est mis en correspondance avec quatre étapes thermodynamiques.
+- CPC-0039 [CORE] Economic Work et Money sont posés comme deux formes d’énergie économique.
+- CPC-0040 [CORE] Le modèle doit compter le travail à effectuer et non le travail déjà effectué.
+- CPC-0041 [CORE] Product supporte Work et Cash supporte Money.
+- CPC-0042 [MAJOR] L’emploi du formalisme thermodynamique exclut ici les variables physiques et notamment l’entropie.
+- CPC-0043 [CORE] Le principe d’équivalence est écrit M=g.T.
+- CPC-0044 [MAJOR] La constance du coefficient g n’est pas garantie en économie.
+- CPC-0045 [CORE] Le différentiel de Money est défini par dM=-F.dp.
+- CPC-0046 [CORE] Money est la valeur de Cash, lequel en est le support.
+- CPC-0047 [MAJOR] Les variations doivent être assez petites et proches dans le temps pour être traitées comme continues.
+- CPC-0048 [CORE] Wealth désigne exclusivement la quantité de Money, sans inclure les actifs patrimoniaux.
+- CPC-0049 [MAJOR] Product est défini par sa capacité à être acquis, transformé ou vendu et comme support de Work.
+- CPC-0050 [MAJOR] Une ligne de crédit bancaire est Cash, pas Money dans ce vocabulaire.
+- CPC-0051 [CORE] Labour désigne la tâche, constante pour un produit et une méthode de fabrication donnés.
+- CPC-0052 [CORE] Pour une tâche constante, Work dépend de sa vitesse d’exécution.
+- CPC-0053 [CORE] Money mesure la valeur de Cash ; cette valeur varie dans le temps et selon le lieu.
+- CPC-0054 [MAJOR] La complexité désigne l’inertie du produit face au changement de vitesse d’exécution de la tâche.
+- CPC-0055 [MAJOR] L’utilité peut être objective, subjective, exacte ou erronée et concerne les échanges.
+- CPC-0056 [MAJOR] Le manuscrit écarte l’utilité marginale et revendique le sens de Walras.
+- CPC-0059 [MAJOR] L’utilité de Cash est donnée comme d’autant plus élevée que le revenu est bas.
+- CPC-0060 [MAJOR] Le terme manufacturer inclut fournisseur et revendeur, même sans modification du produit.
+- CPC-0061 [MAJOR] Le Transformer est interne au système ; Seller et Acquirer sont externes.
+- CPC-0062 [MAJOR] Le signe des variations d’utilité dépend de la position de l’observateur dans la chaîne.
+- CPC-0063 [MAJOR] Les flux entrants du Transformer sont comptés positivement, les sortants négativement.

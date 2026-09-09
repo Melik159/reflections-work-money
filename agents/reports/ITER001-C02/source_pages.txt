@@ -1,0 +1,404 @@
+PDF PAGE 32
+32
+
+there can be no Economic Work without a difference in the
+Utility of the Cash exchanged.
+These statements are strictly of the same nature as that of the “First Principle” of
+thermodynamics, i.e. :
+
+there can be no mechanical work without a temperature difference.
+Premises
+Let us suppose that the manufacturing of any Product requires, initially, a duration
+of 8 hours and that, after an increase in productivity, this duration decreases to 6
+hours. Let us suppose moreover that the cost per hour of work is 20 $, then caeteris
+paribus :
+
+according to the first hypothesis (8hrs. of Work) the cost price of the Product
+is 160 $,
+
+according to the second hypothesis (6hrs. of Work) the cost price is 120 $,
+i.e. 40 $ less.
+But the laws of physics state that the higher the speed, the more energy is
+expended, in the form of Work, to increase that speed. The second hypothesis
+therefore requires more Work than the first (about 78% more). This thought
+experiment, valid for any Product, everywhere and always in accordance with the
+Principle of Homogeneity, shows without ambiguity that more Work was necessary
+for the elabouration of a Product less is the cost price (caeteris paribus). An analysis
+of the daily facts shows that all companies are always seeking to improve
+productivity, i.e. to accelerate the speed of production, in order to reduce the price of
+the goods produced. But in order to do so, it's essential to work more, and this by any
+means (individuals, slaves, animals, employees, mainly motors or machines for the
+last 2 centuries).
+It has just been shown that the more Work there is in a Product, the cheaper it's.
+Therefore, in an exchange there can only be an imbalance, more and more
+accentuated according to productivity, because this means that :
+
+more Work done flows from the supplier to the consumer,
+less Money flows in the opposite direction.
+However, when the price of a Product decreases due to higher Work, the consumer
+keeps an additional quantity of Money equal to this decrease in price. The result is
+that :
+
+
+PDF PAGE 189
+189
+cheques, bills of exchange, drafts, action coupons, magnetic
+or optical supports (tapes, discs, CDs, DVDs, etc.) in the
+clearing houses, etc..,
+
+the complexity (c) must be understood as the inertia that a
+Product presents at the change in speed of execution of the
+labour. In fact, as we have seen above, the labour required
+to produce a Product can be performed at different speeds.
+However, it's certain that some Products will be more
+easily modified and transformed than others. A piece of
+hardened steel is much more difficult to machine than the
+same piece of annealed steel, a piece of Quercy oak than a
+piece of Landes pine,
+
+the Utility of the Product (UP) (which can be both objective
+and subjective, accurate and erroneous) must be considered
+in its most general meaning and be placed in the exclusive
+framework of the exchanges. Conventionally, the notion of
+“marginal utility” is commonly used but has absolutely no
+purpose in this paper for the reason developed in the
+chapter “Prolegomena” and is therefore not used. Utility
+should be taken, in this study, in the sense of Walras, as
+already explained in the chapter “Prolegomena”.
+If an individual acquires any Product, it necessarily has a
+certain Utility, which may be higher or lower. For himself,
+the Utility of use of the Product may be nil, but it may be
+very high if he wishes to give it as a gift. The following
+example is in line with what has just been said. A few years
+ago, dummy car telephone antennas were offered for sale
+despite their null technical utility, but whose Utility for the
+consumer's vanity could be very high.
+Someone will buy an object for its Utility as a tool, such as
+a knife, a trowel or a pair of straps, but he may acquire
+another object for its Food, Gastronomic or Taste Utility.
+Someone else may purchase a Product for its Visual Beauty
+Utility such as a work of art. A third person may purchase a
+pleasure trip to the islands for its relaxing and scenic
+
+
+PDF PAGE 201
+201
+meter scale. The basic operation can be considered as the climbing of a ladder but
+also as the climbing of a single rung. In the first case, the value of the elementary
+operation varies with the height of the building, whereas it's constant in the
+second case, because here it's the number of operations that changes. In everyday
+life, when faced with such a case, the elementary operation is always chosen, with
+a view to simplification, as large as possible but still small enough to be
+compatible with the validity of the results obtained. For example, during the
+Middle Ages, an elementary operation was defined as the area ploughed in one
+day and named journal, working day, etc. In physics we know that at the
+microscopic level phenomena are discontinuous but they are considered
+continuous at the macroscopic level. It is the same in the case that interests us
+here.
+Fundamental principles of economic dynamics
+It is obvious that, in order to vary these speeds, it's imperative to exert Force. The
+greater the Force (accelerating or decelerating the speed at which the labour is
+done and the price is formed), the greater the variation in speed will be. In fact,
+no one can dispute the fact requiring :
+
+on the one hand, that a supplier always exerts a Force,
+whatever the means (individuals, employees, slaves,
+animals, engines and machines) to accelerate the speed of
+execution of the labour,
+
+on the other hand, that a consumer always exerts a pressure,
+a Force on the supplier to lower the price, thus slowing
+down the speed at which that price is formed.
+In addition, these Forces will be a function of the inertia of the Product at its
+speed change. Consequently, by applying :
+c P = complexity of the Product
+c A = complexity of the Cash
+FP = Force, due to the supplier, relating to the execution of the labour 
+F A = Force, due to the consumer, relating to the formation of the price 
+it's possible to apply for the following respective entries :
+F p=c p.γω
+‹04-05›
+and :
+
+
+PDF PAGE 202
+202
+F p=c p.γϖ
+‹04-06›
+and to admit that these relations represent the Fundamental Principles of
+economic dynamics in the same way as in physics the relation :
+F=m ⋅γ
+is admitted as representing the Fundamental Principle of mechanical dynamics.
+As this gives unquestionably correct results in the physical domain, it's not absurd
+but logical that it should be the same in the case which concerns us here, i.e. in
+Economics for the explanation of exchanges.
+Complexity of the Product - Complexity of the Cash
+Throughout the study and in general, there is often no difference between the
+complexity of the Product and the complexity of the Cash. This simplification
+means that they would be equal, which isn't true. The complexity of the Product
+is relative to only one type of Product among many others, whereas the
+complexity of Cash is relative to the whole economic system in which it
+circulates. The complexity of Cash is identical wherever the transformation takes
+place. For example, it's identical in Strasbourg, Quimper, Arras, Rodez, etc. It is
+therefore necessary to discriminate between these complexities by posing:
+c P = complexity of the Product
+c A = complexity of Cash
+However, for the sake of clarification it's generally not stipulated which of these
+two complexities is involved. In calculations relating to a single transformation,
+this doesn't change anything, except to replace the letter c by c P or by c A
+depending on the transformation considered (T →M or M →T). 
+In the simultaneous calculations relating to both transformations (association of
+T →M and M →T transformations), it would obviously be necessary to
+introduce a c P
+c A
+ ratio without calling into question the judgement on the relevance
+(good or bad) of this dynamic approach.
+
+
+PDF PAGE 203
+203
+Work – Money
+Moreover, the Work spent will, of course, be a function of the intensity of the
+Force that will cause the variation in the amount of labour done. The greater the
+amount of labour done per unit of time, i.e. the faster it's done, the greater the
+Work will be. As said before, this Work is performed by an individual as well as
+by an animal or even by a motor or machine. The Work, as defined below,
+represents the sum of the different Works done by all possible means. Therefore,
+the total Work may increase and that of Human may decrease, because that
+performed by machines is increased in greater proportions. This is the case that
+generally occurs at the present time, i.e. since the industrial revolution.
+Consequently, by posing :
+T = Work for economic purposes
+it's possible to write :
+dT=FP⋅dl
+‹04-07›
+It must be made clear here that the Work defined by this relationship must be
+considered as economically useful Work and not taken, either in its usual and
+vehicular sense or as in the physical science. This Work is that which is capable of
+causing a variation in the speed of execution of the labour and, consequently, a
+possible variation in the speed of price formation. This is why this Work is
+designated by the letter T and not by the letter W (Work), as these two Works
+don’t have the same analytical definition (in spite of their similarity) and, above
+all, don’t have the same value. In fact, in reality, physical Work (W) is always
+superior to the economically useful Work (T) discussed in this study (chapter
+“Link Heat Consumed → Money Created”).
+It can be seen that if the speed of execution of the labour doesn't vary, the Work
+done (Economic Work) is zero, which may puzzle more than one reader not
+accustomed to mechanical reasoning, although the physical work can be very
+important. In fact, it's quite logical to say that if the labour is carried out at a
+constant speed, there is no additional Work done to accelerate this speed, i.e. to
+increase productivity. Consequently, an agent (individual in the strict sense of the
+word, association, administration, company, etc.) who doesn't accelerate the speed
+at which the Product is produced (increase in productivity) doesn't work in the
+economic sense of the word, since it cannot cause any reduction in the price of
+the product and therefore no increase in the purchasing power of consumers, i.e.
+it cannot generate any increase in monetary wealth (Rm). However, it's clear that
+
+
+PDF PAGE 187
+187
+or other, etc., i.e. both a natural person and a legal entity,
+capable of either acquiring, processing or selling any
+Product (definition below). The verb to transform means to
+elabourate, to manufacture, to build as well as to consume,
+to use, to destroy. The fact that the verbs acquire and sell
+can be condensed by the verb exchange, shows that this
+discrimination is relative to the position of the agent
+(observer) to whom one refers (consumer or supplier),
+
+the Product represents any object, merchandise, product,
+good or service that an economic agent (as defined above)
+can either acquire, transform or sell. It can be raw
+materials, semi-finished products, manufactured objects,
+agricultural products, any goods, services, etc., provided
+that they can be either acquired, transformed or sold. In
+conventional microeconomics, the Product can be related
+to the “good”. The Product must be considered as the
+vector-support of Work, in the same way as in
+thermodynamics, gas is considered as the vector-support of
+heat,
+
+Cash is represented by banknotes, coins, gold and silver
+metal, cheques, credit cards, as well as shells (cowries), salt
+bars, feathers, teeth, nuggets of native copper in so-called
+“primitive” societies, etc., i.e. by everything that can be
+considered as containing an exchange value, a monetary
+value, of the Money. It should be noted that the inscription
+of a line of bank credit should not be considered as Money
+but only as Cash. In fact, the beneficiary of this line of
+credit will use notes, cheques, drafts, etc. to pay for his
+purchases in the same way as if he had possessed through
+him the quantity of Money corresponding to his credit.
+Cash must be considered as the vector-support of the
+Money, in the same way that in thermodynamics, gas is
+considered as the support vector of heat,
+
+labour (l) must be understood as the thing to be done, the
+task, the job to be done. It is constant for a given Product
+and manufacturing method. In fact, it's generally considered
+
+
+PDF PAGE 199
+199
+whose integrations return, for a constant speed (analogous in mechanics to the
+“Uniform Rectilinear Movement”):
+l=−ω.t+C
+and :
+p=ϖ.t +C
+By posing:
+C = labour to be carried out for purchase
+and :
+C = price at purchase
+ω.t= task done (added)
+and :
+ϖ .t = Valeur added
+we can say that:
+1.
+the labour to be done (l) at any given moment is equal to
+the labour to be done (C) at the initial moment (at
+purchase) minus the task (ω.t) already done at that
+moment;
+2.
+the price (p) at any given moment is equal to the initial (for
+purchase) price (C) plus the Value Added (ϖ .t) at that
+moment,
+which corresponds perfectly to the analysis of daily reality, but if :
+ω.t= task done (added) ⇒  −ω.t = task to be done (to be added) 
+Speed variation
+However, these two speeds (of labour execution and price formation), which
+have just been defined, can obviously vary over time, i.e. increase (acceleration)
+or decrease (deceleration).
+Consequently, by posing :
+γω= variation in the speed of execution of the labour to be done
+(gain or loss of productivity)
+γϖ= change in the speed of price formation (enrichment or
+impoverishment, inflation or deflation)
+
+
+PDF PAGE 200
+200
+The analytical discrimination between the possibilities of evolution
+(enrichment or impoverishment, inflation or deflation) will be given later.
+It is possible to write respectively :
+  
+γω=d ω
+dt =−d²l
+dt ²
+and :
+ωϖ=d ω
+dt =d ² p
+dt ²
+ ‹04-03› ‹04-04›
+or :
+d ²l=−γ ω.dt ²
+and :
+d ² p=γ ϖ.dt ²
+whose integrations return, for a uniformly varied speed (analogous in
+mechanics to the “Rectilinear Uniformly Varied Movement”, i.e. with γ
+constant) :
+l=−ω.t ∓1
+2 .γ ω.t ²+C
+and :
+p=ϖ.t ± 1
+2 .γ ϖ.t ²+C
+With :
+−γ ω= gain of productivity
+and :
++γϖ= impoverishment or inflation
++γω= loss of productivity
+and :
+−γ ϖ= enrichment or deflation
+As a general rule, the variations (increase and decrease) of these speeds don’t
+occur continuously but in a jerky manner, which doesn't call into question the
+path of reasoning. Taking the example of the chair, the speed of execution of the
+labour on the seat and backrest upholstery can vary at once between two copies of
+the Product as well as the speed of formation of the price of these elements, but
+the integration of these relations taken between the beginning and the end of the
+complete manufacture of the chair will always give a correct average value
+between the considered bounds (beginning and end of execution of the chair).
+Moreover, it's logically for ease that a manufacturer will change the price all at
+once, but in reality this increase could be broken down into small parts, each
+applying to a small operation that can be called “elementary operation”. By
+considering the elementary operation to be small enough, it's possible to consider
+the evolution as continuous (the phenomenon can be compared to physics where
+on a macroscopic scale the phenomenon is considered continuous whereas it's
+discontinuous, quantified on a microscopic scale).
+For example, consider a roofer. For the construction of a single-storey dwelling
+house he can use a 3.5-meter scale and for a two-storey building he can use a 7-
+
+
+PDF PAGE 207
+207
+Energy
+Replacing the Forces in the two relationships (04-09 and 04-10) above by their
+value (relationships 04-05 and 04-06), we obtain respectively :
+dT=−cP.γ ω.dB
+and :
+dM=−c A.γ ϖ.dV
+By replacing the speed variations ( γωand γϖ) in the two relations above by their
+value (relations 04-03 and 04-04), we obtain respectively :
+dT=−cP. d ω
+dt .dB
+and: dM=−c A. d ϖ
+dt .dV
+‹04-11› ‹04-12›
+that it's possible to write :
+dT=−cP. dB
+dt .dω
+and: dM=−c A. d V
+dt .d ϖ
+By replacing the ratios dB/dt (dl/dt) and dV /dt (dp/dt) by their values
+(relations 04-01 and 04-02), we obtain respectively :
+dT=cP.ω.d ω
+and: dM=−c A.ϖ.d ϖ
+‹04-13› ‹04-14›
+After integration, these relationships give respectively :
+T=1
+2 .cP.ω²
+and: M=−1
+2 .c A.ϖ ²
+‹04-15› ‹04-16›
+Considering the constant zero, these relations represent the respective kinetic
+energies of Work and Money (see chapter “Basic Principles”). The presence of the
+negative sign (-) in the relation giving the Money is perfectly logical. Indeed, the
+slower the speed (ϖ) of price formation, the higher the Money held by the
+consumer.
+Employment - Purchasing power
+
+
+PDF PAGE 208
+208
+By taking the above relations 04-13 and 04-14, when the speeds (ω and ϖ) are
+constant, by definition:
+d ω=0
+and :
+d ϖ=0
+which implies that :
+dT=0
+and :
+dM=0
+Consequently, by posing:
+e = employement of the supplier 
+and : 
+a = purchasing power of the consumer
+it makes perfect sense to write :
+e=cP⋅ω
+and :
+a=−cA⋅ϖ
+‹04-17› ‹04-18›
+If the speed (relation 04-01, ω = −dl/dt) of the labour to be done (l)
+increases, it means that the labour to be done decreases. The faster this labour
+decreases, the more important is the job (e). Similarly, if the speed (relation 04-
+02, ϖ = dp/dt) is slow, the higher the purchasing power (a) is. Moreover :
+
+Work is zero (neither created nor destroyed) when the
+labour is done at a constant speed and therefore the
+supplier's employment obviously remains constant,
+
+Money is nil (neither created nor destroyed) when the price
+is formed at constant speed and therefore the consumer's
+purchasing power obviously remains constant itself.
+Note
+It should be noted that it's usually convenient to measure purchasing power by
+saying that it takes x hours of average salary to acquire such a Product. From this
+“definition” it's possible to pose :

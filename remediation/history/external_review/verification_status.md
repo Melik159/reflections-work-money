@@ -1,0 +1,22 @@
+# Final verification
+
+{
+  "checks": {
+    "24_core_unique": true,
+    "26_variables_unique": true,
+    "120_tests_classified": true,
+    "14_conclusions": true,
+    "4_candidates": true,
+    "findings_have_evidence": true,
+    "core_have_source_context": true,
+    "all_frozen_files_unchanged_before": true,
+    "verify_exit_zero": true,
+    "all_frozen_files_unchanged_after": true
+  },
+  "review_checks_pass": 10,
+  "review_checks_fail": 0,
+  "verify_exit": 0,
+  "frozen_files": 54,
+  "verification_log": "external_review/final_verify.log",
+  "note": "Review structural checks are not scientific proofs."
+}

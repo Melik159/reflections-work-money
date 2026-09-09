@@ -1,0 +1,13 @@
+{
+ "hypothesis":"HYP-0002",
+ "old_statement":"Une productivité accrue transmet une baisse de coût au prix payé par le consommateur.",
+ "new_statement":"Dans la branche à profit absolu par opération inchangé et produit comparable, une baisse du coût consécutive à l’accélération est transmise au prix; le prix maintenu constitue une autre branche.",
+ "old_refutation":"Coût réduit sans baisse de prix : réfute transmission automatique, pas la seule possibilité productive.",
+ "new_refutation":"Violation de la relation coût-prix après observation indépendante des conditions de la branche; un prix maintenu avec profit accru est prévu par un autre scénario, pas une réfutation du corpus.",
+ "reason":"Ne pas tester contre Campergue une transmission automatique qu’il nuance lui-même.",
+ "source_document":"Reflections_PierreCampergue.pdf",
+ "source_pages":[20,21,503,504,505,506],
+ "source_mechanisms":["PM-04","PM-05"],
+ "empirical_status":"PROPOSED_NOT_EXECUTED",
+ "data_assessment":"NOT_IDENTIFIABLE_WITH_CURRENT_DATA"
+}

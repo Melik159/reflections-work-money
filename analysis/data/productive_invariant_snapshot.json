@@ -1,0 +1,25 @@
+{
+  "conditions": {
+    "PM-01": "Même Product et méthode; cP défini",
+    "PM-02": "ω constante; mesure de variation dT, pas suppression du travail physique",
+    "PM-03": "Même tâche; coût horaire20$, autres facteurs constants",
+    "PM-04": "Coût réduit, prix de vente fixé par entrepreneur",
+    "PM-05": "Profits par opération inchangés; Seller puis Transformer; variations régulières",
+    "PM-06": "Baisse de prix préalable; même achat; supplément conservé",
+    "PM-07": "Transformation spécifiée; utilités initiale/finale, rP et gamma",
+    "PM-08": "rP fixe; FA ou p ou UP constant",
+    "PM-09": "rA fixe; FP ou labour ou UA constant",
+    "PM-10": "Pas de transfert avec Buyer/Seller; évolution quasi statique",
+    "PM-11": "Deux transformations appréhendées ensemble; conventions de signe et réversibilité",
+    "PM-12": "Exemple stylisé France/Chine; seul prix d’énergie multiplié par10",
+    "PM-13": "Labour réparti entre moyens; coûts comparés",
+    "PM-14": "Baisse de prix et création déjà identifiées; émission calibrée",
+    "PM-15": "Pertes distinguées selon fonction sociale",
+    "PM-16": "Branches incohérentes, coefficients gTM/gMT variables",
+    "PM-17": "Deux copies comparables; coût temporel constant",
+    "PM-18": "Même convention de mesure, individus/salariés/animaux/machines",
+    "PM-19": "Trajectoire d’un exemplaire distinguée de comparaison de copies",
+    "PM-20": "Utility peut être subjective/erronée; rP dépend de complexité/quantité"
+  },
+  "policy": "Change allowed only with old/new condition, new source and justification; do not silently delete branches."
+}

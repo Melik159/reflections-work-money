@@ -1,0 +1,873 @@
+[
+  {
+    "id": "CPC-0001",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 2,
+      "pages": [
+        2,
+        3
+      ],
+      "quotation": "The key question is therefore to understand how the increase in living standards has led to these environmental damages, or how we have moved from a subsistence society to an affluent society.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Comprendre le passage de la subsistance à l’abondance et les dommages environnementaux associés à la hausse du niveau de vie.",
+    "closest_existing_framework": "living standards, environmental accounts",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": false,
+    "difference": "Programme transversal utile, pas nouvelle variable ou réponse causale par la question seule",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "PARTIAL_PARALLEL",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Programme transversal utile, pas nouvelle variable ou réponse causale par la question seule",
+    "sources": [
+      "CBIB-05",
+      "BIB-0004"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0003",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "quotation": "similar, but not identical, to the energy transformations of heat into work.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "L’étude compare la transformation du travail en monnaie à celle de la chaleur en travail, en les distinguant.",
+    "closest_existing_framework": "useful work / energy-growth; physical analogy",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": false,
+    "difference": "Deux domaines distingués; équivalence économique demande plus que parallèle physique",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "PARTIAL_PARALLEL",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Deux domaines distingués; équivalence économique demande plus que parallèle physique",
+    "sources": [
+      "CBIB-02",
+      "BIB-0017"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0005",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 12,
+      "pages": [
+        12
+      ],
+      "quotation": "any variation in the number of monetary units can only derive from a human will and induces absolutely no overall change in the wealth of the system.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Le manuscrit affirme que modifier seulement le nombre d’unités, sans Work productif, ne crée pas de richesse globale; il distingue cependant émission accompagnant une création, inertie et évolutions incohérentes.",
+    "closest_existing_framework": "nominal/real adjustment; bank credit",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": false,
+    "difference": "Nominal seul ne prouve pas gain réel; conditions de crédit et horizon non réductibles à identité",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "PARTIAL_PARALLEL",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Nominal seul ne prouve pas gain réel; conditions de crédit et horizon non réductibles à identité",
+    "sources": [
+      "CBIB-01",
+      "BIB-0001"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0009",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 14,
+      "pages": [
+        14
+      ],
+      "quotation": "only work generates change, all other criteria are inoperative.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Seul le travail engendre un changement.",
+    "closest_existing_framework": "causal production mechanisms / technical change",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": false,
+    "difference": "Exclusivité Work risque de devenir définitionnelle; distinguer changement technique, demande et institutions",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Exclusivité Work risque de devenir définitionnelle; distinguer changement technique, demande et institutions",
+    "sources": [
+      "BIB-0002"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0010",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 15,
+      "pages": [
+        15
+      ],
+      "quotation": "M=n.u",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Money est défini comme le nombre d’unités multiplié par la valeur de l’unité.",
+    "closest_existing_framework": "nominal balance times purchasing power per unit",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": false,
+    "difference": "Identité multiplicative; contenu de u et M doit être fixé avant équivalence à real balances",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "RECOMBINATION_OF_KNOWN_CONCEPTS",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Identité multiplicative; contenu de u et M doit être fixé avant équivalence à real balances",
+    "sources": [
+      "CBIB-01",
+      "BIB-0008"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0012",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 17,
+      "pages": [
+        17
+      ],
+      "quotation": "any variation in the number of monetary units automatically and inexorably generates the same inverse variation in the value of the unit, implying the impossibility of creating money.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "À Money global constant (hypothèse 1, possibilité 2), la variation de n est compensée inversement par u; l’attribution du crédit à cette branche et son extension finale sont des thèses distinctes.",
+    "closest_existing_framework": "conditional quantity-price adjustment",
+    "same": "ONLY_IF_DOMAIN_AND_MEANING_MATCH",
+    "partly_same": true,
+    "substantively_different": false,
+    "difference": "Compensation inverse sous M constant est algébrique; attribution du crédit demeure proposition séparée",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "KNOWN_WITH_DIFFERENT_TERMINOLOGY",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Compensation inverse sous M constant est algébrique; attribution du crédit demeure proposition séparée",
+    "sources": [
+      "CBIB-01",
+      "BIB-0001"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0015",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 19,
+      "pages": [
+        19
+      ],
+      "quotation": "The Money is what a consumer holds in addition after a price drop.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Money créé désigne le supplément détenu par le consommateur après une baisse de prix.",
+    "closest_existing_framework": "fixed-basket spending saving vs surplus",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": false,
+    "difference": "Budget restant connu; désigner cette quantité création de Money ne crée pas nouvelle observation",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "RECOMBINATION_OF_KNOWN_CONCEPTS",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Budget restant connu; désigner cette quantité création de Money ne crée pas nouvelle observation",
+    "sources": [
+      "BIB-0008",
+      "CBIB-08",
+      "CBIB-10"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0016",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 19,
+      "pages": [
+        19
+      ],
+      "quotation": "Additional work of the supplier ⇒ increased productivity ⇒ price decline ⇒ increase of monetary unit ⇒ creation of money ⇒ additional money of the consumer.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Le mécanisme productif proposé relie Work supplémentaire, productivité et baisse de prix à Money accru : u augmente à n constant (3a), ou n est ensuite ajusté pour stabiliser u (4a).",
+    "closest_existing_framework": "process innovation / pass-through / real income",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": false,
+    "difference": "Chaîne productive parallèle; bilans Work/Money additionnels et branches de compensation à préserver",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "PARTIAL_PARALLEL",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Chaîne productive parallèle; bilans Work/Money additionnels et branches de compensation à préserver",
+    "sources": [
+      "CBIB-02",
+      "CBIB-06"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0017",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 19,
+      "pages": [
+        19
+      ],
+      "quotation": "this increase in productivity necessarily requires the execution of additional Work",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Une hausse de productivité exige nécessairement un travail supplémentaire assimilé ici à une énergie.",
+    "closest_existing_framework": "productivity measurement / substitution of inputs",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": true,
+    "difference": "Nécessité de Work énergétique supplémentaire plus restrictive que simple gain de productivité; T sans mesure indépendante",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "DISTINCT_FORMAL_RESTRICTION",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Nécessité de Work énergétique supplémentaire plus restrictive que simple gain de productivité; T sans mesure indépendante",
+    "sources": [
+      "BIB-0002",
+      "CBIB-02",
+      "CBIB-11"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0022",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 22,
+      "pages": [
+        22
+      ],
+      "quotation": "SUPPLEMENTARY WORK performed by the supplier is TRANSFORMED into SUPPLEMENTARY MONEY held by the consumer.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "L’auteur postule la transformation du travail supplémentaire du fournisseur en Money supplémentaire du consommateur.",
+    "closest_existing_framework": "producer/consumer gain and surplus incidence",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": true,
+    "difference": "Conversion entre Work fournisseur et Money consommateur non identité comptable standard",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "DISTINCT_FORMAL_RESTRICTION",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Conversion entre Work fournisseur et Money consommateur non identité comptable standard",
+    "sources": [
+      "CBIB-06",
+      "BIB-0003"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0023",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 22,
+      "pages": [
+        22
+      ],
+      "quotation": "the decrease (destruction) of the Work to be done is compensated by the increase (creation) of the Money generated and vice versa",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Dans un système isolé, la baisse du travail restant à faire compense la hausse de Money créé.",
+    "closest_existing_framework": "consolidated balances / conservation",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": true,
+    "difference": "Conservation dT+dM dans domaine isolé est restriction économique ajoutée, non double entrée standard",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "DISTINCT_FORMAL_RESTRICTION",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Conservation dT+dM dans domaine isolé est restriction économique ajoutée, non double entrée standard",
+    "sources": [
+      "BIB-0003",
+      "BIB-0017"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0032",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 31,
+      "pages": [
+        31
+      ],
+      "quotation": "the Economy of Work naturally always increases towards a maximum, limited by external constraints",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "L’économie de travail augmente vers un maximum sous contraintes externes.",
+    "closest_existing_framework": "constrained optimisation / efficiency",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": false,
+    "difference": "Existence de contraintes et recherche de gain connues; fonction objectif et domaine particuliers restent à définir",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "PARTIAL_PARALLEL",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Existence de contraintes et recherche de gain connues; fonction objectif et domaine particuliers restent à définir",
+    "sources": [
+      "BIB-0002",
+      "BIB-0006"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0033",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 31,
+      "pages": [
+        31
+      ],
+      "quotation": "the Economy of Money naturally always increases towards a maximum, limited by external constraints.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "L’économie de Money augmente vers un maximum sous contraintes externes.",
+    "closest_existing_framework": "constrained consumer optimisation",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": false,
+    "difference": "Recherche de gain parallèle; Money différent de l’utilité maximisée ou du budget",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "PARTIAL_PARALLEL",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Recherche de gain parallèle; Money différent de l’utilité maximisée ou du budget",
+    "sources": [
+      "CBIB-03",
+      "CBIB-08"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0035",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 32,
+      "pages": [
+        32
+      ],
+      "quotation": "The second hypothesis therefore requires more Work than the first (about 78% more).",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "closest_existing_framework": "quadratic speed-energy relation / process engineering",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": true,
+    "difference": "+78% conditionné à loi quadratique, cp et tâche fixes; pas règle générale de productivité",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "DISTINCT_FORMAL_RESTRICTION",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "+78% conditionné à loi quadratique, cp et tâche fixes; pas règle générale de productivité",
+    "sources": [
+      "BIB-0017",
+      "BIB-0002"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0039",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 35,
+      "pages": [
+        35
+      ],
+      "quotation": "Economic Work and Money are logically considered two different forms of Economic Energy",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Economic Work et Money sont posés comme deux formes d’énergie économique.",
+    "closest_existing_framework": "physical energy accounts vs economic values",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": true,
+    "difference": "Deux formes d’énergie économique proposées; elles ne sont ni unités physiques ni valeurs ajoutées par traduction",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "DISTINCT_FORMAL_RESTRICTION",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Deux formes d’énergie économique proposées; elles ne sont ni unités physiques ni valeurs ajoutées par traduction",
+    "sources": [
+      "CBIB-02",
+      "BIB-0003"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0040",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 35,
+      "pages": [
+        35
+      ],
+      "quotation": "only the Work to be done must be taken into account and not the Work performed.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Le modèle doit compter le travail à effectuer et non le travail déjà effectué.",
+    "closest_existing_framework": "remaining task / inventories / state and flow accounting",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": true,
+    "difference": "Tâche restante plutôt qu’activité cumulée modifie le référent; bénéfice possible de séparation, pas nouveauté historique établie",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "DISTINCT_DECOMPOSITION",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Tâche restante plutôt qu’activité cumulée modifie le référent; bénéfice possible de séparation, pas nouveauté historique établie",
+    "sources": [
+      "BIB-0002",
+      "BIB-0003"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0041",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 35,
+      "pages": [
+        35
+      ],
+      "quotation": "the Product as the vector-support of the economic Work,",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Product supporte Work et Cash supporte Money.",
+    "closest_existing_framework": "goods/services and payment instruments",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": false,
+    "difference": "Couplage support/grandeur synthétique; pont Work/Money perdu si supports seuls remplacent toute construction",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "RECOMBINATION_OF_KNOWN_CONCEPTS",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Couplage support/grandeur synthétique; pont Work/Money perdu si supports seuls remplacent toute construction",
+    "sources": [
+      "BIB-0003",
+      "BIB-0020"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0043",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 36,
+      "pages": [
+        36
+      ],
+      "quotation": "M=g.T",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Le principe d’équivalence est écrit M=g.T.",
+    "closest_existing_framework": "conversion coefficient / production mapping",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": true,
+    "difference": "g constant serait restriction; g=M/T recalculé serait ratio résiduel; aucun équivalent universel",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "DISTINCT_FORMAL_RESTRICTION",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "g constant serait restriction; g=M/T recalculé serait ratio résiduel; aucun équivalent universel",
+    "sources": [
+      "BIB-0002",
+      "BIB-0015"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0045",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 36,
+      "pages": [
+        36
+      ],
+      "quotation": "dM=−F.dp",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Le différentiel de Money est défini par dM=-F.dp.",
+    "closest_existing_framework": "marginal budget effect / expenditure derivative",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": false,
+    "difference": "Ressemble à −q dp seulement si Force est identifiée à demande compensée, ce qui n’est pas établi",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "PARTIAL_PARALLEL",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Ressemble à −q dp seulement si Force est identifiée à demande compensée, ce qui n’est pas établi",
+    "sources": [
+      "CBIB-08",
+      "BIB-0008",
+      "CBIB-10"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0046",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 184,
+      "pages": [
+        184
+      ],
+      "quotation": "Money as the value of Cash,",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Money est la valeur de Cash, lequel en est le support.",
+    "closest_existing_framework": "real balances and monetary instruments",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": false,
+    "difference": "Valeur/support se recoupe avec distinctions usuelles; définition de Money reste contextualisée",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "RECOMBINATION_OF_KNOWN_CONCEPTS",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Valeur/support se recoupe avec distinctions usuelles; définition de Money reste contextualisée",
+    "sources": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0048",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 185,
+      "pages": [
+        185
+      ],
+      "quotation": "It never takes into account the assets that an economic agent",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Wealth désigne exclusivement la quantité de Money, sans inclure les actifs patrimoniaux.",
+    "closest_existing_framework": "monetary resources vs total net worth",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": true,
+    "difference": "Restriction explicite au Money exclut patrimoine; nouveau périmètre de mot, pas diagnostic inédit du PIB",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "DISTINCT_DECOMPOSITION",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Restriction explicite au Money exclut patrimoine; nouveau périmètre de mot, pas diagnostic inédit du PIB",
+    "sources": [
+      "BIB-0003",
+      "CBIB-04",
+      "CBIB-05"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0051",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 187,
+      "pages": [
+        187,
+        188
+      ],
+      "quotation": "labour (l) must be understood as the thing to be done, the task, the job to be done. It is constant for a given Product and manufacturing method.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Labour désigne la tâche, constante pour un produit et une méthode de fabrication donnés.",
+    "closest_existing_framework": "task input vs human hours",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": false,
+    "difference": "Même tâche peut être effectuée par machine: ne pas traduire labour automatiquement par travail salarié",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "PARTIAL_PARALLEL",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Même tâche peut être effectuée par machine: ne pas traduire labour automatiquement par travail salarié",
+    "sources": [
+      "BIB-0002",
+      "CBIB-11"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0052",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 188,
+      "pages": [
+        188
+      ],
+      "quotation": "for a constant labour, the Work varies according to its speed of execution.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Pour une tâche constante, Work dépend de sa vitesse d’exécution.",
+    "closest_existing_framework": "process productivity and rate of execution",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": true,
+    "difference": "Dépendance de T à vitesse et interprétation différentielle particulières; ne se réduit pas à TFP",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "DISTINCT_FORMAL_RESTRICTION",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Dépendance de T à vitesse et interprétation différentielle particulières; ne se réduit pas à TFP",
+    "sources": [
+      "BIB-0002",
+      "BIB-0017",
+      "CBIB-11"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  },
+  {
+    "id": "CPC-0053",
+    "kind": "CORE_CLAIM",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 188,
+      "pages": [
+        188
+      ],
+      "quotation": "the Money (M) is defined as the measure of the value of Cash",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "what_campergue_claims": "Money mesure la valeur de Cash ; cette valeur varie dans le temps et selon le lieu.",
+    "closest_existing_framework": "purchasing power across time/place",
+    "same": "NOT_EXACTLY",
+    "partly_same": true,
+    "substantively_different": false,
+    "difference": "Temporalité et géographie connues; panier et support économique pas encore mesure universelle",
+    "different_observable_consequence": "Not established independently of definitions/calibration",
+    "different_prediction": false,
+    "contribution_status": "PARTIAL_PARALLEL",
+    "historical_novelty_status": "HISTORICAL_NOVELTY_UNRESOLVED",
+    "potential_usefulness": "Temporalité et géographie connues; panier et support économique pas encore mesure universelle",
+    "sources": [
+      "BIB-0008",
+      "CBIB-01"
+    ],
+    "originality_asserted": false,
+    "value": {
+      "CONCEPTUAL_CLARITY": "POSSIBLE",
+      "MEASUREMENT_VALUE": "UNDETERMINED",
+      "EMPIRICAL_VALUE": "UNDETERMINED",
+      "DECISION_VALUE": "UNDETERMINED"
+    },
+    "scope": "First comparison, not exhaustive historical priority search"
+  }
+]

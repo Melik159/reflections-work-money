@@ -1,0 +1,29 @@
+{
+  "findings": {
+    "CLOSED_WITH_RESIDUAL_UNCERTAINTY": 8,
+    "CLOSED": 4
+  },
+  "core": {
+    "CONFIRMED": 9,
+    "QUALIFIED": 14,
+    "UNDETERMINED": 1
+  },
+  "questions": {
+    "OPEN": 29,
+    "PARTIALLY_RESOLVED": 18,
+    "AMBIGUOUS": 6
+  },
+  "traceability": {
+    "COMPLETE": 13,
+    "PARTIAL": 1
+  },
+  "contributions": {
+    "SURVIVES_QUALIFIED": 4
+  },
+  "methodology": {
+    "PARTIALLY_SATISFIED": 4,
+    "AMBIGUOUS": 1,
+    "SATISFIED": 1,
+    "NOT_SATISFIED": 1
+  }
+}

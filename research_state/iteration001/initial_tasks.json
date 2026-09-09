@@ -1,0 +1,372 @@
+[
+  {
+    "id": "ITER001-P0-01",
+    "priority": "P0",
+    "topic": "Money / référents / PIB / valeur ajoutée",
+    "question": "Quel registre exclut doubles comptes, frontières et dates incompatibles dans le raccord Money–PIB ?",
+    "related_rq": [
+      "RQ-06.01",
+      "RQ-06.03",
+      "RQ-09.03"
+    ],
+    "related_claims": [
+      "CPC-0010",
+      "CPC-0016",
+      "CPC-0046",
+      "CPC-0118"
+    ],
+    "roles": [
+      "AGENT-CORPUS",
+      "AGENT-MONEY",
+      "AGENT-MEASUREMENT",
+      "AGENT-ADVERSARIAL",
+      "AGENT-EVIDENCE"
+    ],
+    "pages_hint": [
+      15,
+      19,
+      187,
+      204,
+      205,
+      468,
+      559
+    ],
+    "data_needed": [
+      "Registre transactions/production/paiement et étalon Money"
+    ],
+    "status": "RUNNING",
+    "created_from": "Instruction humaine; baseline figée; prolongement des cycles historiques 001–003",
+    "expected_output": "Quatre portes admissibilité du raccord"
+  },
+  {
+    "id": "ITER001-P0-02",
+    "priority": "P0",
+    "topic": "T et cp : mesure indépendante",
+    "question": "Quelles données minimales rendraient un exposant quadratique réfutable sans réestimer cp sur le test ?",
+    "related_rq": [
+      "RQ-03.03",
+      "RQ-04.02"
+    ],
+    "related_claims": [
+      "CPC-0035",
+      "CPC-0052",
+      "CPC-0054",
+      "CPC-0066"
+    ],
+    "roles": [
+      "AGENT-CORPUS",
+      "AGENT-FORMAL",
+      "AGENT-MEASUREMENT",
+      "AGENT-ADVERSARIAL",
+      "AGENT-EVIDENCE"
+    ],
+    "pages_hint": [
+      32,
+      189,
+      201,
+      202,
+      203
+    ],
+    "data_needed": [
+      "Indication T/Force indépendante et calibration cp"
+    ],
+    "status": "OPEN",
+    "created_from": "Instruction humaine; baseline figée; prolongement des cycles historiques 001–003",
+    "expected_output": "Protocole exposant et règle arrêt pour circularité"
+  },
+  {
+    "id": "ITER001-P0-03",
+    "priority": "P0",
+    "topic": "Utility : échelle et observabilité",
+    "question": "Une échelle de rapport par agent suffit-elle à un rendement entre agents ?",
+    "related_rq": [
+      "RQ-05.03",
+      "RQ-04.04"
+    ],
+    "related_claims": [
+      "CPC-0055",
+      "CPC-0057",
+      "CPC-0062",
+      "CPC-0104"
+    ],
+    "roles": [
+      "AGENT-CORPUS",
+      "AGENT-FORMAL",
+      "AGENT-MEASUREMENT",
+      "AGENT-ADVERSARIAL",
+      "AGENT-EVIDENCE"
+    ],
+    "pages_hint": [
+      189,
+      190,
+      193,
+      385,
+      386
+    ],
+    "data_needed": [
+      "Ancrage commun et justification des transformations admissibles"
+    ],
+    "status": "OPEN",
+    "created_from": "Instruction humaine; baseline figée; prolongement des cycles historiques 001–003",
+    "expected_output": "Condition de raccord interagents, test formel conditionnel"
+  },
+  {
+    "id": "ITER001-P0-04",
+    "priority": "P0",
+    "topic": "K : stabilité et agrégation",
+    "question": "Comment décomposer une dérive de K entre recomposition et variation des coefficients ?",
+    "related_rq": [
+      "RQ-08.02",
+      "RQ-09.03"
+    ],
+    "related_claims": [
+      "CPC-0043",
+      "CPC-0044",
+      "CPC-0109",
+      "CPC-0117",
+      "CPC-0118"
+    ],
+    "roles": [
+      "AGENT-CORPUS",
+      "AGENT-FORMAL",
+      "AGENT-MEASUREMENT",
+      "AGENT-ADVERSARIAL",
+      "AGENT-EVIDENCE"
+    ],
+    "pages_hint": [
+      36,
+      526,
+      558,
+      559
+    ],
+    "data_needed": [
+      "Micro coefficients et poids indépendants, dispersion des vitesses"
+    ],
+    "status": "OPEN",
+    "created_from": "Instruction humaine; baseline figée; prolongement des cycles historiques 001–003",
+    "expected_output": "Décomposition exacte conditionnelle avec terme interaction"
+  },
+  {
+    "id": "ITER001-P0-05",
+    "priority": "P0",
+    "topic": "Energy → useful work → Economic Work",
+    "question": "Quelles mesures et interventions séparent conversion physique et effet productif économique ?",
+    "related_rq": [
+      "RQ-09.01",
+      "RQ-09.02",
+      "RQ-12.02"
+    ],
+    "related_claims": [
+      "CPC-0003",
+      "CPC-0017",
+      "CPC-0119",
+      "CPC-0122"
+    ],
+    "roles": [
+      "AGENT-CORPUS",
+      "AGENT-ENERGY",
+      "AGENT-MEASUREMENT",
+      "AGENT-ADVERSARIAL",
+      "AGENT-EVIDENCE"
+    ],
+    "pages_hint": [
+      203,
+      454,
+      455,
+      456,
+      466
+    ],
+    "data_needed": [
+      "Compteurs primaire/finale, travail utile, T/Utility indépendants"
+    ],
+    "status": "OPEN",
+    "created_from": "Instruction humaine; baseline figée; prolongement des cycles historiques 001–003",
+    "expected_output": "Protocole conjoint H1/H2/H3 sans exclusivité"
+  },
+  {
+    "id": "ITER001-P0-06",
+    "priority": "P0",
+    "topic": "Innovation → productivity → growth",
+    "question": "Quels mécanismes innovation procédé/produit/diffusion la vitesse à tâche fixe ne suffit-elle pas à identifier ?",
+    "related_rq": [
+      "RQ-04.01",
+      "RQ-04.03",
+      "RQ-12.01"
+    ],
+    "related_claims": [
+      "CPC-0017",
+      "CPC-0051",
+      "CPC-0052",
+      "CPC-0106",
+      "CPC-0112"
+    ],
+    "roles": [
+      "AGENT-CORPUS",
+      "AGENT-INNOVATION",
+      "AGENT-LITERATURE",
+      "AGENT-ADVERSARIAL",
+      "AGENT-EVIDENCE"
+    ],
+    "pages_hint": [
+      187,
+      188,
+      198,
+      212,
+      490
+    ],
+    "data_needed": [
+      "Dates adoption, qualité, coûts complets, intrants et contrôles"
+    ],
+    "status": "OPEN",
+    "created_from": "Instruction humaine; baseline figée; prolongement des cycles historiques 001–003",
+    "expected_output": "Comparateur primaire et restriction prédictive explicite"
+  },
+  {
+    "id": "ITER001-P0-07",
+    "priority": "P0",
+    "topic": "Destination des gains productifs",
+    "question": "Comment suivre le gain sans compter épargne et dépense ultérieure deux fois ?",
+    "related_rq": [
+      "RQ-10.02",
+      "RQ-07.02"
+    ],
+    "related_claims": [
+      "CPC-0015",
+      "CPC-0084",
+      "CPC-0099",
+      "CPC-0127"
+    ],
+    "roles": [
+      "AGENT-CORPUS",
+      "AGENT-MONEY",
+      "AGENT-ENVIRONMENT",
+      "AGENT-ADVERSARIAL",
+      "AGENT-EVIDENCE"
+    ],
+    "pages_hint": [
+      19,
+      33,
+      400,
+      468,
+      523
+    ],
+    "data_needed": [
+      "Panel budgets, actifs, dettes, prix et dates"
+    ],
+    "status": "OPEN",
+    "created_from": "Instruction humaine; baseline figée; prolongement des cycles historiques 001–003",
+    "expected_output": "Bilan longitudinal du gain, contrefactuel distinct"
+  },
+  {
+    "id": "ITER001-P0-08",
+    "priority": "P0",
+    "topic": "Consommation marginale → énergie / matière",
+    "question": "Quel seuil de réemploi annule une économie physique directe donnée ?",
+    "related_rq": [
+      "RQ-10.02",
+      "RQ-11.02",
+      "RQ-11.03"
+    ],
+    "related_claims": [
+      "CPC-0084",
+      "CPC-0120",
+      "CPC-0127"
+    ],
+    "roles": [
+      "AGENT-CORPUS",
+      "AGENT-ENVIRONMENT",
+      "AGENT-MEASUREMENT",
+      "AGENT-ADVERSARIAL",
+      "AGENT-EVIDENCE"
+    ],
+    "pages_hint": [
+      400,
+      454,
+      459,
+      460,
+      523
+    ],
+    "data_needed": [
+      "Économie physique directe et intensités marginales par destination"
+    ],
+    "status": "OPEN",
+    "created_from": "Instruction humaine; baseline figée; prolongement des cycles historiques 001–003",
+    "expected_output": "Seuil conditionnel et protocole empreinte marginale"
+  },
+  {
+    "id": "ITER001-P0-09",
+    "priority": "P0",
+    "topic": "Dommages environnementaux",
+    "question": "Quelles observations distinguent pression physique et dommage selon lieu et horizon ?",
+    "related_rq": [
+      "RQ-01.04",
+      "RQ-11.01",
+      "RQ-11.03"
+    ],
+    "related_claims": [
+      "CPC-0001",
+      "CPC-0031",
+      "CPC-0120"
+    ],
+    "roles": [
+      "AGENT-CORPUS",
+      "AGENT-ENVIRONMENT",
+      "AGENT-MEASUREMENT",
+      "AGENT-ADVERSARIAL",
+      "AGENT-EVIDENCE"
+    ],
+    "pages_hint": [
+      68,
+      69,
+      112,
+      460
+    ],
+    "data_needed": [
+      "Émissions, exposition, réponse, référence et incertitude"
+    ],
+    "status": "OPEN",
+    "created_from": "Instruction humaine; baseline figée; prolongement des cycles historiques 001–003",
+    "expected_output": "Chaîne mesurable pression/exposition/dommage"
+  },
+  {
+    "id": "ITER001-P0-10",
+    "priority": "P0",
+    "topic": "Programme épistémologique et cohérence interne",
+    "question": "Quelle règle de recherche distingue identité, hypothèse assumée et restriction réfutable ?",
+    "related_rq": [
+      "RQ-01.01",
+      "RQ-02.03",
+      "RQ-12.03"
+    ],
+    "related_claims": [
+      "CPC-0003",
+      "CPC-0009",
+      "CPC-0042",
+      "CPC-0068"
+    ],
+    "roles": [
+      "AGENT-CORPUS",
+      "AGENT-EPISTEMIC",
+      "AGENT-FORMAL",
+      "AGENT-ADVERSARIAL",
+      "AGENT-EVIDENCE"
+    ],
+    "pages_hint": [
+      63,
+      64,
+      65,
+      79,
+      80,
+      198,
+      301,
+      561,
+      562
+    ],
+    "data_needed": [
+      "Conditions et critères de réfutation préspécifiés"
+    ],
+    "status": "OPEN",
+    "created_from": "Instruction humaine; baseline figée; prolongement des cycles historiques 001–003",
+    "expected_output": "Matrice METHODOLOGICAL_INTENT / METHODOLOGICAL_SUCCESS"
+  }
+]

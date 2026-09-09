@@ -1,0 +1,631 @@
+[
+  {
+    "id": "CPC-0002",
+    "statement": "La valeur de l’unité monétaire varie dans le temps.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 3,
+      "pages": [
+        3
+      ],
+      "quotation": "the economy dispenses with this constraint and appropriates the prerogative to modify the value of the unit over time.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 3,
+    "quotation": "the economy dispenses with this constraint and appropriates the prerogative to modify the value of the unit over time.",
+    "type": "CONCEPTUAL",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "unit",
+      "money"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": []
+  },
+  {
+    "id": "CPC-0010",
+    "statement": "Money est défini comme le nombre d’unités multiplié par la valeur de l’unité.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 15,
+      "pages": [
+        15
+      ],
+      "quotation": "M=n.u",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 15,
+    "quotation": "M=n.u",
+    "type": "DEFINITION",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "money",
+      "unit"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "CORE",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": []
+  },
+  {
+    "id": "CPC-0011",
+    "statement": "Le différentiel du produit M=n.u est dM=n.du+u.dn.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 15,
+      "pages": [
+        15
+      ],
+      "quotation": "dM=n.du+u.dn",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 15,
+    "quotation": "dM=n.du+u.dn",
+    "type": "DERIVED",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "money",
+      "unit"
+    ],
+    "depends_on": [
+      "CPC-0010"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": []
+  },
+  {
+    "id": "CPC-0013",
+    "statement": "Campergue classe le crédit non couvert uniquement dans la possibilité 2 : création de Cash, pas de Money; ce classement exclut la possibilité 4 pour le banquier et constitue une restriction causale.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 18,
+      "pages": [
+        18
+      ],
+      "quotation": "the increase in the number of monetary units (granting of a loan not covered by deposits) doesn’t create money",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 18,
+    "quotation": "the increase in the number of monetary units (granting of a loan not covered by deposits) doesn’t create money",
+    "type": "HYPOTHESIS",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "money",
+      "unit",
+      "accounting"
+    ],
+    "depends_on": [
+      "CPC-0005",
+      "CPC-0012"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements. Révision monétaire 2026-09-08 : Retour au contexte et séparation des scénarios auparavant aplatis; citation initiale conservée comme preuve de la formulation forte du manuscrit.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": [
+      "SC-MONEY-18"
+    ],
+    "additional_source_pages": [
+      98,
+      99,
+      174,
+      175,
+      177
+    ]
+  },
+  {
+    "id": "CPC-0014",
+    "statement": "Dans le système isolé et sans Work supplémentaire, une politique redistribue selon Campergue Money sans enrichissement global; les effets internes et transitoires ne sont pas niés.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 18,
+      "pages": [
+        18
+      ],
+      "quotation": "Any economic policy measure that doesn’t involve Work expenditure leaves the existing quantity of Money in the system constant",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 18,
+    "quotation": "Any economic policy measure that doesn’t involve Work expenditure leaves the existing quantity of Money in the system constant",
+    "type": "DERIVED",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "distribution",
+      "accounting",
+      "wealth"
+    ],
+    "depends_on": [
+      "CPC-0005",
+      "CPC-0009"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements. Révision monétaire 2026-09-08 : Retour au contexte et séparation des scénarios auparavant aplatis; citation initiale conservée comme preuve de la formulation forte du manuscrit.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": [
+      "SC-MONEY-17"
+    ],
+    "additional_source_pages": [
+      173,
+      175,
+      182
+    ]
+  },
+  {
+    "id": "CPC-0027",
+    "statement": "L’auteur préconise un équilibre entre politiques d’offre et de demande.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 26,
+      "pages": [
+        26
+      ],
+      "quotation": "only the balance between supply and demand policy is to be sought",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 26,
+    "quotation": "only the balance between supply and demand policy is to be sought",
+    "type": "NORMATIVE",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "inflation",
+      "deflation",
+      "distribution"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "SUPPORTING",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": []
+  },
+  {
+    "id": "CPC-0028",
+    "statement": "L’incapacité attribuée aux banques à créer Money n’implique pas leur inutilité sociale.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 28,
+      "pages": [
+        28
+      ],
+      "quotation": "it's never written here that bankers, in their actions, cannot be useful for the smooth running of society",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 28,
+    "quotation": "it's never written here that bankers, in their actions, cannot be useful for the smooth running of society",
+    "type": "CONCEPTUAL",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "accounting",
+      "money"
+    ],
+    "depends_on": [
+      "CPC-0013"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "SUPPORTING",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": []
+  },
+  {
+    "id": "CPC-0041",
+    "statement": "Product supporte Work et Cash supporte Money.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 35,
+      "pages": [
+        35
+      ],
+      "quotation": "the Product as the vector-support of the economic Work,",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 35,
+    "quotation": "the Product as the vector-support of the economic Work,",
+    "type": "DEFINITION",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "product",
+      "work",
+      "cash",
+      "money"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "CORE",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": [],
+    "source_context_extension": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 35,
+      "text": "35 Conclusion At this stage, when only a few ideas are presented, it's out of the question to go into them in depth in a few lines, it must therefore be admitted, a priori, that :  the Work is considered here as economic Work (with an economic purpose) and no longer physical work, likely to cause a fall in the price of the Product. This Work doesn’t have the same analytical definition as physical Work, despite its similarity,  Economic Work and Money are logically considered two different forms of Economic Energy, just as heat and mechanical work are considered two different forms of physical energy,  only the Work to be done must be taken into account and not the Work performed. In fact, the economically interesting Work is indeed the first one because it's the one that will define the job, the second one being of no further use because the machines will be stopped and the employees unemployed. In addition, it's necessary to consider :  the Product as the vector-support of the economic Work,  the Cash as the vector-support of the Money, identical to thermodynamics where :  gas (steam) is the vector-support of the heat. It is possible to show analytically that among the different possibilities (four) of monetary evolution, the only ones that allow the real creation of Money, that is, the only ones that allow the increase of Wealth (purchasing power) necessarily require the expenditure of Work (for economic purposes). The fact that the execution of economic Work has as a corollary the creation of Money urges us to consider this phenomenon as a transformation. Mathematical analysis, having never been taken for granted as to the explanation of Nature's phenomena, therefore points the way forward. Consequently, the formal and normally hardly questionable similarities presented above therefore incite to :  the exclusive application of formalism, reasoning and thermomechanics to economic exchanges, but prohibiting",
+      "kind": "SOURCE",
+      "finding": "ER-011"
+    }
+  },
+  {
+    "id": "CPC-0046",
+    "statement": "Money est la valeur de Cash, lequel en est le support.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 184,
+      "pages": [
+        184
+      ],
+      "quotation": "Money as the value of Cash,",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 184,
+    "quotation": "Money as the value of Cash,",
+    "type": "DEFINITION",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "cash",
+      "money"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "CORE",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": []
+  },
+  {
+    "id": "CPC-0050",
+    "statement": "Une ligne de crédit bancaire est Cash, pas Money dans ce vocabulaire.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 187,
+      "pages": [
+        187
+      ],
+      "quotation": "the inscription of a line of bank credit should not be considered as Money but only as Cash.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 187,
+    "quotation": "the inscription of a line of bank credit should not be considered as Money but only as Cash.",
+    "type": "DEFINITION",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "cash",
+      "money",
+      "accounting"
+    ],
+    "depends_on": [
+      "CPC-0046"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": []
+  },
+  {
+    "id": "CPC-0053",
+    "statement": "Money mesure la valeur de Cash ; cette valeur varie dans le temps et selon le lieu.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 188,
+      "pages": [
+        188
+      ],
+      "quotation": "the Money (M) is defined as the measure of the value of Cash",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 188,
+    "quotation": "the Money (M) is defined as the measure of the value of Cash",
+    "type": "DEFINITION",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "money",
+      "cash"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "CORE",
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Étudier les conditions de création de richesse et le lien proposé avec le développement ; aucune validation causale déduite.",
+    "interpretation_notes": "Énoncé français : reconstruction éditoriale. Citation anglaise : source. Liens logiques proposés par l’analyste, à contrôler dans les développements.",
+    "confidence_in_reconstruction": 0.85,
+    "money_scenarios": []
+  },
+  {
+    "id": "CPC-0067",
+    "statement": "Une section informative réintroduit une relation avec l’entropie physique via le rendement global.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 463,
+      "pages": [
+        463
+      ],
+      "quotation": "Entropy This paragraph isn't of particular interest and is presented for information purposes only. Previously, the 19-01 relationship linking heat to the Money and the respective physical and economic efficiencies has been determined above, namely :"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 463,
+    "quotation": "Entropy This paragraph isn't of particular interest and is presented for information purposes only. Previously, the 19-01 relationship linking heat to the Money and the respective physical and economic efficiencies has been determined above, namely :",
+    "type": "METHODOLOGICAL",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "criticality": "MAJOR",
+    "concepts": [
+      "entropy",
+      "energy",
+      "coefficient"
+    ],
+    "depends_on": [],
+    "supports": [],
+    "contradicts": [],
+    "testability": "CONCEPTUAL_OR_FORMAL_REVIEW",
+    "root_question_relevance": "Précise le domaine du mécanisme travail–Money.",
+    "interpretation_notes": "Lecture dirigée itération 1 ; qualification du claim initial, pas remplacement silencieux.",
+    "confidence_in_reconstruction": 0.9
+  },
+  {
+    "id": "CPC-0085",
+    "statement": "Revenu et prix fixes : intérieur et extérieur : Avantage intérieur opposé à compensation extérieure, sous les conditions du scénario SC-MONEY-23.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 183,
+      "pages": [
+        183
+      ],
+      "quotation": "Some might indeed think that increasing income by holding prices constant is similar to lowering prices by holding income constant. However, this view of things is only valid within the economic system under consideration, i.e., as a general rule, within the same country. On the other hand, compared to another system, i.e. another country with a different",
+      "normalization": "whitespace",
+      "context_before": "tant wage level: this is strictly specified in the box above. All of this demonstrates in the most formal way that coinage, minting money, is by no means a creation. Every German in 1923 was a multi-billionaire and yet lived very sparsely. ",
+      "context_after": " currency, the increase in income necessarily implies a devaluation corresponding to the decrease in the value of the Money (analytical possibility 2). This chapter demonstrates that it's imperative to distinguish Money from Cash. Indeed, a",
+      "argument_function": "Équivalence intérieure admise, dévaluation extérieure nécessaire affirmée"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 183,
+    "quotation": "Some might indeed think that increasing income by holding prices constant is similar to lowering prices by holding income constant. However, this view of things is only valid within the economic system under consideration, i.e., as a general rule, within the same country. On the other hand, compared to another system, i.e. another country with a different",
+    "type": "HYPOTHESIS",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "money",
+      "unit",
+      "cash",
+      "purchasing"
+    ],
+    "depends_on": [
+      "CPC-0010"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "SCENARIO_CONDITIONAL_REVIEW_NOT_EMPIRICALLY_TESTED",
+    "root_question_relevance": "Distinguer enrichissement productif, mesure et redistribution avant de répondre à la question racine.",
+    "interpretation_notes": "Reconstruction ciblée, scénario SC-MONEY-23; ni citation française ni validation empirique.",
+    "confidence_in_reconstruction": 0.8,
+    "money_scenarios": [
+      "SC-MONEY-23"
+    ]
+  },
+  {
+    "id": "CPC-0108",
+    "statement": "Pertes utiles et inutiles : Prélèvements utiles aux infrastructures : optimum recherché; pertes inutiles : minimum.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 479,
+      "pages": [
+        479
+      ],
+      "quotation": "losses useful to the Society, such as State levies of Money for the construction of roads, bridges, hospitals, educational institutions, etc. State agents are therefore necessary and indispensable to done these levies and their remuneration are useful losses and their optimum must always be sought, i.e. the function must be justly ensured but without additional losses. Despite the fact that these agents are useful, their remuneration is always only a destruction of Money, 4.",
+      "normalization": "whitespace",
+      "context_before": "here may be agents destroying the Money by an acceleration in the speed of price formation due to an increase in Utility for themselves, the cause of which are ",
+      "context_after": " there may be agents destroying the Money by an acceleration in the speed of price formation due to a decrease in Utility for themselves, the cause of which is "
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 479,
+    "quotation": "losses useful to the Society, such as State levies of Money for the construction of roads, bridges, hospitals, educational institutions, etc. State agents are therefore necessary and indispensable to done these levies and their remuneration are useful losses and their optimum must always be sought, i.e. the function must be justly ensured but without additional losses. Despite the fact that these agents are useful, their remuneration is always only a destruction of Money, 4.",
+    "type": "CONCEPTUAL",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "work",
+      "productivity",
+      "price",
+      "money",
+      "transformation"
+    ],
+    "depends_on": [
+      "CPC-0065"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "testability": "CONDITIONAL_NOT_EMPIRICALLY_VALIDATED",
+    "root_question_relevance": "Préciser le mécanisme productif du passage à l’abondance, sans valider son exclusivité.",
+    "interpretation_notes": "Reconstruction ciblée; conditions et exceptions dans PM-15",
+    "confidence_in_reconstruction": 0.8
+  },
+  {
+    "id": "CPC-0117",
+    "statement": "Le manuscrit suppose qu’agréger davantage de Products stabilise K, pourtant variable selon le produit, jusqu’à ne plus dépendre que des unités.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 559,
+      "pages": [
+        559
+      ],
+      "quotation": "Then, the more Products are taken into account, the more the coefficient K can be considered constant, and therefore only a function of the units used.",
+      "normalization": "whitespace",
+      "context_before": " of the units used for their respective measurement. This relationship is only valid for one product, the coefficient K being variablefor each. However, it is possible to design an average speed ωm . ",
+      "context_after": " At the macroeconomic level, it is therefore possible to pose : M CREATED=K⋅T SPENT We know that GDP is the sum of all the Money spent in a system for each Money→Work transformation, but also that all"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 559,
+    "quotation": "Then, the more Products are taken into account, the more the coefficient K can be considered constant, and therefore only a function of the units used.",
+    "type": "HYPOTHESIS",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "coefficient",
+      "utility",
+      "money"
+    ],
+    "depends_on": [
+      "CPC-0111"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "conditions": [
+      "Composition et pondérations stables non démontrées; nombre élevé ne suffit pas à lui seul."
+    ],
+    "chapters": [
+      "CH-08"
+    ],
+    "testability": "CONDITIONAL_NOT_EMPIRICALLY_VALIDATED",
+    "root_question_relevance": "Relier transformations locales, richesse, consommation et environnement sans supposer leur agrégation automatique.",
+    "interpretation_notes": "Reconstruction française; citation anglaise seule verbatim. Voir revue27–29 et cas alternatifs.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0118",
+    "statement": "La fin du manuscrit propose GDP=K·Wconsumed comme couplage absolu, en absorbant dans K l’énergie sans création de Money.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 559,
+      "pages": [
+        559
+      ],
+      "quotation": "which shows the absolute coupling of the GDP of a system to the energy consumed in it.",
+      "normalization": "whitespace",
+      "context_before": "n the creation of Money, i.e, in the enrichment of the system. If we take into account this energy, which only influences the slope of the right-hand side, the relationship becomes : GDP=K⋅W consumed ",
+      "context_after": ""
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 559,
+    "quotation": "which shows the absolute coupling of the GDP of a system to the energy consumed in it.",
+    "type": "HYPOTHESIS",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "energy",
+      "work",
+      "money"
+    ],
+    "depends_on": [
+      "CPC-0117"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "conditions": [
+      "K stable; identification GDP/Money dépensé; équivalence des frontières, périodes, unités et énergies."
+    ],
+    "chapters": [
+      "CH-09"
+    ],
+    "testability": "CONDITIONAL_NOT_EMPIRICALLY_VALIDATED",
+    "root_question_relevance": "Relier transformations locales, richesse, consommation et environnement sans supposer leur agrégation automatique.",
+    "interpretation_notes": "Reconstruction française; citation anglaise seule verbatim. Voir revue27–29 et cas alternatifs.",
+    "confidence_in_reconstruction": 0.85
+  },
+  {
+    "id": "CPC-0119",
+    "statement": "Le pont Tused=−Wcreated est restreint au travail mécanique économiquement utile, qui fait évoluer l’Utility du Product.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 455,
+      "pages": [
+        455
+      ],
+      "quotation": "However, it must be kept in mind that this mechanical work (Wcreated) is only economically useful if it allows the Utility of a Product to evolve.",
+      "normalization": "whitespace",
+      "context_before": "conomic Work (Tutilized) (positive since it enters the economic system) which is going to be used by an individual, an employee, a slave, an animal, a motor or a machine to increase productivity (ω). ",
+      "context_after": " If this condition isn't fulfilled, the Economic Work spent (Tutilized) is absolutely nil and therefore the Money created (Mcreated) too. This is why the contract worker, mentioned above in the chapte"
+    },
+    "source_document": "Reflections_PierreCampergue.pdf",
+    "page": 455,
+    "quotation": "However, it must be kept in mind that this mechanical work (Wcreated) is only economically useful if it allows the Utility of a Product to evolve.",
+    "type": "ASSUMPTION",
+    "epistemic_status": "SOURCE",
+    "interpretive": true,
+    "concepts": [
+      "energy",
+      "work",
+      "money"
+    ],
+    "depends_on": [
+      "CPC-0095"
+    ],
+    "supports": [],
+    "contradicts": [],
+    "criticality": "MAJOR",
+    "conditions": [
+      "Frontière physique/économique et signe entrée/sortie; unité commune ou conversion nécessaire; énergie non utile séparée."
+    ],
+    "chapters": [
+      "CH-09"
+    ],
+    "testability": "CONDITIONAL_NOT_EMPIRICALLY_VALIDATED",
+    "root_question_relevance": "Relier transformations locales, richesse, consommation et environnement sans supposer leur agrégation automatique.",
+    "interpretation_notes": "Reconstruction française; citation anglaise seule verbatim. Voir revue27–29 et cas alternatifs.",
+    "confidence_in_reconstruction": 0.85
+  }
+]

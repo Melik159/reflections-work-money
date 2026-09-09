@@ -1,0 +1,231 @@
+{
+  "changed_from_closure_baseline": [
+    {
+      "path": "remediation/input_refresh_history.json",
+      "old": "cf9333e92b97364f47f4832f795decc2a8fd4c47dc337f03ea5509cf49b22ca7",
+      "new": "678fbc1902895f9b046bb0a297f4d00c4537db0e4597893c53545f1ba292b43e"
+    },
+    {
+      "path": "research_questions/RQ-01/conclusion.md",
+      "old": "c62b652eed7466efb225850caffd14b4d8ddb455f03d647ea4807af4e80cc735",
+      "new": "6c494c64fcebee08ac376b556a3afcffa9a239c9c349b0954918887d6d9fd771"
+    },
+    {
+      "path": "research_questions/RQ-01.02/conclusion.md",
+      "old": "9e3b6208ee9f73273c4b5db2fe4f3049b68db4bb4d165f2ddc6ff176eddced62",
+      "new": "128f80111dca61736e6587c15c061975a45bcd2744e150ad0bc042c981634e7d"
+    },
+    {
+      "path": "research_questions/RQ-01.03/conclusion.md",
+      "old": "9e0b04a2459ee1e8c1530fcdaa53dfd3a03c316b94d6b72d9ecd76689e247976",
+      "new": "34779b29407835dfabfe7ca559f926aa5b689abdb6551a837851f0397eef1df5"
+    },
+    {
+      "path": "research_questions/RQ-01.04/conclusion.md",
+      "old": "c146c51c7dbeae54a10149747074702b294cfa467fd2212f881edbe53691d75a",
+      "new": "d0142fe741d8aa2826f9940388d621b140a54671efaffc254d1199dc76ee82ad"
+    },
+    {
+      "path": "research_questions/RQ-02/conclusion.md",
+      "old": "0ae3bc18df0564a0c74800166b895552a0683ff47cf60e52bf0fb04a4749deb0",
+      "new": "db713ef73ee54595376ad1d41e62692f7e2eaaf00b4431b56369a2ad583d4fb9"
+    },
+    {
+      "path": "research_questions/RQ-02.02/conclusion.md",
+      "old": "d535ea7bd28e61ee09b3b52174017cc6ba6e0906973663acbde4259fbda8aa45",
+      "new": "2f08f1dff6326fbc7972ba4665e2007803824ad71953008ee18091cb53cb7606"
+    },
+    {
+      "path": "research_questions/RQ-02.03/conclusion.md",
+      "old": "7b2ad8988ad14971ea60d723a8d8e07a0a8ba64948e06ccb160742b5628e696e",
+      "new": "390625897820643eac60ebbcee730bf96412158e482afc4ef677c7a5e24fd259"
+    },
+    {
+      "path": "research_questions/RQ-03/conclusion.md",
+      "old": "610bad3ab8a653eaad17c50cff3c6839e56e5f16710e5936911f55a9b2679481",
+      "new": "5f25e253213a0bde6dc6432b636ece7a8fd6df737c0fd0f08aaa103f2a80aa47"
+    },
+    {
+      "path": "research_questions/RQ-03.02/conclusion.md",
+      "old": "799705bc69a7715fbb50c872479296dc54188399709e546e1a19af62a47c1fd1",
+      "new": "8c436c4f1cc9abe034a975d0448f172fd938f70f8f68217a5ae2bce0168ed8a8"
+    },
+    {
+      "path": "research_questions/RQ-03.04/conclusion.md",
+      "old": "ae62dabbbfe7a2aaea99ccfd5b45c8bd00eab0087ddc480c0a5c111a505972b4",
+      "new": "efca717da73ee30b891f1fa157dbc895d3959eebc98e65c61eb3ed17f437680f"
+    },
+    {
+      "path": "research_questions/RQ-04/conclusion.md",
+      "old": "b7d02f1b8dfcfa7fc2b6a99c92d54037b6cb2334ba1c65714b3351111496fb97",
+      "new": "f1e15ba96bb20d6db412326694a34a04a97a32f4eaaee6b1716e417968dd3a30"
+    },
+    {
+      "path": "research_questions/RQ-04.01/conclusion.md",
+      "old": "5d5a326e8fa924049d323d1f8ff29f8f7e8fab226a01d44bc644ca1a956bd5aa",
+      "new": "796004946ed6b6fe8d73be347876de741be8d3d50c3813478e4e83f5f26470ca"
+    },
+    {
+      "path": "research_questions/RQ-04.02/conclusion.md",
+      "old": "a7ead04626e830b00127fcaa07dd100bdc605bd2a17719bc21992f41d29369e9",
+      "new": "5a2fd1ce9c1bd985b66cfe0bc738f602db2dfc804f53289e969400e431a72bf5"
+    },
+    {
+      "path": "research_questions/RQ-04.03/conclusion.md",
+      "old": "cda1e30173f2a788cccf753705de8591107ce029c23f18ec89089bf8f2a10836",
+      "new": "32e5009e077df7ef052624a5fb3fb109ede0a007dfa0af77589e112a4edcc82b"
+    },
+    {
+      "path": "research_questions/RQ-04.04/conclusion.md",
+      "old": "396c5d044557c9e1644bc72dafa88a9d5a4820510d6522aabc1a9af5929fb91b",
+      "new": "13c8aed4f1148046d94e46b2b1e4d7af5e591e98a8bda968a547aa555f4020f5"
+    },
+    {
+      "path": "research_questions/RQ-05/conclusion.md",
+      "old": "80725ec07991ebe16cecf19757aa795f2fa98b302e0252c69ac83ad934674c81",
+      "new": "b433a86f4c171edc084d109663907c3c8b7220de3005778f615a31e164e26c0a"
+    },
+    {
+      "path": "research_questions/RQ-05.02/conclusion.md",
+      "old": "29bb2beca741e5b2e13c884de65c53b4aed97551b1e2468d04eb8c9794ed9f40",
+      "new": "e7a8ba5f9b928cb9e2adabb8f9a95f5f7d7283af1b0e2b5f0b19f47be32af3f0"
+    },
+    {
+      "path": "research_questions/RQ-05.03/conclusion.md",
+      "old": "1d772e01036ae3f96ff2650b9be5df84e3f1c4213cb6fd745c73af9eed104de2",
+      "new": "fd41b00eea6bea16ec278be29f1852deaa3f0ada683df1afc2ee09d13000c2a0"
+    },
+    {
+      "path": "research_questions/RQ-06/conclusion.md",
+      "old": "a3b5fab42981ad6af29eec2667c4ff811cb1fb91311d117b8275908bd5cc1358",
+      "new": "818695e36782403e79195a1ae3b11b18380a8ede7585a0488b4325766bb4104b"
+    },
+    {
+      "path": "research_questions/RQ-06.01/conclusion.md",
+      "old": "432daa44aeac091c0e828a67ac97eea1646ec107b45a398c449f8a0cf61fcfb4",
+      "new": "658c65282b609ec086e425c61cdcfb55f7027cd077c9e0794e7e0928fb99e553"
+    },
+    {
+      "path": "research_questions/RQ-06.03/conclusion.md",
+      "old": "d764b60e9ba89ea1e91114bceab34dd014eefdd1bb5fceca7e28844808aa36f5",
+      "new": "225208dbdbe2aa7ca21fcacafd92715b7c0ad738e422aad91dc3aa7edcbe014b"
+    },
+    {
+      "path": "research_questions/RQ-06.04/conclusion.md",
+      "old": "6fb90b1e0a8d128219cc3e9e181ac4cb2e7f3090a0a52aaab8d88b7446c6c0f4",
+      "new": "881dab56cdb23ef5fb495bf2f1e5b44e31410517c2830211ada7e5a05751774b"
+    },
+    {
+      "path": "research_questions/RQ-07/conclusion.md",
+      "old": "cb4d613d4863f57de526ecec2c4b0cac357024394536d6eb789eca69c9645945",
+      "new": "05c4880dc8e107904a21f42e1fa96c3b54a22dd74fb36ad0d80834ef417a7675"
+    },
+    {
+      "path": "research_questions/RQ-07.01/conclusion.md",
+      "old": "119b836b510b59e99309d2f2abb5f9d6617d1da41455a9efe38ac2beea7d1330",
+      "new": "fc6b2f0671e50f120e07e6df89b54583b5218ecd8548a34f324c45fa22683440"
+    },
+    {
+      "path": "research_questions/RQ-07.03/conclusion.md",
+      "old": "02114de9838a29087cf0d8dd2a3e15f961c7769cd81b1d615fc7bdbc1b56033c",
+      "new": "993803e7cc91aa7ed5674610a0c9811776d7693a88a1a6f6ff0f6fb46aa6841e"
+    },
+    {
+      "path": "research_questions/RQ-08/conclusion.md",
+      "old": "d3f5bfd4d3c10ff1b7190f20dea56419d90a67abffd8e60b76cbd560d29e173a",
+      "new": "5f82d2edc4e32aa908ecbe14810edef7b767bf757024d921e3197733e410bef0"
+    },
+    {
+      "path": "research_questions/RQ-08.01/conclusion.md",
+      "old": "7667faf092e54c3c12287ff4aaec61feb38ef3f5a887afada8a297388558f98b",
+      "new": "064ec7ac8b8bd6a6a74384580f229f0a282a0af1ee0a8699e5eb0cf24e62a0e7"
+    },
+    {
+      "path": "research_questions/RQ-08.02/conclusion.md",
+      "old": "ad3598b6079769c96d81850c9baf001710f02ec341b9a0957cfb229f7254ca78",
+      "new": "ff13da44cadf626db42135f4237ab0e9f6f7cacf8b723f1a22c025a433b3c4c9"
+    },
+    {
+      "path": "research_questions/RQ-09/conclusion.md",
+      "old": "28a97393e4ef0de62e7554e4a773d27ce56f038ea67c479e98238fdfc8eeae63",
+      "new": "26df02c7a9098496543a4bdc6b5761a5de553649c6605703c59c5aefe3be0605"
+    },
+    {
+      "path": "research_questions/RQ-09.01/conclusion.md",
+      "old": "d501be6ca194108f7f9dcadf051e24d580f42480a703d0c8bbfa02068f42a24f",
+      "new": "6afaf1b835d23d99cdda0b3f85eaefd3afb56fb306fb9eb2995806b3ce59ad54"
+    },
+    {
+      "path": "research_questions/RQ-09.02/conclusion.md",
+      "old": "bf2fbd43d2181ecc2ac6ec645c820de2e1fc863e240df7e5127ea27b45c8d3b6",
+      "new": "8ae7706934020b28d6eb675ce4aa610a7d3b35d8df3f7687dc0d963be410c6b2"
+    },
+    {
+      "path": "research_questions/RQ-09.03/conclusion.md",
+      "old": "ac7f99c64aaff145cdb85b27bed3ff83aa0b270d585b97a44eb44f110f2ace90",
+      "new": "f58cb1f229fffb3ca7369a5748b1deccdf24e6b604b7919008d4df219d488cf8"
+    },
+    {
+      "path": "research_questions/RQ-10/conclusion.md",
+      "old": "3fa30d71da7f16df4ba99a42f1363148bd5f181890d05852e3080ef779af7dcf",
+      "new": "fe2859e185aded0c877309ea8f954c2406556b9d87994a958b9b1ddee7e62de4"
+    },
+    {
+      "path": "research_questions/RQ-10.01/conclusion.md",
+      "old": "a213d7278622f5d173e080bd2c41dff9e94711f59204127e83617d88adb2db2d",
+      "new": "35e7b70fc13137ced91c2cc82acc558ab230cee555d77768b5d9c43e261df93f"
+    },
+    {
+      "path": "research_questions/RQ-10.03/conclusion.md",
+      "old": "4a5e438ece32bfadb1359904ddd631f8814e26a21d46beecf8bff2dfb3d8e20c",
+      "new": "187bdda82b4aaabb349b345af52e6121eb39407374afd028786edd992b692fc2"
+    },
+    {
+      "path": "research_questions/RQ-11/conclusion.md",
+      "old": "9f7ca6c9ea93508b08673a6d6bbcd87cc6666246bbd44105d2949e80ba4e0fb5",
+      "new": "763ad9244cc4227a318d4a1b800263a2c9601b37b0668bbe6050b47d309a4aea"
+    },
+    {
+      "path": "research_questions/RQ-11.01/conclusion.md",
+      "old": "6c801493a2eee671afa8d8d4ba1e18f763616dbae70be4e3382aa9469e51ac95",
+      "new": "aa4151d71a6f53bd463a6f01a7f324310ccad0d10510b73084f2df375a3e567e"
+    },
+    {
+      "path": "research_questions/RQ-11.03/conclusion.md",
+      "old": "be80a9952105379ba4365771af4dbf73ac3c9a6f1a40a9034bf90248bf6b0591",
+      "new": "23e42dc250dfdd9ca4b777953811c1868aedecbae756be2e0f930e26fd853a09"
+    },
+    {
+      "path": "research_questions/RQ-12/conclusion.md",
+      "old": "49828618714e3e2747172308f4c5a158ed84aa9799a9ad88bbc147a5442f3c9e",
+      "new": "837479db57477a514d215e12c321d05fe8cef9997efd4e0321ffd52717eb6ecb"
+    },
+    {
+      "path": "research_questions/RQ-12.01/conclusion.md",
+      "old": "2ff2dcc159d8fc0ea182f7ab539558b2db92c03784d894b767fe35f22b69f849",
+      "new": "76668e71dde5d9164ab962b6feca5f72c44e0699d0278d59a9255ea824bd0600"
+    },
+    {
+      "path": "research_questions/RQ-12.02/conclusion.md",
+      "old": "ff8cee8002acae12823d7841d5783d683a921b59365da90465bd5ac0b91ccb61",
+      "new": "a97a4c2acfc4d9ccf8d98b9c699746b9c4fffbb5bd8052949a15db79bbe9715b"
+    },
+    {
+      "path": "research_questions/RQ-12.03/conclusion.md",
+      "old": "55120a3039aed00ae7c24aab3d12a0eb868cb9300fbf82b3871ecde0cf055326",
+      "new": "8ce8c668a2239ba37e49d64e5372f5e9bf841155c085f16f4022293c68b5348b"
+    },
+    {
+      "path": "research_questions/synthesis/final_synthesis.md",
+      "old": "d4d5f573e4c9759826bc6d41f3e53c0ec573034c6674b7098e5ac4da187daec9",
+      "new": "55506a4750dde40df4070b855b69b85b2e8044c739accb1dcddec85201c24c58"
+    },
+    {
+      "path": "research_questions/synthesis/input_manifest.json",
+      "old": "5f26233eb129b12ae5ec171cde2cbdf754039c43ce28667cd902719403699133",
+      "new": "eded3dc8cd7d47c68a95c93888ce0fbccfac80dd520aacbeace863c02bfc53c5"
+    }
+  ],
+  "editorial_archives_verified": 43,
+  "sources_preserved": true
+}

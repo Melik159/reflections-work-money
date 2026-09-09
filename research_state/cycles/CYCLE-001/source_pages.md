@@ -1,0 +1,618 @@
+# Pages sources et contexte
+
+## SOURCE — PDF 204
+
+204
+even if the economic Work is nil, the labour as well as the physical work can be
+significant, substantial and consequent. Even if agents don’t create monetary
+wealth, they may produce other types of wealth, for example cultural wealth or
+provide non-market services. The above-mentioned example of the contract
+worker who has been dismissed at the end of her service has clearly not enriched
+society in any way.
+Identically, the Money created will, of course, be a function of the intensity of the
+Force which will cause a variation in price. The lower the price, the more Money
+available to the consumer. Consequently, by posing :
+M = Money
+it's possible to write :
+dM=−FA⋅dp
+ ‹04-08›
+It is quite obvious to say that if the price is constant, its differential is zero and
+this necessarily implies that no Money is created since the purchasing power of
+consumers will itself remain constant. In fact, if the price of a kilogram of
+noodles decreases from $1 to $0.9, it's possible to say that $0.1 of Money has
+been created (for each kilogram produced) since this amount remains in the
+consumer's pocket. Of course there is, before and after the price reduction, always
+$1. However, if the number of monetary units is always constant, it's the value of
+that unit that has increased in this case, corresponding to possibility 3 of the
+chapter “Value of the monetary unit”. The State (or any other issuer) could also
+beat a 10-cent coin and entrust it to the consumer, who would, as before, have this
+amount in his pocket. In this case, we can see that the value of the monetary unit
+remains constant but that it's the number of units that becomes variable, the latter
+corresponding to possibility 4 of this same chapter. In the same way as in the
+previous case, it's obvious that even if the Money created is zero, the price can be
+very high or very low.
+In thermodynamics, an engine or machine generally comprises several stages all
+operating on the same diagram, i.e. each stage operates according to the same
+Natural Laws. In the same way, in Economics there is a whole series of
+manufacturers placed chronologically one after the other and it's obvious that
+each of them is subject to the same Natural Laws (and not legal, regulatory or
+juridical, which are always the result of human will). In physics, as the process of
+each of the stages is identical, only the phenomena occurring in one is considered
+and studied. In the case we are interested in here, it's necessary to have the same
+approach. However, price and labour are two characteristics which are relative to
+
+
+## SOURCE — PDF 205
+
+205
+the whole Product. It is therefore necessary to consider and study only the
+phenomena occurring in a single Transformer. Consequently, only the added
+Value and the task to be done must be taken into account, i.e. the Money and the
+Work of the single Transformer considered.
+During any negotiation, a Buyer (outside the system) always exerts a Force (FP)
+on the Transformer (inside the system) so as to increase the task done (or decrease
+the task to be done) by the latter. As a result, the task to be done (B) decreases.
+Whatever the intensity of this Force, the variation of this task is therefore always
+negative. Consequently, it's possible to write :
+dB<0
+Now, when the task to be done decreases, the Acquirer increases the amount of
+Work that is given to the Transformer, that is to say, that enters the system. In
+accordance with the sign convention, this Work is therefore always positive. As a
+result, the 04-07 relationship, namely :
+dT=FP⋅dl
+becomes:
+dT=−FP⋅dB
+‹04-09›
+  
+Physically, this Work must be considered as destruction or creation depending on
+whether it goes in or out of the system, respectively, and corresponds to the
+increase or decrease in the supplier's employment. It remains to be asked what is
+the creation and/or destruction of Work? Generally speaking, and since we must
+always rely on experience, that is to say, on the reality of economic life, what is
+sought is always the increase in the supplier's employment and not that of the
+consumer. So:
+
+the destruction of Work corresponds to the reduction of the labour to be
+done,
+
+the creation of Work corresponds to the increase in labour to be done.
+This can be represented as follows:
+Labour to be done
+Work
+
+destruction
+
+
+## SOURCE — PDF 206
+
+206
+
+creation
+During any negotiation, a Buyer (outside the system) always exerts a Force (
+F A) on the Transformer (inside the system) in order to make the Transformer
+reduce the Value Added (V ). Regardless of the intensity of this Force, the
+variation of this Added Value is therefore always negative, consequently, it's
+possible to write :
+dV <0
+However, when the Added Value decreases, the Acquirer decreases the amount
+of Money that is given to the Transformer, i.e. that enters the system. According to
+the sign convention, this Money is therefore always negative. As a result, the 04-
+08 relationship, i.e. :
+dM=−FA⋅dp
+becomes :
+dM=F A⋅dV
+ ‹04-10›
+Physically, this Money must be considered as a destruction or a creation
+depending on whether it enters or leaves the system and corresponds to the
+increase or decrease of the purchasing power of the supplier. It remains to be
+asked what is the creation and/or destruction of Money? Generally speaking, and
+as we must always rely on experience, i.e. the reality of economic life, what is
+sought is always the increase in the purchasing power of the consumer and not
+that of the supplier. So :
+
+the creation of Money corresponds to the decrease in price,
+
+the destruction of Money corresponds to the increase in price.
+This can be represented as follows:
+Price
+Money
+
+creation
+
+destruction
+
+
+## SOURCE — PDF 207
+
+207
+Energy
+Replacing the Forces in the two relationships (04-09 and 04-10) above by their
+value (relationships 04-05 and 04-06), we obtain respectively :
+dT=−cP.γ ω.dB
+and :
+dM=−c A.γ ϖ.dV
+By replacing the speed variations ( γωand γϖ) in the two relations above by their
+value (relations 04-03 and 04-04), we obtain respectively :
+dT=−cP. d ω
+dt .dB
+and: dM=−c A. d ϖ
+dt .dV
+‹04-11› ‹04-12›
+that it's possible to write :
+dT=−cP. dB
+dt .dω
+and: dM=−c A. d V
+dt .d ϖ
+By replacing the ratios dB/dt (dl/dt) and dV /dt (dp/dt) by their values
+(relations 04-01 and 04-02), we obtain respectively :
+dT=cP.ω.d ω
+and: dM=−c A.ϖ.d ϖ
+‹04-13› ‹04-14›
+After integration, these relationships give respectively :
+T=1
+2 .cP.ω²
+and: M=−1
+2 .c A.ϖ ²
+‹04-15› ‹04-16›
+Considering the constant zero, these relations represent the respective kinetic
+energies of Work and Money (see chapter “Basic Principles”). The presence of the
+negative sign (-) in the relation giving the Money is perfectly logical. Indeed, the
+slower the speed (ϖ) of price formation, the higher the Money held by the
+consumer.
+Employment - Purchasing power
+
+
+## SOURCE — PDF 208
+
+208
+By taking the above relations 04-13 and 04-14, when the speeds (ω and ϖ) are
+constant, by definition:
+d ω=0
+and :
+d ϖ=0
+which implies that :
+dT=0
+and :
+dM=0
+Consequently, by posing:
+e = employement of the supplier 
+and : 
+a = purchasing power of the consumer
+it makes perfect sense to write :
+e=cP⋅ω
+and :
+a=−cA⋅ϖ
+‹04-17› ‹04-18›
+If the speed (relation 04-01, ω = −dl/dt) of the labour to be done (l)
+increases, it means that the labour to be done decreases. The faster this labour
+decreases, the more important is the job (e). Similarly, if the speed (relation 04-
+02, ϖ = dp/dt) is slow, the higher the purchasing power (a) is. Moreover :
+
+Work is zero (neither created nor destroyed) when the
+labour is done at a constant speed and therefore the
+supplier's employment obviously remains constant,
+
+Money is nil (neither created nor destroyed) when the price
+is formed at constant speed and therefore the consumer's
+purchasing power obviously remains constant itself.
+Note
+It should be noted that it's usually convenient to measure purchasing power by
+saying that it takes x hours of average salary to acquire such a Product. From this
+“definition” it's possible to pose :
+
+
+## SOURCE — PDF 254
+
+254
+Therefore this point (role of unit of account) is similar in
+Physics and Economics.
+2.
+Role of mediator of exchanges
+ 
+ 
+This function corresponds to its use for purchasing
+Products. In this chapter, we have considered Work and
+Money as two different forms of Economic Energy and no
+longer as physical Energy, which is quite logical. Economic
+Work is assimilated to heat and Money to mechanical work.
+The use of the Money in an acquisition is strictly of the
+same nature as the use of mechanical work to ensure the
+displacement of any mobile, that is to say, as kinetic
+energy. In this case, the Money is used as the result of the
+variation in the price of a Product and the physical work as
+the result of the variation in the position of a moving part.
+The Money is economic kinetic energy identical to the work
+which is mechanical kinetic energy. Indeed, we have seen,
+above (chapter “Mechanics of exchange”), that the relation
+04-14, namely :
+dM=−c ⋅ϖ ⋅d ϖ
+returns, after integration, the value of the monetary kinetic
+Energy, that is to say :
+M=−1
+2 ⋅c⋅ϖ
+2
+which is absolutely identical (to the nearest sign) to the
+relation giving the monetary kinetic mechanical energy,
+namely :
+W =+1
+2 ⋅m⋅v
+2
+The presence of the negative sign for the value of the
+Money should not be interpreted as inconsistent with logic,
+but a contrario, as corroborating this approach. Indeed, the
+lower the price, the more important the Money (i.e. the
+
+
+## SOURCE — PDF 255
+
+255
+Economic Energy) will be, and therefore the lower the
+speed of its formation, the slower it will be.
+Therefore this point (role of exchange mediator) is similar in
+Physics and Economics.
+3.
+Value reserve role
+ 
+ 
+This function is for storing Cash (Money) for later use. In
+physics, potential energy is energy that is stored for later use.
+This definition applies perfectly to the Money when it's
+conserved (saved money) for future purchase. When it's
+considered as a reserve of value, the Money must be
+assimilated to trepasse jamais les termes des lois qui lui sont
+imposéespotential energy. When acquiring any Product, this
+reserve of value is converted into an exchange mediator, in
+the same way and exactly as in mechanics where potential
+energy is transformed into kinetic energy during its use.
+Therefore this point (role of value reserve) is similar in
+physics and in Economics.
+The three roles of the Money, defined above, can be condensed and
+compared as follows:
+economy                                                  physic
+unit of account
+⇔
+Unit of mesure
+mediator of exchanges
+⇔
+Kinetic energy
+Reserve of value
+⇔
+Potential energy
+This table therefore sets out the strict analogies between economics and
+physics. These similarities are additional arguments that lead to the
+conclusion that both disciplines must be governed by the same Natural
+Laws.
+Kinetic energy - Potential energy
+
+
+## SOURCE — PDF 256
+
+256
+In physics, we know that the sum of kinetic energy and potential energy is
+constant. However, it's possible to see that the same is true in Economics.
+Kinetic Energy (role of mediator of exchanges) and Potential Energy
+(value reserve role, money saving) can be transformed one into the other
+(in a lossless system).
+1.
+Transformation Work→Money
+ 
+ 
+For this transformation, by posing :
+ETM
+cin = Money defined as a mediator of exchanges
+ETM
+pot = Money saved
+it's permitted to write :
+ETMfinal
+cin
+−ETMinitial
+cin
+=ETM initial
+pot
+−ETM final
+pot
+or else:
+ETMinitial
+cin
++ETMinitial
+pot
+=ETM final
+cin
++ETM final
+pot
+By posing:
+ETMinitial
+total
+=ETM initial
+cin
++ETM initial
+pot
+and :
+ETMfinal
+total
+=ETM final
+cin
++ ETM final
+pot
+then it's deducted :
+ETM
+total=Constant
+2.
+Transformation Money→Work
+ 
+ 
+But so is this transformation. Indeed, by posing :
+EMT
+cin = Work spent
+EMT
+pot = Work to be spent
+it's permitted to write :
+
+
+## SOURCE — PDF 257
+
+257
+EMT final
+cin
+−EMTinitial
+cin
+=EMT initial
+pot
+−EMT final
+pot
+or else:
+EMTinitial
+cin
++EMT initial
+pot
+=EMT final
+cin
++EMT final
+pot
+By posing:
+EMT initial
+total
+=EMT initial
+cin
++EMT initial
+pot
+and:
+EMT final
+total
+=EMT final
+cin
++ EMT final
+pot
+then it's deducted:
+EMT
+total=Constant
+In physics, we know that the sum of kinetic energy and potential energy is
+constant. However, it's possible to see that the same is true in Economics.
+Kinetic Energy (role of mediator of exchanges) and Potential Energy
+(value reserve role, money saving) can be transformed one into the other
+(in a lossless system) 
+
+
+## SOURCE — PDF 258
+
+258
+2.7
+Flows and transformations
+ABSTRACT: It has already been pointed out that this essay does not deal with
+flows of goods, services or cash at all, but only with transformations. Indeed, a flow
+considered as such is something constant. Its eventual evolution by its importance or
+its speed is always only the consequence of a previous causal transformation, because
+a flow can never vary spontaneously. This chapter lists the various transformations of
+the economic field according to the conditions under which they occur, in a manner
+quite analogous to those taking place in the physical domain.
+General
+When Products and/or Cash circulate between two economic agents, two
+categories of transfers can be defined, namely :
+1.
+gifts which are a transfer from one economic entity (agent)
+to another, i.e. without consideration. These donations can
+be qualified :
+
+in-kind, if the transfer takes place in the form of Products,
+
+in cash, if the transfer is in the form of Cash.
+2.
+Exchanges which are reciprocal transfers, i.e. with
+counterpart. These exchanges can be qualified :
+
+Economy of barter, if the two transfers are made in the form of
+Products,
+
+Economy (only) or Economy of Money, if one of
+the transfers is made as a Product and the other as
+Cash,
+
+Economy of change, if both transfers are made in the form of
+Cash.
+By definition, donations, not being exchanges, obviously don’t fall within
+the scope of this study since it's based on the transformations between
+Work and Money.
+It should be noted that the Barter and Change Economies are only special
+cases of the Economy of Money. In fact, the only difference between the
+Economy of Money and :
+
+
+## SOURCE — PDF 466
+
+466
+In this note, which is outside the realm of physics, there is neither quantity of
+movement nor energy in the mechanical sense. Here, similar characteristics have
+been determined as follows (chapter “Mechanics of Exchanges”):
+•
+in the transformation Work→Money :
+◦
+quantity of motion 
+⇔ purchasing power
+◦
+total energy 
+⇔ total Money
+•
+in the transformation Money→Work :
+◦
+amount of movement
+ ⇔ employment
+◦
+total energy 
+⇔ total Work
+Purchasing power and employment on the one hand, total Money and total
+Work on the other, must remain constant in space and time respectively, i.e. in
+any place and at any time, obviously if nothing else changes.
+Transformation Work→Money
+1.
+Preservation of purchasing power
+ 
+ 
+It has been defined, by Principle, the 04-06 relation linking the Force
+(FA) to the acceleration (γϖ) of the speed (ϖ) of price formation (p),
+namely :
+FA = −c A ⋅γϖ
+or :
+FA = −c A ⋅dϖ
+dt
+that it's possible to write:
+FA ⋅dt = −c A⋅dϖ
+By integrating between two considered instants, that is to say at the
+initial time t1 and at the final time t2, it comes :
+FA ⋅(t2 −t1) = −c A ⋅(ϖt 2 −ϖt 1)
+or :
+FA ⋅(t2 −t1) = −c A ⋅ϖt 2 + c A ⋅ϖ t1
+
+
+## SOURCE — PDF 467
+
+467
+But we know the relation 04-18 giving the purchasing power (a),
+namely:
+a = −c A⋅ϖ
+then:
+FA ⋅(t2 −t 1) = at 2 −at 1
+If no additional force is exerted by the consumer on the supplier to bring
+down the price, then the purchasing power cannot vary and remains
+constant. Therefore, if :
+FA = Constant
+⇒
+at 2 = at 1
+‹20-01›
+which shows the preservation of purchasing power, because the speed of
+price formation (ϖ) has no reason to change if nothing else changes.
+2.
+Conservation of the total Money
+ 
+ 
+The total Money is considered here as the sum of kinetic energy
+(exchange mediator) and potential energy (savings).
+Again starting from the relation 04-06, namely :
+FA = −c A ⋅γ ϖ
+or :
+FA = −c A ⋅dϖ
+dt
+We also know the relation 04-02 giving the speed of formation (ϖ) of
+price formation, namely :
+dp = ϖ⋅dt
+By replacing the Force and the price in the relation 04-10 giving the
+Money, namely:
+dM = F A⋅dp
+it becomes :
+
+
+## SOURCE — PDF 468
+
+468
+dM = −c A⋅dϖ
+dt ⋅ϖ⋅dt
+either :
+dM = −c A⋅ϖ⋅dϖ
+By integrating between two considered instants, either at the initial time
+t1 and at the final time t2, it comes:
+M = −(
+1
+2 ⋅c A⋅ϖ
+t 2
+2 −1
+2 ⋅c A⋅ϖ
+t 1
+2)
+By posing:
+Ecin = Kinetic energy
+either :
+Ecin = 1
+2 ⋅c A ⋅ϖ 2
+then it comes :
+M = −( Et 2
+cin −Et 1
+cin)
+But this difference of Kinetic Energy between the instants t2 and t1
+corresponds to the difference of transformed Potential Energy between
+the instants t1 and t2. By posing :
+Epot = Potential energy
+then :
+M = −( Et 1
+pot −Et 2
+pot)
+The presence of the minus sign (-) is quite logical, because all this is
+related to the transformation Work→Money. Indeed, the slower the speed
+(ϖ) of price formation, the higher the Money, i.e. the Kinetic Energy,
+held by the consumer. As a result, the consumer can keep in his wallet
+this sum, which can now be considered as Potential Energy, and which
+can be used for any future use (acquisition of a Product, payment of a
+debt, payment of taxes, ...).
+Consequently, the greater the Work done by the supplier, the more
+Potential Energy (Money saved) is available to the consumer. So, this
+Energy is normally higher at time t2 than at time t1. These last two
+relations can therefore be written as follows:
+
+
+## SOURCE — PDF 469
+
+469
+M = Et 1
+cin −Et2
+cin
+and :
+M = Et 2
+pot −Et1
+pot
+It is therefore possible to equalize these two Money and write:
+Et 1
+cin −Et 2
+cin = Et 2
+pot −Et 1
+pot
+or again:
+Et 2
+pot + Et 2
+cin = Et 1
+pot + Et 1
+cin
+Therefore, it comes:
+Et 2
+tot = Et1
+tot
+‹20-02›
+which shows the preservation, over time, of the total Money (Money
+created + Money saved).
+It has just been considered the Money created but it would have been
+possible to consider the Money used, i.e. that which the consumer spends
+to acquire any Products. Then, the Kinetic Energy (Money) at time t2 is
+higher than that at time t1 and the Potential Energy at time t2 is lower
+than that existing at time t1. In this case the calculations would be
+identical except for the sign and would obviously return the same result.
+Transformation Money→Work
+1.
+Employment conservation
+ 
+ 
+It has been defined, by Principle, the relation 04-05 linking the Force
+(FP) to the acceleration (γω) of the speed (ω) of execution of the labour
+(l), that is to say :
+FP = cP⋅γ ω
+or again :
+FP = cP⋅dω
+dt
+that it's possible to write :
+FP⋅dt = c P⋅dω

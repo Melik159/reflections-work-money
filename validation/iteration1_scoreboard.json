@@ -1,0 +1,153 @@
+{
+  "phase2_status": "SUFFICIENT_FOR_ITERATIVE_RESEARCH",
+  "core_claims_reviewed": 24,
+  "chapters_analysed": 5,
+  "manuscript_pages_examined": 61,
+  "manuscript_pages_total": 562,
+  "claims": 68,
+  "verified_sources": 7,
+  "partially_verified_sources": 1,
+  "literature_relations": {
+    "PARTIALLY_SUPPORTS": 3,
+    "UNCLEAR": 5,
+    "QUALIFIES": 14,
+    "CONTRADICTS": 2,
+    "PARALLEL": 4
+  },
+  "empirical_checks": [
+    {
+      "id": "EMP-001",
+      "kind": "SYNTHETIC_SMOKE",
+      "passed": true,
+      "expected": "loglog beta=1.5, R2>0.999999; code asserts these conditions."
+    },
+    {
+      "id": "EMP-002",
+      "kind": "REPOSITORY_REPRODUCTION",
+      "passed": true,
+      "comparisons": [
+        {
+          "file": "merged_energy_gdp.csv",
+          "rows": 204,
+          "passed": true,
+          "rtol": 1e-08,
+          "atol": 1e-10
+        },
+        {
+          "file": "regression_summary.csv",
+          "rows": 18,
+          "passed": true,
+          "rtol": 1e-08,
+          "atol": 1e-10
+        },
+        {
+          "file": "rolling_loglog_elasticity.csv",
+          "rows": 120,
+          "passed": true,
+          "rtol": 1e-08,
+          "atol": 1e-10
+        }
+      ],
+      "command": [
+        "/home/ubuntu/reflections-work-money/.venv-research/bin/python",
+        "/home/ubuntu/reflections-work-money/articles/campergue_energy_gdp_code/src/energy_gdp_analysis.py",
+        "--gdp-file",
+        "/home/ubuntu/reflections-work-money/articles/campergue_energy_gdp_code/data/code/API_NY.GDP.MKTP.KD.csv",
+        "--gdp-ppp-file",
+        "/home/ubuntu/reflections-work-money/articles/campergue_energy_gdp_code/data/code/API_NY.GDP.MKTP.PP.KD.csv",
+        "--gdp-per-energy-file",
+        "/home/ubuntu/reflections-work-money/articles/campergue_energy_gdp_code/data/code/API_EG.GDP.PUSE.KO.PP.KD.csv",
+        "--countries",
+        "WLD,USA,FRA,DEU,CHN,IND",
+        "--start-year",
+        "1965",
+        "--end-year",
+        "2023",
+        "--out",
+        "/tmp/campergue-reproduce-1tpnmcr9/macro"
+      ],
+      "limitations": [
+        "Energy reconstructed as PPP GDP divided by PPP GDP per energy.",
+        "No independent energy series or causal identification.",
+        "Plots executed but not compared pixel by pixel; only tabular outputs compared."
+      ]
+    },
+    {
+      "id": "FORM-001",
+      "kind": "CONDITIONAL_ARITHMETIC",
+      "hypothesis": "HYP-0006",
+      "passed": true,
+      "result": 0.7777777777777777,
+      "interpretation": "77.78% follows from an assumed square-speed law. The arithmetic does not establish that law or measure energy."
+    },
+    {
+      "id": "FORM-002",
+      "kind": "LOGICAL_NONIMPLICATION",
+      "passed": true,
+      "result": {
+        "M0": 100,
+        "M1": 110
+      },
+      "interpretation": "M=n.u alone does not imply neutrality. This is not a counterexample under an independently imposed compensation restriction."
+    }
+  ],
+  "rag": {
+    "Recall@1": 0.5,
+    "Recall@3": 0.7424242424242424,
+    "Recall@5": 0.8181818181818182,
+    "MRR": 0.6303030303030304
+  },
+  "french_rag": {
+    "Recall@1": 0.08333333333333333,
+    "Recall@3": 0.16666666666666666,
+    "Recall@5": 0.3333333333333333,
+    "MRR": 0.19999999999999998
+  },
+  "no_global_theory_verdict": true,
+  "verify": {
+    "tests_run": 25,
+    "passed": 25,
+    "failed": 0,
+    "errors": 0,
+    "skipped": 0,
+    "passed_tests": [
+      "test_phase2.Reconstruction.test_01_source_hashes",
+      "test_phase2.Reconstruction.test_02_pages_unique_complete_nonempty",
+      "test_phase2.Reconstruction.test_03_root_cross_page_and_associated_sentence",
+      "test_phase2.Reconstruction.test_04_claim_schemas_and_ids",
+      "test_phase2.Reconstruction.test_05_all_claim_quotations",
+      "test_phase2.Reconstruction.test_06_dependencies_and_derived",
+      "test_phase2.Reconstruction.test_07_concept_references",
+      "test_phase2.Reconstruction.test_08_all_current_claims_and_core_classified",
+      "test_phase2.Reconstruction.test_09_semantic_invariants_retained",
+      "test_phase2.Reconstruction.test_10_open_issues_retained",
+      "test_phase2.Reconstruction.test_11_graph_endpoints_and_acyclic_dependencies",
+      "test_phase2.Reconstruction.test_12_coverage_and_note_evidence",
+      "test_phase2.Reconstruction.test_13_golden_sources",
+      "test_phase2.Reconstruction.test_14_wrong_passage_fails_retrieval",
+      "test_phase2.Reconstruction.test_15_index_source_fidelity",
+      "test_phase2.Reconstruction.test_16_benchmark_current_and_nonregressing",
+      "test_phase2.Reconstruction.test_17_no_unsupported_empirical_validation",
+      "test_phase2.Reconstruction.test_18_chapters_root_and_questions",
+      "test_phase2.Reconstruction.test_19_schema_rejects_missing_source_and_bad_type",
+      "test_phase2.Reconstruction.test_20_retrieval_determinism",
+      "test_phase2.Reconstruction.test_21_phase2_exit_criteria",
+      "test_phase2.Reconstruction.test_22_core_reviews_and_literature_links",
+      "test_phase2.Reconstruction.test_23_secondary_pdfs_indexed_and_french_improved",
+      "test_phase2.Reconstruction.test_24_empirical_results_reproduced_and_inputs_intact",
+      "test_phase2.Reconstruction.test_25_five_substantive_chapter_files"
+    ],
+    "failures": [],
+    "status": "PASS",
+    "coverage": {
+      "examined": 61,
+      "total": 562
+    },
+    "warnings": [
+      "COVERAGE_IN_PROGRESS",
+      "LITERATURE_PARTIAL",
+      "CHAPTERS_IN_PROGRESS",
+      "HYPOTHESES_NOT_ALL_TESTED"
+    ]
+  }
+}

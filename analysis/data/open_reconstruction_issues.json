@@ -1,0 +1,9 @@
+[
+  {"id":"ISS-001","claims":["CPC-0010","CPC-0011","CPC-0012"],"issue":"Identity M=n.u does not alone specify the inverse response of u to n.","status":"OPEN","kind":"ADDITIONAL_PREMISE_REQUIRED","source_pages":[15,17]},
+  {"id":"ISS-002","claims":["CPC-0017","CPC-0035"],"issue":"Speed increase to additional energy, and the 78 percent example, require an explicit law and system boundary.","status":"OPEN","kind":"DERIVATION_TO_TRACE","source_pages":[19,32]},
+  {"id":"ISS-003","claims":["CPC-0016","CPC-0020","CPC-0021"],"issue":"Cost reduction need not be fully passed through to selling price according to the author's own qualification.","status":"OPEN","kind":"QUALIFICATION","source_pages":[19,20,21]},
+  {"id":"ISS-004","claims":["CPC-0023","CPC-0040","CPC-0043","CPC-0044"],"issue":"Work performed versus remaining and variable g require explicit signs and dimensions for conservation.","status":"OPEN","kind":"CONVENTIONS_TO_TRACE","source_pages":[22,35,36]},
+  {"id":"ISS-005","claims":["CPC-0030","CPC-0055"],"issue":"Exclusion of human criteria and subjective Utility need their respective scope reconstructed.","status":"OPEN","kind":"POTENTIAL_SCOPE_TENSION","source_pages":[29,189]},
+  {"id":"ISS-006","claims":["CPC-0001","CPC-0031"],"issue":"Environmental impacts in the root question are locally excluded from the preamble's scope.","status":"OPEN","kind":"ROOT_QUESTION_COVERAGE","source_pages":[2,3,29]},
+  {"id":"ISS-007","claims":["CPC-0042"],"issue":"Entropy is excluded on page 36 while the contents announces a section Entropy at page 463; later body not yet examined.","status":"OPEN","kind":"TERMINOLOGY_TO_TRACE","source_pages":[36]}
+]

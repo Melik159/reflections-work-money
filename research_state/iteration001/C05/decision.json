@@ -1,0 +1,40 @@
+{
+  "id": "ITER001-C05",
+  "task": "ITER001-P0-05",
+  "decision": "QUALIFY",
+  "finding_class": "NEW_SCENARIO",
+  "finding": "Plan local à deux interventions séparé du test du pont économique; même identification de réponses énergie/procédé ne suffit pas à départager H1/H2/H3.",
+  "claims": [
+    "CPC-0003",
+    "CPC-0017",
+    "CPC-0119",
+    "CPC-0122"
+  ],
+  "questions": [
+    "RQ-09.01",
+    "RQ-09.02",
+    "RQ-12.02"
+  ],
+  "sources": [
+    "agents/reports/ITER001-C05/specialist.md",
+    "agents/reports/ITER001-C05/adversarial.md",
+    "agents/reports/ITER001-C05/evidence.md",
+    "agents/reports/ITER001-C05/source_pages.txt",
+    "agents/reports/ITER001-C05/provenance.json"
+  ],
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C05/specialist.md",
+    "adversarial": "agents/reports/ITER001-C05/adversarial.md",
+    "evidence": "agents/reports/ITER001-C05/evidence.md"
+  },
+  "candidate_path": "candidate_changes/empirical/ITER001-C05.json",
+  "negative_results": [
+    "NOT_IDENTIFIABLE",
+    "NON_DISCRIMINATING",
+    "REQUIRES_INDEPENDENT_T",
+    "REQUIRES_EXOGENOUS_VARIATION"
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "tests": "Aucun nouveau test exécuté; protocole seulement.",
+  "experiment": "ITER001-EXP-05"
+}

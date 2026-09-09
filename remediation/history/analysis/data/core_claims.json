@@ -1,0 +1,368 @@
+[
+  {
+    "id": "CPC-0001",
+    "criticality": "CORE",
+    "statement": "Comprendre le passage de la subsistance à l’abondance et les dommages environnementaux associés à la hausse du niveau de vie.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0002",
+    "criticality": "MAJOR",
+    "statement": "La valeur de l’unité monétaire varie dans le temps.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0003",
+    "criticality": "CORE",
+    "statement": "L’étude compare la transformation du travail en monnaie à celle de la chaleur en travail, en les distinguant.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0004",
+    "criticality": "MAJOR",
+    "statement": "Le formalisme suppose des comportements suffisamment lents et réguliers.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0005",
+    "criticality": "CORE",
+    "statement": "Changer le nombre d’unités monétaires ne change pas la richesse globale du système.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0006",
+    "criticality": "MAJOR",
+    "statement": "Product englobe biens et services produits par l’être humain.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0007",
+    "criticality": "MAJOR",
+    "statement": "La création et l’usage relèvent des lois naturelles ; la distribution relève de décisions humaines.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0009",
+    "criticality": "CORE",
+    "statement": "Seul le travail engendre un changement.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0010",
+    "criticality": "CORE",
+    "statement": "Money est défini comme le nombre d’unités multiplié par la valeur de l’unité.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0011",
+    "criticality": "MAJOR",
+    "statement": "Le différentiel du produit M=n.u est dM=n.du+u.dn.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0012",
+    "criticality": "CORE",
+    "statement": "Toute variation du nombre d’unités entraîne une variation inverse de leur valeur, empêchant de créer Money.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0013",
+    "criticality": "MAJOR",
+    "statement": "Le crédit non couvert par des dépôts ne crée pas Money au sens de l’auteur.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0014",
+    "criticality": "MAJOR",
+    "statement": "Sans dépense de Work, une politique ne fait que redistribuer Money dans le système.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0015",
+    "criticality": "CORE",
+    "statement": "Money créé désigne le supplément détenu par le consommateur après une baisse de prix.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0016",
+    "criticality": "CORE",
+    "statement": "Le mécanisme proposé relie travail supplémentaire, productivité, baisse de prix, hausse de l’unité et supplément de Money.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0017",
+    "criticality": "CORE",
+    "statement": "Une hausse de productivité exige nécessairement un travail supplémentaire assimilé ici à une énergie.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0018",
+    "criticality": "MAJOR",
+    "statement": "Les sources artificielles d’énergie peu coûteuses auraient permis le passage à l’abondance.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0019",
+    "criticality": "MAJOR",
+    "statement": "Le travail productif est défini par sa capacité à réduire le coût de revient.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0020",
+    "criticality": "MAJOR",
+    "statement": "Une baisse du coût peut coexister avec un prix de vente constant.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0021",
+    "criticality": "MAJOR",
+    "statement": "Le prix de vente relève du choix de l’entrepreneur sous contraintes de concurrence et de réglementation.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0022",
+    "criticality": "CORE",
+    "statement": "L’auteur postule la transformation du travail supplémentaire du fournisseur en Money supplémentaire du consommateur.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0023",
+    "criticality": "CORE",
+    "statement": "Dans un système isolé, la baisse du travail restant à faire compense la hausse de Money créé.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0024",
+    "criticality": "MAJOR",
+    "statement": "Une transformation physique est distinguée du flux comptable.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0029",
+    "criticality": "MAJOR",
+    "statement": "Le manuscrit affirme un niveau de vie constant du Néolithique au XVIIIe siècle sous sources naturelles limitées.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0030",
+    "criticality": "MAJOR",
+    "statement": "La recherche de la genèse de Money exclut selon l’auteur toute référence à l’être humain.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0031",
+    "criticality": "MAJOR",
+    "statement": "Le préambule limite explicitement son propos économique en excluant les répercussions environnementales.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0032",
+    "criticality": "CORE",
+    "statement": "L’économie de travail augmente vers un maximum sous contraintes externes.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0033",
+    "criticality": "CORE",
+    "statement": "L’économie de Money augmente vers un maximum sous contraintes externes.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0034",
+    "criticality": "MAJOR",
+    "statement": "Le troc est présenté comme un échange sans Money entre produits d’utilités égales.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0035",
+    "criticality": "CORE",
+    "statement": "L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0036",
+    "criticality": "MAJOR",
+    "statement": "La variation de Work servirait exclusivement à varier le prix, non à fabriquer le produit.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0037",
+    "criticality": "MAJOR",
+    "statement": "L’offre est définie comme un nombre de cycles de fabrication par unité de temps.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0038",
+    "criticality": "MAJOR",
+    "statement": "Le cycle économique est mis en correspondance avec quatre étapes thermodynamiques.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0039",
+    "criticality": "CORE",
+    "statement": "Economic Work et Money sont posés comme deux formes d’énergie économique.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0040",
+    "criticality": "CORE",
+    "statement": "Le modèle doit compter le travail à effectuer et non le travail déjà effectué.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0041",
+    "criticality": "CORE",
+    "statement": "Product supporte Work et Cash supporte Money.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0042",
+    "criticality": "MAJOR",
+    "statement": "L’emploi du formalisme thermodynamique exclut ici les variables physiques et notamment l’entropie.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0043",
+    "criticality": "CORE",
+    "statement": "Le principe d’équivalence est écrit M=g.T.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0044",
+    "criticality": "MAJOR",
+    "statement": "La constance du coefficient g n’est pas garantie en économie.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0045",
+    "criticality": "CORE",
+    "statement": "Le différentiel de Money est défini par dM=-F.dp.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0046",
+    "criticality": "CORE",
+    "statement": "Money est la valeur de Cash, lequel en est le support.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0047",
+    "criticality": "MAJOR",
+    "statement": "Les variations doivent être assez petites et proches dans le temps pour être traitées comme continues.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0048",
+    "criticality": "CORE",
+    "statement": "Wealth désigne exclusivement la quantité de Money, sans inclure les actifs patrimoniaux.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0049",
+    "criticality": "MAJOR",
+    "statement": "Product est défini par sa capacité à être acquis, transformé ou vendu et comme support de Work.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0050",
+    "criticality": "MAJOR",
+    "statement": "Une ligne de crédit bancaire est Cash, pas Money dans ce vocabulaire.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0051",
+    "criticality": "CORE",
+    "statement": "Labour désigne la tâche, constante pour un produit et une méthode de fabrication donnés.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0052",
+    "criticality": "CORE",
+    "statement": "Pour une tâche constante, Work dépend de sa vitesse d’exécution.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0053",
+    "criticality": "CORE",
+    "statement": "Money mesure la valeur de Cash ; cette valeur varie dans le temps et selon le lieu.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0054",
+    "criticality": "MAJOR",
+    "statement": "La complexité désigne l’inertie du produit face au changement de vitesse d’exécution de la tâche.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0055",
+    "criticality": "MAJOR",
+    "statement": "L’utilité peut être objective, subjective, exacte ou erronée et concerne les échanges.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0056",
+    "criticality": "MAJOR",
+    "statement": "Le manuscrit écarte l’utilité marginale et revendique le sens de Walras.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0059",
+    "criticality": "MAJOR",
+    "statement": "L’utilité de Cash est donnée comme d’autant plus élevée que le revenu est bas.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0060",
+    "criticality": "MAJOR",
+    "statement": "Le terme manufacturer inclut fournisseur et revendeur, même sans modification du produit.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0061",
+    "criticality": "MAJOR",
+    "statement": "Le Transformer est interne au système ; Seller et Acquirer sont externes.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0062",
+    "criticality": "MAJOR",
+    "statement": "Le signe des variations d’utilité dépend de la position de l’observateur dans la chaîne.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0063",
+    "criticality": "MAJOR",
+    "statement": "Les flux entrants du Transformer sont comptés positivement, les sortants négativement.",
+    "reason": "Définition, prémisse ou mécanisme dont dépend la reconstruction locale ; criticité provisoire."
+  },
+  {
+    "id": "CPC-0064",
+    "criticality": "MAJOR",
+    "statement": "À vitesse d’exécution constante, Economic Work effectué est nul, même si le travail physique est important.",
+    "reason": "New directed-reading qualification of existing reasoning."
+  },
+  {
+    "id": "CPC-0065",
+    "criticality": "MAJOR",
+    "statement": "L’absence de création de richesse monétaire n’exclut pas les richesses culturelles ou les services non marchands.",
+    "reason": "New directed-reading qualification of existing reasoning."
+  },
+  {
+    "id": "CPC-0066",
+    "criticality": "MAJOR",
+    "statement": "Les complexités du Product et de Cash ne sont pas égales malgré une notation c parfois commune.",
+    "reason": "New directed-reading qualification of existing reasoning."
+  },
+  {
+    "id": "CPC-0067",
+    "criticality": "MAJOR",
+    "statement": "Une section informative réintroduit une relation avec l’entropie physique via le rendement global.",
+    "reason": "New directed-reading qualification of existing reasoning."
+  },
+  {
+    "id": "CPC-0068",
+    "criticality": "MAJOR",
+    "statement": "Les relations de vitesse mesurent les évolutions sans en déterminer les causes.",
+    "reason": "New directed-reading qualification of existing reasoning."
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "country": "CHN",
+    "experiment": "TEST-E3",
+    "quantity": "observed GDP_real / primary_energy_TWh",
+    "ratio_2023_over_1990": 2.8522977587236102,
+    "coefficient_of_variation": 0.28669855504953856,
+    "energy_2023_over_1990": 5.92977192706201,
+    "gdp_2023_over_1990": 16.913475177301155,
+    "status": "DESCRIPTIVE_PROXY_CONSTANT_K_NOT_MAINTAINED",
+    "causal_identified": false
+  },
+  {
+    "country": "DEU",
+    "experiment": "TEST-E3",
+    "quantity": "observed GDP_real / primary_energy_TWh",
+    "ratio_2023_over_1990": 2.0615251830229195,
+    "coefficient_of_variation": 0.18209975025497938,
+    "energy_2023_over_1990": 0.7582059236157058,
+    "gdp_2023_over_1990": 1.5630606054509297,
+    "status": "DESCRIPTIVE_PROXY_CONSTANT_K_NOT_MAINTAINED",
+    "causal_identified": false
+  },
+  {
+    "country": "FRA",
+    "experiment": "TEST-E3",
+    "quantity": "observed GDP_real / primary_energy_TWh",
+    "ratio_2023_over_1990": 1.8150497813851467,
+    "coefficient_of_variation": 0.20647217252476763,
+    "energy_2023_over_1990": 0.9081791500790809,
+    "gdp_2023_over_1990": 1.648390367809584,
+    "status": "DESCRIPTIVE_PROXY_CONSTANT_K_NOT_MAINTAINED",
+    "causal_identified": false
+  },
+  {
+    "country": "IND",
+    "experiment": "TEST-E3",
+    "quantity": "observed GDP_real / primary_energy_TWh",
+    "ratio_2023_over_1990": 1.4914778064191598,
+    "coefficient_of_variation": 0.13836513379704657,
+    "energy_2023_over_1990": 4.706330374959632,
+    "gdp_2023_over_1990": 7.019387303928654,
+    "status": "DESCRIPTIVE_PROXY_CONSTANT_K_NOT_MAINTAINED",
+    "causal_identified": false
+  },
+  {
+    "country": "USA",
+    "experiment": "TEST-E3",
+    "quantity": "observed GDP_real / primary_energy_TWh",
+    "ratio_2023_over_1990": 1.9444398456220815,
+    "coefficient_of_variation": 0.2076468028151441,
+    "energy_2023_over_1990": 1.1595523414256899,
+    "gdp_2023_over_1990": 2.2546797757524915,
+    "status": "DESCRIPTIVE_PROXY_CONSTANT_K_NOT_MAINTAINED",
+    "causal_identified": false
+  },
+  {
+    "country": "WLD",
+    "experiment": "TEST-E3",
+    "quantity": "observed GDP_real / primary_energy_TWh",
+    "ratio_2023_over_1990": 1.4522386547884854,
+    "coefficient_of_variation": 0.1072019610504214,
+    "energy_2023_over_1990": 1.7968438252392598,
+    "gdp_2023_over_1990": 2.609446059630459,
+    "status": "DESCRIPTIVE_PROXY_CONSTANT_K_NOT_MAINTAINED",
+    "causal_identified": false
+  }
+]

@@ -1,0 +1,613 @@
+[
+  {
+    "id": "RQ-ROOT",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-01",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-01.01",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-01.02",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-01.03",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-01.04",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-02",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-02.01",
+    "pages_this_pass": [
+      529,
+      536,
+      537,
+      538,
+      539,
+      540,
+      559
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-02.02",
+    "pages_this_pass": [
+      20,
+      349,
+      534,
+      535,
+      540
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-02.03",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-03",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-03.01",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-03.02",
+    "pages_this_pass": [
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508,
+      546,
+      547,
+      548,
+      549,
+      550,
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "AMBIGUOUS"
+  },
+  {
+    "id": "RQ-03.03",
+    "pages_this_pass": [
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "AMBIGUOUS"
+  },
+  {
+    "id": "RQ-03.04",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-04",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-04.01",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-04.02",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-04.03",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-04.04",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-05",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-05.01",
+    "pages_this_pass": [
+      20,
+      349,
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-05.02",
+    "pages_this_pass": [
+      509,
+      510,
+      511,
+      512,
+      513,
+      514,
+      515,
+      516,
+      517
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-05.03",
+    "pages_this_pass": [
+      20,
+      349,
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      509,
+      510,
+      511,
+      512,
+      513,
+      514,
+      515,
+      516,
+      517,
+      518,
+      519,
+      520,
+      521,
+      522,
+      534,
+      535,
+      540,
+      546,
+      547
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "AMBIGUOUS"
+  },
+  {
+    "id": "RQ-06",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-06.01",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-06.02",
+    "pages_this_pass": [
+      523,
+      524,
+      525,
+      526,
+      527,
+      528,
+      529,
+      530,
+      531,
+      532,
+      533
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-06.03",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-06.04",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-07",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-07.01",
+    "pages_this_pass": [
+      534,
+      535,
+      540
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-07.02",
+    "pages_this_pass": [
+      500,
+      501,
+      502,
+      503,
+      504,
+      505,
+      506,
+      507,
+      508
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-07.03",
+    "pages_this_pass": [
+      518,
+      519,
+      520,
+      521,
+      522,
+      523,
+      527,
+      528,
+      529
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-08",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-08.01",
+    "pages_this_pass": [
+      518,
+      519,
+      520,
+      521,
+      522
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-08.02",
+    "pages_this_pass": [
+      523,
+      524,
+      525,
+      526,
+      527,
+      528,
+      529,
+      530,
+      531,
+      532,
+      533,
+      558,
+      559
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-08.03",
+    "pages_this_pass": [
+      426,
+      427,
+      428,
+      429,
+      430,
+      431,
+      432,
+      433,
+      434,
+      435,
+      436,
+      437,
+      438,
+      439,
+      440,
+      441,
+      442,
+      443,
+      444,
+      445,
+      446,
+      447,
+      448,
+      449,
+      450,
+      523,
+      524,
+      525,
+      526,
+      527,
+      528,
+      529,
+      530,
+      531,
+      532,
+      533,
+      541,
+      542,
+      543,
+      544,
+      545,
+      546,
+      547
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "AMBIGUOUS"
+  },
+  {
+    "id": "RQ-08.04",
+    "pages_this_pass": [
+      536,
+      537,
+      538,
+      539,
+      540,
+      548,
+      549,
+      550,
+      551,
+      552,
+      553,
+      554,
+      555,
+      556,
+      557,
+      558
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "AMBIGUOUS"
+  },
+  {
+    "id": "RQ-09",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-09.01",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-09.02",
+    "pages_this_pass": [
+      541,
+      542,
+      543,
+      544,
+      545
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "AMBIGUOUS"
+  },
+  {
+    "id": "RQ-09.03",
+    "pages_this_pass": [
+      523,
+      529,
+      538,
+      558,
+      559
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-10",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-10.01",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-10.02",
+    "pages_this_pass": [
+      523,
+      524,
+      525,
+      526,
+      527,
+      528,
+      529,
+      530,
+      531,
+      532,
+      533,
+      559
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-10.03",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-11",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-11.01",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-11.02",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-11.03",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-12",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-12.01",
+    "pages_this_pass": [
+      536,
+      537,
+      538,
+      539,
+      540,
+      560,
+      561,
+      562
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "PARTIALLY_RESOLVED"
+  },
+  {
+    "id": "RQ-12.02",
+    "pages_this_pass": [
+      560,
+      561,
+      562
+    ],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  },
+  {
+    "id": "RQ-12.03",
+    "pages_this_pass": [],
+    "full_corpus_coverage_verified": false,
+    "status_unchanged": "OPEN"
+  }
+]

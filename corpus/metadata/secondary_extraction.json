@@ -1,0 +1,18 @@
+[
+  {
+    "document": "articles/economic_growth_energy_campergue.pdf",
+    "sha256": "77846978295e7e7fa689e90893a372a0b4f53a6c2f947d3bbea4b263543e28ed",
+    "pages": 10,
+    "empty_pages": [],
+    "extractor": "PyMuPDF",
+    "version": "1.28.2"
+  },
+  {
+    "document": "articles/hidden_materiality_of_growth.pdf",
+    "sha256": "1f257645d224777e7460de8016093141feeecd5ef4a49fe1ca1dd3d2174635b6",
+    "pages": 16,
+    "empty_pages": [],
+    "extractor": "PyMuPDF",
+    "version": "1.28.2"
+  }
+]

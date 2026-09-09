@@ -1,0 +1,362 @@
+590
+{
+  "legacy": {
+    "Recall@1": 0.23484848484848486,
+    "Recall@3": 0.553030303030303,
+    "Recall@5": 0.5833333333333334,
+    "MRR": 0.3838383838383838
+  },
+  "tfidf": {
+    "Recall@1": 0.4621212121212121,
+    "Recall@3": 0.6666666666666666,
+    "Recall@5": 0.7727272727272727,
+    "MRR": 0.5739898989898989
+  },
+  "bm25": {
+    "Recall@1": 0.49242424242424243,
+    "Recall@3": 0.6818181818181818,
+    "Recall@5": 0.803030303030303,
+    "MRR": 0.6121212121212121
+  },
+  "bm25_extended": {
+    "Recall@1": 0.49242424242424243,
+    "Recall@3": 0.7272727272727273,
+    "Recall@5": 0.7878787878787878,
+    "MRR": 0.6121212121212121
+  },
+  "bm25_normalized": {
+    "Recall@1": 0.49242424242424243,
+    "Recall@3": 0.7272727272727273,
+    "Recall@5": 0.7878787878787878,
+    "MRR": 0.6121212121212121
+  },
+  "bm25_bilingual": {
+    "Recall@1": 0.5,
+    "Recall@3": 0.7424242424242424,
+    "Recall@5": 0.8181818181818182,
+    "MRR": 0.6303030303030304
+  }
+}
+PASS: synthetic smoke, 3 reproduced CSV tables, 2 separate formal checks
+PASS: 5 productive formal checks and data diagnostic; WARNING: 3 causal protocols NOT_IDENTIFIABLE_WITH_CURRENT_DATA
+PASS: TEST-E1/E2/E3 execution or numerical comparison; WARNING: associations are noncausal; strict constant-K restriction assessed separately
+CHN 34 1.4630841260552265 0.9811366026297972 [1.3420713484935571, 1.584096903616896]
+DEU 34 -1.7281802462411502 0.5434428549180081 [-2.461894368854528, -0.9944661236277724]
+FRA 34 -0.662440068504281 0.11504201349086896 [-1.320512873295895, -0.004367263712667158]
+IND 34 1.2801140092413588 0.9974509068245513 [1.2497638067881771, 1.3104642116945404]
+USA 34 3.3989855374440228 0.494437197612569 [2.2454317905650285, 4.552539284323017]
+WLD 34 1.534921335909251 0.9917688616818087 [1.458475334822155, 1.611367336996347]
+PASS: micro numerical computation/comparison; WARNING: full chain and Money NOT_IDENTIFIED
+{
+  "N": 20,
+  "years": [
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "coefficient": 0.014281692705171439,
+  "intercept": 0.03129122089378734,
+  "se_HAC2": 0.01093931199762277,
+  "ci95": [
+    -0.007159358810169188,
+    0.03572274422051207
+  ],
+  "R2": 0.03189711194056222,
+  "uncertainty": "Calendar-lag Newey-West/Bartlett2, n/(n\u22122), asymptotic normal95%; no causal interpretation",
+  "formula": "\u0394log(residential average price) ~ 1 + \u0394log(gas fuel cost weak proxy)",
+  "excluded_changes": [
+    2002,
+    2013
+  ],
+  "result_status": "EMPIRICALLY_QUALIFIED",
+  "specificity_status": "NON_DISCRIMINATING",
+  "causal_identified": false,
+  "structural_pass_through_identified": false
+}
+{
+  "retail_cents_kwh": {
+    "first": 8.58,
+    "last": 16.0,
+    "change_pct": 86.48018648018648
+  },
+  "retail_real2023_cents_kwh": {
+    "first": 14.764719041792166,
+    "last": 16.0,
+    "change_pct": 8.366437280054706
+  },
+  "gas_usd_mmbtu": {
+    "first": 4.487,
+    "last": 3.36,
+    "change_pct": -25.117004680187215
+  },
+  "gas_heat_btu_kwh": {
+    "first": 10051.0,
+    "last": 7721.0,
+    "change_pct": -23.18177295791464
+  },
+  "heat_efficiency_proxy": {
+    "first": 0.33946870958113623,
+    "last": 0.4419116694728662,
+    "change_pct": 30.177438155679305
+  },
+  "fuel_cost_proxy_cents_kwh": {
+    "first": 4.5098837,
+    "last": 2.5942559999999997,
+    "change_pct": -42.47621063931205
+  },
+  "gas_generation_million_kwh": {
+    "first": 554939.682,
+    "last": 1699855.345,
+    "change_pct": 206.31353282823986
+  },
+  "generation_million_kwh": {
+    "first": 3580053.03,
+    "last": 4028541.091,
+    "change_pct": 12.52741390258123
+  },
+  "residential_sales_million_kwh": {
+    "first": 1201606.593,
+    "last": 1450025.184,
+    "change_pct": 20.67387050363827
+  },
+  "nominal_budget100_kwh": {
+    "first": 1165.5011655011656,
+    "last": 625.0,
+    "change_pct": -46.375
+  },
+  "real2023_budget100_kwh": {
+    "first": 677.2902330003418,
+    "last": 625.0,
+    "change_pct": -7.720505988798953
+  }
+}
+{'A_PROXY_COST_DOWN_PRICE_DOWN': [2002], 'B_PROXY_COST_DOWN_PRICE_NEAR_STABLE': [2016], 'E_PROXY_COST_DOWN_PRICE_UP': [2006, 2009, 2011, 2012, 2015, 2019, 2020, 2023], 'NO_COST_PROXY_DECLINE': [2003, 2004, 2005, 2007, 2008, 2010, 2013, 2014, 2017, 2018, 2021, 2022], 'NO_PREVIOUS_YEAR': [2001]}
+PASS: synthetic two-product calculations; no empirical validation or calibrated Money aggregation
+RESEARCH QUESTION TREE
+{
+  "status": "PASS",
+  "questions": 53,
+  "root_count": 1,
+  "level1": 12,
+  "level2plus": 41,
+  "core_covered": 24,
+  "core_total": 24,
+  "major_covered": 96,
+  "major_total": 96,
+  "orphan_core_claims": [],
+  "orphan_major_claims": [],
+  "orphan_research_questions": [],
+  "classifications": {
+    "HIGH_VALUE": 47,
+    "BLOCKING": 16,
+    "EMPIRICAL": 20,
+    "OPEN": 10,
+    "EASY_WIN": 4,
+    "FORMAL": 17
+  },
+  "statuses": {
+    "OPEN": 29,
+    "PARTIALLY_RESOLVED": 18,
+    "AMBIGUOUS": 6
+  },
+  "with_evidence": 53,
+  "with_literature": 23,
+  "distinct_literature": 19,
+  "first_pass": 13,
+  "second_pass": 10,
+  "resolved": 0,
+  "open": 29,
+  "warnings": [
+    "RESEARCH_IN_PROGRESS",
+    "TARGETED_CORPUS_NOT_EXHAUSTIVE",
+    "INITIAL_TEST_DESIGNS_PARTIAL"
+  ]
+}
+MEASUREMENT MAP {"third_pass": 10, "variables": 26, "levels": {"1": 10, "3": 9, "2": 6, "5": 1}}
+PASS: question-tree structure; WARNING: unresolved research is not an infrastructure failure
+PASS: five second-pass formal diagnostics; synthetic, not empirical validation
+PASS: metrology synthetic diagnostics; no empirical validation
+PASS: three fourth-pass formal extensions; protocol hashes intact; no new empirical experiment
+CONTRIBUTION REVIEW
+{
+  "core_compared": 24,
+  "concepts_compared": 21,
+  "sources": 24,
+  "source_statuses": {
+    "VERIFIED": 17,
+    "PARTIALLY_VERIFIED": 7
+  },
+  "originality_asserted": 0,
+  "status": "PASS",
+  "warnings": [
+    "TARGETED_COMPARISON_NOT_EXHAUSTIVE",
+    "HISTORICAL_PRIORITY_UNRESOLVED",
+    "ANALYTICAL_VALUE_NOT_BENCHMARKED"
+  ]
+}
+PASS: four local formal diagnostics; NOT an empirical or full-corpus validation
+GLOBAL CORPUS PASS
+{
+  "infrastructure": "PASS",
+  "scientific_status": "GLOBAL_CORPUS_PASS_COMPLETE",
+  "scanned": 562,
+  "pending": 0,
+  "core_local": 24,
+  "major_local": 96,
+  "core_global": 24,
+  "major_global": 96,
+  "warning": null
+}
+SYNTHESIS
+{"status": "PASS", "questions": 53, "core_claims": 24, "master_items": 95, "question_statuses": {"OPEN": 29, "PARTIALLY_RESOLVED": 18, "AMBIGUOUS": 6}, "warnings": ["SCIENTIFIC_QUESTIONS_OPEN", "MEASUREMENT_INCOMPLETE", "LITERATURE_PARTIAL", "CAUSAL_IDENTIFICATION_NOT_ESTABLISHED"], "interpretation": "Infrastructure and provenance check, not scientific validation."}
+PASS: infrastructure, provenance and reproduced results
+WARNING / ANALYTICAL_COVERAGE_IN_PROGRESS: examined/total is distinct from the full relevance scan; see global corpus manifest
+WARNING: literature partial, chapters in progress, hypotheses not all tested
+WARNING / MONEY_REVIEW_QUALIFIED: scenario provenance checked; causal mechanisms and textual discrepancies remain open
+WARNING / PRODUCTIVE_REVIEW_QUALIFIED: conditional formulas checked; causal protocols not identifiable with current data
+WARNING / TERMINAL_REVIEW_QUALIFIED: independent energy associations are not causal; aggregation, units and T/dT remain qualified
+WARNING / MICRO_NOT_IDENTIFIABLE: unmatched sector cost/price boundaries; Utility, total profit and Money unmeasured
+WARNING / METROLOGY_IN_PROGRESS: T, cp, Utility and Money lack independent calibration; see research_questions/operationalization
+
+test_conceptual_difference_not_empirical_prediction (test_contribution.ContributionTests.test_conceptual_difference_not_empirical_prediction) ... ok
+test_core_complete_and_original_source_preserved (test_contribution.ContributionTests.test_core_complete_and_original_source_preserved) ... ok
+test_matrix_and_scenario_crosswalk (test_contribution.ContributionTests.test_matrix_and_scenario_crosswalk) ... ok
+test_originality_needs_historical_evidence (test_contribution.ContributionTests.test_originality_needs_historical_evidence) ... ok
+test_question_scope_and_partial_sources (test_contribution.ContributionTests.test_question_scope_and_partial_sources) ... ok
+test_terminology_not_substantive_automatically (test_contribution.ContributionTests.test_terminology_not_substantive_automatically) ... ok
+test_K_composition_conditions (test_fourth_pass.FourthPassTests.test_K_composition_conditions) ... ok
+test_K_normalization_covariant (test_fourth_pass.FourthPassTests.test_K_normalization_covariant) ... ok
+test_T_models_no_independent_measurement (test_fourth_pass.FourthPassTests.test_T_models_no_independent_measurement) ... ok
+test_protocols_frozen_before_execution (test_fourth_pass.FourthPassTests.test_protocols_frozen_before_execution) ... ok
+test_ratio_requirements_and_negative_control (test_fourth_pass.FourthPassTests.test_ratio_requirements_and_negative_control) ... ok
+test_result_snapshots (test_fourth_pass.FourthPassTests.test_result_snapshots) ... ok
+test_scoped_evidence_and_preserved_claims (test_fourth_pass.FourthPassTests.test_scoped_evidence_and_preserved_claims) ... ok
+test_utility_covariance_not_just_ordinals (test_fourth_pass.FourthPassTests.test_utility_covariance_not_just_ordinals) ... ok
+test_562_rows_are_not_562_read_pages (test_global_corpus_pass.GlobalCorpusPassTests.test_562_rows_are_not_562_read_pages) ... ok
+test_all_core_major_have_records_but_pending_is_honest (test_global_corpus_pass.GlobalCorpusPassTests.test_all_core_major_have_records_but_pending_is_honest) ... ok
+test_complete_review_and_all_formula_occurrences_are_linked (test_global_corpus_pass.GlobalCorpusPassTests.test_complete_review_and_all_formula_occurrences_are_linked) ... ok
+test_coverage_is_monotonic_and_has_notes (test_global_corpus_pass.GlobalCorpusPassTests.test_coverage_is_monotonic_and_has_notes) ... ok
+test_false_complete_certificate_fails (test_global_corpus_pass.GlobalCorpusPassTests.test_false_complete_certificate_fails) ... ok
+test_formal_diagnostics_reproduce_and_keep_scope (test_global_corpus_pass.GlobalCorpusPassTests.test_formal_diagnostics_reproduce_and_keep_scope) ... ok
+test_important_page_needs_question (test_global_corpus_pass.GlobalCorpusPassTests.test_important_page_needs_question) ... ok
+test_internal_exceptions_cannot_silently_disappear (test_global_corpus_pass.GlobalCorpusPassTests.test_internal_exceptions_cannot_silently_disappear) ... ok
+test_missing_or_duplicate_page_fails (test_global_corpus_pass.GlobalCorpusPassTests.test_missing_or_duplicate_page_fails) ... ok
+test_new_formula_fragments_are_source_text_not_invented_latex (test_global_corpus_pass.GlobalCorpusPassTests.test_new_formula_fragments_are_source_text_not_invented_latex) ... ok
+test_qualifications_and_full_review_history_preserved (test_global_corpus_pass.GlobalCorpusPassTests.test_qualifications_and_full_review_history_preserved) ... ok
+test_source_and_history_preserved (test_global_corpus_pass.GlobalCorpusPassTests.test_source_and_history_preserved) ... ok
+test_coverage_snapshot_and_no_new_claims (test_metrology.MetrologyTests.test_coverage_snapshot_and_no_new_claims) ... ok
+test_experiment_variables_levels_and_execution (test_metrology.MetrologyTests.test_experiment_variables_levels_and_execution) ... ok
+test_formal_results_reproduced_not_law_evidence (test_metrology.MetrologyTests.test_formal_results_reproduced_not_law_evidence) ... ok
+test_low_maturity_cannot_be_observed (test_metrology.MetrologyTests.test_low_maturity_cannot_be_observed) ... ok
+test_proxy_must_remain_explicit (test_metrology.MetrologyTests.test_proxy_must_remain_explicit) ... ok
+test_ten_question_links_and_history_preserved (test_metrology.MetrologyTests.test_ten_question_links_and_history_preserved) ... ok
+test_utility_admission_exact_on_page (test_metrology.MetrologyTests.test_utility_admission_exact_on_page) ... ok
+test_variable_schema_and_maturity (test_metrology.MetrologyTests.test_variable_schema_and_maturity) ... ok
+test_budget_gain_is_not_surplus_or_Money (test_micro_review.MicroReviewTests.test_budget_gain_is_not_surplus_or_Money) ... ok
+test_conditional_predictions_preserved (test_micro_review.MicroReviewTests.test_conditional_predictions_preserved) ... ok
+test_dimensions_and_non_equivalence (test_micro_review.MicroReviewTests.test_dimensions_and_non_equivalence) ... ok
+test_raw_integrity_design_and_numerical_snapshot (test_micro_review.MicroReviewTests.test_raw_integrity_design_and_numerical_snapshot) ... ok
+test_sample_breaks_and_causal_limits (test_micro_review.MicroReviewTests.test_sample_breaks_and_causal_limits) ... ok
+test_screening_is_not_identified_pass_through (test_micro_review.MicroReviewTests.test_screening_is_not_identified_pass_through) ... ok
+test_two_product_consistent_normalization (test_micro_review.MicroReviewTests.test_two_product_consistent_normalization) ... ok
+test_utility_scale_and_composition_conditions (test_micro_review.MicroReviewTests.test_utility_scale_and_composition_conditions) ... ok
+test_conditional_algebra_not_empirical_validation (test_money_review.MoneyReview.test_conditional_algebra_not_empirical_validation) ... ok
+test_definition_not_automatic_external_mapping (test_money_review.MoneyReview.test_definition_not_automatic_external_mapping) ... ok
+test_finding_and_claim_change_history (test_money_review.MoneyReview.test_finding_and_claim_change_history) ... ok
+test_no_identity_to_general_neutrality_shortcut (test_money_review.MoneyReview.test_no_identity_to_general_neutrality_shortcut) ... ok
+test_scenario_inventory_locked (test_money_review.MoneyReview.test_scenario_inventory_locked) ... ok
+test_scenario_provenance_and_levels (test_money_review.MoneyReview.test_scenario_provenance_and_levels) ... ok
+test_visual_and_textual_discrepancies_not_erased (test_money_review.MoneyReview.test_visual_and_textual_discrepancies_not_erased) ... ok
+test_01_source_hashes (test_phase2.Reconstruction.test_01_source_hashes) ... ok
+test_02_pages_unique_complete_nonempty (test_phase2.Reconstruction.test_02_pages_unique_complete_nonempty) ... ok
+test_03_root_cross_page_and_associated_sentence (test_phase2.Reconstruction.test_03_root_cross_page_and_associated_sentence) ... ok
+test_04_claim_schemas_and_ids (test_phase2.Reconstruction.test_04_claim_schemas_and_ids) ... ok
+test_05_all_claim_quotations (test_phase2.Reconstruction.test_05_all_claim_quotations) ... ok
+test_06_dependencies_and_derived (test_phase2.Reconstruction.test_06_dependencies_and_derived) ... ok
+test_07_concept_references (test_phase2.Reconstruction.test_07_concept_references) ... ok
+test_08_all_current_claims_and_core_classified (test_phase2.Reconstruction.test_08_all_current_claims_and_core_classified) ... ok
+test_09_semantic_invariants_retained (test_phase2.Reconstruction.test_09_semantic_invariants_retained) ... ok
+test_10_open_issues_retained (test_phase2.Reconstruction.test_10_open_issues_retained) ... ok
+test_11_graph_endpoints_and_acyclic_dependencies (test_phase2.Reconstruction.test_11_graph_endpoints_and_acyclic_dependencies) ... ok
+test_12_coverage_and_note_evidence (test_phase2.Reconstruction.test_12_coverage_and_note_evidence) ... ok
+test_13_golden_sources (test_phase2.Reconstruction.test_13_golden_sources) ... ok
+test_14_wrong_passage_fails_retrieval (test_phase2.Reconstruction.test_14_wrong_passage_fails_retrieval) ... ok
+test_15_index_source_fidelity (test_phase2.Reconstruction.test_15_index_source_fidelity) ... ok
+test_16_benchmark_current_and_nonregressing (test_phase2.Reconstruction.test_16_benchmark_current_and_nonregressing) ... ok
+test_17_no_unsupported_empirical_validation (test_phase2.Reconstruction.test_17_no_unsupported_empirical_validation) ... ok
+test_18_chapters_root_and_questions (test_phase2.Reconstruction.test_18_chapters_root_and_questions) ... ok
+test_19_schema_rejects_missing_source_and_bad_type (test_phase2.Reconstruction.test_19_schema_rejects_missing_source_and_bad_type) ... ok
+test_20_retrieval_determinism (test_phase2.Reconstruction.test_20_retrieval_determinism) ... ok
+test_21_phase2_exit_criteria (test_phase2.Reconstruction.test_21_phase2_exit_criteria) ... ok
+test_22_core_reviews_and_literature_links (test_phase2.Reconstruction.test_22_core_reviews_and_literature_links) ... ok
+test_23_secondary_pdfs_indexed_and_french_improved (test_phase2.Reconstruction.test_23_secondary_pdfs_indexed_and_french_improved) ... ok
+test_24_empirical_results_reproduced_and_inputs_intact (test_phase2.Reconstruction.test_24_empirical_results_reproduced_and_inputs_intact) ... ok
+test_25_five_substantive_chapter_files (test_phase2.Reconstruction.test_25_five_substantive_chapter_files) ... ok
+test_01_mechanisms_sources_conditions (test_productive_review.ProductiveReview.test_01_mechanisms_sources_conditions) ... ok
+test_02_work_level_not_increment (test_productive_review.ProductiveReview.test_02_work_level_not_increment) ... ok
+test_03_transmission_not_automatic (test_productive_review.ProductiveReview.test_03_transmission_not_automatic) ... ok
+test_04_formulas_epistemic_separation (test_productive_review.ProductiveReview.test_04_formulas_epistemic_separation) ... ok
+test_05_productive_calculations_reproduced (test_productive_review.ProductiveReview.test_05_productive_calculations_reproduced) ... ok
+test_06_data_not_identifying_causality (test_productive_review.ProductiveReview.test_06_data_not_identifying_causality) ... ok
+test_07_chapters_and_claim_links (test_productive_review.ProductiveReview.test_07_chapters_and_claim_links) ... ok
+test_08_monetray_and_new_rules_retained (test_productive_review.ProductiveReview.test_08_monetray_and_new_rules_retained) ... ok
+test_dossiers_source_interpretation_status (test_research_questions.QuestionTreeTests.test_dossiers_source_interpretation_status) ... ok
+test_history_and_legacy_namespaces_preserved (test_research_questions.QuestionTreeTests.test_history_and_legacy_namespaces_preserved) ... ok
+test_matrix_matches_graph_and_evidence (test_research_questions.QuestionTreeTests.test_matrix_matches_graph_and_evidence) ... ok
+test_rejects_missing_parent_and_duplicate_id (test_research_questions.QuestionTreeTests.test_rejects_missing_parent_and_duplicate_id) ... ok
+test_rejects_nonexistent_and_cyclic_dependency (test_research_questions.QuestionTreeTests.test_rejects_nonexistent_and_cyclic_dependency) ... ok
+test_resolution_and_contradiction_require_evidence (test_research_questions.QuestionTreeTests.test_resolution_and_contradiction_require_evidence) ... ok
+test_root_exact_and_open_not_failure (test_research_questions.QuestionTreeTests.test_root_exact_and_open_not_failure) ... ok
+test_tree_structure_dependencies_and_core_coverage (test_research_questions.QuestionTreeTests.test_tree_structure_dependencies_and_core_coverage) ... ok
+test_confidence_literature_and_status_history (test_second_question_pass.SecondQuestionPassTests.test_confidence_literature_and_status_history) ... ok
+test_coverage_and_claims_not_inflated (test_second_question_pass.SecondQuestionPassTests.test_coverage_and_claims_not_inflated) ... ok
+test_formal_snapshot_and_three_product_weights (test_second_question_pass.SecondQuestionPassTests.test_formal_snapshot_and_three_product_weights) ... ok
+test_money_ledger_retains_all_original_conditions (test_second_question_pass.SecondQuestionPassTests.test_money_ledger_retains_all_original_conditions) ... ok
+test_potential_and_metric_conditions (test_second_question_pass.SecondQuestionPassTests.test_potential_and_metric_conditions) ... ok
+test_source_fidelity_and_explicit_counterevidence (test_second_question_pass.SecondQuestionPassTests.test_source_fidelity_and_explicit_counterevidence) ... ok
+test_ten_dossiers_and_last_discrimination (test_second_question_pass.SecondQuestionPassTests.test_ten_dossiers_and_last_discrimination) ... ok
+test_utility_nonadditive_is_a_source_distinction (test_second_question_pass.SecondQuestionPassTests.test_utility_nonadditive_is_a_source_distinction) ... ok
+test_claim_quote_cannot_change_silently (test_synthesis.SynthesisTests.test_claim_quote_cannot_change_silently) ... ok
+test_global_qualification_cannot_disappear (test_synthesis.SynthesisTests.test_global_qualification_cannot_disappear) ... ok
+test_internal_external_distinctive_all_required (test_synthesis.SynthesisTests.test_internal_external_distinctive_all_required) ... ok
+test_missing_core_fails (test_synthesis.SynthesisTests.test_missing_core_fails) ... ok
+test_missing_question_fails (test_synthesis.SynthesisTests.test_missing_question_fails) ... ok
+test_no_candidate_without_literature (test_synthesis.SynthesisTests.test_no_candidate_without_literature) ... ok
+test_no_global_validation_certificate (test_synthesis.SynthesisTests.test_no_global_validation_certificate) ... ok
+test_no_novelty_without_evidence (test_synthesis.SynthesisTests.test_no_novelty_without_evidence) ... ok
+test_no_silent_question_promotion (test_synthesis.SynthesisTests.test_no_silent_question_promotion) ... ok
+test_open_questions_do_not_fail (test_synthesis.SynthesisTests.test_open_questions_do_not_fail) ... ok
+test_result_without_provenance_fails (test_synthesis.SynthesisTests.test_result_without_provenance_fails) ... ok
+test_root_locator_preserves_two_pages (test_synthesis.SynthesisTests.test_root_locator_preserves_two_pages) ... ok
+test_source_and_interpretation_not_interchangeable (test_synthesis.SynthesisTests.test_source_and_interpretation_not_interchangeable) ... ok
+test_synthesis_current_inputs_and_coverage (test_synthesis.SynthesisTests.test_synthesis_current_inputs_and_coverage) ... ok
+test_01_energy_and_audit_source_integrity (test_terminal_review.TerminalReview.test_01_energy_and_audit_source_integrity) ... ok
+test_02_energy_not_constructed_from_gdp (test_terminal_review.TerminalReview.test_02_energy_not_constructed_from_gdp) ... ok
+test_03_empirical_results_numerically_reproduced (test_terminal_review.TerminalReview.test_03_empirical_results_numerically_reproduced) ... ok
+test_04_exactly_three_noncausal_experiments (test_terminal_review.TerminalReview.test_04_exactly_three_noncausal_experiments) ... ok
+test_05_aggregation_keeps_all_conditions (test_terminal_review.TerminalReview.test_05_aggregation_keeps_all_conditions) ... ok
+test_06_physical_economic_and_actor_distinctions (test_terminal_review.TerminalReview.test_06_physical_economic_and_actor_distinctions) ... ok
+test_07_environment_source_interpretation_separated (test_terminal_review.TerminalReview.test_07_environment_source_interpretation_separated) ... ok
+test_08_history_chapters_and_references (test_terminal_review.TerminalReview.test_08_history_chapters_and_references) ... ok
+
+----------------------------------------------------------------------
+Ran 120 tests in 4.979s
+
+OK

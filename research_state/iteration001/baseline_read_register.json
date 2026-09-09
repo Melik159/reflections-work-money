@@ -1,0 +1,278 @@
+[
+  {
+    "path": "BASELINE_STATUS.md",
+    "sha256": "c6d54d07ea37ed1a89f7dae9d9556a90c29dbd8e5d17b3bd60795ecec0251fcc",
+    "bytes": 2136,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "closure_review/final_closure_review.md",
+    "sha256": "d0d04c06ac62bb29a173764c85b1e86b915cd39c84a81791a0d3139634a88c78",
+    "bytes": 4222,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "remediation/final_remediation_report.md",
+    "sha256": "56f6fe2ee4822fecc6698480d594a0f86f12d459d3d83975871141b87ba439db",
+    "bytes": 4572,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "external_review/final_external_review.md",
+    "sha256": "a9f4ad6e1c680cb117724ff1e9b3dac0b7eeff171b6cab43ca0dbd44e5ada3e8",
+    "bytes": 4833,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/synthesis/final_synthesis.md",
+    "sha256": "55506a4750dde40df4070b855b69b85b2e8044c739accb1dcddec85201c24c58",
+    "bytes": 17784,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/synthesis/root_question_answer.md",
+    "sha256": "df7a409c1c8131345f6a9fe36eaa0a67096d1fa743fbd25bf70ff42c99cc354a",
+    "bytes": 8161,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/synthesis/core_claims.md",
+    "sha256": "168f13eaf40ac5e086249bbc225d64ee314dd009fbc1a2c0689e8f673580cd1c",
+    "bytes": 55279,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/questions.md",
+    "sha256": "704e1ccd294eec47ef1458a603170c06b1152c129dff3ab787ab6e52aa689687",
+    "bytes": 27573,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/question_graph.json",
+    "sha256": "31ce40435d8f95c11f8834d2e112d02313054a564b8920bd05a26319332a540f",
+    "bytes": 872838,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/evidence_matrix.csv",
+    "sha256": "f3e0d691b3c6d57a4c5306211c3b11bd9ee5f06db031d0e191dd84d6610ebcb6",
+    "bytes": 3771,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "analysis/data/claims.jsonl",
+    "sha256": "8dd6b6c85f84362a26e6dce82d381f17921f7ba772872b89073972ceb374dd66",
+    "bytes": 210477,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "analysis/data/concepts.json",
+    "sha256": "5eea2782a4d9b991d0bc4bef7b156c43560fc1263f57a25107136ba2de954735",
+    "bytes": 47446,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "analysis/data/argument_graph.json",
+    "sha256": "cb85c49d56f8564bc3757ed3cfd10d6b00f4f31b8438ef35d37c1986e0e3cb98",
+    "bytes": 256115,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/operationalization/README.md",
+    "sha256": "ea64854e902387357efc0b52ffc7a33195a116c97c89d057fce482a04cb8b0ec",
+    "bytes": 623,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/operationalization/money_observable_implications.md",
+    "sha256": "b4059f12fa0ac293a7ac9a28da6c8b512b2808ced8830aedde00d18c63f42c9f",
+    "bytes": 2050,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/operationalization/experiments.json",
+    "sha256": "a019d61f7ed3d1daaa59bde9b77130146f5372535010520e31e12125832f476b",
+    "bytes": 11861,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/operationalization/formal_results.json",
+    "sha256": "b34c677a66ff08c0dc66e51857b9268ea8e42cd8bc5033a1cc7db3ced8e9fdaf",
+    "bytes": 1887,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/operationalization/measurement_literature.json",
+    "sha256": "e6831cc72cb43c71f656b97f37f03db124f60e40f8658c26f458e611d8f84773",
+    "bytes": 2190,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/operationalization/literature.md",
+    "sha256": "d42360448d0bdf204ab2fae82df06e203640ee34dc19367245b7eda30550c595",
+    "bytes": 1743,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/operationalization/measurement_matrix.csv",
+    "sha256": "73686377b672ce6d8665092ee876c79444103c77de0c87782c31f066416b2fd2",
+    "bytes": 3585,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/operationalization/circularity_review.md",
+    "sha256": "5707fead4242f60178b3154f323112131b58662d22c86ede23f749448afc5ed5",
+    "bytes": 2764,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/operationalization/variables.json",
+    "sha256": "7705e7f67fe8bbd9b627a118d4d26022e5f63d35493067e8f3d0695a3606a091",
+    "bytes": 34971,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/operationalization/manifest.json",
+    "sha256": "26ddd7f8cdf4ad4765d955869255363eb666e40bf716c00ad27aeb8260204983",
+    "bytes": 13330,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/operationalization/experiments.md",
+    "sha256": "f46ea152422d61bc0e790c72c1d716220b43df422bcb73427c912c96cee1e858",
+    "bytes": 2880,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/operationalization/variables.md",
+    "sha256": "652573f885f43a93b96a254c7cf94959913c9dbfa0fb08cdc4e6a99bc8bd6dc5",
+    "bytes": 18755,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/candidate_contributions.md",
+    "sha256": "e74b549e24e9190b9b8aa9bbc52c17b2d1bbe2fc9c7ee84dbaed831ca02e7706",
+    "bytes": 7507,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/global_corpus_review.json",
+    "sha256": "094ebe6beb500c383dcaaf98f5b5e4402c836b3a8eb4b734bc49308987575155",
+    "bytes": 1496,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/unresolved_novelty.md",
+    "sha256": "e37d7cea35083d6242a98ffca105dfc6af2e86ab31eddef41db5a72bf060d2bf",
+    "bytes": 2185,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/claim_comparisons.md",
+    "sha256": "ec59782a92fdbe21792e328e4b187dd09753e3d3e27287c0868164dc1e801c34",
+    "bytes": 26067,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/money_scenario_comparisons.json",
+    "sha256": "53cb54f7a5eb4ac038e4e6e260f72b4b59d1920a5b245ba4debc62f9bc46abcc",
+    "bytes": 84958,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/concepts.json",
+    "sha256": "da54a4eacf91da46030b70f7cb9e0df0409f51e5d7d07f1ea49fb678c02e5d86",
+    "bytes": 41896,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/README.md",
+    "sha256": "6260fc3910e281d9947efcf926707d06e12a0675eee1fa0ea407bad0707a6954",
+    "bytes": 1620,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/core_comparisons.json",
+    "sha256": "1fd29f1cbec002bf9142b4b30d9d0b78ce390feb07928e530861103a23c03fc9",
+    "bytes": 37230,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/literature.json",
+    "sha256": "1ee11b09d2bcec1f732beda572fc4b11d58203ecd5fb3b7b88b8aba6ee432cdf",
+    "bytes": 15985,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/literature.md",
+    "sha256": "4acdfab36012a63a4a8a92466fac1518fc63c8ca71135538abd175942780a003",
+    "bytes": 10052,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/money_scenario_comparisons.md",
+    "sha256": "79761abaca3d25be1080ad72ab289b3d70e95b691693834844b79255284942cc",
+    "bytes": 5551,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/global_corpus_addendum.md",
+    "sha256": "9d46d1d87959ee24d1175aed2f760474596382a5c297d2e56ddcd0174443d3eb",
+    "bytes": 1495,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/manifest.json",
+    "sha256": "8a6efad42774f179b47f86b9ee19a0e4d4e45df77b55c5fa592e731ef28aefe2",
+    "bytes": 942,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/utility_comparison.md",
+    "sha256": "b6e75f252b434a57f3431c30c95164f820f673fcfddaa529feee23d9c2f77643",
+    "bytes": 2293,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/cash_money_crosswalk.md",
+    "sha256": "4bbc0bd6c6067727d34389baa8f5c4916296ef1348488ff9b7b00dbc0e2652ee",
+    "bytes": 2773,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/false_novelty_risks.md",
+    "sha256": "89ef12668f771221943922b129a412bcd43d929285075a727f268ad2a759a78c",
+    "bytes": 1838,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/question_links.json",
+    "sha256": "97f2abc5c28e7f038f5327e4544c9d0c1564b4d7e10e6efd26bb3179d80ecebf",
+    "bytes": 3714,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/underappreciated_distinctions.md",
+    "sha256": "37fb4ed6a8030e29af74e5e5a7e655366a95b4c182150492c9bd048c3aaa0c6b",
+    "bytes": 1797,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/concept_comparisons.md",
+    "sha256": "6f5ef14ea9a06b5e69bffb066a8cd6580e4adb38a7d1899063b7fc6f1c95bab4",
+    "bytes": 27060,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/creation_accounts_comparison.md",
+    "sha256": "d210fd36748a995f310f9651a63acae4d1f0f6ef761cf181e96f3ceb8f2671a4",
+    "bytes": 2617,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  },
+  {
+    "path": "research_questions/contribution/contribution_matrix.csv",
+    "sha256": "13e4b1d557b5202fee2b0c91c54247820c30e7cbe5f0a46ded73d995a6fb4ad8",
+    "bytes": 25219,
+    "access": "Full file loaded; structured files parsed; principal narratives and selected relevant fields read. Not an attestation of exhaustive semantic rereview."
+  }
+]

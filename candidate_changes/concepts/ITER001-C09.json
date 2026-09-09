@@ -1,0 +1,99 @@
+{
+  "id": "ITER001-C09",
+  "target": [
+    "research_questions/RQ-01.04/conclusion.md",
+    "research_questions/RQ-11.01/conclusion.md",
+    "research_questions/RQ-11.03/conclusion.md"
+  ],
+  "current_state": {
+    "baseline": "CAMPERGUE-DOCUMENTARY-BASELINE-1.0",
+    "questions": [
+      {
+        "id": "RQ-01.04",
+        "status": "OPEN",
+        "target_path": "research_questions/RQ-01.04/conclusion.md",
+        "target_sha256": "d0142fe741d8aa2826f9940388d621b140a54671efaffc254d1199dc76ee82ad"
+      },
+      {
+        "id": "RQ-11.01",
+        "status": "PARTIALLY_RESOLVED",
+        "target_path": "research_questions/RQ-11.01/conclusion.md",
+        "target_sha256": "aa4151d71a6f53bd463a6f01a7f324310ccad0d10510b73084f2df375a3e567e"
+      },
+      {
+        "id": "RQ-11.03",
+        "status": "OPEN",
+        "target_path": "research_questions/RQ-11.03/conclusion.md",
+        "target_sha256": "23e42dc250dfdd9ca4b777953811c1868aedecbae756be2e0f930e26fd853a09"
+      }
+    ],
+    "claims": [
+      {
+        "id": "CPC-0001",
+        "statement": "Comprendre le passage de la subsistance à l’abondance et les dommages environnementaux associés à la hausse du niveau de vie.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 2
+      },
+      {
+        "id": "CPC-0031",
+        "statement": "Le préambule limite explicitement son propos économique en excluant les répercussions environnementales.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 29
+      },
+      {
+        "id": "CPC-0120",
+        "statement": "Campergue relie accélération productive, pertes croissant plus vite que la productivité, consommation accrue de combustibles et dommages environnementaux.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 460
+      }
+    ],
+    "note": "État canonique inchangé; qualifications détaillées lues dans synthèse/remédiation/clôture."
+  },
+  "proposed_state": "Ajouter fiche grandeur environnementale taux/intégrale/par service, chaîne pression-exposition-réponse, origine/horizon et incertitudes. Garder revendication forte p112 mais suspendre test exposant tant que mesurande non défini. Exemple32/8 illustre ambiguïté de mesure, pas réfutation.",
+  "evidence": [
+    "agents/reports/ITER001-C09/specialist.md",
+    "agents/reports/ITER001-C09/adversarial.md",
+    "agents/reports/ITER001-C09/evidence.md",
+    "agents/reports/ITER001-C09/source_pages.txt",
+    "agents/reports/ITER001-C09/provenance.json",
+    "Reflections_PierreCampergue.pdf",
+    "agents/reports/ITER001-C09/results.json",
+    "agents/reports/batch001_final_adversarial.md"
+  ],
+  "counterevidence": "Modèle β−1 suppose taux constant intégré et tâche proportionnelle au débit; dégâts réels peuvent être non linéaires/différés. P112 ne spécifie pas une élasticité log-log ni un mesurande.",
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C09/specialist.md",
+    "adversarial": "agents/reports/ITER001-C09/adversarial.md",
+    "evidence": "agents/reports/ITER001-C09/evidence.md"
+  },
+  "confidence": "HIGH conversion conditionnelle; LOW pour interprétation unique du carré p112",
+  "reason": "Précise un obstacle opérationnel de la fonction dommage déjà reconnue; aucune fonction empirique introduite.",
+  "impact": "Ouvre tâche précise d’opérationnalisation RQ-01.04/11.03 sans nouvelle réponse racine",
+  "decision": "QUALIFY",
+  "finding_class": "NEW_MEASUREMENT_ISSUE",
+  "claims": [
+    "CPC-0001",
+    "CPC-0031",
+    "CPC-0120"
+  ],
+  "questions": [
+    "RQ-01.04",
+    "RQ-11.01",
+    "RQ-11.03"
+  ],
+  "source_pages": [
+    68,
+    69,
+    112,
+    460
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "negative_results": [
+    "NOT_IDENTIFIABLE",
+    "AMBIGUOUS",
+    "NON_DISCRIMINATING"
+  ],
+  "source_pages_policy": "Repères d’extraction; lecture effective et rôle du passage attestés séparément dans specialist.md et evidence.md, jamais par la seule préparation.",
+  "supporting_claims_policy": "Les claims sont liens de recherche; toutes les pages complémentaires ne sont pas leurs citations canoniques. Les rapports identifient les sources directes, notamment p112 pour C09 et p385–386 pour C03.",
+  "supplementary_review": "agents/reports/batch001_final_adversarial.md"
+}

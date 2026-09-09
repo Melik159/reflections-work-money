@@ -1,0 +1,7 @@
+# Lexical retrieval needs only Python 3.10+ standard library.
+# JSON Schema validator used by the regression suite.
+jsonschema==4.19.2
+pymupdf==1.28.2
+numpy==2.5.3
+pandas==3.0.5
+matplotlib==3.11.1

@@ -1,0 +1,36 @@
+{
+  "tests_run": 21,
+  "passed": 20,
+  "failed": 1,
+  "errors": 0,
+  "skipped": 0,
+  "passed_tests": [
+    "test_phase2.Reconstruction.test_01_source_hashes",
+    "test_phase2.Reconstruction.test_02_pages_unique_complete_nonempty",
+    "test_phase2.Reconstruction.test_03_root_cross_page_and_associated_sentence",
+    "test_phase2.Reconstruction.test_04_claim_schemas_and_ids",
+    "test_phase2.Reconstruction.test_05_all_claim_quotations",
+    "test_phase2.Reconstruction.test_06_dependencies_and_derived",
+    "test_phase2.Reconstruction.test_07_concept_references",
+    "test_phase2.Reconstruction.test_08_all_current_claims_and_core_classified",
+    "test_phase2.Reconstruction.test_09_semantic_invariants_retained",
+    "test_phase2.Reconstruction.test_10_open_issues_retained",
+    "test_phase2.Reconstruction.test_11_graph_endpoints_and_acyclic_dependencies",
+    "test_phase2.Reconstruction.test_12_coverage_and_note_evidence",
+    "test_phase2.Reconstruction.test_13_golden_sources",
+    "test_phase2.Reconstruction.test_14_wrong_passage_fails_retrieval",
+    "test_phase2.Reconstruction.test_15_index_source_fidelity",
+    "test_phase2.Reconstruction.test_16_benchmark_current_and_nonregressing",
+    "test_phase2.Reconstruction.test_17_no_unsupported_empirical_validation",
+    "test_phase2.Reconstruction.test_18_chapters_root_and_questions",
+    "test_phase2.Reconstruction.test_19_schema_rejects_missing_source_and_bad_type",
+    "test_phase2.Reconstruction.test_20_retrieval_determinism"
+  ],
+  "failures": [
+    {
+      "test": "test_phase2.Reconstruction.test_21_phase2_exit_criteria",
+      "traceback": "Traceback (most recent call last):\n  File \"/home/ubuntu/reflections-work-money/tests/corpus/test_phase2.py\", line 198, in test_21_phase2_exit_criteria\n    self.assertEqual(n,562,f'INCOMPLETE: {n}/562 pages examined; no global PASS permitted.')\n    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: 48 != 562 : INCOMPLETE: 48/562 pages examined; no global PASS permitted.\n"
+    }
+  ],
+  "status": "FAIL"
+}

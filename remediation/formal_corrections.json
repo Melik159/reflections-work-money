@@ -1,0 +1,82 @@
+[
+  {
+    "id": "FORMAL-REMED-01",
+    "pages": [
+      285,
+      301,
+      303
+    ],
+    "equation": "Fp=rU; F=(p/r)U imprimé",
+    "current": "Dérivation/postulat insuffisamment séparés",
+    "objection": "Limite à U fixe et inversion",
+    "recalculation": "r=2,U=3,p=4: F=rU/p=1.5, formule imprimée6",
+    "result": "LOCAL_ERROR",
+    "condition": "La relation de p301 reste une hypothèse proposée, non une démonstration"
+  },
+  {
+    "id": "FORMAL-REMED-02",
+    "pages": [
+      538,
+      559
+    ],
+    "equation": "T=½cpω² et vitesse moyenne",
+    "current": "K pondéré sous additivité",
+    "objection": "Moyenne quadratique ≠ carré de moyenne",
+    "recalculation": "cp=2,ω=[1,3]: mean(T)=5, T(meanω)=4; écart=variance1",
+    "result": "CORRECT_WITH_CONDITION",
+    "condition": "Conserver variance et composition; K peut absorber sans constance structurelle"
+  },
+  {
+    "id": "FORMAL-REMED-03",
+    "pages": [
+      207
+    ],
+    "equation": "T=½cpω²",
+    "current": "Primitive à cp fixe",
+    "objection": "cp variable",
+    "recalculation": "dT=cpωdω+½ω²dcp; cp2→3 à ω2: variation2",
+    "result": "CORRECT_WITH_CONDITION",
+    "condition": "cp fixe pour primitive à un seul terme"
+  },
+  {
+    "id": "FORMAL-REMED-04",
+    "pages": [
+      15
+    ],
+    "equation": "M=nu",
+    "current": "Différentielle",
+    "objection": "Ne pas confondre variation finie",
+    "recalculation": "ΔM=uΔn+nΔu+ΔnΔu",
+    "result": "CORRECT_AS_STATED",
+    "condition": "dM infinitésimal; compensation exige u dn+n du=0"
+  },
+  {
+    "id": "FORMAL-REMED-05",
+    "pages": [
+      249,
+      250,
+      467,
+      470
+    ],
+    "equation": "Rapports0/0 et Force constante",
+    "current": "Égalités locales généralisées",
+    "objection": "Limite dépendante du chemin; constante≠nulle",
+    "recalculation": "2ε/ε=2; F2×Δt3=6",
+    "result": "LOCAL_ERROR",
+    "condition": "Une égalité peut être postulée séparément; impulsion nulle exige Force nette nulle"
+  },
+  {
+    "id": "FORMAL-REMED-06",
+    "pages": [
+      32,
+      197,
+      207
+    ],
+    "equation": "(8/6)²−1",
+    "current": "+78%",
+    "objection": "Universalité revendiquée non testée",
+    "recalculation": "7/9=0.777777…",
+    "result": "CORRECT_WITH_CONDITION",
+    "condition": "Tâche, cp et hypothèse quadratique fixes; NOT_GENERALIZED_EMPIRICALLY"
+  }
+]

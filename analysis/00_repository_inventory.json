@@ -1,0 +1,282 @@
+[
+  {
+    "path": "CITATION.cff",
+    "size": 1973,
+    "sha256": "390fb0fe77210d0335ba6a011e10f00d5345bd63b162aa48066519bb9d992d09"
+  },
+  {
+    "path": "README.md",
+    "size": 6148,
+    "sha256": "50a8662dc413c9b5e37a84a6122c6e24d15a009969fa37ee40820d34826f43af"
+  },
+  {
+    "path": "Reflections_PierreCampergue.pdf",
+    "size": 4716824,
+    "sha256": "7981eca40bca1c5ce54d96b3c840eda34d0e7d01fdc89fe9748c3c047c6f3827"
+  },
+  {
+    "path": "LICENSE.md",
+    "size": 3465,
+    "sha256": "9fef04ee278fe7e94c4bb51aa3b538b1a51c52c46782e7235d13600eaad6ff77"
+  },
+  {
+    "path": "COPYRIGHT.md",
+    "size": 4081,
+    "sha256": "27aad3bb26a9ac6ac93477b21ec8049c100069c668ab2a8cad752b56e9c25cc8"
+  },
+  {
+    "path": "corpus/extracted/Reflections_PierreCampergue.pages.jsonl",
+    "size": 996058,
+    "sha256": "cc774cf5d62505450b50ba891fbd85d0d57a39750676e6b16459ea1056674239"
+  },
+  {
+    "path": "corpus/raw/Reflections_PierreCampergue.txt",
+    "size": 917166,
+    "sha256": "6a9710777222e700531af0fdcb1875a9fa1cc5852a1210e52eadf5518d020356"
+  },
+  {
+    "path": "articles/purpose.md",
+    "size": 4985,
+    "sha256": "52aea6c30cef9cb716943680a9bf2668db5d825b2f26835eab8ee183c3e5015f"
+  },
+  {
+    "path": "articles/economic_growth_energy_campergue.pdf",
+    "size": 81597,
+    "sha256": "77846978295e7e7fa689e90893a372a0b4f53a6c2f947d3bbea4b263543e28ed"
+  },
+  {
+    "path": "articles/hidden_materiality_of_growth.pdf",
+    "size": 751003,
+    "sha256": "1f257645d224777e7460de8016093141feeecd5ef4a49fe1ca1dd3d2174635b6"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/README_RUN.md",
+    "size": 3406,
+    "sha256": "5481f16a965a130d0f3fff64b09104febc9da5a1dba3dd215a9ea0d40ee8a7f0"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/requirements.txt",
+    "size": 24,
+    "sha256": "de670d2176ad6e71244cb4525c98d2c5fce62bb136de29efee5e9916b3dc9feb"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/tests/smoke_test.py",
+    "size": 1954,
+    "sha256": "2e37a4fe9b873148465acdac3f4931de9ef5b397c07d16dfc9f212b14a7dd2ba"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/tests/smoke_data/gdp_ppp.csv",
+    "size": 1579,
+    "sha256": "033d0d85c1fd19ab380a2f0f87adf2688a635dc5eff16a8961811d1af4ea8a80"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/tests/smoke_data/gdp_per_energy.csv",
+    "size": 1575,
+    "sha256": "6905d3e4b1aa6269eb4f45c43ac4ca97da602752cb11853fb6ef67a8b37416e2"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/tests/smoke_data/gdp_market.csv",
+    "size": 1563,
+    "sha256": "f7e13954640f0db0cc8bf7dccc9debac3dc22cf72578f4431bcf96b2673bdd2e"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/chn_indexed_series.png",
+    "size": 146624,
+    "sha256": "ab215369170acb342509dcaad037e5f91e5cbb77d6d93e1061a893bc6cbdc870"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/wld_energy_gdp_dlog.png",
+    "size": 150850,
+    "sha256": "97729455a083cdadc4fb472a6fe9aebdec5cda0bf77a3beba63e5c4df67d9b4c"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/deu_energy_gdp_dlog.png",
+    "size": 149990,
+    "sha256": "8647f59dd86fe75cd3416e4b66b2e6349fc7cc694fc4ed431bb52dc8e2bc248f"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/wld_energy_gdp_level.png",
+    "size": 148663,
+    "sha256": "4e129a1b2112823f71ec1c25c37e024eabe48ecf9869f757b7de1717143b1d18"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/ind_energy_gdp_loglog.png",
+    "size": 176450,
+    "sha256": "3055cf5c6cbe84cf5dcc8f76af4f996c5079d2d49c4c65d34eb89107b20401ee"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/fra_indexed_series.png",
+    "size": 168659,
+    "sha256": "60cc81231ef3ea6e392acf2400c8e747a7bc04db6fa28393875b7cf8171e72ad"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/usa_energy_gdp_dlog.png",
+    "size": 146983,
+    "sha256": "96e00ce0a0cad6eae21a4af8fa0446017c12a365432303c841d452db6b12bac1"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/ind_energy_gdp_level.png",
+    "size": 149594,
+    "sha256": "a50d290963cb7563fbb03b5a976211596ba9e11319a2c8553124ac0ba62e0c15"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/ind_energy_gdp_dlog.png",
+    "size": 160671,
+    "sha256": "e0fca9a5179fde2d9d7e638c7a41ef1dc8848482158ade872cf534a0eb18eb14"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/ind_indexed_series.png",
+    "size": 149176,
+    "sha256": "60c4b3dba9fb9b94aba70a4124943a957f14719e5c2b4b761e1c670412d749e0"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/wld_energy_gdp_loglog.png",
+    "size": 166152,
+    "sha256": "af2df72d15c3034bfdcd68043d5b51bd1312d89c3741c81188798b5b2a670638"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/rolling_loglog_elasticity.png",
+    "size": 221123,
+    "sha256": "8992efffddea241bc6dc3fecf6fd4dc4215986931a96d8624946e6902d7b59b8"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/chn_energy_gdp_dlog.png",
+    "size": 150011,
+    "sha256": "699fb2ea80cfb457d6e7411e72450f37d604f4003f3d577f82222129003ddbbd"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/usa_energy_gdp_level.png",
+    "size": 144720,
+    "sha256": "371ab5aaf170096791ae316226196b2e4443db2406ddc0487dba241e434c1956"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/deu_energy_gdp_loglog.png",
+    "size": 181639,
+    "sha256": "dafb97d649ae9b5e862ccf12029c16a13adeaee6f50e876e8caa683eb3f2ddfa"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/run_metadata.json",
+    "size": 724,
+    "sha256": "5311d28946e4b8ea676ee4996907a734ab9bb3550c98122a54a92b7ba2d83c15"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/rolling_loglog_elasticity.csv",
+    "size": 7998,
+    "sha256": "ff7708e83c6744ebf88eaf13f3474975ebdeb7199cad22739b11720f7d6eefd4"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/fra_energy_gdp_dlog.png",
+    "size": 153321,
+    "sha256": "f18d8c65610652946b1784498ae57474146c671198cc6adc4a5b1fd2db05eade"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/regression_summary.csv",
+    "size": 1935,
+    "sha256": "f90f6c886b7f4c23010aeaf75988c269eb15220845e8a10469123c5b592aeb09"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/chn_energy_gdp_loglog.png",
+    "size": 171922,
+    "sha256": "c61be749b6b5afa4e5b21756c3bf5b92aaf82e612bb9aa298b2ea0d093caade8"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/fra_energy_gdp_level.png",
+    "size": 125140,
+    "sha256": "5ea5712db01453c9b3d7d3c9da6758147f38943a1068e60d031d2aaa9c5855db"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/usa_indexed_series.png",
+    "size": 157911,
+    "sha256": "767dcb0ced9f9613626d4bc4f7145b6fce229b9a3b48271480bfebb7570e0871"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/deu_energy_gdp_level.png",
+    "size": 171737,
+    "sha256": "e252d89909fe8db48718d0e3efcdd8a32cc8995670892a3f6001b8e530690f28"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/fra_energy_gdp_loglog.png",
+    "size": 146189,
+    "sha256": "89b92193bd11716e4144400af1be116890fc6bb4745d8ea635f1895dd5787c72"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/chn_energy_gdp_level.png",
+    "size": 162511,
+    "sha256": "f369e0bc8e3242286daafd550de2dac841bc3d9c217d1ec784712ef173e4d275"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/deu_indexed_series.png",
+    "size": 152451,
+    "sha256": "27d282982286eb2a83d649ba3d58d7be3319111198b99f5d2663fc1b4f2903f4"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/merged_energy_gdp.csv",
+    "size": 33465,
+    "sha256": "f0e5e5edb9d0f509699444b075fb51b5bb550187ba81d7f28643d746e472bb4a"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/usa_energy_gdp_loglog.png",
+    "size": 180078,
+    "sha256": "58208fe436c94e85c8528463e044f8366805251a532bbfe092e4ef4e07e30c49"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/output_macro/wld_indexed_series.png",
+    "size": 157481,
+    "sha256": "0b90d7929032a31b22e1cb132e3124918bf71eef70cec11e85f129102513cc5c"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/scripts/download_wb_sources.py",
+    "size": 4795,
+    "sha256": "ab3ed3ac0b0969d8fd84484ef36914ceaf29801ae694b8128e55dd5cb9c4134a"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/src/energy_gdp_analysis.py",
+    "size": 15728,
+    "sha256": "586aab8b3f84f5ec800248ad339cdda8655f8fe1455e515e92f6f4a149831409"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/data/code/API_NY.GDP.MKTP.PP.KD.csv",
+    "size": 210669,
+    "sha256": "7d37559f048eabf7039ee7c400050ef2f2f0a4d9552142599f6e76e32d6a4d8f"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/data/code/API_NY.GDP.MKTP.KD.csv",
+    "size": 297601,
+    "sha256": "b0735a92ac6e8883492305733d914792bbecb28d4d34ad535e7690cb1e87af98"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/data/code/API_EG.GDP.PUSE.KO.PP.KD.csv",
+    "size": 188326,
+    "sha256": "8b44a18067a829209ac423ed247b1700b09f00b1f44a344e103fe7d04b7bf7c0"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/data/raw/NY.GDP.MKTP.PP.KD.zip",
+    "size": 92514,
+    "sha256": "c250abfcbf0efb7a6e98aa3061a44e039d51f00eea968a975942bd8c4aa9aa55"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/data/raw/NY.GDP.MKTP.KD.zip",
+    "size": 142981,
+    "sha256": "f76d834b6a61452a00cc99e160d683ec9f3276610c2fd4cf84d085bbb7a7d4e5"
+  },
+  {
+    "path": "articles/campergue_energy_gdp_code/data/raw/EG.GDP.PUSE.KO.PP.KD.zip",
+    "size": 71758,
+    "sha256": "ddf9eea6d978894fc9bebe7b6b1ce4dad6d90d6a4e2472794222114fd585a193"
+  },
+  {
+    "path": "analysis/00_git_status.txt",
+    "size": 54,
+    "sha256": "fc2e00bf09910d7c64777dd83396e267a1553d87cef57ee83eb3ca01ae171a77"
+  },
+  {
+    "path": "analysis/00_file_inventory.tsv",
+    "size": 4159,
+    "sha256": "d0944e9ec1f5cee828830b3ad05191b3b8d818e7e3be2102418abb3e11197386"
+  },
+  {
+    "path": "analysis/00_hashes.txt",
+    "size": 559,
+    "sha256": "2660e09d3044288d90be3a59de79a1f84a6c62b47e88f5f226ac8ee102549fec"
+  }
+]

@@ -1,0 +1,12 @@
+test_78_universal_generalization (closure_mutations.RemediationTests.test_78_universal_generalization) ... ok
+test_cash_money_confusion (closure_mutations.RemediationTests.test_cash_money_confusion) ... ok
+test_compatibility_is_not_proof (closure_mutations.RemediationTests.test_compatibility_is_not_proof) ... ok
+test_correct_claim_wrong_page (closure_mutations.RemediationTests.test_correct_claim_wrong_page) ... ok
+test_empirical_overpromotion (closure_mutations.RemediationTests.test_empirical_overpromotion) ... ok
+test_removed_condition (closure_mutations.RemediationTests.test_removed_condition) ... ok
+test_wrong_existing_source (closure_mutations.RemediationTests.test_wrong_existing_source) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.269s
+
+OK

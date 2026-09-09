@@ -1,0 +1,314 @@
+[
+  {
+    "path": "analysis/data/claims.jsonl",
+    "old_hash": "ec76de4663cea1c242df514a568284304eac10366478c247b8a16aa640e27ad0",
+    "new_hash": "8dd6b6c85f84362a26e6dce82d381f17921f7ba772872b89073972ceb374dd66",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-01.01/conclusion.md",
+    "old_hash": "e747d8b5e562f752529abe2432bae52c97029ebf6255ab917de08196664f8643",
+    "new_hash": "830931f7152778a0a45ec81e63d54114d6626f70e99f06b9f05abdbabdd36114",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-12.01/conclusion.md",
+    "old_hash": "073dd5f4730f9e00c1907221837a67dab8360316a890f07888a8ed6af389b607",
+    "new_hash": "2ff2dcc159d8fc0ea182f7ab539558b2db92c03784d894b767fe35f22b69f849",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-12.03/conclusion.md",
+    "old_hash": "319be18e46d8ef0377efeac8bddeac06871eb2e6fc7cba208235e436d424c32b",
+    "new_hash": "55120a3039aed00ae7c24aab3d12a0eb868cb9300fbf82b3871ecde0cf055326",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/operationalization/experiments.json",
+    "old_hash": "3caa35cd6689917a22ffd42a8ca7626fd17b41e055c81e96374dd6542d0d3f3b",
+    "new_hash": "a019d61f7ed3d1daaa59bde9b77130146f5372535010520e31e12125832f476b",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/operationalization/measurement_matrix.csv",
+    "old_hash": "f4d3eeb0f9f0fe084db99efd4ece6750fab4545e75f30eb2ba11e4911e4413cc",
+    "new_hash": "73686377b672ce6d8665092ee876c79444103c77de0c87782c31f066416b2fd2",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/operationalization/variables.json",
+    "old_hash": "969d8043a3912e5d5cdcff3735e70518429c2d99bc2792945bfa188f7fc4febf",
+    "new_hash": "7705e7f67fe8bbd9b627a118d4d26022e5f63d35493067e8f3d0695a3606a091",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/operationalization/variables.md",
+    "old_hash": "bcefb29dc4356cf52312b8bd6641ac3b6ea7842988960eacceabf1fb79149add",
+    "new_hash": "652573f885f43a93b96a254c7cf94959913c9dbfa0fb08cdc4e6a99bc8bd6dc5",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/methodology/criteria.json",
+    "old_hash": "7797ce620828dd106f2db6770978e3c78136e6c1864538d5a7846ee30e2dd63b",
+    "new_hash": "cee4bdad4fb3c74788c28480ad3500d45e27c9a080d3634f44cdf7da42ab4f76",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/methodology/epistemic_program.md",
+    "old_hash": "c93f1a29a99575722039d15e01537b80113624cf4eba17086e424439f73e1411",
+    "new_hash": "0c281c71f7f7b99ebb74df4cbb6d9c765d9a67608b7858c2d0ebff889264c7a5",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-01.02/conclusion.md",
+    "old_hash": "9e3b6208ee9f73273c4b5db2fe4f3049b68db4bb4d165f2ddc6ff176eddced62",
+    "new_hash": "128f80111dca61736e6587c15c061975a45bcd2744e150ad0bc042c981634e7d",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-01.03/conclusion.md",
+    "old_hash": "9e0b04a2459ee1e8c1530fcdaa53dfd3a03c316b94d6b72d9ecd76689e247976",
+    "new_hash": "34779b29407835dfabfe7ca559f926aa5b689abdb6551a837851f0397eef1df5",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-01.04/conclusion.md",
+    "old_hash": "c146c51c7dbeae54a10149747074702b294cfa467fd2212f881edbe53691d75a",
+    "new_hash": "d0142fe741d8aa2826f9940388d621b140a54671efaffc254d1199dc76ee82ad",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-01/conclusion.md",
+    "old_hash": "c62b652eed7466efb225850caffd14b4d8ddb455f03d647ea4807af4e80cc735",
+    "new_hash": "6c494c64fcebee08ac376b556a3afcffa9a239c9c349b0954918887d6d9fd771",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-02.02/conclusion.md",
+    "old_hash": "d535ea7bd28e61ee09b3b52174017cc6ba6e0906973663acbde4259fbda8aa45",
+    "new_hash": "2f08f1dff6326fbc7972ba4665e2007803824ad71953008ee18091cb53cb7606",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-02.03/conclusion.md",
+    "old_hash": "7b2ad8988ad14971ea60d723a8d8e07a0a8ba64948e06ccb160742b5628e696e",
+    "new_hash": "390625897820643eac60ebbcee730bf96412158e482afc4ef677c7a5e24fd259",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-02/conclusion.md",
+    "old_hash": "0ae3bc18df0564a0c74800166b895552a0683ff47cf60e52bf0fb04a4749deb0",
+    "new_hash": "db713ef73ee54595376ad1d41e62692f7e2eaaf00b4431b56369a2ad583d4fb9",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-03.02/conclusion.md",
+    "old_hash": "799705bc69a7715fbb50c872479296dc54188399709e546e1a19af62a47c1fd1",
+    "new_hash": "8c436c4f1cc9abe034a975d0448f172fd938f70f8f68217a5ae2bce0168ed8a8",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-03.04/conclusion.md",
+    "old_hash": "ae62dabbbfe7a2aaea99ccfd5b45c8bd00eab0087ddc480c0a5c111a505972b4",
+    "new_hash": "efca717da73ee30b891f1fa157dbc895d3959eebc98e65c61eb3ed17f437680f",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-03/conclusion.md",
+    "old_hash": "610bad3ab8a653eaad17c50cff3c6839e56e5f16710e5936911f55a9b2679481",
+    "new_hash": "5f25e253213a0bde6dc6432b636ece7a8fd6df737c0fd0f08aaa103f2a80aa47",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-04.01/conclusion.md",
+    "old_hash": "5d5a326e8fa924049d323d1f8ff29f8f7e8fab226a01d44bc644ca1a956bd5aa",
+    "new_hash": "796004946ed6b6fe8d73be347876de741be8d3d50c3813478e4e83f5f26470ca",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-04.02/conclusion.md",
+    "old_hash": "a7ead04626e830b00127fcaa07dd100bdc605bd2a17719bc21992f41d29369e9",
+    "new_hash": "5a2fd1ce9c1bd985b66cfe0bc738f602db2dfc804f53289e969400e431a72bf5",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-04.03/conclusion.md",
+    "old_hash": "cda1e30173f2a788cccf753705de8591107ce029c23f18ec89089bf8f2a10836",
+    "new_hash": "32e5009e077df7ef052624a5fb3fb109ede0a007dfa0af77589e112a4edcc82b",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-04.04/conclusion.md",
+    "old_hash": "396c5d044557c9e1644bc72dafa88a9d5a4820510d6522aabc1a9af5929fb91b",
+    "new_hash": "13c8aed4f1148046d94e46b2b1e4d7af5e591e98a8bda968a547aa555f4020f5",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-04/conclusion.md",
+    "old_hash": "b7d02f1b8dfcfa7fc2b6a99c92d54037b6cb2334ba1c65714b3351111496fb97",
+    "new_hash": "f1e15ba96bb20d6db412326694a34a04a97a32f4eaaee6b1716e417968dd3a30",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-05.02/conclusion.md",
+    "old_hash": "29bb2beca741e5b2e13c884de65c53b4aed97551b1e2468d04eb8c9794ed9f40",
+    "new_hash": "e7a8ba5f9b928cb9e2adabb8f9a95f5f7d7283af1b0e2b5f0b19f47be32af3f0",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-05.03/conclusion.md",
+    "old_hash": "1d772e01036ae3f96ff2650b9be5df84e3f1c4213cb6fd745c73af9eed104de2",
+    "new_hash": "fd41b00eea6bea16ec278be29f1852deaa3f0ada683df1afc2ee09d13000c2a0",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-05/conclusion.md",
+    "old_hash": "80725ec07991ebe16cecf19757aa795f2fa98b302e0252c69ac83ad934674c81",
+    "new_hash": "b433a86f4c171edc084d109663907c3c8b7220de3005778f615a31e164e26c0a",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-06.01/conclusion.md",
+    "old_hash": "432daa44aeac091c0e828a67ac97eea1646ec107b45a398c449f8a0cf61fcfb4",
+    "new_hash": "658c65282b609ec086e425c61cdcfb55f7027cd077c9e0794e7e0928fb99e553",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-06.03/conclusion.md",
+    "old_hash": "d764b60e9ba89ea1e91114bceab34dd014eefdd1bb5fceca7e28844808aa36f5",
+    "new_hash": "225208dbdbe2aa7ca21fcacafd92715b7c0ad738e422aad91dc3aa7edcbe014b",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-06.04/conclusion.md",
+    "old_hash": "6fb90b1e0a8d128219cc3e9e181ac4cb2e7f3090a0a52aaab8d88b7446c6c0f4",
+    "new_hash": "881dab56cdb23ef5fb495bf2f1e5b44e31410517c2830211ada7e5a05751774b",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-06/conclusion.md",
+    "old_hash": "a3b5fab42981ad6af29eec2667c4ff811cb1fb91311d117b8275908bd5cc1358",
+    "new_hash": "818695e36782403e79195a1ae3b11b18380a8ede7585a0488b4325766bb4104b",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-07.01/conclusion.md",
+    "old_hash": "119b836b510b59e99309d2f2abb5f9d6617d1da41455a9efe38ac2beea7d1330",
+    "new_hash": "fc6b2f0671e50f120e07e6df89b54583b5218ecd8548a34f324c45fa22683440",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-07.03/conclusion.md",
+    "old_hash": "02114de9838a29087cf0d8dd2a3e15f961c7769cd81b1d615fc7bdbc1b56033c",
+    "new_hash": "993803e7cc91aa7ed5674610a0c9811776d7693a88a1a6f6ff0f6fb46aa6841e",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-07/conclusion.md",
+    "old_hash": "cb4d613d4863f57de526ecec2c4b0cac357024394536d6eb789eca69c9645945",
+    "new_hash": "05c4880dc8e107904a21f42e1fa96c3b54a22dd74fb36ad0d80834ef417a7675",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-08.01/conclusion.md",
+    "old_hash": "7667faf092e54c3c12287ff4aaec61feb38ef3f5a887afada8a297388558f98b",
+    "new_hash": "064ec7ac8b8bd6a6a74384580f229f0a282a0af1ee0a8699e5eb0cf24e62a0e7",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-08.02/conclusion.md",
+    "old_hash": "ad3598b6079769c96d81850c9baf001710f02ec341b9a0957cfb229f7254ca78",
+    "new_hash": "ff13da44cadf626db42135f4237ab0e9f6f7cacf8b723f1a22c025a433b3c4c9",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-08/conclusion.md",
+    "old_hash": "d3f5bfd4d3c10ff1b7190f20dea56419d90a67abffd8e60b76cbd560d29e173a",
+    "new_hash": "5f82d2edc4e32aa908ecbe14810edef7b767bf757024d921e3197733e410bef0",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-09.01/conclusion.md",
+    "old_hash": "d501be6ca194108f7f9dcadf051e24d580f42480a703d0c8bbfa02068f42a24f",
+    "new_hash": "6afaf1b835d23d99cdda0b3f85eaefd3afb56fb306fb9eb2995806b3ce59ad54",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-09.02/conclusion.md",
+    "old_hash": "bf2fbd43d2181ecc2ac6ec645c820de2e1fc863e240df7e5127ea27b45c8d3b6",
+    "new_hash": "8ae7706934020b28d6eb675ce4aa610a7d3b35d8df3f7687dc0d963be410c6b2",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-09.03/conclusion.md",
+    "old_hash": "ac7f99c64aaff145cdb85b27bed3ff83aa0b270d585b97a44eb44f110f2ace90",
+    "new_hash": "f58cb1f229fffb3ca7369a5748b1deccdf24e6b604b7919008d4df219d488cf8",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-09/conclusion.md",
+    "old_hash": "28a97393e4ef0de62e7554e4a773d27ce56f038ea67c479e98238fdfc8eeae63",
+    "new_hash": "26df02c7a9098496543a4bdc6b5761a5de553649c6605703c59c5aefe3be0605",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-10.01/conclusion.md",
+    "old_hash": "a213d7278622f5d173e080bd2c41dff9e94711f59204127e83617d88adb2db2d",
+    "new_hash": "35e7b70fc13137ced91c2cc82acc558ab230cee555d77768b5d9c43e261df93f",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-10.03/conclusion.md",
+    "old_hash": "4a5e438ece32bfadb1359904ddd631f8814e26a21d46beecf8bff2dfb3d8e20c",
+    "new_hash": "187bdda82b4aaabb349b345af52e6121eb39407374afd028786edd992b692fc2",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-10/conclusion.md",
+    "old_hash": "3fa30d71da7f16df4ba99a42f1363148bd5f181890d05852e3080ef779af7dcf",
+    "new_hash": "fe2859e185aded0c877309ea8f954c2406556b9d87994a958b9b1ddee7e62de4",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-11.01/conclusion.md",
+    "old_hash": "6c801493a2eee671afa8d8d4ba1e18f763616dbae70be4e3382aa9469e51ac95",
+    "new_hash": "aa4151d71a6f53bd463a6f01a7f324310ccad0d10510b73084f2df375a3e567e",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-11.03/conclusion.md",
+    "old_hash": "be80a9952105379ba4365771af4dbf73ac3c9a6f1a40a9034bf90248bf6b0591",
+    "new_hash": "23e42dc250dfdd9ca4b777953811c1868aedecbae756be2e0f930e26fd853a09",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-11/conclusion.md",
+    "old_hash": "9f7ca6c9ea93508b08673a6d6bbcd87cc6666246bbd44105d2949e80ba4e0fb5",
+    "new_hash": "763ad9244cc4227a318d4a1b800263a2c9601b37b0668bbe6050b47d309a4aea",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-12.01/conclusion.md",
+    "old_hash": "2ff2dcc159d8fc0ea182f7ab539558b2db92c03784d894b767fe35f22b69f849",
+    "new_hash": "76668e71dde5d9164ab962b6feca5f72c44e0699d0278d59a9255ea824bd0600",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-12.02/conclusion.md",
+    "old_hash": "ff8cee8002acae12823d7841d5783d683a921b59365da90465bd5ac0b91ccb61",
+    "new_hash": "a97a4c2acfc4d9ccf8d98b9c699746b9c4fffbb5bd8052949a15db79bbe9715b",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-12.03/conclusion.md",
+    "old_hash": "55120a3039aed00ae7c24aab3d12a0eb868cb9300fbf82b3871ecde0cf055326",
+    "new_hash": "8ce8c668a2239ba37e49d64e5372f5e9bf841155c085f16f4022293c68b5348b",
+    "reason": "Explicit remediation; original archived before edits"
+  },
+  {
+    "path": "research_questions/RQ-12/conclusion.md",
+    "old_hash": "49828618714e3e2747172308f4c5a158ed84aa9799a9ad88bbc147a5442f3c9e",
+    "new_hash": "837479db57477a514d215e12c321d05fe8cef9997efd4e0321ffd52717eb6ecb",
+    "reason": "Explicit remediation; original archived before edits"
+  }
+]

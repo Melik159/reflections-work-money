@@ -1,0 +1,50 @@
+{
+  "task": "ITER001-P0-06",
+  "cycle": "ITER001-C06",
+  "stage": "DOCUMENTARY_PREPARATION_ONLY",
+  "reading_attestation": false,
+  "analysis_performed": false,
+  "decision_performed": false,
+  "pages_hint_extracted": [
+    187,
+    188,
+    198,
+    212,
+    490
+  ],
+  "document": "Reflections_PierreCampergue.pdf",
+  "source_type": "SOURCE_CORPUS",
+  "input_sha256": {
+    "Reflections_PierreCampergue.pdf": "7981eca40bca1c5ce54d96b3c840eda34d0e7d01fdc89fe9748c3c047c6f3827",
+    "corpus/extracted/Reflections_PierreCampergue.pages.jsonl": "cc774cf5d62505450b50ba891fbd85d0d57a39750676e6b16459ea1056674239",
+    "rag/index/iterative.json": "91e2acaa1dfd9c0b8da43e067e14470854b908e48005310bac077ddaa2ff271a",
+    "research_state/iteration001/initial_tasks.json": "20c43c7ed94e2031ea42c2316ac2588b4c6a6ad113c381f4c1beffe501ef79f0"
+  },
+  "page_text_sha256": {
+    "187": "e1ed65b063800fb30e05abf888399b7e1343e0ed17055e39f18caaf006771157",
+    "188": "997e4dc6b1773282ae87ba89d241a4dcffa54b307fd60d3304903142250f0a9c",
+    "198": "e4729f5421c27e60659f7943bab965b44000fdc9e482eedbc631a096db3a2368",
+    "212": "92eaa5c74a96afe2fa056b3b5ae08d7beb5ece0ee2ae74340762692a92e94b58",
+    "490": "8517d389ad52f3463941aea8bf8cea04d9f38d76e82b5f6599a16fe9958d7b78"
+  },
+  "source_pages_sha256": "0d6f748bda482343ef46cb0b9694abd93c72bfce9e50c786523e45cd2e09ce27",
+  "retrieval": [
+    {
+      "collection": "SOURCE_CORPUS",
+      "query": "Innovation → productivity → growth Quels mécanismes innovation procédé/produit/diffusion la vitesse à tâche fixe ne suffit-elle pas à identifier ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_source.jsonl",
+      "hits": 3
+    },
+    {
+      "collection": "DERIVED_ANALYSIS",
+      "query": "Innovation → productivity → growth Quels mécanismes innovation procédé/produit/diffusion la vitesse à tâche fixe ne suffit-elle pas à identifier ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_derived.jsonl",
+      "hits": 3
+    }
+  ],
+  "note": "Extraction intégrale préparée pour lecture ultérieure. Ne constitue ni attestation de lecture ni preuve finale RAG."
+}

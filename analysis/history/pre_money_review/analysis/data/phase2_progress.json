@@ -1,0 +1,29 @@
+{
+  "status": "SUFFICIENT_FOR_ITERATIVE_RESEARCH",
+  "pages_total": 562,
+  "pages_examined": 61,
+  "claims": 68,
+  "concepts": 36,
+  "criticality": {
+    "CORE": 24,
+    "MAJOR": 37,
+    "SUPPORTING": 7
+  },
+  "types": {
+    "OPEN_QUESTION": 1,
+    "CONCEPTUAL": 13,
+    "ANALOGICAL": 2,
+    "ASSUMPTION": 4,
+    "HYPOTHESIS": 10,
+    "DEFINITION": 19,
+    "AXIOM": 6,
+    "DERIVED": 3,
+    "MECHANISM": 1,
+    "NORMATIVE": 1,
+    "EMPIRICAL": 1,
+    "METHODOLOGICAL": 7
+  },
+  "ready_for_bibliographic_adversarial_review": true,
+  "coverage_status": "COVERAGE_IN_PROGRESS",
+  "policy": "User authorizes iterative research without exhaustive prior reading."
+}

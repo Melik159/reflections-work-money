@@ -1,0 +1,115 @@
+[
+  {
+    "id": "CC-01",
+    "title": "Séparer paiement, transformation et destination du gain",
+    "source_pages": [
+      159,
+      271,
+      363,
+      468,
+      479,
+      490,
+      507,
+      523
+    ],
+    "precedence": "KNOWN_PRECEDENT_FOUND",
+    "attack_precedence": "Paiement, production nette, transfert et surplus ont des précédents.",
+    "renaming_test": "LIKELY_REFORMULATION pour le recouvrement; ne pas effacer le résidu décrit.",
+    "measurement_attack": "Aucune nouvelle mesure opérationnelle établie.",
+    "prediction_attack": "Aucune différence observable identifiée avec les variables disponibles.",
+    "assumption_attack": "Frontières/échelles/coefficient ou condition Utility doivent être fixés indépendamment.",
+    "surviving_residue": "Une présentation commune des frontières et bénéficiaires peut être utile; supériorité non mesurée.",
+    "review_status": "QUALIFIED",
+    "novelty": "NOVELTY_UNRESOLVED",
+    "bibliography": [
+      "ER-BIB-01",
+      "ER-BIB-05",
+      "ER-BIB-07"
+    ],
+    "confidence": "MEDIUM"
+  },
+  {
+    "id": "CC-02",
+    "title": "Tâche, vitesse et Work additionnel",
+    "source_pages": [
+      203,
+      207,
+      208,
+      341,
+      355,
+      467,
+      470,
+      501,
+      547
+    ],
+    "precedence": "PARTIAL_PRECEDENT",
+    "attack_precedence": "Tâche, cadence et productivité sont déjà séparables; T quadratique n’est pas une simple traduction de TFP.",
+    "renaming_test": "LIKELY_REFORMULATION pour le recouvrement; ne pas effacer le résidu décrit.",
+    "measurement_attack": "Aucune nouvelle mesure opérationnelle établie.",
+    "prediction_attack": "Aucune différence observable identifiée avec les variables disponibles.",
+    "assumption_attack": "Frontières/échelles/coefficient ou condition Utility doivent être fixés indépendamment.",
+    "surviving_residue": "Restriction formelle distincte sous cp fixe, mais ni T ni cp indépendamment mesurés.",
+    "review_status": "QUALIFIED",
+    "novelty": "NOVELTY_UNRESOLVED",
+    "bibliography": [
+      "ER-BIB-06"
+    ],
+    "confidence": "MEDIUM"
+  },
+  {
+    "id": "CC-03",
+    "title": "Exigences d’échelle de Utility",
+    "source_pages": [
+      111,
+      132,
+      249,
+      285,
+      301,
+      377,
+      392,
+      425,
+      511,
+      520
+    ],
+    "precedence": "KNOWN_PRECEDENT_FOUND",
+    "attack_precedence": "Exigence d’échelle connue; diagnostic appliqué par les reviewers, pas nouveauté historique attribuable.",
+    "renaming_test": "LIKELY_REFORMULATION pour le recouvrement; ne pas effacer le résidu décrit.",
+    "measurement_attack": "Aucune nouvelle mesure opérationnelle établie.",
+    "prediction_attack": "Aucune différence observable identifiée avec les variables disponibles.",
+    "assumption_attack": "Frontières/échelles/coefficient ou condition Utility doivent être fixés indépendamment.",
+    "surviving_residue": "Audit des opérations du corpus utile même sans contribution nouvelle de l’auteur.",
+    "review_status": "QUALIFIED",
+    "novelty": "NOVELTY_UNRESOLVED",
+    "bibliography": [
+      "ER-BIB-02"
+    ],
+    "confidence": "MEDIUM"
+  },
+  {
+    "id": "CC-04",
+    "title": "Condition Utility dans le pont physique",
+    "source_pages": [
+      72,
+      159,
+      271,
+      454,
+      455,
+      456,
+      479,
+      559
+    ],
+    "precedence": "PARTIAL_PRECEDENT",
+    "attack_precedence": "Pont énergie/travail utile/coût/prix/demande possède un précédent explicite.",
+    "renaming_test": "LIKELY_REFORMULATION pour le recouvrement; ne pas effacer le résidu décrit.",
+    "measurement_attack": "Aucune nouvelle mesure opérationnelle établie.",
+    "prediction_attack": "Aucune différence observable identifiée avec les variables disponibles.",
+    "assumption_attack": "Frontières/échelles/coefficient ou condition Utility doivent être fixés indépendamment.",
+    "surviving_residue": "Condition économique sur Utility constitue un résidu possible, actuellement sans mesure indépendante.",
+    "review_status": "QUALIFIED",
+    "novelty": "NOVELTY_UNRESOLVED",
+    "bibliography": [
+      "ER-BIB-03"
+    ],
+    "confidence": "MEDIUM"
+  }
+]

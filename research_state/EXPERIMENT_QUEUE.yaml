@@ -1,0 +1,329 @@
+- id: ITER001-EXP-01
+  question: Quel registre exclut doubles comptes, frontières et dates incompatibles
+    dans le raccord Money–PIB ?
+  claims:
+  - CPC-0010
+  - CPC-0016
+  - CPC-0046
+  - CPC-0118
+  hypotheses:
+  - Raccord net possible sous conventions explicites
+  - Paiements et production peuvent différer
+  variables:
+  - prix
+  - quantité
+  - intrants
+  - stocks produits
+  - dates production/paiement
+  - gain panier
+  - Money non étalonné
+  measurement_level: Registre observable proposé; Money non opérationnalisé
+  dataset: Aucun registre apparié disponible
+  design: Quatre portes décrites dans rapports C01 et candidat, puis rapprochement
+    sans résidu imposé
+  competing_models:
+  - Comptabilité par production nette avec panier fixe
+  prediction: Mêmes contrôles comptables; aucune différence observable propre à Campergue
+    établie
+  falsification_condition: Violation démontrée de consolidation/date/unité du raccord
+    choisi; inclassable reste UNRESOLVED
+  discriminating_power: NON_DISCRIMINATING
+  status: BLOCKED
+- id: ITER001-EXP-02
+  question: Quelles données minimales rendraient un exposant quadratique réfutable
+    sans réestimer cp sur le test ?
+  claims:
+  - CPC-0035
+  - CPC-0052
+  - CPC-0054
+  - CPC-0066
+  hypotheses:
+  - T/S=x² sous cp constant
+  - Comparateur analyste T/S=x^α
+  variables:
+  - T indépendant
+  - cp
+  - ω
+  - ωr
+  - origine b
+  - méthode
+  - qualité
+  measurement_level: T et cp non opérationnalisés; vitesse mesurable conditionnellement
+  dataset: Aucune mesure indépendante T disponible
+  design: Calibration puis prévisions gelées sur vitesses réservées; erreurs sur les
+    deux axes et contrôle du domaine
+  competing_models:
+  - Forme quadratique
+  - Forme exposant libre incluant 2
+  prediction: Candidat quadratique conditionnel; alternative peut donner même prévision;
+    aucune signature H1/H2/H3
+  falsification_condition: Écart supérieur aux incertitudes préspécifiées à mesure
+    et cp invariants; défaut instrument/domaine distingué
+  discriminating_power: NON_DISCRIMINATING actuellement; CANDIDATE_DISCRIMINATING
+    seulement entre prévisions de formes séparées après calibration indépendante
+  status: BLOCKED
+- id: ITER001-EXP-03
+  question: Une échelle de rapport par agent suffit-elle à un rendement entre agents
+    ?
+  claims:
+  - CPC-0055
+  - CPC-0057
+  - CPC-0062
+  - CPC-0104
+  hypotheses:
+  - Raccord multiplicatif commun
+  - Raccords incompatibles ou contextes différents
+  variables:
+  - r_AB
+  - r_BC
+  - r_CA
+  - mesurande
+  - état
+  - incertitude jointe
+  measurement_level: Ratios d’étalonnage proposés, Utility non mesurée
+  dataset: Deux cas synthétiques seulement; observations indépendantes absentes
+  design: Trois calibrations séparées et ancres réservées; fermeture avec incertitude
+    définie avant test
+  competing_models:
+  - Tout modèle de conversion multiplicative commun
+  prediction: Produit unité nécessaire si raccord valable; NON_DISCRIMINATING pour
+    Campergue
+  falsification_condition: Écart à1 dépassant incertitude sous domaine fixé rejette
+    raccord multiplicatif choisi, pas Utility entière
+  discriminating_power: NON_DISCRIMINATING
+  status: BLOCKED
+- id: ITER001-EXP-04
+  question: Comment décomposer une dérive de K entre recomposition et variation des
+    coefficients ?
+  claims:
+  - CPC-0043
+  - CPC-0044
+  - CPC-0109
+  - CPC-0117
+  - CPC-0118
+  hypotheses:
+  - Variation coefficients et composition
+  - Stabilité apparente par compensation
+  variables:
+  - w_it
+  - k_it
+  - unités
+  - dispersion
+  - catégories appariées
+  measurement_level: Identité de diagnostic; coefficients économiques indépendants
+    absents
+  dataset: Deux exemples synthétiques; pas de nouveau panel
+  design: Apparier catégories et décomposer variation complète, conserver interaction
+    et non appariés; contrôle hors calibration futur
+  competing_models:
+  - Toute agrégation pondérée à mêmes conventions
+  prediction: ΔK seul ne sépare pas mécanismes; même identité chez comparateurs
+  falsification_condition: Écart décomposition/direct indique erreur de données ou
+    périmètre du diagnostic; ne réfute pas mécanisme économique
+  discriminating_power: NON_DISCRIMINATING
+  status: BLOCKED
+- id: ITER001-EXP-05
+  question: Quelles mesures et interventions séparent conversion physique et effet
+    productif économique ?
+  claims:
+  - CPC-0003
+  - CPC-0017
+  - CPC-0119
+  - CPC-0122
+  hypotheses:
+  - H1 ENERGY-DRIVEN
+  - H2 INNOVATION-DRIVEN
+  - H3 PRODUCTIVE TRANSFORMATION
+  - Combinaisons H1/H2/H3
+  variables:
+  - énergie primaire/finale
+  - travail physique utile
+  - production
+  - qualité
+  - procédé
+  - coût/prix
+  - T
+  - Utility
+  measurement_level: Physique mesurable sous frontière; T/Utility non opérationnalisés
+  dataset: Aucun jeu expérimental disponible
+  design: Deux assignations candidates et témoins; effets locaux intention de traiter,
+    médiateurs séparés, interférences et horizon préspécifiés
+  competing_models:
+  - H1
+  - H2
+  - H3
+  - Modèles mixtes
+  prediction: Aucun signe exclusif des trois familles; restriction pont à calibrer
+    indépendamment
+  falsification_condition: Exclusion d’une restriction seulement après prédiction
+    gelée; absence exogénéité rend identification indisponible
+  discriminating_power: NON_DISCRIMINATING au niveau familles actuellement
+  status: BLOCKED
+- id: ITER001-EXP-06
+  question: Quels mécanismes innovation procédé/produit/diffusion la vitesse à tâche
+    fixe ne suffit-elle pas à identifier ?
+  claims:
+  - CPC-0017
+  - CPC-0051
+  - CPC-0052
+  - CPC-0106
+  - CPC-0112
+  hypotheses:
+  - Innovation produit
+  - Procédé/coût
+  - Substitution
+  - Diffusion
+  - H1/H2/H3 mixtes
+  variables:
+  - dates recherche/adoption
+  - qualité
+  - tâches
+  - coûts fixes/variables
+  - intrants
+  - prix/marges
+  - entrées/sorties
+  measurement_level: Indicateurs événementiels observables proposés; T/cp non mesurés
+  dataset: Deux textes primaires; aucun panel événementiel
+  design: Collecte longitudinale avec non adopteurs et échecs, séparation qualité/tâche
+    et adoption; modèle causal à identifier avant estimation
+  competing_models:
+  - Romer1990 mécanisme amont ciblé
+  - Transformation productive Campergue
+  - Contrainte énergétique et modèles mixtes
+  prediction: Aucune différence observable spécifique chiffrée avec données disponibles
+  falsification_condition: Rejeter une restriction préspécifiée après contrôle du
+    domaine et identification; ne pas tester H2 entière par absence d’un signe
+  discriminating_power: NON_DISCRIMINATING
+  status: DESIGN
+- id: ITER001-EXP-07
+  question: Comment suivre le gain sans compter épargne et dépense ultérieure deux
+    fois ?
+  claims:
+  - CPC-0015
+  - CPC-0084
+  - CPC-0099
+  - CPC-0127
+  hypotheses:
+  - Dépense immédiate
+  - Épargne puis dépense
+  - Revenus/financement compensent gain
+  variables:
+  - G
+  - X
+  - δb
+  - δy
+  - δL
+  - δA
+  - δR
+  - δTr
+  - prix/quantités qualité
+  measurement_level: Flux observables potentiels, contrefactuel et Money non identifiés
+  dataset: Deux scénarios synthétiques; panel budget absent
+  design: Bilan longitudinal contrefactuel en monnaie commune, consolidation des flux
+    et état terminal, variation prix exogène à identifier
+  competing_models:
+  - Budget et réallocation standard
+  - Mécanisme de gain Campergue
+  prediction: Les deux autorisent plusieurs destinations; aucune propension marginale
+    spécifique
+  falsification_condition: Défaut bilan indique couverture ou comptage insuffisant;
+    part causale non identifiée sans monde0 crédible
+  discriminating_power: NON_DISCRIMINATING
+  status: BLOCKED
+- id: ITER001-EXP-08
+  question: Quel seuil de réemploi annule une économie physique directe donnée ?
+  claims:
+  - CPC-0084
+  - CPC-0120
+  - CPC-0127
+  hypotheses:
+  - Gain physique maintenu
+  - Annulation par réemploi
+  - Renversement dans scénario borné
+  variables:
+  - S
+  - G
+  - s
+  - a_j
+  - m_j
+  - Z
+  - horizon et frontière
+  measurement_level: Grandeurs physiques distinctes; allocation/intensités marginales
+    non collectées
+  dataset: Scénarios synthétiques, aucun dataset marginal
+  design: Mesurer S et dépenses marginales séparément, intensités locales et effets
+    hors budget; sensibilité horizon/Z et prévision réservée
+  competing_models:
+  - Bilan ressources et réemploi standard
+  - Chaîne productive Campergue
+  prediction: Seuil commun sous mêmes hypothèses, aucune discrimination de théories
+  falsification_condition: Prévision physique incompatible avec observations indépendantes
+    sous paramètres/domaine gelés; Z non borné laisse test non identifié
+  discriminating_power: NON_DISCRIMINATING
+  status: BLOCKED
+- id: ITER001-EXP-09
+  question: Quelles observations distinguent pression physique et dommage selon lieu
+    et horizon ?
+  claims:
+  - CPC-0001
+  - CPC-0031
+  - CPC-0120
+  hypotheses:
+  - Restriction environnementale p112 à opérationnaliser
+  - Forme alternative non encore fixée
+  variables:
+  - taux dommage
+  - durée
+  - dommage intégré
+  - service
+  - vitesse
+  - pression
+  - exposition
+  - récepteur
+  measurement_level: Dommage non opérationnalisé; proxies pressions insuffisants
+  dataset: Un cas synthétique; aucune série dommage indépendante
+  design: Choisir grandeur/horizon et modèle réponse externe justifié puis comparer
+    restrictions sur observations réservées
+  competing_models:
+  - H1
+  - H2
+  - H3
+  - Réponse environnementale à définir indépendamment
+  prediction: Aucune puissance observable unique attribuable sans opérationnalisation;
+    modèles concurrents non séparés
+  falsification_condition: Après définition seulement, dommage indépendant incompatible
+    avec restriction préspécifiée; changer horizon ne constitue pas réfutation
+  discriminating_power: NON_DISCRIMINATING actuellement
+  status: BLOCKED
+- id: ITER001-EXP-10
+  question: Quelle règle de recherche distingue identité, hypothèse assumée et restriction
+    réfutable ?
+  claims:
+  - CPC-0003
+  - CPC-0009
+  - CPC-0042
+  - CPC-0068
+  hypotheses:
+  - Contrat réduit erreurs attribution et circularité
+  - Contrat seul insuffisant sans revue sémantique
+  variables:
+  - sous-énoncé
+  - source
+  - domaine
+  - mesurande
+  - calibration
+  - prédictions
+  - falsification
+  - type contrôle
+  measurement_level: Protocole de revue, pas expérience économique
+  dataset: Dix dossiers de ce lot, pas évaluation indépendante du contrat
+  design: Appliquer contrat aux prochains protocoles; comparer erreurs identifiées
+    en revue aveugle future si évaluateurs disponibles
+  competing_models:
+  - Revue documentaire existante
+  - Revue avec contrat proposé
+  prediction: Amélioration de qualité non démontrée; aucun effet économique prédit
+  falsification_condition: 'Champs présents mais erreurs implication/circularité persistent:
+    rejet de suffisance du contrat, pas réfutation du corpus'
+  discriminating_power: NON_DISCRIMINATING pour théories économiques
+  status: DESIGN

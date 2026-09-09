@@ -1,0 +1,36 @@
+[
+  {
+    "id": "romer_1990",
+    "title": "Endogenous Technological Change",
+    "url": "https://web.stanford.edu/~klenow/Romer_1990.pdf",
+    "final_url": "https://web.stanford.edu/~klenow/Romer_1990.pdf",
+    "accessed_utc": "2026-09-08T20:57:42.388828+00:00",
+    "sha256": "7179157ded5b5b7815aa92d8423a05740e83cc440670abfdb9746185016dfe91",
+    "local_file": "agents/reports/ITER001-C06/literature/romer_1990.pdf",
+    "status": "FULL_TEXT",
+    "pages_total": 34,
+    "relevant_pdf_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "access": "Publicly accessible institutional PDF; no access controls bypassed; no redistribution license inferred"
+  },
+  {
+    "id": "oslo_2018",
+    "title": "Oslo Manual 2018: Guidelines for Collecting, Reporting and Using Data on Innovation, 4th Edition",
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/10/oslo-manual-2018_g1g9373b/9789264304604-en.pdf",
+    "final_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/10/oslo-manual-2018_g1g9373b/9789264304604-en.pdf",
+    "accessed_utc": "2026-09-08T20:57:43.587721+00:00",
+    "sha256": "c5951c99839ee3d703799e38122165e03911b52313cf64c4675fc69e83b4d603",
+    "local_file": "agents/reports/ITER001-C06/literature/oslo_2018.pdf",
+    "status": "FULL_TEXT",
+    "pages_total": 258,
+    "relevant_pdf_pages": [
+      72,
+      74
+    ],
+    "access": "Publicly accessible institutional PDF; no access controls bypassed; no redistribution license inferred"
+  }
+]

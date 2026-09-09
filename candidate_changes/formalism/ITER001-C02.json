@@ -1,0 +1,96 @@
+{
+  "id": "ITER001-C02",
+  "target": [
+    "research_questions/RQ-03.03/conclusion.md",
+    "research_questions/RQ-04.02/conclusion.md"
+  ],
+  "current_state": {
+    "baseline": "CAMPERGUE-DOCUMENTARY-BASELINE-1.0",
+    "questions": [
+      {
+        "id": "RQ-03.03",
+        "status": "AMBIGUOUS",
+        "target_path": "research_questions/RQ-03.03/conclusion.md",
+        "target_sha256": "4bc0b5aa1343e0538bb739fd39cad024667b539fb474274d8edf0c5356053095"
+      },
+      {
+        "id": "RQ-04.02",
+        "status": "PARTIALLY_RESOLVED",
+        "target_path": "research_questions/RQ-04.02/conclusion.md",
+        "target_sha256": "5a2fd1ce9c1bd985b66cfe0bc738f602db2dfc804f53289e969400e431a72bf5"
+      }
+    ],
+    "claims": [
+      {
+        "id": "CPC-0035",
+        "statement": "L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 32
+      },
+      {
+        "id": "CPC-0052",
+        "statement": "Pour une tâche constante, Work dépend de sa vitesse d’exécution.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 188
+      },
+      {
+        "id": "CPC-0054",
+        "statement": "La complexité désigne l’inertie du produit face au changement de vitesse d’exécution de la tâche.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 189
+      },
+      {
+        "id": "CPC-0066",
+        "statement": "Les complexités du Product et de Cash ne sont pas égales malgré une notation c parfois commune.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 202
+      }
+    ],
+    "note": "État canonique inchangé; qualifications détaillées lues dans synthèse/remédiation/clôture."
+  },
+  "proposed_state": "Préspécifier T/S=x² versus x^α, x=ω/ωr et S=cpωr²/2, indication T indépendante et cp gelé. Origine b gelée ou différences. Calibration avec vitesses distinctes hors référence et vérification identification/incertitude. Pas de revendication de discrimination si prévisions coïncident ou erreurs les rendent indiscernables.",
+  "evidence": [
+    "agents/reports/ITER001-C02/specialist.md",
+    "agents/reports/ITER001-C02/adversarial.md",
+    "agents/reports/ITER001-C02/evidence.md",
+    "agents/reports/ITER001-C02/source_pages.txt",
+    "agents/reports/ITER001-C02/provenance.json",
+    "Reflections_PierreCampergue.pdf"
+  ],
+  "counterevidence": "Modèle α libre contient α=2; à vitesse référence tous exposants donnent même valeur. Même produit ne garantit pas cp constant; origine et erreurs peuvent masquer différence.",
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C02/specialist.md",
+    "adversarial": "agents/reports/ITER001-C02/adversarial.md",
+    "evidence": "agents/reports/ITER001-C02/evidence.md"
+  },
+  "confidence": "HIGH conditionnel mathématique; mesure indépendante absente",
+  "reason": "Réserves adversariales intégrées; extension du protocole déjà existant, pas nouvelle découverte du blocage T.",
+  "impact": "Rend précis le critère de passage BLOCKED vers DESIGN/READY; aucun claim promu",
+  "decision": "QUALIFY",
+  "finding_class": "CONFIRMS_EXISTING",
+  "claims": [
+    "CPC-0035",
+    "CPC-0052",
+    "CPC-0054",
+    "CPC-0066"
+  ],
+  "questions": [
+    "RQ-03.03",
+    "RQ-04.02"
+  ],
+  "source_pages": [
+    32,
+    189,
+    201,
+    202,
+    203
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "negative_results": [
+    "NOT_IDENTIFIABLE",
+    "REQUIRES_INDEPENDENT_T",
+    "NON_DISCRIMINATING"
+  ],
+  "source_pages_policy": "Repères d’extraction; lecture effective et rôle du passage attestés séparément dans specialist.md et evidence.md, jamais par la seule préparation.",
+  "supporting_claims_policy": "Les claims sont liens de recherche; toutes les pages complémentaires ne sont pas leurs citations canoniques. Les rapports identifient les sources directes, notamment p112 pour C09 et p385–386 pour C03."
+}

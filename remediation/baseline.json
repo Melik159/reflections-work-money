@@ -1,0 +1,1870 @@
+{
+  "date": "2026-09-08T18:28:31.382557+00:00",
+  "commit": "a697345c427fca8de0521108a17aa2b76f267654",
+  "git_status": "?? .gitignore\n?? README_RESEARCH.md\n?? analysis/00_file_inventory.tsv\n?? analysis/00_git_status.txt\n?? analysis/00_hashes.txt\n?? analysis/00_repository_inventory.json\n?? analysis/00_repository_inventory.md\n?? analysis/01_pdf_extraction_report.md\n?? analysis/02_root_question.md\n?? analysis/05_argument_graph.md\n?? analysis/06_research_chapters.md\n?? analysis/09_root_question_answer.md\n?? analysis/10_phase2_baseline.md\n?? analysis/11_manuscript_structure.md\n?? analysis/12_claim_coverage.md\n?? analysis/13_semantic_invariants.md\n?? analysis/14_argument_reconstruction.md\n?? analysis/15_research_chapter_classification.md\n?? analysis/16_claim_chapter_coverage.md\n?? analysis/17_core_claims.md\n?? analysis/18_rag_evaluation.md\n?? analysis/19_phase2_handoff.md\n?? analysis/20_initial_literature_review.md\n?? analysis/21_empirical_iteration1.md\n?? analysis/22_rag_iteration1.md\n?? analysis/23_iteration1_report.md\n?? analysis/24_money_compensation_scenarios.md\n?? analysis/24_money_literature_translation.md\n?? analysis/24_money_review_report.md\n?? analysis/25_formal_empirical_review.md\n?? analysis/25_productive_mechanism.md\n?? analysis/25_productive_review_report.md\n?? analysis/26_cost_price_transmission.md\n?? analysis/27_energy_data_independence.md\n?? analysis/27_energy_results.md\n?? analysis/27_targeted_literature.md\n?? analysis/28_aggregation_review.md\n?? analysis/29_agents_markets_review.md\n?? analysis/29_notation_cycles.md\n?? analysis/30_terminal_iteration_report.md\n?? analysis/31_micro_data_selection.md\n?? analysis/31_micro_protocol_amendment.md\n?? analysis/31_micro_test_design.md\n?? analysis/32_dimensional_consistency.md\n?? analysis/33_two_product_aggregation_test.md\n?? analysis/34_micro_empirical_results.md\n?? analysis/acquire_independent_energy.py\n?? analysis/acquire_micro_electricity.py\n?? analysis/build_contribution_review.py\n?? analysis/build_final_synthesis.py\n?? analysis/build_global_corpus_pass.py\n?? analysis/build_research_question_tree.py\n?? analysis/chapters/CH01_scope_wealth.md\n?? analysis/chapters/CH02_monetary_measurement.md\n?? analysis/chapters/CH03_objects_tasks.md\n?? analysis/chapters/CH04_productivity_prices.md\n?? analysis/chapters/CH05_principles.md\n?? analysis/chapters/CH06_constitutive_transformations.md\n?? analysis/chapters/CH07_cycles_yields.md\n?? analysis/chapters/CH08_aggregation.md\n?? analysis/chapters/CH09_energy_conservation.md\n?? analysis/chapters/CH10_agents_markets.md\n?? analysis/complete_global_corpus_pass.py\n?? analysis/contribution_catalog.py\n?? analysis/core_reviews/CPC-0001.md\n?? analysis/core_reviews/CPC-0003.md\n?? analysis/core_reviews/CPC-0005.md\n?? analysis/core_reviews/CPC-0009.md\n?? analysis/core_reviews/CPC-0010.md\n?? analysis/core_reviews/CPC-0012.md\n?? analysis/core_reviews/CPC-0015.md\n?? analysis/core_reviews/CPC-0016.md\n?? analysis/core_reviews/CPC-0017.md\n?? analysis/core_reviews/CPC-0022.md\n?? analysis/core_reviews/CPC-0023.md\n?? analysis/core_reviews/CPC-0032.md\n?? analysis/core_reviews/CPC-0033.md\n?? analysis/core_reviews/CPC-0035.md\n?? analysis/core_reviews/CPC-0039.md\n?? analysis/core_reviews/CPC-0040.md\n?? analysis/core_reviews/CPC-0041.md\n?? analysis/core_reviews/CPC-0043.md\n?? analysis/core_reviews/CPC-0045.md\n?? analysis/core_reviews/CPC-0046.md\n?? analysis/core_reviews/CPC-0048.md\n?? analysis/core_reviews/CPC-0051.md\n?? analysis/core_reviews/CPC-0052.md\n?? analysis/core_reviews/CPC-0053.md\n?? analysis/data/agent_transfers.json\n?? analysis/data/aggregation_mechanisms.json\n?? analysis/data/argument_graph.json\n?? analysis/data/claim_chapter_matrix.csv\n?? analysis/data/claims.jsonl\n?? analysis/data/concepts.json\n?? analysis/data/core_claims.json\n?? analysis/data/core_reviews.json\n?? analysis/data/energy_empirical_claim_map.json\n?? analysis/data/energy_review_revision_log.json\n?? analysis/data/environmental_chain.json\n?? analysis/data/graph_audit.json\n?? analysis/data/hypotheses.json\n?? analysis/data/iteration1_change_log.json\n?? analysis/data/literature_map.json\n?? analysis/data/manuscript_structure.json\n?? analysis/data/money_claim_revision_log.json\n?? analysis/data/money_compensation_scenarios.json\n?? analysis/data/money_graph_revision_log.json\n?? analysis/data/money_literature_revision_log.json\n?? analysis/data/money_review_summary.json\n?? analysis/data/money_search_audit.json\n?? analysis/data/money_visual_checks.json\n?? analysis/data/open_reconstruction_issues.json\n?? analysis/data/page_coverage.json\n?? analysis/data/phase2_progress.json\n?? analysis/data/productive_claim_revision_log.json\n?? analysis/data/productive_energy_map.json\n?? analysis/data/productive_formulas.json\n?? analysis/data/productive_hypothesis_revision_log.json\n?? analysis/data/productive_invariant_snapshot.json\n?? analysis/data/productive_mechanisms.json\n?? analysis/data/productive_review_summary.json\n?? analysis/data/productive_search_audit.json\n?? analysis/data/regression_snapshot.json\n?? analysis/data/research_chapters.json\n?? analysis/data/research_questions.json\n?? analysis/data/root_question.json\n?? analysis/data/semantic_invariants.json\n?? analysis/data/terminal_regression_rules.json\n?? analysis/data/terminal_review_issues.json\n?? analysis/data/terminal_review_summary.json\n?? analysis/empirical/independent_energy/analysis_panel.csv\n?? analysis/empirical/independent_energy/first_regression_attempt.json\n?? analysis/empirical/independent_energy/results.json\n?? analysis/empirical/independent_energy/source/README.md\n?? analysis/empirical/independent_energy/source/manifest.json\n?? analysis/empirical/independent_energy/source/owid-energy-codebook.csv\n?? analysis/empirical/independent_energy/source/owid-energy-data.csv\n?? analysis/empirical/independent_energy/source/primary_energy_processing.py\n?? analysis/empirical/independent_energy/source/upstream_audit.json\n?? analysis/empirical/independent_energy/source/wb_energy_ratio_metadata.html\n?? analysis/empirical/independent_energy/stability_ratios.json\n?? analysis/empirical/iteration1/macro.log\n?? analysis/empirical/iteration1/merged_energy_gdp.csv\n?? analysis/empirical/iteration1/regression_summary.csv\n?? analysis/empirical/iteration1/results.json\n?? analysis/empirical/iteration1/rolling_loglog_elasticity.csv\n?? analysis/empirical/iteration1/run_metadata.json\n?? analysis/empirical/iteration1/smoke.log\n?? analysis/empirical/micro_electricity/panel.csv\n?? analysis/empirical/micro_electricity/quality.csv\n?? analysis/empirical/micro_electricity/results.json\n?? analysis/empirical/micro_electricity/source/T07.02B.csv\n?? analysis/empirical/micro_electricity/source/T07.06.csv\n?? analysis/empirical/micro_electricity/source/T09.08.csv\n?? analysis/empirical/micro_electricity/source/T09.09.csv\n?? analysis/empirical/micro_electricity/source/TA6.csv\n?? analysis/empirical/micro_electricity/source/bls_cpi_2001_2010.json\n?? analysis/empirical/micro_electricity/source/bls_cpi_2011_2020.json\n?? analysis/empirical/micro_electricity/source/bls_cpi_2021_2023.json\n?? analysis/empirical/micro_electricity/source/heat_rate_notes.html\n?? analysis/empirical/micro_electricity/source/manifest.json\n?? analysis/empirical/micro_electricity/source/reliability.html\n?? analysis/empirical/micro_electricity/two_product_results.json\n?? analysis/empirical/productive/results.json\n?? analysis/energy_review_finalize.py\n?? analysis/energy_review_integrate.py\n?? analysis/finalize_global_verification.py\n?? analysis/finalize_synthesis.py\n?? analysis/finish_contribution_review.py\n?? analysis/finish_global_tranche.py\n?? analysis/finish_metrology_design.py\n?? analysis/finish_second_question_pass.py\n?? analysis/global_completion_catalog.py\n?? analysis/global_corpus_pass/00_baseline.md\n?? analysis/global_corpus_pass/README.md\n?? analysis/global_corpus_pass/argument_annotations.json\n?? analysis/global_corpus_pass/baseline.json\n?? analysis/global_corpus_pass/blocks/p001_p025.md\n?? analysis/global_corpus_pass/blocks/p026_p050.md\n?? analysis/global_corpus_pass/blocks/p051_p075.md\n?? analysis/global_corpus_pass/blocks/p076_p100.md\n?? analysis/global_corpus_pass/blocks/p101_p125.md\n?? analysis/global_corpus_pass/blocks/p126_p150.md\n?? analysis/global_corpus_pass/blocks/p151_p175.md\n?? analysis/global_corpus_pass/blocks/p176_p200.md\n?? analysis/global_corpus_pass/blocks/p201_p225.md\n?? analysis/global_corpus_pass/blocks/p226_p250.md\n?? analysis/global_corpus_pass/blocks/p251_p275.md\n?? analysis/global_corpus_pass/blocks/p276_p300.md\n?? analysis/global_corpus_pass/blocks/p301_p325.md\n?? analysis/global_corpus_pass/blocks/p326_p350.md\n?? analysis/global_corpus_pass/blocks/p351_p375.md\n?? analysis/global_corpus_pass/blocks/p376_p400.md\n?? analysis/global_corpus_pass/blocks/p401_p425.md\n?? analysis/global_corpus_pass/blocks/p426_p450.md\n?? analysis/global_corpus_pass/blocks/p451_p475.md\n?? analysis/global_corpus_pass/blocks/p476_p500.md\n?? analysis/global_corpus_pass/blocks/p501_p525.md\n?? analysis/global_corpus_pass/blocks/p526_p550.md\n?? analysis/global_corpus_pass/blocks/p551_p562.md\n?? analysis/global_corpus_pass/claim_candidates.json\n?? analysis/global_corpus_pass/claim_rechecks.json\n?? analysis/global_corpus_pass/claim_review_history.json\n?? analysis/global_corpus_pass/concept_amendments.json\n?? analysis/global_corpus_pass/concept_consistency.md\n?? analysis/global_corpus_pass/final_report.md\n?? analysis/global_corpus_pass/final_verify.log\n?? analysis/global_corpus_pass/findings.json\n?? analysis/global_corpus_pass/formal_check_protocol.md\n?? analysis/global_corpus_pass/formal_checks.json\n?? analysis/global_corpus_pass/formula_candidates.json\n?? analysis/global_corpus_pass/formula_families.json\n?? analysis/global_corpus_pass/formula_inventory.md\n?? analysis/global_corpus_pass/formulas.json\n?? analysis/global_corpus_pass/history/baseline/analysis/data/argument_graph.json\n?? analysis/global_corpus_pass/history/baseline/analysis/data/claims.jsonl\n?? analysis/global_corpus_pass/history/baseline/analysis/data/concepts.json\n?? analysis/global_corpus_pass/history/baseline/analysis/data/page_coverage.json\n?? analysis/global_corpus_pass/history/baseline/analysis/data/phase2_progress.json\n?? analysis/global_corpus_pass/history/baseline/research_questions/README.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/README.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/candidate_contributions.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/cash_money_crosswalk.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/claim_comparisons.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/concept_comparisons.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/concepts.json\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/contribution_matrix.csv\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/core_comparisons.json\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/creation_accounts_comparison.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/false_novelty_risks.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/literature.json\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/literature.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/manifest.json\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/money_scenario_comparisons.json\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/money_scenario_comparisons.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/question_links.json\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/underappreciated_distinctions.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/unresolved_novelty.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/contribution/utility_comparison.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/evidence_matrix.csv\n?? analysis/global_corpus_pass/history/baseline/research_questions/fifth_pass_report.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/operationalization/README.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/operationalization/circularity_review.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/operationalization/experiments.json\n?? analysis/global_corpus_pass/history/baseline/research_questions/operationalization/experiments.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/operationalization/formal_results.json\n?? analysis/global_corpus_pass/history/baseline/research_questions/operationalization/literature.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/operationalization/manifest.json\n?? analysis/global_corpus_pass/history/baseline/research_questions/operationalization/measurement_literature.json\n?? analysis/global_corpus_pass/history/baseline/research_questions/operationalization/measurement_matrix.csv\n?? analysis/global_corpus_pass/history/baseline/research_questions/operationalization/money_observable_implications.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/operationalization/variables.json\n?? analysis/global_corpus_pass/history/baseline/research_questions/operationalization/variables.md\n?? analysis/global_corpus_pass/history/baseline/research_questions/question_graph.json\n?? analysis/global_corpus_pass/history/baseline/research_questions/questions.md\n?? analysis/global_corpus_pass/history/baseline/validation/phase2_regression_results.json\n?? analysis/global_corpus_pass/history/baseline/verify.sh\n?? analysis/global_corpus_pass/history/before_complete_certificate/analysis/global_corpus_pass/blocks/p426_p450.md\n?? analysis/global_corpus_pass/history/before_complete_certificate/analysis/global_corpus_pass/claim_candidates.json\n?? analysis/global_corpus_pass/history/before_complete_certificate/analysis/global_corpus_pass/final_report.md\n?? analysis/global_corpus_pass/history/before_complete_certificate/analysis/global_corpus_pass/formula_families.json\n?? analysis/global_corpus_pass/history/before_complete_certificate/analysis/global_corpus_pass/formula_inventory.md\n?? analysis/global_corpus_pass/history/before_complete_certificate/analysis/global_corpus_pass/manifest.json\n?? analysis/global_corpus_pass/history/before_complete_certificate/analysis/global_corpus_pass/page_matrix.csv\n?? analysis/global_corpus_pass/history/before_complete_certificate/analysis/global_corpus_pass/verification_results.json\n?? analysis/global_corpus_pass/history/before_complete_certificate/archive_manifest.json\n?? analysis/global_corpus_pass/history/before_complete_certificate/research_questions/README.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/data/page_coverage.json\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/data/phase2_progress.json\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/README.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p001_p025.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p026_p050.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p051_p075.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p076_p100.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p101_p125.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p126_p150.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p151_p175.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p176_p200.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p201_p225.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p226_p250.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p251_p275.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p276_p300.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p301_p325.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p326_p350.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p351_p375.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p376_p400.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p401_p425.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p426_p450.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p451_p475.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p476_p500.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p501_p525.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p526_p550.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/blocks/p551_p562.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/claim_rechecks.json\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/concept_consistency.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/findings.json\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/formula_candidates.json\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/formula_inventory.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/formulas.json\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/internal_counterexamples.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/late_stage_claims.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/manifest.json\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/page_matrix.csv\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/question_rechecks.json\n?? analysis/global_corpus_pass/history/before_full_cross_review/analysis/global_corpus_pass/root_question_chain.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/archive_manifest.json\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-02.01/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-02.02/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-03.02/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-03.03/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-05.01/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-05.02/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-05.03/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-06.02/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-07.01/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-07.02/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-07.03/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-08.01/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-08.02/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-08.03/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-08.04/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-09.02/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-09.03/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-10.02/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-12.01/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/RQ-12.02/global_consolidation.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/contribution/candidate_contributions.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/contribution/global_corpus_addendum.md\n?? analysis/global_corpus_pass/history/before_full_cross_review/research_questions/global_question_coverage.md\n?? analysis/global_corpus_pass/history/before_pages_001_183/analysis/data/page_coverage.json\n?? analysis/global_corpus_pass/history/before_pages_001_183/analysis/data/phase2_progress.json\n?? analysis/global_corpus_pass/history/before_pages_001_183/analysis/global_corpus_pass/blocks/p001_p025.md\n?? analysis/global_corpus_pass/history/before_pages_001_183/analysis/global_corpus_pass/blocks/p026_p050.md\n?? analysis/global_corpus_pass/history/before_pages_001_183/analysis/global_corpus_pass/blocks/p051_p075.md\n?? analysis/global_corpus_pass/history/before_pages_001_183/analysis/global_corpus_pass/blocks/p076_p100.md\n?? analysis/global_corpus_pass/history/before_pages_001_183/analysis/global_corpus_pass/blocks/p101_p125.md\n?? analysis/global_corpus_pass/history/before_pages_001_183/analysis/global_corpus_pass/blocks/p126_p150.md\n?? analysis/global_corpus_pass/history/before_pages_001_183/analysis/global_corpus_pass/blocks/p151_p175.md\n?? analysis/global_corpus_pass/history/before_pages_001_183/analysis/global_corpus_pass/blocks/p176_p200.md\n?? analysis/global_corpus_pass/history/before_pages_001_183/analysis/global_corpus_pass/final_report.md\n?? analysis/global_corpus_pass/history/before_pages_001_183/analysis/global_corpus_pass/manifest.json\n?? analysis/global_corpus_pass/history/before_pages_001_183/analysis/global_corpus_pass/page_matrix.csv\n?? analysis/global_corpus_pass/history/before_pages_001_183/archive_manifest.json\n?? analysis/global_corpus_pass/history/before_pages_184_301/analysis/data/page_coverage.json\n?? analysis/global_corpus_pass/history/before_pages_184_301/analysis/data/phase2_progress.json\n?? analysis/global_corpus_pass/history/before_pages_184_301/analysis/global_corpus_pass/blocks/p176_p200.md\n?? analysis/global_corpus_pass/history/before_pages_184_301/analysis/global_corpus_pass/blocks/p201_p225.md\n?? analysis/global_corpus_pass/history/before_pages_184_301/analysis/global_corpus_pass/blocks/p226_p250.md\n?? analysis/global_corpus_pass/history/before_pages_184_301/analysis/global_corpus_pass/blocks/p251_p275.md\n?? analysis/global_corpus_pass/history/before_pages_184_301/analysis/global_corpus_pass/blocks/p276_p300.md\n?? analysis/global_corpus_pass/history/before_pages_184_301/analysis/global_corpus_pass/blocks/p301_p325.md\n?? analysis/global_corpus_pass/history/before_pages_184_301/analysis/global_corpus_pass/final_report.md\n?? analysis/global_corpus_pass/history/before_pages_184_301/analysis/global_corpus_pass/manifest.json\n?? analysis/global_corpus_pass/history/before_pages_184_301/analysis/global_corpus_pass/page_matrix.csv\n?? analysis/global_corpus_pass/history/before_pages_184_301/archive_manifest.json\n?? analysis/global_corpus_pass/history/before_pages_302_499/analysis/data/page_coverage.json\n?? analysis/global_corpus_pass/history/before_pages_302_499/analysis/data/phase2_progress.json\n?? analysis/global_corpus_pass/history/before_pages_302_499/analysis/global_corpus_pass/blocks/p301_p325.md\n?? analysis/global_corpus_pass/history/before_pages_302_499/analysis/global_corpus_pass/blocks/p326_p350.md\n?? analysis/global_corpus_pass/history/before_pages_302_499/analysis/global_corpus_pass/blocks/p351_p375.md\n?? analysis/global_corpus_pass/history/before_pages_302_499/analysis/global_corpus_pass/blocks/p376_p400.md\n?? analysis/global_corpus_pass/history/before_pages_302_499/analysis/global_corpus_pass/blocks/p401_p425.md\n?? analysis/global_corpus_pass/history/before_pages_302_499/analysis/global_corpus_pass/blocks/p451_p475.md\n?? analysis/global_corpus_pass/history/before_pages_302_499/analysis/global_corpus_pass/blocks/p476_p500.md\n?? analysis/global_corpus_pass/history/before_pages_302_499/analysis/global_corpus_pass/final_report.md\n?? analysis/global_corpus_pass/history/before_pages_302_499/analysis/global_corpus_pass/manifest.json\n?? analysis/global_corpus_pass/history/before_pages_302_499/analysis/global_corpus_pass/page_matrix.csv\n?? analysis/global_corpus_pass/history/before_pages_302_499/archive_manifest.json\n?? analysis/global_corpus_pass/history/coverage_note_repair.json\n?? analysis/global_corpus_pass/history/first_final_verification.json\n?? analysis/global_corpus_pass/history/report_before_final_verification.md\n?? analysis/global_corpus_pass/history/report_corrections.json\n?? analysis/global_corpus_pass/internal_counterexamples.md\n?? analysis/global_corpus_pass/late_stage_claims.md\n?? analysis/global_corpus_pass/manifest.json\n?? analysis/global_corpus_pass/page_matrix.csv\n?? analysis/global_corpus_pass/question_rechecks.json\n?? analysis/global_corpus_pass/root_question_chain.md\n?? analysis/global_corpus_pass/verification_results.json\n?? analysis/global_pass_catalog.py\n?? analysis/global_pass_continuation_catalog.py\n?? analysis/history/phase1/analysis/02_root_question.md\n?? analysis/history/phase1/analysis/data/argument_graph.json\n?? analysis/history/phase1/analysis/data/claims.jsonl\n?? analysis/history/phase1/analysis/data/concepts.json\n?? analysis/history/phase1/rag/build_index.py\n?? analysis/history/phase1/rag/index/manifest.json\n?? analysis/history/phase1/rag/query.py\n?? analysis/history/phase1/verify.sh\n?? analysis/history/pre_energy_review/README_RESEARCH.md\n?? analysis/history/pre_energy_review/analysis/data/argument_graph.json\n?? analysis/history/pre_energy_review/analysis/data/claim_chapter_matrix.csv\n?? analysis/history/pre_energy_review/analysis/data/claims.jsonl\n?? analysis/history/pre_energy_review/analysis/data/concepts.json\n?? analysis/history/pre_energy_review/analysis/data/literature_map.json\n?? analysis/history/pre_energy_review/analysis/data/page_coverage.json\n?? analysis/history/pre_energy_review/analysis/data/phase2_progress.json\n?? analysis/history/pre_energy_review/analysis/data/research_chapters.json\n?? analysis/history/pre_energy_review/bibliography/initial_research_library.json\n?? analysis/history/pre_energy_review/validation/phase2_regression_results.json\n?? analysis/history/pre_iteration1/analysis/data/argument_graph.json\n?? analysis/history/pre_iteration1/analysis/data/claims.jsonl\n?? analysis/history/pre_iteration1/analysis/data/concepts.json\n?? analysis/history/pre_iteration1/analysis/data/page_coverage.json\n?? analysis/history/pre_iteration1/analysis/data/phase2_progress.json\n?? analysis/history/pre_iteration1/analysis/data/regression_snapshot.json\n?? analysis/history/pre_iteration1/analysis/data/research_chapters.json\n?? analysis/history/pre_iteration1/rag/evaluation/results.json\n?? analysis/history/pre_iteration1/rag/index/manifest.json\n?? analysis/history/pre_iteration1/tests/corpus/test_phase2.py\n?? analysis/history/pre_iteration1/tests/run_phase2.py\n?? analysis/history/pre_iteration1/validation/phase2_regression_results.json\n?? analysis/history/pre_iteration1/verify.sh\n?? analysis/history/pre_micro_review/README_RESEARCH.md\n?? analysis/history/pre_micro_review/phase2_regression_results.json\n?? analysis/history/pre_micro_review/verify.sh\n?? analysis/history/pre_money_review/analysis/chapters/CH02_monetary_measurement.md\n?? analysis/history/pre_money_review/analysis/core_reviews/CPC-0005.md\n?? analysis/history/pre_money_review/analysis/core_reviews/CPC-0012.md\n?? analysis/history/pre_money_review/analysis/core_reviews/CPC-0016.md\n?? analysis/history/pre_money_review/analysis/data/argument_graph.json\n?? analysis/history/pre_money_review/analysis/data/claim_chapter_matrix.csv\n?? analysis/history/pre_money_review/analysis/data/claims.jsonl\n?? analysis/history/pre_money_review/analysis/data/concepts.json\n?? analysis/history/pre_money_review/analysis/data/core_reviews.json\n?? analysis/history/pre_money_review/analysis/data/hypotheses.json\n?? analysis/history/pre_money_review/analysis/data/literature_map.json\n?? analysis/history/pre_money_review/analysis/data/page_coverage.json\n?? analysis/history/pre_money_review/analysis/data/phase2_progress.json\n?? analysis/history/pre_money_review/analysis/data/research_chapters.json\n?? analysis/history/pre_money_review/analysis/data/research_questions.json\n?? analysis/history/pre_money_review/initial_money_test_failure.json\n?? analysis/history/pre_productive_review/analysis/data/argument_graph.json\n?? analysis/history/pre_productive_review/analysis/data/claims.jsonl\n?? analysis/history/pre_productive_review/analysis/data/concepts.json\n?? analysis/history/pre_productive_review/analysis/data/hypotheses.json\n?? analysis/history/pre_productive_review/analysis/data/literature_map.json\n?? analysis/history/pre_productive_review/analysis/data/page_coverage.json\n?? analysis/history/pre_productive_review/analysis/data/phase2_progress.json\n?? analysis/history/pre_productive_review/analysis/data/regression_snapshot.json\n?? analysis/history/pre_productive_review/analysis/data/research_chapters.json\n?? analysis/history/pre_productive_review/analysis/data/semantic_invariants.json\n?? analysis/history/pre_productive_review/bibliography/initial_research_library.json\n?? analysis/history/pre_question_tree/README_RESEARCH.md\n?? analysis/history/pre_question_tree/phase2_regression_results.json\n?? analysis/history/pre_question_tree/verify.sh\n?? analysis/history/synthesis_build_attempt_01/questions.json\n?? analysis/history/synthesis_draft_before_editorial_check/README.md\n?? analysis/history/synthesis_draft_before_editorial_check/contributions.json\n?? analysis/history/synthesis_draft_before_editorial_check/contributions.md\n?? analysis/history/synthesis_draft_before_editorial_check/core_claims.json\n?? analysis/history/synthesis_draft_before_editorial_check/core_claims.md\n?? analysis/history/synthesis_draft_before_editorial_check/final_synthesis.md\n?? analysis/history/synthesis_draft_before_editorial_check/future_research.md\n?? analysis/history/synthesis_draft_before_editorial_check/input_manifest.json\n?? analysis/history/synthesis_draft_before_editorial_check/literature.json\n?? analysis/history/synthesis_draft_before_editorial_check/manifest.json\n?? analysis/history/synthesis_draft_before_editorial_check/master_matrix.csv\n?? analysis/history/synthesis_draft_before_editorial_check/minimal_model.md\n?? analysis/history/synthesis_draft_before_editorial_check/negative_results.md\n?? analysis/history/synthesis_draft_before_editorial_check/open_questions.md\n?? analysis/history/synthesis_draft_before_editorial_check/question_synthesis.csv\n?? analysis/history/synthesis_draft_before_editorial_check/question_synthesis.md\n?? analysis/history/synthesis_draft_before_editorial_check/questions.json\n?? analysis/history/synthesis_draft_before_editorial_check/results.json\n?? analysis/history/synthesis_draft_before_editorial_check/root_question_answer.md\n?? analysis/history/synthesis_draft_before_editorial_check/root_question_chain.json\n?? analysis/history/synthesis_draft_before_editorial_check/root_question_chain.md\n?? analysis/history/synthesis_draft_before_editorial_check/source_register.md\n?? analysis/history/synthesis_draft_before_editorial_check/strongest_results.md\n?? analysis/history/synthesis_draft_before_editorial_check/weakest_points.md\n?? analysis/integrate_fourth_pass.py\n?? analysis/integrate_second_question_pass.py\n?? analysis/integrate_third_question_pass.py\n?? analysis/iteration1_finalize.py\n?? analysis/iteration1_science.py\n?? analysis/iteration_setup.py\n?? analysis/money_review.py\n?? analysis/money_review_addendum.py\n?? analysis/money_review_finalize.py\n?? analysis/phase2_curate.py\n?? analysis/phase2_handoff.py\n?? analysis/phase2_reports.py\n?? analysis/prepare_fourth_pass.py\n?? analysis/prepare_second_question_pass.py\n?? analysis/productive_finalize.py\n?? analysis/productive_review.py\n?? analysis/reading_notes/energy_aggregation_agents_review.md\n?? analysis/reading_notes/iteration1_directed.md\n?? analysis/reading_notes/money_targeted_addendum.md\n?? analysis/reading_notes/money_targeted_review.md\n?? analysis/reading_notes/p001_011.md\n?? analysis/reading_notes/p012_025.md\n?? analysis/reading_notes/p026_037.md\n?? analysis/reading_notes/p184_194.md\n?? analysis/reading_notes/productive_targeted_review.md\n?? analysis/reading_notes/second_question_pass.md\n?? analysis/reading_notes/third_pass_metrology.md\n?? analysis/record_global_continuation.py\n?? analysis/research_question_dossiers.py\n?? analysis/run_empirical_iteration1.py\n?? analysis/run_fourth_pass.py\n?? analysis/run_global_local_checks.py\n?? analysis/run_independent_energy.py\n?? analysis/run_metrology_checks.py\n?? analysis/run_micro_electricity.py\n?? analysis/run_productive_checks.py\n?? analysis/run_second_pass_formal.py\n?? analysis/run_two_product_aggregation.py\n?? analysis/schemas/claim.schema.json\n?? analysis/seal_global_consolidation.py\n?? analysis/second_pass_catalog.py\n?? analysis/start_global_corpus_pass.py\n?? analysis/synthesis_catalog.py\n?? analysis/synthesis_narrative.py\n?? analysis/third_pass_catalog.py\n?? analysis/verify_contribution.py\n?? analysis/verify_global_corpus_pass.py\n?? analysis/verify_research_questions.py\n?? analysis/verify_synthesis.py\n?? bibliography/energy_aggregation_library.bib\n?? bibliography/energy_aggregation_library.json\n?? bibliography/initial_research_library.json\n?? bibliography/productive_library.bib\n?? bibliography/productive_library.json\n?? bibliography/research_library.bib\n?? bibliography/second_pass_research.bib\n?? corpus/extract_secondary.py\n?? corpus/extracted/Reflections_PierreCampergue.pages.jsonl\n?? corpus/extracted/economic_growth_energy_campergue.pages.jsonl\n?? corpus/extracted/hidden_materiality_of_growth.pages.jsonl\n?? corpus/metadata/secondary_extraction.json\n?? corpus/raw/Reflections_PierreCampergue.txt\n?? external_review/00_review_baseline.md\n?? external_review/01_overinterpretation_review.md\n?? external_review/02_formal_review.md\n?? external_review/03_test_audit.md\n?? external_review/04_surviving_results.md\n?? external_review/README.md\n?? external_review/audit_tests.py\n?? external_review/baseline.json\n?? external_review/baseline_verify.log\n?? external_review/build_review.py\n?? external_review/calculation_history.md\n?? external_review/candidate_review.json\n?? external_review/core_claim_review.json\n?? external_review/core_claim_review.md\n?? external_review/empirical_review.md\n?? external_review/final_check.py\n?? external_review/final_external_review.md\n?? external_review/final_verification.json\n?? external_review/final_verify.log\n?? external_review/findings.json\n?? external_review/findings.md\n?? external_review/independent_checks.py\n?? external_review/independent_results.json\n?? external_review/key_source_passages.md\n?? external_review/literature.json\n?? external_review/literature_review.md\n?? external_review/measurement_review.json\n?? external_review/measurement_review.md\n?? external_review/proposed_corrections.json\n?? external_review/proposed_corrections.md\n?? external_review/review_summary.json\n?? external_review/review_tools.py\n?? external_review/reviewer_protocol.md\n?? external_review/root_chain_internal_snapshot.json\n?? external_review/root_question_review.md\n?? external_review/source_reading_log.md\n?? external_review/test_audit.csv\n?? external_review/test_audit.json\n?? external_review/traceability.csv\n?? external_review/traceability.json\n?? external_review/traceability.md\n?? external_review/verification_status.md\n?? rag/bilingual.py\n?? rag/build_index.py\n?? rag/evaluation/evaluate.py\n?? rag/evaluation/golden_questions.jsonl\n?? rag/evaluation/make_golden.py\n?? rag/evaluation/results.json\n?? rag/index/chunks.json\n?? rag/index/manifest.json\n?? rag/query.py\n?? rag/retrieval.py\n?? remediation/baseline_verify.log\n?? remediation/freeze.py\n?? remediation/history/analysis/data/agent_transfers.json\n?? remediation/history/analysis/data/aggregation_mechanisms.json\n?? remediation/history/analysis/data/argument_graph.json\n?? remediation/history/analysis/data/claim_chapter_matrix.csv\n?? remediation/history/analysis/data/claims.jsonl\n?? remediation/history/analysis/data/concepts.json\n?? remediation/history/analysis/data/core_claims.json\n?? remediation/history/analysis/data/core_reviews.json\n?? remediation/history/analysis/data/energy_empirical_claim_map.json\n?? remediation/history/analysis/data/energy_review_revision_log.json\n?? remediation/history/analysis/data/environmental_chain.json\n?? remediation/history/analysis/data/graph_audit.json\n?? remediation/history/analysis/data/hypotheses.json\n?? remediation/history/analysis/data/iteration1_change_log.json\n?? remediation/history/analysis/data/literature_map.json\n?? remediation/history/analysis/data/manuscript_structure.json\n?? remediation/history/analysis/data/money_claim_revision_log.json\n?? remediation/history/analysis/data/money_compensation_scenarios.json\n?? remediation/history/analysis/data/money_graph_revision_log.json\n?? remediation/history/analysis/data/money_literature_revision_log.json\n?? remediation/history/analysis/data/money_review_summary.json\n?? remediation/history/analysis/data/money_search_audit.json\n?? remediation/history/analysis/data/money_visual_checks.json\n?? remediation/history/analysis/data/open_reconstruction_issues.json\n?? remediation/history/analysis/data/page_coverage.json\n?? remediation/history/analysis/data/phase2_progress.json\n?? remediation/history/analysis/data/productive_claim_revision_log.json\n?? remediation/history/analysis/data/productive_energy_map.json\n?? remediation/history/analysis/data/productive_formulas.json\n?? remediation/history/analysis/data/productive_hypothesis_revision_log.json\n?? remediation/history/analysis/data/productive_invariant_snapshot.json\n?? remediation/history/analysis/data/productive_mechanisms.json\n?? remediation/history/analysis/data/productive_review_summary.json\n?? remediation/history/analysis/data/productive_search_audit.json\n?? remediation/history/analysis/data/regression_snapshot.json\n?? remediation/history/analysis/data/research_chapters.json\n?? remediation/history/analysis/data/research_questions.json\n?? remediation/history/analysis/data/root_question.json\n?? remediation/history/analysis/data/semantic_invariants.json\n?? remediation/history/analysis/data/terminal_regression_rules.json\n?? remediation/history/analysis/data/terminal_review_issues.json\n?? remediation/history/analysis/data/terminal_review_summary.json\n?? remediation/history/analysis/verify_synthesis.py\n?? remediation/history/external_review/00_review_baseline.md\n?? remediation/history/external_review/01_overinterpretation_review.md\n?? remediation/history/external_review/02_formal_review.md\n?? remediation/history/external_review/03_test_audit.md\n?? remediation/history/external_review/04_surviving_results.md\n?? remediation/history/external_review/README.md\n?? remediation/history/external_review/audit_tests.py\n?? remediation/history/external_review/baseline.json\n?? remediation/history/external_review/baseline_verify.log\n?? remediation/history/external_review/build_review.py\n?? remediation/history/external_review/calculation_history.md\n?? remediation/history/external_review/candidate_review.json\n?? remediation/history/external_review/core_claim_review.json\n?? remediation/history/external_review/core_claim_review.md\n?? remediation/history/external_review/empirical_review.md\n?? remediation/history/external_review/final_check.py\n?? remediation/history/external_review/final_external_review.md\n?? remediation/history/external_review/final_verification.json\n?? remediation/history/external_review/final_verify.log\n?? remediation/history/external_review/findings.json\n?? remediation/history/external_review/findings.md\n?? remediation/history/external_review/independent_checks.py\n?? remediation/history/external_review/independent_results.json\n?? remediation/history/external_review/key_source_passages.md\n?? remediation/history/external_review/literature.json\n?? remediation/history/external_review/literature_review.md\n?? remediation/history/external_review/measurement_review.json\n?? remediation/history/external_review/measurement_review.md\n?? remediation/history/external_review/proposed_corrections.json\n?? remediation/history/external_review/proposed_corrections.md\n?? remediation/history/external_review/review_summary.json\n?? remediation/history/external_review/review_tools.py\n?? remediation/history/external_review/reviewer_protocol.md\n?? remediation/history/external_review/root_chain_internal_snapshot.json\n?? remediation/history/external_review/root_question_review.md\n?? remediation/history/external_review/source_reading_log.md\n?? remediation/history/external_review/test_audit.csv\n?? remediation/history/external_review/test_audit.json\n?? remediation/history/external_review/traceability.csv\n?? remediation/history/external_review/traceability.json\n?? remediation/history/external_review/traceability.md\n?? remediation/history/external_review/verification_status.md\n?? remediation/history/research_questions/operationalization/README.md\n?? remediation/history/research_questions/operationalization/circularity_review.md\n?? remediation/history/research_questions/operationalization/experiments.json\n?? remediation/history/research_questions/operationalization/experiments.md\n?? remediation/history/research_questions/operationalization/formal_results.json\n?? remediation/history/research_questions/operationalization/literature.md\n?? remediation/history/research_questions/operationalization/manifest.json\n?? remediation/history/research_questions/operationalization/measurement_literature.json\n?? remediation/history/research_questions/operationalization/measurement_matrix.csv\n?? remediation/history/research_questions/operationalization/money_observable_implications.md\n?? remediation/history/research_questions/operationalization/variables.json\n?? remediation/history/research_questions/operationalization/variables.md\n?? remediation/history/research_questions/synthesis/README.md\n?? remediation/history/research_questions/synthesis/certificate_history.json\n?? remediation/history/research_questions/synthesis/contributions.json\n?? remediation/history/research_questions/synthesis/contributions.md\n?? remediation/history/research_questions/synthesis/core_claims.json\n?? remediation/history/research_questions/synthesis/core_claims.md\n?? remediation/history/research_questions/synthesis/editorial_history.md\n?? remediation/history/research_questions/synthesis/files_created.json\n?? remediation/history/research_questions/synthesis/final_synthesis.md\n?? remediation/history/research_questions/synthesis/future_research.md\n?? remediation/history/research_questions/synthesis/input_manifest.json\n?? remediation/history/research_questions/synthesis/literature.json\n?? remediation/history/research_questions/synthesis/manifest.json\n?? remediation/history/research_questions/synthesis/master_matrix.csv\n?? remediation/history/research_questions/synthesis/minimal_model.md\n?? remediation/history/research_questions/synthesis/negative_results.md\n?? remediation/history/research_questions/synthesis/open_questions.md\n?? remediation/history/research_questions/synthesis/question_synthesis.csv\n?? remediation/history/research_questions/synthesis/question_synthesis.md\n?? remediation/history/research_questions/synthesis/questions.json\n?? remediation/history/research_questions/synthesis/results.json\n?? remediation/history/research_questions/synthesis/root_question_answer.md\n?? remediation/history/research_questions/synthesis/root_question_chain.json\n?? remediation/history/research_questions/synthesis/root_question_chain.md\n?? remediation/history/research_questions/synthesis/source_register.md\n?? remediation/history/research_questions/synthesis/strongest_results.md\n?? remediation/history/research_questions/synthesis/verification.md\n?? remediation/history/research_questions/synthesis/verification_results.json\n?? remediation/history/research_questions/synthesis/weakest_points.md\n?? remediation/history/tests/corpus/test_contribution.py\n?? remediation/history/tests/corpus/test_fourth_pass.py\n?? remediation/history/tests/corpus/test_global_corpus_pass.py\n?? remediation/history/tests/corpus/test_metrology.py\n?? remediation/history/tests/corpus/test_micro_review.py\n?? remediation/history/tests/corpus/test_money_review.py\n?? remediation/history/tests/corpus/test_phase2.py\n?? remediation/history/tests/corpus/test_productive_review.py\n?? remediation/history/tests/corpus/test_research_questions.py\n?? remediation/history/tests/corpus/test_second_question_pass.py\n?? remediation/history/tests/corpus/test_synthesis.py\n?? remediation/history/tests/corpus/test_terminal_review.py\n?? remediation/history/verify.sh\n?? requirements.txt\n?? research_questions/README.md\n?? research_questions/RQ-01.01/README.md\n?? research_questions/RQ-01.01/conclusion.md\n?? research_questions/RQ-01.01/corpus.md\n?? research_questions/RQ-01.01/evidence.md\n?? research_questions/RQ-01.01/global_consolidation.md\n?? research_questions/RQ-01.01/literature.md\n?? research_questions/RQ-01.01/tests.md\n?? research_questions/RQ-01.02/README.md\n?? research_questions/RQ-01.02/conclusion.md\n?? research_questions/RQ-01.02/corpus.md\n?? research_questions/RQ-01.02/evidence.md\n?? research_questions/RQ-01.02/global_consolidation.md\n?? research_questions/RQ-01.02/literature.md\n?? research_questions/RQ-01.02/tests.md\n?? research_questions/RQ-01.03/README.md\n?? research_questions/RQ-01.03/conclusion.md\n?? research_questions/RQ-01.03/corpus.md\n?? research_questions/RQ-01.03/evidence.md\n?? research_questions/RQ-01.03/global_consolidation.md\n?? research_questions/RQ-01.03/literature.md\n?? research_questions/RQ-01.03/metrology.md\n?? research_questions/RQ-01.03/tests.md\n?? research_questions/RQ-01.04/README.md\n?? research_questions/RQ-01.04/conclusion.md\n?? research_questions/RQ-01.04/corpus.md\n?? research_questions/RQ-01.04/evidence.md\n?? research_questions/RQ-01.04/global_consolidation.md\n?? research_questions/RQ-01.04/literature.md\n?? research_questions/RQ-01.04/tests.md\n?? research_questions/RQ-01/README.md\n?? research_questions/RQ-01/conclusion.md\n?? research_questions/RQ-01/corpus.md\n?? research_questions/RQ-01/evidence.md\n?? research_questions/RQ-01/global_consolidation.md\n?? research_questions/RQ-01/literature.md\n?? research_questions/RQ-01/tests.md\n?? research_questions/RQ-02.01/README.md\n?? research_questions/RQ-02.01/conclusion.md\n?? research_questions/RQ-02.01/contribution.md\n?? research_questions/RQ-02.01/corpus.md\n?? research_questions/RQ-02.01/evidence.md\n?? research_questions/RQ-02.01/global_consolidation.md\n?? research_questions/RQ-02.01/literature.md\n?? research_questions/RQ-02.01/tests.md\n?? research_questions/RQ-02.02/README.md\n?? research_questions/RQ-02.02/conclusion.md\n?? research_questions/RQ-02.02/contribution.md\n?? research_questions/RQ-02.02/corpus.md\n?? research_questions/RQ-02.02/evidence.md\n?? research_questions/RQ-02.02/global_consolidation.md\n?? research_questions/RQ-02.02/literature.md\n?? research_questions/RQ-02.02/tests.md\n?? research_questions/RQ-02.03/README.md\n?? research_questions/RQ-02.03/conclusion.md\n?? research_questions/RQ-02.03/contribution.md\n?? research_questions/RQ-02.03/corpus.md\n?? research_questions/RQ-02.03/evidence.md\n?? research_questions/RQ-02.03/global_consolidation.md\n?? research_questions/RQ-02.03/literature.md\n?? research_questions/RQ-02.03/tests.md\n?? research_questions/RQ-02/README.md\n?? research_questions/RQ-02/conclusion.md\n?? research_questions/RQ-02/corpus.md\n?? research_questions/RQ-02/evidence.md\n?? research_questions/RQ-02/global_consolidation.md\n?? research_questions/RQ-02/literature.md\n?? research_questions/RQ-02/tests.md\n?? research_questions/RQ-03.01/README.md\n?? research_questions/RQ-03.01/conclusion.md\n?? research_questions/RQ-03.01/contribution.md\n?? research_questions/RQ-03.01/corpus.md\n?? research_questions/RQ-03.01/evidence.md\n?? research_questions/RQ-03.01/global_consolidation.md\n?? research_questions/RQ-03.01/literature.md\n?? research_questions/RQ-03.01/tests.md\n?? research_questions/RQ-03.02/README.md\n?? research_questions/RQ-03.02/conclusion.md\n?? research_questions/RQ-03.02/contribution.md\n?? research_questions/RQ-03.02/corpus.md\n?? research_questions/RQ-03.02/evidence.md\n?? research_questions/RQ-03.02/global_consolidation.md\n?? research_questions/RQ-03.02/literature.md\n?? research_questions/RQ-03.02/notation_table.md\n?? research_questions/RQ-03.02/reconstruction.md\n?? research_questions/RQ-03.02/tests.md\n?? research_questions/RQ-03.03/README.md\n?? research_questions/RQ-03.03/conclusion.md\n?? research_questions/RQ-03.03/contribution.md\n?? research_questions/RQ-03.03/corpus.md\n?? research_questions/RQ-03.03/evidence.md\n?? research_questions/RQ-03.03/global_consolidation.md\n?? research_questions/RQ-03.03/literature.md\n?? research_questions/RQ-03.03/metrology.md\n?? research_questions/RQ-03.03/tests.md\n?? research_questions/RQ-03.04/README.md\n?? research_questions/RQ-03.04/conclusion.md\n?? research_questions/RQ-03.04/corpus.md\n?? research_questions/RQ-03.04/evidence.md\n?? research_questions/RQ-03.04/global_consolidation.md\n?? research_questions/RQ-03.04/literature.md\n?? research_questions/RQ-03.04/tests.md\n?? research_questions/RQ-03/README.md\n?? research_questions/RQ-03/conclusion.md\n?? research_questions/RQ-03/corpus.md\n?? research_questions/RQ-03/evidence.md\n?? research_questions/RQ-03/global_consolidation.md\n?? research_questions/RQ-03/literature.md\n?? research_questions/RQ-03/tests.md\n?? research_questions/RQ-04.01/README.md\n?? research_questions/RQ-04.01/conclusion.md\n?? research_questions/RQ-04.01/corpus.md\n?? research_questions/RQ-04.01/evidence.md\n?? research_questions/RQ-04.01/global_consolidation.md\n?? research_questions/RQ-04.01/literature.md\n?? research_questions/RQ-04.01/tests.md\n?? research_questions/RQ-04.02/README.md\n?? research_questions/RQ-04.02/conclusion.md\n?? research_questions/RQ-04.02/contribution.md\n?? research_questions/RQ-04.02/corpus.md\n?? research_questions/RQ-04.02/evidence.md\n?? research_questions/RQ-04.02/global_consolidation.md\n?? research_questions/RQ-04.02/literature.md\n?? research_questions/RQ-04.02/tests.md\n?? research_questions/RQ-04.03/README.md\n?? research_questions/RQ-04.03/conclusion.md\n?? research_questions/RQ-04.03/corpus.md\n?? research_questions/RQ-04.03/evidence.md\n?? research_questions/RQ-04.03/global_consolidation.md\n?? research_questions/RQ-04.03/literature.md\n?? research_questions/RQ-04.03/tests.md\n?? research_questions/RQ-04.04/README.md\n?? research_questions/RQ-04.04/conclusion.md\n?? research_questions/RQ-04.04/corpus.md\n?? research_questions/RQ-04.04/evidence.md\n?? research_questions/RQ-04.04/global_consolidation.md\n?? research_questions/RQ-04.04/literature.md\n?? research_questions/RQ-04.04/metrology.md\n?? research_questions/RQ-04.04/tests.md\n?? research_questions/RQ-04/README.md\n?? research_questions/RQ-04/conclusion.md\n?? research_questions/RQ-04/corpus.md\n?? research_questions/RQ-04/evidence.md\n?? research_questions/RQ-04/global_consolidation.md\n?? research_questions/RQ-04/literature.md\n?? research_questions/RQ-04/tests.md\n?? research_questions/RQ-05.01/README.md\n?? research_questions/RQ-05.01/conclusion.md\n?? research_questions/RQ-05.01/contribution.md\n?? research_questions/RQ-05.01/corpus.md\n?? research_questions/RQ-05.01/evidence.md\n?? research_questions/RQ-05.01/global_consolidation.md\n?? research_questions/RQ-05.01/literature.md\n?? research_questions/RQ-05.01/measurement_scenarios.md\n?? research_questions/RQ-05.01/metrology.md\n?? research_questions/RQ-05.01/tests.md\n?? research_questions/RQ-05.02/README.md\n?? research_questions/RQ-05.02/conclusion.md\n?? research_questions/RQ-05.02/corpus.md\n?? research_questions/RQ-05.02/evidence.md\n?? research_questions/RQ-05.02/global_consolidation.md\n?? research_questions/RQ-05.02/literature.md\n?? research_questions/RQ-05.02/tests.md\n?? research_questions/RQ-05.03/README.md\n?? research_questions/RQ-05.03/conclusion.md\n?? research_questions/RQ-05.03/contribution.md\n?? research_questions/RQ-05.03/corpus.md\n?? research_questions/RQ-05.03/evidence.md\n?? research_questions/RQ-05.03/global_consolidation.md\n?? research_questions/RQ-05.03/literature.md\n?? research_questions/RQ-05.03/metrology.md\n?? research_questions/RQ-05.03/tests.md\n?? research_questions/RQ-05.03/utility_operationalization.md\n?? research_questions/RQ-05/README.md\n?? research_questions/RQ-05/conclusion.md\n?? research_questions/RQ-05/corpus.md\n?? research_questions/RQ-05/evidence.md\n?? research_questions/RQ-05/global_consolidation.md\n?? research_questions/RQ-05/literature.md\n?? research_questions/RQ-05/tests.md\n?? research_questions/RQ-06.01/README.md\n?? research_questions/RQ-06.01/conclusion.md\n?? research_questions/RQ-06.01/contribution.md\n?? research_questions/RQ-06.01/corpus.md\n?? research_questions/RQ-06.01/evidence.md\n?? research_questions/RQ-06.01/global_consolidation.md\n?? research_questions/RQ-06.01/literature.md\n?? research_questions/RQ-06.01/tests.md\n?? research_questions/RQ-06.02/README.md\n?? research_questions/RQ-06.02/conclusion.md\n?? research_questions/RQ-06.02/contribution.md\n?? research_questions/RQ-06.02/corpus.md\n?? research_questions/RQ-06.02/evidence.md\n?? research_questions/RQ-06.02/global_consolidation.md\n?? research_questions/RQ-06.02/literature.md\n?? research_questions/RQ-06.02/tests.md\n?? research_questions/RQ-06.03/README.md\n?? research_questions/RQ-06.03/conclusion.md\n?? research_questions/RQ-06.03/corpus.md\n?? research_questions/RQ-06.03/evidence.md\n?? research_questions/RQ-06.03/global_consolidation.md\n?? research_questions/RQ-06.03/literature.md\n?? research_questions/RQ-06.03/tests.md\n?? research_questions/RQ-06.04/README.md\n?? research_questions/RQ-06.04/conclusion.md\n?? research_questions/RQ-06.04/contribution.md\n?? research_questions/RQ-06.04/corpus.md\n?? research_questions/RQ-06.04/evidence.md\n?? research_questions/RQ-06.04/global_consolidation.md\n?? research_questions/RQ-06.04/literature.md\n?? research_questions/RQ-06.04/reconstruction.md\n?? research_questions/RQ-06.04/scenario_balances.json\n?? research_questions/RQ-06.04/scenario_balances.md\n?? research_questions/RQ-06.04/tests.md\n?? research_questions/RQ-06/README.md\n?? research_questions/RQ-06/conclusion.md\n?? research_questions/RQ-06/corpus.md\n?? research_questions/RQ-06/evidence.md\n?? research_questions/RQ-06/global_consolidation.md\n?? research_questions/RQ-06/literature.md\n?? research_questions/RQ-06/tests.md\n?? research_questions/RQ-07.01/README.md\n?? research_questions/RQ-07.01/conclusion.md\n?? research_questions/RQ-07.01/corpus.md\n?? research_questions/RQ-07.01/evidence.md\n?? research_questions/RQ-07.01/global_consolidation.md\n?? research_questions/RQ-07.01/literature.md\n?? research_questions/RQ-07.01/tests.md\n?? research_questions/RQ-07.02/README.md\n?? research_questions/RQ-07.02/conclusion.md\n?? research_questions/RQ-07.02/contribution.md\n?? research_questions/RQ-07.02/corpus.md\n?? research_questions/RQ-07.02/evidence.md\n?? research_questions/RQ-07.02/global_consolidation.md\n?? research_questions/RQ-07.02/literature.md\n?? research_questions/RQ-07.02/tests.md\n?? research_questions/RQ-07.03/README.md\n?? research_questions/RQ-07.03/conclusion.md\n?? research_questions/RQ-07.03/corpus.md\n?? research_questions/RQ-07.03/evidence.md\n?? research_questions/RQ-07.03/global_consolidation.md\n?? research_questions/RQ-07.03/literature.md\n?? research_questions/RQ-07.03/tests.md\n?? research_questions/RQ-07/README.md\n?? research_questions/RQ-07/conclusion.md\n?? research_questions/RQ-07/corpus.md\n?? research_questions/RQ-07/evidence.md\n?? research_questions/RQ-07/global_consolidation.md\n?? research_questions/RQ-07/literature.md\n?? research_questions/RQ-07/tests.md\n?? research_questions/RQ-08.01/README.md\n?? research_questions/RQ-08.01/aggregation_tests.md\n?? research_questions/RQ-08.01/conclusion.md\n?? research_questions/RQ-08.01/contribution.md\n?? research_questions/RQ-08.01/corpus.md\n?? research_questions/RQ-08.01/evidence.md\n?? research_questions/RQ-08.01/global_consolidation.md\n?? research_questions/RQ-08.01/literature.md\n?? research_questions/RQ-08.01/reconstruction.md\n?? research_questions/RQ-08.01/tests.md\n?? research_questions/RQ-08.02/K_operationalization.md\n?? research_questions/RQ-08.02/README.md\n?? research_questions/RQ-08.02/conclusion.md\n?? research_questions/RQ-08.02/contribution.md\n?? research_questions/RQ-08.02/corpus.md\n?? research_questions/RQ-08.02/evidence.md\n?? research_questions/RQ-08.02/global_consolidation.md\n?? research_questions/RQ-08.02/literature.md\n?? research_questions/RQ-08.02/metrology.md\n?? research_questions/RQ-08.02/tests.md\n?? research_questions/RQ-08.03/README.md\n?? research_questions/RQ-08.03/conclusion.md\n?? research_questions/RQ-08.03/corpus.md\n?? research_questions/RQ-08.03/evidence.md\n?? research_questions/RQ-08.03/global_consolidation.md\n?? research_questions/RQ-08.03/literature.md\n?? research_questions/RQ-08.03/reconstruction.md\n?? research_questions/RQ-08.03/tests.md\n?? research_questions/RQ-08.04/README.md\n?? research_questions/RQ-08.04/conclusion.md\n?? research_questions/RQ-08.04/corpus.md\n?? research_questions/RQ-08.04/evidence.md\n?? research_questions/RQ-08.04/global_consolidation.md\n?? research_questions/RQ-08.04/literature.md\n?? research_questions/RQ-08.04/reconstruction.md\n?? research_questions/RQ-08.04/tests.md\n?? research_questions/RQ-08/README.md\n?? research_questions/RQ-08/conclusion.md\n?? research_questions/RQ-08/corpus.md\n?? research_questions/RQ-08/evidence.md\n?? research_questions/RQ-08/global_consolidation.md\n?? research_questions/RQ-08/literature.md\n?? research_questions/RQ-08/tests.md\n?? research_questions/RQ-09.01/README.md\n?? research_questions/RQ-09.01/conclusion.md\n?? research_questions/RQ-09.01/corpus.md\n?? research_questions/RQ-09.01/evidence.md\n?? research_questions/RQ-09.01/global_consolidation.md\n?? research_questions/RQ-09.01/literature.md\n?? research_questions/RQ-09.01/tests.md\n?? research_questions/RQ-09.02/README.md\n?? research_questions/RQ-09.02/conclusion.md\n?? research_questions/RQ-09.02/contribution.md\n?? research_questions/RQ-09.02/corpus.md\n?? research_questions/RQ-09.02/evidence.md\n?? research_questions/RQ-09.02/global_consolidation.md\n?? research_questions/RQ-09.02/literature.md\n?? research_questions/RQ-09.02/metrology.md\n?? research_questions/RQ-09.02/physical_economic_measurement_bridge.md\n?? research_questions/RQ-09.02/tests.md\n?? research_questions/RQ-09.03/README.md\n?? research_questions/RQ-09.03/conclusion.md\n?? research_questions/RQ-09.03/contribution.md\n?? research_questions/RQ-09.03/corpus.md\n?? research_questions/RQ-09.03/energy_bridge.md\n?? research_questions/RQ-09.03/evidence.md\n?? research_questions/RQ-09.03/global_consolidation.md\n?? research_questions/RQ-09.03/literature.md\n?? research_questions/RQ-09.03/reconstruction.md\n?? research_questions/RQ-09.03/tests.md\n?? research_questions/RQ-09/README.md\n?? research_questions/RQ-09/conclusion.md\n?? research_questions/RQ-09/corpus.md\n?? research_questions/RQ-09/evidence.md\n?? research_questions/RQ-09/global_consolidation.md\n?? research_questions/RQ-09/literature.md\n?? research_questions/RQ-09/tests.md\n?? research_questions/RQ-10.01/README.md\n?? research_questions/RQ-10.01/conclusion.md\n?? research_questions/RQ-10.01/corpus.md\n?? research_questions/RQ-10.01/evidence.md\n?? research_questions/RQ-10.01/gain_use_scenarios.md\n?? research_questions/RQ-10.01/global_consolidation.md\n?? research_questions/RQ-10.01/literature.md\n?? research_questions/RQ-10.01/reconstruction.md\n?? research_questions/RQ-10.01/tests.md\n?? research_questions/RQ-10.02/README.md\n?? research_questions/RQ-10.02/conclusion.md\n?? research_questions/RQ-10.02/contribution.md\n?? research_questions/RQ-10.02/corpus.md\n?? research_questions/RQ-10.02/evidence.md\n?? research_questions/RQ-10.02/global_consolidation.md\n?? research_questions/RQ-10.02/literature.md\n?? research_questions/RQ-10.02/marginal_gain_destinations.md\n?? research_questions/RQ-10.02/metrology.md\n?? research_questions/RQ-10.02/tests.md\n?? research_questions/RQ-10.03/README.md\n?? research_questions/RQ-10.03/conclusion.md\n?? research_questions/RQ-10.03/corpus.md\n?? research_questions/RQ-10.03/evidence.md\n?? research_questions/RQ-10.03/global_consolidation.md\n?? research_questions/RQ-10.03/literature.md\n?? research_questions/RQ-10.03/tests.md\n?? research_questions/RQ-10/README.md\n?? research_questions/RQ-10/conclusion.md\n?? research_questions/RQ-10/corpus.md\n?? research_questions/RQ-10/evidence.md\n?? research_questions/RQ-10/global_consolidation.md\n?? research_questions/RQ-10/literature.md\n?? research_questions/RQ-10/tests.md\n?? research_questions/RQ-11.01/README.md\n?? research_questions/RQ-11.01/conclusion.md\n?? research_questions/RQ-11.01/contribution.md\n?? research_questions/RQ-11.01/corpus.md\n?? research_questions/RQ-11.01/environmental_measurands.md\n?? research_questions/RQ-11.01/evidence.md\n?? research_questions/RQ-11.01/global_consolidation.md\n?? research_questions/RQ-11.01/literature.md\n?? research_questions/RQ-11.01/metrology.md\n?? research_questions/RQ-11.01/tests.md\n?? research_questions/RQ-11.02/README.md\n?? research_questions/RQ-11.02/conclusion.md\n?? research_questions/RQ-11.02/corpus.md\n?? research_questions/RQ-11.02/evidence.md\n?? research_questions/RQ-11.02/global_consolidation.md\n?? research_questions/RQ-11.02/literature.md\n?? research_questions/RQ-11.02/reconstruction.md\n?? research_questions/RQ-11.02/tests.md\n?? research_questions/RQ-11.03/README.md\n?? research_questions/RQ-11.03/conclusion.md\n?? research_questions/RQ-11.03/corpus.md\n?? research_questions/RQ-11.03/environmental_links.md\n?? research_questions/RQ-11.03/evidence.md\n?? research_questions/RQ-11.03/global_consolidation.md\n?? research_questions/RQ-11.03/literature.md\n?? research_questions/RQ-11.03/reconstruction.md\n?? research_questions/RQ-11.03/tests.md\n?? research_questions/RQ-11/README.md\n?? research_questions/RQ-11/conclusion.md\n?? research_questions/RQ-11/corpus.md\n?? research_questions/RQ-11/evidence.md\n?? research_questions/RQ-11/global_consolidation.md\n?? research_questions/RQ-11/literature.md\n?? research_questions/RQ-11/tests.md\n?? research_questions/RQ-12.01/README.md\n?? research_questions/RQ-12.01/conclusion.md\n?? research_questions/RQ-12.01/contribution.md\n?? research_questions/RQ-12.01/corpus.md\n?? research_questions/RQ-12.01/discrimination.md\n?? research_questions/RQ-12.01/evidence.md\n?? research_questions/RQ-12.01/global_consolidation.md\n?? research_questions/RQ-12.01/literature.md\n?? research_questions/RQ-12.01/reconstruction.md\n?? research_questions/RQ-12.01/tests.md\n?? research_questions/RQ-12.02/README.md\n?? research_questions/RQ-12.02/conclusion.md\n?? research_questions/RQ-12.02/contribution.md\n?? research_questions/RQ-12.02/corpus.md\n?? research_questions/RQ-12.02/evidence.md\n?? research_questions/RQ-12.02/global_consolidation.md\n?? research_questions/RQ-12.02/literature.md\n?? research_questions/RQ-12.02/metrology.md\n?? research_questions/RQ-12.02/signatures.md\n?? research_questions/RQ-12.02/tests.md\n?? research_questions/RQ-12.03/README.md\n?? research_questions/RQ-12.03/conclusion.md\n?? research_questions/RQ-12.03/corpus.md\n?? research_questions/RQ-12.03/evidence.md\n?? research_questions/RQ-12.03/global_consolidation.md\n?? research_questions/RQ-12.03/literature.md\n?? research_questions/RQ-12.03/tests.md\n?? research_questions/RQ-12/README.md\n?? research_questions/RQ-12/conclusion.md\n?? research_questions/RQ-12/corpus.md\n?? research_questions/RQ-12/evidence.md\n?? research_questions/RQ-12/global_consolidation.md\n?? research_questions/RQ-12/literature.md\n?? research_questions/RQ-12/tests.md\n?? research_questions/RQ-ROOT/README.md\n?? research_questions/RQ-ROOT/conclusion.md\n?? research_questions/RQ-ROOT/corpus.md\n?? research_questions/RQ-ROOT/evidence.md\n?? research_questions/RQ-ROOT/global_consolidation.md\n?? research_questions/RQ-ROOT/literature.md\n?? research_questions/RQ-ROOT/tests.md\n?? research_questions/claim_question_matrix.csv\n?? research_questions/contribution/README.md\n?? research_questions/contribution/candidate_contributions.md\n?? research_questions/contribution/cash_money_crosswalk.md\n?? research_questions/contribution/claim_comparisons.md\n?? research_questions/contribution/concept_comparisons.md\n?? research_questions/contribution/concepts.json\n?? research_questions/contribution/contribution_matrix.csv\n?? research_questions/contribution/core_comparisons.json\n?? research_questions/contribution/creation_accounts_comparison.md\n?? research_questions/contribution/false_novelty_risks.md\n?? research_questions/contribution/global_corpus_addendum.md\n?? research_questions/contribution/global_corpus_review.json\n?? research_questions/contribution/literature.json\n?? research_questions/contribution/literature.md\n?? research_questions/contribution/manifest.json\n?? research_questions/contribution/money_scenario_comparisons.json\n?? research_questions/contribution/money_scenario_comparisons.md\n?? research_questions/contribution/question_links.json\n?? research_questions/contribution/underappreciated_distinctions.md\n?? research_questions/contribution/unresolved_novelty.md\n?? research_questions/contribution/utility_comparison.md\n?? research_questions/epistemic_policy.md\n?? research_questions/evidence_matrix.csv\n?? research_questions/experiments/EXP-02/operation_requirements.json\n?? research_questions/experiments/EXP-02/protocol.md\n?? research_questions/experiments/EXP-02/results.json\n?? research_questions/experiments/EXP-02/results.md\n?? research_questions/experiments/EXP-03/protocol.md\n?? research_questions/experiments/EXP-03/results.json\n?? research_questions/experiments/EXP-03/results.md\n?? research_questions/experiments/EXP-09/protocol.md\n?? research_questions/experiments/EXP-09/results.json\n?? research_questions/experiments/EXP-09/results.md\n?? research_questions/experiments/fourth_pass_claim_impacts.json\n?? research_questions/experiments/fourth_pass_execution.json\n?? research_questions/experiments/fourth_pass_integration.json\n?? research_questions/experiments/fourth_pass_literature.json\n?? research_questions/experiments/fourth_pass_protocol_manifest.json\n?? research_questions/experiments/selection.md\n?? research_questions/fifth_pass_report.md\n?? research_questions/first_pass_report.md\n?? research_questions/fourth_pass_report.md\n?? research_questions/global_question_coverage.md\n?? research_questions/history.json\n?? research_questions/history/000_initial_manifest.json\n?? research_questions/history/001_initial_questions.md\n?? research_questions/history/fifth_pass_before/research_questions/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-02.01/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-02.02/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-02.03/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-03.01/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-03.02/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-03.03/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-04.02/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-05.01/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-05.03/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-06.01/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-06.02/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-06.04/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-07.02/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-08.01/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-08.02/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-09.02/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-09.03/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-10.02/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-11.01/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-12.01/README.md\n?? research_questions/history/fifth_pass_before/research_questions/RQ-12.02/README.md\n?? research_questions/history/fifth_pass_before/research_questions/contribution/manifest.json\n?? research_questions/history/fifth_pass_before/research_questions/history.json\n?? research_questions/history/fifth_pass_before/research_questions/question_graph.json\n?? research_questions/history/fourth_pass_before/research_questions/README.md\n?? research_questions/history/fourth_pass_before/research_questions/RQ-03.02/conclusion.md\n?? research_questions/history/fourth_pass_before/research_questions/RQ-03.02/evidence.md\n?? research_questions/history/fourth_pass_before/research_questions/RQ-03.02/tests.md\n?? research_questions/history/fourth_pass_before/research_questions/RQ-03.03/conclusion.md\n?? research_questions/history/fourth_pass_before/research_questions/RQ-03.03/evidence.md\n?? research_questions/history/fourth_pass_before/research_questions/RQ-03.03/tests.md\n?? research_questions/history/fourth_pass_before/research_questions/RQ-05.03/conclusion.md\n?? research_questions/history/fourth_pass_before/research_questions/RQ-05.03/evidence.md\n?? research_questions/history/fourth_pass_before/research_questions/RQ-05.03/tests.md\n?? research_questions/history/fourth_pass_before/research_questions/RQ-08.02/conclusion.md\n?? research_questions/history/fourth_pass_before/research_questions/RQ-08.02/evidence.md\n?? research_questions/history/fourth_pass_before/research_questions/RQ-08.02/tests.md\n?? research_questions/history/fourth_pass_before/research_questions/evidence_matrix.csv\n?? research_questions/history/fourth_pass_before/research_questions/history.json\n?? research_questions/history/fourth_pass_before/research_questions/operationalization/experiments.json\n?? research_questions/history/fourth_pass_before/research_questions/operationalization/experiments.md\n?? research_questions/history/fourth_pass_before/research_questions/question_graph.json\n?? research_questions/history/second_pass_before/analysis/data/literature_map.json\n?? research_questions/history/second_pass_before/analysis/data/page_coverage.json\n?? research_questions/history/second_pass_before/analysis/data/phase2_progress.json\n?? research_questions/history/second_pass_before/bibliography/initial_research_library.json\n?? research_questions/history/second_pass_before/bibliography/research_library.bib\n?? research_questions/history/second_pass_before/research_questions/RQ-03.02/README.md\n?? research_questions/history/second_pass_before/research_questions/RQ-03.02/conclusion.md\n?? research_questions/history/second_pass_before/research_questions/RQ-03.02/corpus.md\n?? research_questions/history/second_pass_before/research_questions/RQ-03.02/evidence.md\n?? research_questions/history/second_pass_before/research_questions/RQ-03.02/literature.md\n?? research_questions/history/second_pass_before/research_questions/RQ-03.02/reconstruction.md\n?? research_questions/history/second_pass_before/research_questions/RQ-03.02/tests.md\n?? research_questions/history/second_pass_before/research_questions/RQ-06.04/README.md\n?? research_questions/history/second_pass_before/research_questions/RQ-06.04/conclusion.md\n?? research_questions/history/second_pass_before/research_questions/RQ-06.04/corpus.md\n?? research_questions/history/second_pass_before/research_questions/RQ-06.04/evidence.md\n?? research_questions/history/second_pass_before/research_questions/RQ-06.04/literature.md\n?? research_questions/history/second_pass_before/research_questions/RQ-06.04/reconstruction.md\n?? research_questions/history/second_pass_before/research_questions/RQ-06.04/tests.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.01/README.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.01/conclusion.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.01/corpus.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.01/evidence.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.01/literature.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.01/reconstruction.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.01/tests.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.03/README.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.03/conclusion.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.03/corpus.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.03/evidence.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.03/literature.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.03/reconstruction.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.03/tests.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.04/README.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.04/conclusion.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.04/corpus.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.04/evidence.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.04/literature.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.04/reconstruction.md\n?? research_questions/history/second_pass_before/research_questions/RQ-08.04/tests.md\n?? research_questions/history/second_pass_before/research_questions/RQ-09.03/README.md\n?? research_questions/history/second_pass_before/research_questions/RQ-09.03/conclusion.md\n?? research_questions/history/second_pass_before/research_questions/RQ-09.03/corpus.md\n?? research_questions/history/second_pass_before/research_questions/RQ-09.03/evidence.md\n?? research_questions/history/second_pass_before/research_questions/RQ-09.03/literature.md\n?? research_questions/history/second_pass_before/research_questions/RQ-09.03/reconstruction.md\n?? research_questions/history/second_pass_before/research_questions/RQ-09.03/tests.md\n?? research_questions/history/second_pass_before/research_questions/RQ-10.01/README.md\n?? research_questions/history/second_pass_before/research_questions/RQ-10.01/conclusion.md\n?? research_questions/history/second_pass_before/research_questions/RQ-10.01/corpus.md\n?? research_questions/history/second_pass_before/research_questions/RQ-10.01/evidence.md\n?? research_questions/history/second_pass_before/research_questions/RQ-10.01/literature.md\n?? research_questions/history/second_pass_before/research_questions/RQ-10.01/reconstruction.md\n?? research_questions/history/second_pass_before/research_questions/RQ-10.01/tests.md\n?? research_questions/history/second_pass_before/research_questions/RQ-11.02/README.md\n?? research_questions/history/second_pass_before/research_questions/RQ-11.02/conclusion.md\n?? research_questions/history/second_pass_before/research_questions/RQ-11.02/corpus.md\n?? research_questions/history/second_pass_before/research_questions/RQ-11.02/evidence.md\n?? research_questions/history/second_pass_before/research_questions/RQ-11.02/literature.md\n?? research_questions/history/second_pass_before/research_questions/RQ-11.02/reconstruction.md\n?? research_questions/history/second_pass_before/research_questions/RQ-11.02/tests.md\n?? research_questions/history/second_pass_before/research_questions/RQ-11.03/README.md\n?? research_questions/history/second_pass_before/research_questions/RQ-11.03/conclusion.md\n?? research_questions/history/second_pass_before/research_questions/RQ-11.03/corpus.md\n?? research_questions/history/second_pass_before/research_questions/RQ-11.03/evidence.md\n?? research_questions/history/second_pass_before/research_questions/RQ-11.03/literature.md\n?? research_questions/history/second_pass_before/research_questions/RQ-11.03/reconstruction.md\n?? research_questions/history/second_pass_before/research_questions/RQ-11.03/tests.md\n?? research_questions/history/second_pass_before/research_questions/RQ-12.01/README.md\n?? research_questions/history/second_pass_before/research_questions/RQ-12.01/conclusion.md\n?? research_questions/history/second_pass_before/research_questions/RQ-12.01/corpus.md\n?? research_questions/history/second_pass_before/research_questions/RQ-12.01/evidence.md\n?? research_questions/history/second_pass_before/research_questions/RQ-12.01/literature.md\n?? research_questions/history/second_pass_before/research_questions/RQ-12.01/reconstruction.md\n?? research_questions/history/second_pass_before/research_questions/RQ-12.01/tests.md\n?? research_questions/history/second_pass_before/research_questions/evidence_matrix.csv\n?? research_questions/history/second_pass_before/research_questions/history.json\n?? research_questions/history/second_pass_before/research_questions/question_graph.json\n?? research_questions/history/second_pass_before/research_questions/questions.md\n?? research_questions/history/second_pass_before/research_questions/status.md\n?? research_questions/history/third_pass_before/analysis/data/page_coverage.json\n?? research_questions/history/third_pass_before/analysis/data/phase2_progress.json\n?? research_questions/history/third_pass_before/research_questions/README.md\n?? research_questions/history/third_pass_before/research_questions/RQ-01.03/README.md\n?? research_questions/history/third_pass_before/research_questions/RQ-01.03/conclusion.md\n?? research_questions/history/third_pass_before/research_questions/RQ-01.03/evidence.md\n?? research_questions/history/third_pass_before/research_questions/RQ-01.03/literature.md\n?? research_questions/history/third_pass_before/research_questions/RQ-01.03/tests.md\n?? research_questions/history/third_pass_before/research_questions/RQ-03.03/README.md\n?? research_questions/history/third_pass_before/research_questions/RQ-03.03/conclusion.md\n?? research_questions/history/third_pass_before/research_questions/RQ-03.03/evidence.md\n?? research_questions/history/third_pass_before/research_questions/RQ-03.03/literature.md\n?? research_questions/history/third_pass_before/research_questions/RQ-03.03/tests.md\n?? research_questions/history/third_pass_before/research_questions/RQ-04.04/README.md\n?? research_questions/history/third_pass_before/research_questions/RQ-04.04/conclusion.md\n?? research_questions/history/third_pass_before/research_questions/RQ-04.04/evidence.md\n?? research_questions/history/third_pass_before/research_questions/RQ-04.04/literature.md\n?? research_questions/history/third_pass_before/research_questions/RQ-04.04/tests.md\n?? research_questions/history/third_pass_before/research_questions/RQ-05.01/README.md\n?? research_questions/history/third_pass_before/research_questions/RQ-05.01/conclusion.md\n?? research_questions/history/third_pass_before/research_questions/RQ-05.01/evidence.md\n?? research_questions/history/third_pass_before/research_questions/RQ-05.01/literature.md\n?? research_questions/history/third_pass_before/research_questions/RQ-05.01/tests.md\n?? research_questions/history/third_pass_before/research_questions/RQ-05.03/README.md\n?? research_questions/history/third_pass_before/research_questions/RQ-05.03/conclusion.md\n?? research_questions/history/third_pass_before/research_questions/RQ-05.03/corpus.md\n?? research_questions/history/third_pass_before/research_questions/RQ-05.03/evidence.md\n?? research_questions/history/third_pass_before/research_questions/RQ-05.03/literature.md\n?? research_questions/history/third_pass_before/research_questions/RQ-05.03/tests.md\n?? research_questions/history/third_pass_before/research_questions/RQ-08.02/README.md\n?? research_questions/history/third_pass_before/research_questions/RQ-08.02/conclusion.md\n?? research_questions/history/third_pass_before/research_questions/RQ-08.02/evidence.md\n?? research_questions/history/third_pass_before/research_questions/RQ-08.02/literature.md\n?? research_questions/history/third_pass_before/research_questions/RQ-08.02/tests.md\n?? research_questions/history/third_pass_before/research_questions/RQ-09.02/README.md\n?? research_questions/history/third_pass_before/research_questions/RQ-09.02/conclusion.md\n?? research_questions/history/third_pass_before/research_questions/RQ-09.02/evidence.md\n?? research_questions/history/third_pass_before/research_questions/RQ-09.02/literature.md\n?? research_questions/history/third_pass_before/research_questions/RQ-09.02/tests.md\n?? research_questions/history/third_pass_before/research_questions/RQ-10.02/README.md\n?? research_questions/history/third_pass_before/research_questions/RQ-10.02/conclusion.md\n?? research_questions/history/third_pass_before/research_questions/RQ-10.02/evidence.md\n?? research_questions/history/third_pass_before/research_questions/RQ-10.02/literature.md\n?? research_questions/history/third_pass_before/research_questions/RQ-10.02/tests.md\n?? research_questions/history/third_pass_before/research_questions/RQ-11.01/README.md\n?? research_questions/history/third_pass_before/research_questions/RQ-11.01/conclusion.md\n?? research_questions/history/third_pass_before/research_questions/RQ-11.01/evidence.md\n?? research_questions/history/third_pass_before/research_questions/RQ-11.01/literature.md\n?? research_questions/history/third_pass_before/research_questions/RQ-11.01/tests.md\n?? research_questions/history/third_pass_before/research_questions/RQ-12.02/README.md\n?? research_questions/history/third_pass_before/research_questions/RQ-12.02/conclusion.md\n?? research_questions/history/third_pass_before/research_questions/RQ-12.02/evidence.md\n?? research_questions/history/third_pass_before/research_questions/RQ-12.02/literature.md\n?? research_questions/history/third_pass_before/research_questions/RQ-12.02/tests.md\n?? research_questions/history/third_pass_before/research_questions/evidence_matrix.csv\n?? research_questions/history/third_pass_before/research_questions/history.json\n?? research_questions/history/third_pass_before/research_questions/question_graph.json\n?? research_questions/history/third_pass_before/research_questions/questions.md\n?? research_questions/history/third_pass_before/research_questions/status.md\n?? research_questions/operationalization/README.md\n?? research_questions/operationalization/circularity_review.md\n?? research_questions/operationalization/experiments.json\n?? research_questions/operationalization/experiments.md\n?? research_questions/operationalization/formal_results.json\n?? research_questions/operationalization/literature.md\n?? research_questions/operationalization/manifest.json\n?? research_questions/operationalization/measurement_literature.json\n?? research_questions/operationalization/measurement_matrix.csv\n?? research_questions/operationalization/money_observable_implications.md\n?? research_questions/operationalization/variables.json\n?? research_questions/operationalization/variables.md\n?? research_questions/question_graph.json\n?? research_questions/questions.md\n?? research_questions/second_pass_dependency_map.md\n?? research_questions/second_pass_formal_results.json\n?? research_questions/second_pass_literature.json\n?? research_questions/second_pass_manifest.json\n?? research_questions/second_pass_report.md\n?? research_questions/second_pass_retrieval.json\n?? research_questions/second_pass_sources.json\n?? research_questions/status.md\n?? research_questions/synthesis/README.md\n?? research_questions/synthesis/certificate_history.json\n?? research_questions/synthesis/contributions.json\n?? research_questions/synthesis/contributions.md\n?? research_questions/synthesis/core_claims.json\n?? research_questions/synthesis/core_claims.md\n?? research_questions/synthesis/editorial_history.md\n?? research_questions/synthesis/files_created.json\n?? research_questions/synthesis/final_synthesis.md\n?? research_questions/synthesis/future_research.md\n?? research_questions/synthesis/input_manifest.json\n?? research_questions/synthesis/literature.json\n?? research_questions/synthesis/manifest.json\n?? research_questions/synthesis/master_matrix.csv\n?? research_questions/synthesis/minimal_model.md\n?? research_questions/synthesis/negative_results.md\n?? research_questions/synthesis/open_questions.md\n?? research_questions/synthesis/question_synthesis.csv\n?? research_questions/synthesis/question_synthesis.md\n?? research_questions/synthesis/questions.json\n?? research_questions/synthesis/results.json\n?? research_questions/synthesis/root_question_answer.md\n?? research_questions/synthesis/root_question_chain.json\n?? research_questions/synthesis/root_question_chain.md\n?? research_questions/synthesis/source_register.md\n?? research_questions/synthesis/strongest_results.md\n?? research_questions/synthesis/verification.md\n?? research_questions/synthesis/verification_results.json\n?? research_questions/synthesis/weakest_points.md\n?? research_questions/third_pass_report.md\n?? tests/corpus/test_contribution.py\n?? tests/corpus/test_fourth_pass.py\n?? tests/corpus/test_global_corpus_pass.py\n?? tests/corpus/test_metrology.py\n?? tests/corpus/test_micro_review.py\n?? tests/corpus/test_money_review.py\n?? tests/corpus/test_phase2.py\n?? tests/corpus/test_productive_review.py\n?? tests/corpus/test_research_questions.py\n?? tests/corpus/test_second_question_pass.py\n?? tests/corpus/test_synthesis.py\n?? tests/corpus/test_terminal_review.py\n?? tests/run_phase2.py\n?? validation/iteration1_scoreboard.json\n?? validation/phase2_files.json\n?? validation/phase2_regression_results.json\n?? verify.sh\n",
+  "hashes": [
+    {
+      "path": "research_questions/synthesis/editorial_history.md",
+      "sha256": "f1c34a98512ef3be51356d03398b3d65117e7431545b92028e7bdd98779234b3"
+    },
+    {
+      "path": "research_questions/synthesis/final_synthesis.md",
+      "sha256": "9eae2202277c2dd0d3daff175bde1ac4c542ac1a62af6cd64ab0c1b3a0a95f9c"
+    },
+    {
+      "path": "research_questions/synthesis/core_claims.md",
+      "sha256": "dce728da0a357a23524d391d24bf70c0ac82f0d0c12fda4a0f5bab1daa265c00"
+    },
+    {
+      "path": "research_questions/synthesis/source_register.md",
+      "sha256": "2a3a43d153c92318ffd8ae2c19d34d567e05e55ff43336adf599789d2e574b76"
+    },
+    {
+      "path": "research_questions/synthesis/results.json",
+      "sha256": "dd69905cec5aad72885ffef19d71afc5d30776ce6ff8fc9d029f43c8ccdb8c5f"
+    },
+    {
+      "path": "research_questions/synthesis/README.md",
+      "sha256": "c09e57a39849c99f514ea8d71ad3c27ee31fbbaa39fb3e3aa00b752ba0778181"
+    },
+    {
+      "path": "research_questions/synthesis/question_synthesis.csv",
+      "sha256": "59b62044a1f0706bbd1fc634eec7a31c4f7104dcb47fe56f69c4964631f1ad07"
+    },
+    {
+      "path": "research_questions/synthesis/minimal_model.md",
+      "sha256": "d29f028072c2b550c27d02663fcd3cf6bcf87e3aa724de08934b4e012633f8c7"
+    },
+    {
+      "path": "research_questions/synthesis/root_question_chain.md",
+      "sha256": "83871215250c13b853c77c8ee3a88278957be82110e652b7df8b94837d172263"
+    },
+    {
+      "path": "research_questions/synthesis/root_question_chain.json",
+      "sha256": "4c8d212f3d9d578022a20ab5bc469c36c261106037307568c2af5dc17bc42370"
+    },
+    {
+      "path": "research_questions/synthesis/weakest_points.md",
+      "sha256": "f8c1b8c38c407af1d89dc47359b3dabf8da08127b7d284564e5c27145db0abee"
+    },
+    {
+      "path": "research_questions/synthesis/input_manifest.json",
+      "sha256": "a904570f2f994f931743e1242a3e8393ab56e55735f984ecd3eb26ff810de6d5"
+    },
+    {
+      "path": "research_questions/synthesis/negative_results.md",
+      "sha256": "78988eb972e340f4f403099fe1ed1893ab246434f5d97a70c093f998866bcf43"
+    },
+    {
+      "path": "research_questions/synthesis/future_research.md",
+      "sha256": "c634d3c09e879ee0a1f119360124bdc77ee30533369e2e3a2f5ffb7de6a8416f"
+    },
+    {
+      "path": "research_questions/synthesis/certificate_history.json",
+      "sha256": "2ace14227a68fc0b4272f087bdefe923d592db5cc0fef0373bc8e0bc5eb02436"
+    },
+    {
+      "path": "research_questions/synthesis/files_created.json",
+      "sha256": "85a3759b6d704958c1e9c25ab6b1eb4b18b5be71cc7c66c11533ee78e5695423"
+    },
+    {
+      "path": "research_questions/synthesis/question_synthesis.md",
+      "sha256": "e1bb3cf6f0592083b3214bd007ff8047265890562134c4867505157006bf083c"
+    },
+    {
+      "path": "research_questions/synthesis/literature.json",
+      "sha256": "52eb6308fd1f4459dc657deb603b3f02c94a99a43695c345cb002875bc35370d"
+    },
+    {
+      "path": "research_questions/synthesis/open_questions.md",
+      "sha256": "6132ef425e78a7ec0120463758fd4a23019df24dd7154c2ecb307b6317bbfef5"
+    },
+    {
+      "path": "research_questions/synthesis/contributions.md",
+      "sha256": "17d511f8d98f376aec042ea207a12ca017e85eecfe96ccae30f1abe94a757173"
+    },
+    {
+      "path": "research_questions/synthesis/core_claims.json",
+      "sha256": "b5f51294ac16907e8260cb530b1f9b7a3e07b088ba88cd5fcad4420f1366309d"
+    },
+    {
+      "path": "research_questions/synthesis/manifest.json",
+      "sha256": "0a091d92b1acbf075a7aaa5e2e9e2978f58a376353cda793f4b5bc19674d36af"
+    },
+    {
+      "path": "research_questions/synthesis/strongest_results.md",
+      "sha256": "ac8d359a00362ba9b1b6d64f487963d65d530d4c5c8eda0a80e442c103102759"
+    },
+    {
+      "path": "research_questions/synthesis/verification_results.json",
+      "sha256": "855ed708a3dcd0314ba4397dd2e94cdffc3bcd2883b355b08b384b4af8664b25"
+    },
+    {
+      "path": "research_questions/synthesis/master_matrix.csv",
+      "sha256": "c62e7c86a98a629ffa0940c0f1f7076a6971bed62ca3695f48d45ff93a883f40"
+    },
+    {
+      "path": "research_questions/synthesis/contributions.json",
+      "sha256": "5230cfe464aecdbfcd0362634b8f3e3f80efe523ad8e413af7fb0d83a587703d"
+    },
+    {
+      "path": "research_questions/synthesis/root_question_answer.md",
+      "sha256": "fe228a8b413b28e0b9be75fd2624a854596c1b2ad8750c4b355686d5b56c81e1"
+    },
+    {
+      "path": "research_questions/synthesis/verification.md",
+      "sha256": "6fe494111a2a8d84483b26be58af25f841bd7e4ea3a143ac3785b1cb725d67a6"
+    },
+    {
+      "path": "research_questions/synthesis/questions.json",
+      "sha256": "395f678006b9388b804e9e825c7ac3052b2ac401e27e3cdfd1c4003e96d17467"
+    },
+    {
+      "path": "research_questions/operationalization/README.md",
+      "sha256": "ea64854e902387357efc0b52ffc7a33195a116c97c89d057fce482a04cb8b0ec"
+    },
+    {
+      "path": "research_questions/operationalization/money_observable_implications.md",
+      "sha256": "b4059f12fa0ac293a7ac9a28da6c8b512b2808ced8830aedde00d18c63f42c9f"
+    },
+    {
+      "path": "research_questions/operationalization/experiments.json",
+      "sha256": "3caa35cd6689917a22ffd42a8ca7626fd17b41e055c81e96374dd6542d0d3f3b"
+    },
+    {
+      "path": "research_questions/operationalization/formal_results.json",
+      "sha256": "b34c677a66ff08c0dc66e51857b9268ea8e42cd8bc5033a1cc7db3ced8e9fdaf"
+    },
+    {
+      "path": "research_questions/operationalization/measurement_literature.json",
+      "sha256": "e6831cc72cb43c71f656b97f37f03db124f60e40f8658c26f458e611d8f84773"
+    },
+    {
+      "path": "research_questions/operationalization/literature.md",
+      "sha256": "d42360448d0bdf204ab2fae82df06e203640ee34dc19367245b7eda30550c595"
+    },
+    {
+      "path": "research_questions/operationalization/measurement_matrix.csv",
+      "sha256": "f4d3eeb0f9f0fe084db99efd4ece6750fab4545e75f30eb2ba11e4911e4413cc"
+    },
+    {
+      "path": "research_questions/operationalization/circularity_review.md",
+      "sha256": "5707fead4242f60178b3154f323112131b58662d22c86ede23f749448afc5ed5"
+    },
+    {
+      "path": "research_questions/operationalization/variables.json",
+      "sha256": "969d8043a3912e5d5cdcff3735e70518429c2d99bc2792945bfa188f7fc4febf"
+    },
+    {
+      "path": "research_questions/operationalization/manifest.json",
+      "sha256": "26ddd7f8cdf4ad4765d955869255363eb666e40bf716c00ad27aeb8260204983"
+    },
+    {
+      "path": "research_questions/operationalization/experiments.md",
+      "sha256": "f46ea152422d61bc0e790c72c1d716220b43df422bcb73427c912c96cee1e858"
+    },
+    {
+      "path": "research_questions/operationalization/variables.md",
+      "sha256": "bcefb29dc4356cf52312b8bd6641ac3b6ea7842988960eacceabf1fb79149add"
+    },
+    {
+      "path": "external_review/literature_review.md",
+      "sha256": "8c762b5ffad8bc7ed70b30bc9a51f42f953163230157b8412b3a815f26c9f64b"
+    },
+    {
+      "path": "external_review/final_verify.log",
+      "sha256": "37bbbcf84c3cd77c40ac38a5aa01ebda4774025133c12f0e4234be0e4c08f7bb"
+    },
+    {
+      "path": "external_review/reviewer_protocol.md",
+      "sha256": "d6fdbd85a5bb5f74e74ea1c3d4812a5f9af63a4239da1d05c29ce637379ac0f7"
+    },
+    {
+      "path": "external_review/calculation_history.md",
+      "sha256": "ebd192cafd491319693b01269bdac9693828b20929fd65780a3daea7003aad51"
+    },
+    {
+      "path": "external_review/empirical_review.md",
+      "sha256": "1732dbb029f62f82ed735a5c632ee3a185905bcf7fbc5779d63d97807fb5a4b9"
+    },
+    {
+      "path": "external_review/findings.json",
+      "sha256": "49aa7c8defe42df5a0a9c2d03ff1e83c7c7a1ca73d799baa02d173e4a2de2bc4"
+    },
+    {
+      "path": "external_review/core_claim_review.md",
+      "sha256": "a8e73f26ec23bad474fec64d7e1b2569212d731244d161057956e15af23754e7"
+    },
+    {
+      "path": "external_review/traceability.md",
+      "sha256": "921e8f5e88f0ad6ae8d6e21752c96d2ebbebb3c41b4b3056088be917820357a0"
+    },
+    {
+      "path": "external_review/independent_results.json",
+      "sha256": "c57d067f154b034dc5b9e51eb1c71eba1ce0fbdc6f4704e7aabad7fd09c1d8c7"
+    },
+    {
+      "path": "external_review/measurement_review.md",
+      "sha256": "d7da6901e6d73af9b5607fbe0201dea4ceecb84477d52d3fee27757868ec649f"
+    },
+    {
+      "path": "external_review/README.md",
+      "sha256": "0a1fef01452648f00c27125e10d592562df70d63c97e3fd996baac20a5773e19"
+    },
+    {
+      "path": "external_review/traceability.json",
+      "sha256": "749ae8588db90dd81267f8086dd6cc69da9280d700233941c9938dbdb0db9089"
+    },
+    {
+      "path": "external_review/root_question_review.md",
+      "sha256": "15fc0c3e68222cb09a866f2f9607ccf7bc08256e1b6ef5b7161a6eac189ec524"
+    },
+    {
+      "path": "external_review/02_formal_review.md",
+      "sha256": "00ca4022d9886884affea4cbcca87ed2e777d1b26caa5e2c782723592f0478e6"
+    },
+    {
+      "path": "external_review/final_verification.json",
+      "sha256": "5a9f4444146e4a6ac7c0eae700055b293f6e0c7c97adf2cc603c5574ea514548"
+    },
+    {
+      "path": "external_review/final_external_review.md",
+      "sha256": "a9f4ad6e1c680cb117724ff1e9b3dac0b7eeff171b6cab43ca0dbd44e5ada3e8"
+    },
+    {
+      "path": "external_review/candidate_review.json",
+      "sha256": "b4964f50bf39c12ccd586ae0de8e562c0d9e6879f5e9f0e1811b3f4da724ebaa"
+    },
+    {
+      "path": "external_review/verification_status.md",
+      "sha256": "512a0a6515540340ce116e69d9870d36dd02f1a34f278ec8ce02bccd17addfdf"
+    },
+    {
+      "path": "external_review/01_overinterpretation_review.md",
+      "sha256": "744c3f8bc36a7d62f7a20c9c90300210b6684ea8d8e4f624ad20532cb615cddc"
+    },
+    {
+      "path": "external_review/00_review_baseline.md",
+      "sha256": "ba24ccc6383514c3e170e3aded2a1c94861d14af3de43f51a58dc271c6a38fb3"
+    },
+    {
+      "path": "external_review/measurement_review.json",
+      "sha256": "f71f803e5158db797ab89fc93d63a458d1697c1afc4727b5d1728819b72195df"
+    },
+    {
+      "path": "external_review/test_audit.csv",
+      "sha256": "3bbcc79a26db5c3b9d70f06891989f43883fc56d653d3b45c0052dcde4ad4237"
+    },
+    {
+      "path": "external_review/baseline_verify.log",
+      "sha256": "00ece3d8613f0bc657058a7981578993f7970196d02209348be307b2947670c6"
+    },
+    {
+      "path": "external_review/build_review.py",
+      "sha256": "3a54aa9fe9cdd0a28000acbb1b871641b2b851b00e522ca371fc288e9d324c21"
+    },
+    {
+      "path": "external_review/baseline.json",
+      "sha256": "fe5f8b0a5f66b2c3e1ec729c010d61cc2be5be9958071eff09e9baa4f6c2393e"
+    },
+    {
+      "path": "external_review/03_test_audit.md",
+      "sha256": "9f2e7379e42ac19d4e9c3519af1260df446651fdc16b78d9b29278d88ff2c12e"
+    },
+    {
+      "path": "external_review/proposed_corrections.json",
+      "sha256": "f6c0c8e18db6d980514e820fe1547e2fe375ab5d7376fc19b43ef307180c2b53"
+    },
+    {
+      "path": "external_review/findings.md",
+      "sha256": "035b1909d543b840086625f2484a2c8cb435aef094eeac1e9c8d67539adae540"
+    },
+    {
+      "path": "external_review/audit_tests.py",
+      "sha256": "e55ba2e2fe38b4e9877c61586b23088430b1778c3791f9ef70a2921243ab6c18"
+    },
+    {
+      "path": "external_review/proposed_corrections.md",
+      "sha256": "f9cd0a10a1603229e521d6bf2c75d9b42bb530e2b3fd4bce6a9c1493d375b757"
+    },
+    {
+      "path": "external_review/literature.json",
+      "sha256": "e3c638d8783519dea3f305e528ea5f20f24ddf946a9cdf8fe3f947ccdc0ad761"
+    },
+    {
+      "path": "external_review/root_chain_internal_snapshot.json",
+      "sha256": "4c8d212f3d9d578022a20ab5bc469c36c261106037307568c2af5dc17bc42370"
+    },
+    {
+      "path": "external_review/04_surviving_results.md",
+      "sha256": "f6b889f5b84b9e0f682a1ea2d3ebe78b17f272fd2a7c70932cb8a03f45122e59"
+    },
+    {
+      "path": "external_review/test_audit.json",
+      "sha256": "b2250c8749ad932e327a87b12876476747e7a940fba2cb5398f7923ce94b6536"
+    },
+    {
+      "path": "external_review/independent_checks.py",
+      "sha256": "91425b2802d66dc5b79f512a04034a2cc05041e79b677a35e146f12e2abdbd63"
+    },
+    {
+      "path": "external_review/core_claim_review.json",
+      "sha256": "9d27d0610ec86cbb584c1962145e57da22875c5e9ac5d879b0cc2a29ae018539"
+    },
+    {
+      "path": "external_review/review_summary.json",
+      "sha256": "047a2b35b21341be8792d799567813ef21fa97ac96c811985c5641d5d3faae00"
+    },
+    {
+      "path": "external_review/source_reading_log.md",
+      "sha256": "a88d7550034a785d26d92e40c1e467bc3373156c019483cfaf24f32f846c146d"
+    },
+    {
+      "path": "external_review/final_check.py",
+      "sha256": "50fb42eecc5a3a38a620a0309bbe87c51bba98dcb30388d80bc5298b42ba26dd"
+    },
+    {
+      "path": "external_review/review_tools.py",
+      "sha256": "9b7e6dc5d44e9add9c3a56882745eb4bc48d225895f60f3b5c96b5b2303811ff"
+    },
+    {
+      "path": "external_review/traceability.csv",
+      "sha256": "d862185fe1fd44dfa35618ed1aaf874b01741772741eedd01c84f44b143efecc"
+    },
+    {
+      "path": "external_review/key_source_passages.md",
+      "sha256": "92e30133fa3eb5a4f013dcda807cadb999734580a23976f66bd97790ab892235"
+    },
+    {
+      "path": "analysis/data/productive_formulas.json",
+      "sha256": "4593d8fad61e1d5cbc5c72accff1b948fad84ed208af61cc5a5e89bcb9ac29ba"
+    },
+    {
+      "path": "analysis/data/productive_mechanisms.json",
+      "sha256": "07e5d5e3b8e4b86049b9346dca2e2dcb0d1f78d325a34a2f5f703fef9865e17a"
+    },
+    {
+      "path": "analysis/data/literature_map.json",
+      "sha256": "40879d410a53f6488775cd62dbe4da807d8fcd8c7857e72641803b288ca416e3"
+    },
+    {
+      "path": "analysis/data/page_coverage.json",
+      "sha256": "0a3083ba80fb1415125665cc8ef1c8a6c9c21cb99f7961aa9aa36738dd025e96"
+    },
+    {
+      "path": "analysis/data/productive_invariant_snapshot.json",
+      "sha256": "e22240308433aa4426713938fe76c1f10614bce6a9445d80268c11d7c97c1b82"
+    },
+    {
+      "path": "analysis/data/concepts.json",
+      "sha256": "5eea2782a4d9b991d0bc4bef7b156c43560fc1263f57a25107136ba2de954735"
+    },
+    {
+      "path": "analysis/data/aggregation_mechanisms.json",
+      "sha256": "93cbf73186cd776a43c4c0aaf259d086280fb9f0a9daa9245c01616988c9473f"
+    },
+    {
+      "path": "analysis/data/core_reviews.json",
+      "sha256": "a945e50dccb5f4a904bb258c07a349807c767011b7dc99a27a658431c1fcab59"
+    },
+    {
+      "path": "analysis/data/research_chapters.json",
+      "sha256": "cf38472c49e2e4c19b9157c6eaf98e8182bdc0cfd97203fe7626851b4262dc6c"
+    },
+    {
+      "path": "analysis/data/money_compensation_scenarios.json",
+      "sha256": "d01a0cddedef14eb6fc5982cfa84bf95fdfc54fe89876ac52497f32d6dd0bdb3"
+    },
+    {
+      "path": "analysis/data/money_graph_revision_log.json",
+      "sha256": "99aadbdddd1cdb4077f2768970e74d595dc18d49136a20aa0deecefb31098670"
+    },
+    {
+      "path": "analysis/data/terminal_review_issues.json",
+      "sha256": "bb9a7301e0bfff2f437353b0c85c94583658cebed84a3ad8d617b29775b19383"
+    },
+    {
+      "path": "analysis/data/root_question.json",
+      "sha256": "5523b2c3d06765504f8f93a6e3cff4638eb577d1d1f9c300c20de50572162895"
+    },
+    {
+      "path": "analysis/data/money_review_summary.json",
+      "sha256": "a8b44b6a52c92c45d35eb3d28de54c1f203a1269db06a292850d711655513758"
+    },
+    {
+      "path": "analysis/data/argument_graph.json",
+      "sha256": "cb85c49d56f8564bc3757ed3cfd10d6b00f4f31b8438ef35d37c1986e0e3cb98"
+    },
+    {
+      "path": "analysis/data/productive_search_audit.json",
+      "sha256": "d43ade342c3823f601c2406b75d99394f50678292fa85db1b1caeb56f00b32e3"
+    },
+    {
+      "path": "analysis/data/money_claim_revision_log.json",
+      "sha256": "fc416b7702e19f82aeba4e706527161ddfe66bfd16f6d79cd4ca981f8ab33bff"
+    },
+    {
+      "path": "analysis/data/productive_review_summary.json",
+      "sha256": "1c0a925c73b6885321d713bee0136f0008451ec48ed8c06f3e701af38412aa3b"
+    },
+    {
+      "path": "analysis/data/energy_empirical_claim_map.json",
+      "sha256": "4e0e82d28ecd8dac7e98c3d7d017fbf918f40fce365ec2691cb6944bdb5f2c4e"
+    },
+    {
+      "path": "analysis/data/phase2_progress.json",
+      "sha256": "3abd478e71469c9f6c833968fc6ba35d36478835d938729a9d1a8989378b4e6e"
+    },
+    {
+      "path": "analysis/data/agent_transfers.json",
+      "sha256": "9466ad896b8f3c47aaa2521de2ed6a9031f1c00211767999a59aac3b7f188549"
+    },
+    {
+      "path": "analysis/data/iteration1_change_log.json",
+      "sha256": "d93729d0324572d178869694581c8f5d127db89415cc5c5d38cb871485626bf6"
+    },
+    {
+      "path": "analysis/data/research_questions.json",
+      "sha256": "bcf9c1ecacc2db0d126ffd68804c3a64d9cb3272ee53c5cc53eb4091885356d4"
+    },
+    {
+      "path": "analysis/data/energy_review_revision_log.json",
+      "sha256": "98e262afaae64bbb5c5c9a12f4075cb6e6462f4cdbefc4598071e74dd7c0b31b"
+    },
+    {
+      "path": "analysis/data/environmental_chain.json",
+      "sha256": "ec0b406bd5acf1117bbdc1c2a6886396f1ed07f01ef062b6cc8d4bb44e9976e5"
+    },
+    {
+      "path": "analysis/data/productive_claim_revision_log.json",
+      "sha256": "762efce92ef66071203cff4e3b164d2d7d24dcba457d048880fa925adb556207"
+    },
+    {
+      "path": "analysis/data/terminal_regression_rules.json",
+      "sha256": "f5fa91f8dd21b7318c5b0b273bee20a461bf1f4b841a4f6ed6d0d22b1ba9c49a"
+    },
+    {
+      "path": "analysis/data/core_claims.json",
+      "sha256": "cbc6ef7bac77b136e5eea66f5436af2030788ab931c91d42671da471a6f2735b"
+    },
+    {
+      "path": "analysis/data/money_search_audit.json",
+      "sha256": "99055fff3099bf1098f15b3142c18e26b1e6f5ac4e5c79b75670848727b0eebc"
+    },
+    {
+      "path": "analysis/data/productive_hypothesis_revision_log.json",
+      "sha256": "82175f55738091bac32c8b7b7ca672020d7339e9827eeb17e6e1b7834400d854"
+    },
+    {
+      "path": "analysis/data/open_reconstruction_issues.json",
+      "sha256": "2ab118f53b948f4ddd139ae1bf1720a527f6b408fda5e7de10a5274fd6b5da60"
+    },
+    {
+      "path": "analysis/data/regression_snapshot.json",
+      "sha256": "0873e3feeb416ff159a045f281017ac0b5d71f55eca5c539cc514e713cd68e63"
+    },
+    {
+      "path": "analysis/data/manuscript_structure.json",
+      "sha256": "08d826d3ac9974d101c50984ed0ece3b3e010e278711598095e12631474604d4"
+    },
+    {
+      "path": "analysis/data/claims.jsonl",
+      "sha256": "ec76de4663cea1c242df514a568284304eac10366478c247b8a16aa640e27ad0"
+    },
+    {
+      "path": "analysis/data/hypotheses.json",
+      "sha256": "971e32ee64ee78fc17a3955df7921ee68319d4b4e82ad5c076b64081ce16cd22"
+    },
+    {
+      "path": "analysis/data/productive_energy_map.json",
+      "sha256": "cdb57b13ae22a46d1d51aa896b380d3a0b8e17cafd3baaef49ac955d94e45e9a"
+    },
+    {
+      "path": "analysis/data/graph_audit.json",
+      "sha256": "7e8fc0a086798b39febb4ecf35c8a1a78eea40faebc4f680269696a5b11b84d1"
+    },
+    {
+      "path": "analysis/data/terminal_review_summary.json",
+      "sha256": "3f60ec950a3c5af2c674edd1417ebd363fb5640fb50c055d07f8fa73df806443"
+    },
+    {
+      "path": "analysis/data/money_literature_revision_log.json",
+      "sha256": "72213b121cccdcc892cac142c1519da2a2fafe5cbc814428183681d178ea90cc"
+    },
+    {
+      "path": "analysis/data/money_visual_checks.json",
+      "sha256": "55398b0e218834d2d185ff2e49a49105344e99eb817f3a1a691633a3d1f0d4c2"
+    },
+    {
+      "path": "analysis/data/semantic_invariants.json",
+      "sha256": "099d43b0817bafbaf57e1212bf7f9bf0447ca6a53d30cc878509ecebccc57837"
+    },
+    {
+      "path": "analysis/data/claim_chapter_matrix.csv",
+      "sha256": "68861e7bd067c91baf435cdb4cb3785dd7ebab474636c6d84312bd5ba2d9b7eb"
+    },
+    {
+      "path": "tests/corpus/test_micro_review.py",
+      "sha256": "f5a9696f9f2f169e639afeecd8822f1c3a2cb73f028024f610135cc8575248fd"
+    },
+    {
+      "path": "tests/corpus/test_global_corpus_pass.py",
+      "sha256": "1741750ba83ecb83356be18563af13883f8c2ce4c102ce2378131ce37f8aeeae"
+    },
+    {
+      "path": "tests/corpus/test_metrology.py",
+      "sha256": "cd74352821db09a9531caca387820d8f0bead531e777114cb1a6f9c57406616a"
+    },
+    {
+      "path": "tests/corpus/test_fourth_pass.py",
+      "sha256": "25fdd59e43812a1f6a587d865f214e4896c57c595f79afcfac51e6d1cc419586"
+    },
+    {
+      "path": "tests/corpus/test_synthesis.py",
+      "sha256": "34c0b732e7f0aea7c349410da87dcb0e010f30676750cd9dd0f256352bfbb483"
+    },
+    {
+      "path": "tests/corpus/test_research_questions.py",
+      "sha256": "25ccd92ade0d46d9baa0090f7ffdcf98e91d7f4daebf0c597792126b1c4222b7"
+    },
+    {
+      "path": "tests/corpus/test_second_question_pass.py",
+      "sha256": "aa804040d8ad2b316d3721d5b079fe830969e827a9f252ac3138ef0b81a191b3"
+    },
+    {
+      "path": "tests/corpus/test_phase2.py",
+      "sha256": "e041bc2987c4a06bab794703e3209cda3b1445d5b01a86c6e6b874057032a980"
+    },
+    {
+      "path": "tests/corpus/test_terminal_review.py",
+      "sha256": "d49e9ab6a328ce5f76220ad9205d3d8ec895943d9b85a553143d4a6bbbf19e3d"
+    },
+    {
+      "path": "tests/corpus/test_money_review.py",
+      "sha256": "eb3defa0832f29fe6f2171d81eef19dfe2432e49c742c556fc642b5c5f651b5a"
+    },
+    {
+      "path": "tests/corpus/test_productive_review.py",
+      "sha256": "407e52ed50d0a0d23dd0415b4929eba08998970b8933aa314a05d244dc7ed860"
+    },
+    {
+      "path": "tests/corpus/test_contribution.py",
+      "sha256": "7be084d1d23a2fc2e859c82b8c2354b0901e219ce65a2f413661c3eb018e4be2"
+    },
+    {
+      "path": "verify.sh",
+      "sha256": "f5291f9afedc4915e4e6a7cf15d811f16697e16436ed14f1e58c9f296450dc56"
+    },
+    {
+      "path": "analysis/verify_synthesis.py",
+      "sha256": "70e93371fc5564c4990024c4472cb7d16f7973f8cd0bdb0509ac57cf4bd7685e"
+    }
+  ],
+  "verify_exit": 0,
+  "tests": {
+    "tests_run": 120,
+    "passed": 120,
+    "failed": 0,
+    "errors": 0,
+    "skipped": 0,
+    "passed_tests": [
+      "test_contribution.ContributionTests.test_conceptual_difference_not_empirical_prediction",
+      "test_contribution.ContributionTests.test_core_complete_and_original_source_preserved",
+      "test_contribution.ContributionTests.test_matrix_and_scenario_crosswalk",
+      "test_contribution.ContributionTests.test_originality_needs_historical_evidence",
+      "test_contribution.ContributionTests.test_question_scope_and_partial_sources",
+      "test_contribution.ContributionTests.test_terminology_not_substantive_automatically",
+      "test_fourth_pass.FourthPassTests.test_K_composition_conditions",
+      "test_fourth_pass.FourthPassTests.test_K_normalization_covariant",
+      "test_fourth_pass.FourthPassTests.test_T_models_no_independent_measurement",
+      "test_fourth_pass.FourthPassTests.test_protocols_frozen_before_execution",
+      "test_fourth_pass.FourthPassTests.test_ratio_requirements_and_negative_control",
+      "test_fourth_pass.FourthPassTests.test_result_snapshots",
+      "test_fourth_pass.FourthPassTests.test_scoped_evidence_and_preserved_claims",
+      "test_fourth_pass.FourthPassTests.test_utility_covariance_not_just_ordinals",
+      "test_global_corpus_pass.GlobalCorpusPassTests.test_562_rows_are_not_562_read_pages",
+      "test_global_corpus_pass.GlobalCorpusPassTests.test_all_core_major_have_records_but_pending_is_honest",
+      "test_global_corpus_pass.GlobalCorpusPassTests.test_complete_review_and_all_formula_occurrences_are_linked",
+      "test_global_corpus_pass.GlobalCorpusPassTests.test_coverage_is_monotonic_and_has_notes",
+      "test_global_corpus_pass.GlobalCorpusPassTests.test_false_complete_certificate_fails",
+      "test_global_corpus_pass.GlobalCorpusPassTests.test_formal_diagnostics_reproduce_and_keep_scope",
+      "test_global_corpus_pass.GlobalCorpusPassTests.test_important_page_needs_question",
+      "test_global_corpus_pass.GlobalCorpusPassTests.test_internal_exceptions_cannot_silently_disappear",
+      "test_global_corpus_pass.GlobalCorpusPassTests.test_missing_or_duplicate_page_fails",
+      "test_global_corpus_pass.GlobalCorpusPassTests.test_new_formula_fragments_are_source_text_not_invented_latex",
+      "test_global_corpus_pass.GlobalCorpusPassTests.test_qualifications_and_full_review_history_preserved",
+      "test_global_corpus_pass.GlobalCorpusPassTests.test_source_and_history_preserved",
+      "test_metrology.MetrologyTests.test_coverage_snapshot_and_no_new_claims",
+      "test_metrology.MetrologyTests.test_experiment_variables_levels_and_execution",
+      "test_metrology.MetrologyTests.test_formal_results_reproduced_not_law_evidence",
+      "test_metrology.MetrologyTests.test_low_maturity_cannot_be_observed",
+      "test_metrology.MetrologyTests.test_proxy_must_remain_explicit",
+      "test_metrology.MetrologyTests.test_ten_question_links_and_history_preserved",
+      "test_metrology.MetrologyTests.test_utility_admission_exact_on_page",
+      "test_metrology.MetrologyTests.test_variable_schema_and_maturity",
+      "test_micro_review.MicroReviewTests.test_budget_gain_is_not_surplus_or_Money",
+      "test_micro_review.MicroReviewTests.test_conditional_predictions_preserved",
+      "test_micro_review.MicroReviewTests.test_dimensions_and_non_equivalence",
+      "test_micro_review.MicroReviewTests.test_raw_integrity_design_and_numerical_snapshot",
+      "test_micro_review.MicroReviewTests.test_sample_breaks_and_causal_limits",
+      "test_micro_review.MicroReviewTests.test_screening_is_not_identified_pass_through",
+      "test_micro_review.MicroReviewTests.test_two_product_consistent_normalization",
+      "test_micro_review.MicroReviewTests.test_utility_scale_and_composition_conditions",
+      "test_money_review.MoneyReview.test_conditional_algebra_not_empirical_validation",
+      "test_money_review.MoneyReview.test_definition_not_automatic_external_mapping",
+      "test_money_review.MoneyReview.test_finding_and_claim_change_history",
+      "test_money_review.MoneyReview.test_no_identity_to_general_neutrality_shortcut",
+      "test_money_review.MoneyReview.test_scenario_inventory_locked",
+      "test_money_review.MoneyReview.test_scenario_provenance_and_levels",
+      "test_money_review.MoneyReview.test_visual_and_textual_discrepancies_not_erased",
+      "test_phase2.Reconstruction.test_01_source_hashes",
+      "test_phase2.Reconstruction.test_02_pages_unique_complete_nonempty",
+      "test_phase2.Reconstruction.test_03_root_cross_page_and_associated_sentence",
+      "test_phase2.Reconstruction.test_04_claim_schemas_and_ids",
+      "test_phase2.Reconstruction.test_05_all_claim_quotations",
+      "test_phase2.Reconstruction.test_06_dependencies_and_derived",
+      "test_phase2.Reconstruction.test_07_concept_references",
+      "test_phase2.Reconstruction.test_08_all_current_claims_and_core_classified",
+      "test_phase2.Reconstruction.test_09_semantic_invariants_retained",
+      "test_phase2.Reconstruction.test_10_open_issues_retained",
+      "test_phase2.Reconstruction.test_11_graph_endpoints_and_acyclic_dependencies",
+      "test_phase2.Reconstruction.test_12_coverage_and_note_evidence",
+      "test_phase2.Reconstruction.test_13_golden_sources",
+      "test_phase2.Reconstruction.test_14_wrong_passage_fails_retrieval",
+      "test_phase2.Reconstruction.test_15_index_source_fidelity",
+      "test_phase2.Reconstruction.test_16_benchmark_current_and_nonregressing",
+      "test_phase2.Reconstruction.test_17_no_unsupported_empirical_validation",
+      "test_phase2.Reconstruction.test_18_chapters_root_and_questions",
+      "test_phase2.Reconstruction.test_19_schema_rejects_missing_source_and_bad_type",
+      "test_phase2.Reconstruction.test_20_retrieval_determinism",
+      "test_phase2.Reconstruction.test_21_phase2_exit_criteria",
+      "test_phase2.Reconstruction.test_22_core_reviews_and_literature_links",
+      "test_phase2.Reconstruction.test_23_secondary_pdfs_indexed_and_french_improved",
+      "test_phase2.Reconstruction.test_24_empirical_results_reproduced_and_inputs_intact",
+      "test_phase2.Reconstruction.test_25_five_substantive_chapter_files",
+      "test_productive_review.ProductiveReview.test_01_mechanisms_sources_conditions",
+      "test_productive_review.ProductiveReview.test_02_work_level_not_increment",
+      "test_productive_review.ProductiveReview.test_03_transmission_not_automatic",
+      "test_productive_review.ProductiveReview.test_04_formulas_epistemic_separation",
+      "test_productive_review.ProductiveReview.test_05_productive_calculations_reproduced",
+      "test_productive_review.ProductiveReview.test_06_data_not_identifying_causality",
+      "test_productive_review.ProductiveReview.test_07_chapters_and_claim_links",
+      "test_productive_review.ProductiveReview.test_08_monetray_and_new_rules_retained",
+      "test_research_questions.QuestionTreeTests.test_dossiers_source_interpretation_status",
+      "test_research_questions.QuestionTreeTests.test_history_and_legacy_namespaces_preserved",
+      "test_research_questions.QuestionTreeTests.test_matrix_matches_graph_and_evidence",
+      "test_research_questions.QuestionTreeTests.test_rejects_missing_parent_and_duplicate_id",
+      "test_research_questions.QuestionTreeTests.test_rejects_nonexistent_and_cyclic_dependency",
+      "test_research_questions.QuestionTreeTests.test_resolution_and_contradiction_require_evidence",
+      "test_research_questions.QuestionTreeTests.test_root_exact_and_open_not_failure",
+      "test_research_questions.QuestionTreeTests.test_tree_structure_dependencies_and_core_coverage",
+      "test_second_question_pass.SecondQuestionPassTests.test_confidence_literature_and_status_history",
+      "test_second_question_pass.SecondQuestionPassTests.test_coverage_and_claims_not_inflated",
+      "test_second_question_pass.SecondQuestionPassTests.test_formal_snapshot_and_three_product_weights",
+      "test_second_question_pass.SecondQuestionPassTests.test_money_ledger_retains_all_original_conditions",
+      "test_second_question_pass.SecondQuestionPassTests.test_potential_and_metric_conditions",
+      "test_second_question_pass.SecondQuestionPassTests.test_source_fidelity_and_explicit_counterevidence",
+      "test_second_question_pass.SecondQuestionPassTests.test_ten_dossiers_and_last_discrimination",
+      "test_second_question_pass.SecondQuestionPassTests.test_utility_nonadditive_is_a_source_distinction",
+      "test_synthesis.SynthesisTests.test_claim_quote_cannot_change_silently",
+      "test_synthesis.SynthesisTests.test_global_qualification_cannot_disappear",
+      "test_synthesis.SynthesisTests.test_internal_external_distinctive_all_required",
+      "test_synthesis.SynthesisTests.test_missing_core_fails",
+      "test_synthesis.SynthesisTests.test_missing_question_fails",
+      "test_synthesis.SynthesisTests.test_no_candidate_without_literature",
+      "test_synthesis.SynthesisTests.test_no_global_validation_certificate",
+      "test_synthesis.SynthesisTests.test_no_novelty_without_evidence",
+      "test_synthesis.SynthesisTests.test_no_silent_question_promotion",
+      "test_synthesis.SynthesisTests.test_open_questions_do_not_fail",
+      "test_synthesis.SynthesisTests.test_result_without_provenance_fails",
+      "test_synthesis.SynthesisTests.test_root_locator_preserves_two_pages",
+      "test_synthesis.SynthesisTests.test_source_and_interpretation_not_interchangeable",
+      "test_synthesis.SynthesisTests.test_synthesis_current_inputs_and_coverage",
+      "test_terminal_review.TerminalReview.test_01_energy_and_audit_source_integrity",
+      "test_terminal_review.TerminalReview.test_02_energy_not_constructed_from_gdp",
+      "test_terminal_review.TerminalReview.test_03_empirical_results_numerically_reproduced",
+      "test_terminal_review.TerminalReview.test_04_exactly_three_noncausal_experiments",
+      "test_terminal_review.TerminalReview.test_05_aggregation_keeps_all_conditions",
+      "test_terminal_review.TerminalReview.test_06_physical_economic_and_actor_distinctions",
+      "test_terminal_review.TerminalReview.test_07_environment_source_interpretation_separated",
+      "test_terminal_review.TerminalReview.test_08_history_chapters_and_references"
+    ],
+    "failures": [],
+    "status": "PASS",
+    "coverage": {
+      "examined": 447,
+      "total": 562
+    },
+    "warnings": [
+      "COVERAGE_IN_PROGRESS",
+      "LITERATURE_PARTIAL",
+      "CHAPTERS_IN_PROGRESS",
+      "HYPOTHESES_NOT_ALL_TESTED"
+    ]
+  },
+  "corrections": [
+    {
+      "target": "final_synthesis.md: author/reviewer scope",
+      "current_wording_status": "La reconstruction conditionnelle atténue des généralisations explicites.",
+      "review_finding": "ER-001",
+      "proposed_wording_status": "Séparer AUTHOR_CLAIMED_GENERALITY et REVIEWER_SUPPORTED_SCOPE; conserver les tensions sectorielles et normatives.",
+      "reason": "Le manuscrit affirme une dégradation systématique, des limites générales à la croissance et des jugements sectoriels/politiques. Les exemples de services productifs p159/271 empêchent une exclusion sectorielle simple, sans effacer p534."
+    },
+    {
+      "target": "GDP=K W; SYN-11",
+      "current_wording_status": "Le raccord comptable au PIB précède et dépasse le problème de stabilité de K.",
+      "review_finding": "ER-002",
+      "proposed_wording_status": "Définir flux par période, frontière nette, réemploi des paiements et prix nominal/réel avant de tester K. Ne pas attribuer au corpus un double compte inévitable.",
+      "reason": "P559 identifie PIB et Money dépensé; gain de pouvoir d’achat, prix total et valeur ajoutée ne sont pas automatiquement la même grandeur. Le contre-exemple brut 100+150=250 contre VA=150 est conditionnel: p205 exige précisément la valeur ajoutée, ce qui peut éviter ce double compte."
+    },
+    {
+      "target": "Money: référent, signe et origine",
+      "current_wording_status": "Une variable unique mélange solde, gain, potentiel et transfert orienté.",
+      "review_finding": "ER-003",
+      "proposed_wording_status": "Introduire un dictionnaire explicite M_solde, deltaM_gain, M_cinétique et transfert orienté, comme reconstruction du reviewer, non correction silencieuse du manuscrit.",
+      "reason": "M=nu, gain budgétaire p204, primitive négative p207 et somme cinétique/potentielle p467 ne partagent pas nécessairement origine et référent. Le cas numérique 1 contre −1 ne constitue une incompatibilité que si on impose ces référents identiques."
+    },
+    {
+      "target": "Core Law: dérivation et inversion",
+      "current_wording_status": "Les limites invoquées ne justifient pas la dérivée; une inversion imprimée est incorrecte.",
+      "review_finding": "ER-004",
+      "proposed_wording_status": "Distinguer loi proposée, dérivation non établie et erreur algébrique locale; préserver le modèle postulé sous conditions.",
+      "reason": "U/ΔF à U fixe ne tend pas vers dU/dF. Pour Fp=rU, F=rU/p, non (p/r)U. Inspection visuelle p303 confirme la disposition. P301 autorise une hypothèse simplificatrice: la relation peut être postulée, pas ainsi démontrée."
+    },
+    {
+      "target": "SYN-07: moyenne puis carré",
+      "current_wording_status": "Le test de moyenne pondérée de K ne couvre pas le passage de moyenne des vitesses au carré.",
+      "review_finding": "ER-005",
+      "proposed_wording_status": "Ajouter une condition sur la dispersion ou conserver les seconds moments. Un K ajusté peut absorber ce terme sans devenir structurellement constant.",
+      "reason": "Avec cp=2, les vitesses 1 et 3 donnent moyenne de T=5, contre 4 pour le carré de la moyenne; 2 et 2 donnent 4 avec la même moyenne. Le terme de variance disparaît dans la substitution."
+    },
+    {
+      "target": "VAR-16 energy",
+      "current_wording_status": "DIRECTLY_OBSERVABLE est trop fort pour la série primaire par substitution.",
+      "review_finding": "ER-006",
+      "proposed_wording_status": "Conserver L5 pour les données reproductibles; classer la quantité harmonisée DERIVABLE_FROM_OBSERVABLES avec hypothèses et méthode.",
+      "reason": "La série indépendante du PIB utilise des conventions de conversion de l’électricité non fossile. Son acquisition est épinglée à une version; la reproductibilité L5 peut être conservée, pas le caractère directement mesuré de toute la grandeur."
+    },
+    {
+      "target": "Variables: Utility, dommage, coût",
+      "current_wording_status": "Le niveau du concept cible est parfois confondu avec celui d’un proxy candidat.",
+      "review_finding": "ER-007",
+      "proposed_wording_status": "Séparer maturité du concept, disponibilité des données et validité de correspondance. Utility/dommage cibles restent L1 tant que cette correspondance manque; proxies candidats L2.",
+      "reason": "Qualité technique ou classement ordinal ne mesurent pas les ratios de Utility; énergie et matières sont des pressions, pas une fonction de dommage. Inversement un coût comptable peut avoir une procédure L3 même si le proxy sectoriel retenu est L2."
+    },
+    {
+      "target": "Traceabilité sémantique et verify_synthesis",
+      "current_wording_status": "Existence de source et contrôle de structure ne vérifient pas son implication.",
+      "review_finding": "ER-008",
+      "proposed_wording_status": "Ajouter passages précis et rôle de chaque preuve; conserver revue humaine et cas négatifs. Ne pas compter les PASS comme confirmations économiques.",
+      "reason": "Deux mutations uniquement en mémoire sont acceptées: causalité monétaire générale erronée, puis README.md comme source existante sans rapport. Cela démontre une limite du validateur, pas que toutes les conclusions actuelles sont erronées."
+    },
+    {
+      "target": "CPC-0016: EMPIRICALLY_COMPATIBLE",
+      "current_wording_status": "La compatibilité du voisinage empirique est attribuée au claim complet.",
+      "review_finding": "ER-009",
+      "proposed_wording_status": "NOT_IDENTIFIED pour la chaîne complète; compatibilité descriptive seulement pour sous-relations identifiées et non discriminantes.",
+      "reason": "Les associations énergie/PIB et le cas coût/prix ne mesurent pas indépendamment Work→u→Money. Le texte prudent ne suffit pas à corriger la portée de l’étiquette machine."
+    },
+    {
+      "target": "+78%: portée revendiquée",
+      "current_wording_status": "Le résultat arithmétique limité ne restitue pas à lui seul la généralité revendiquée.",
+      "review_finding": "ER-010",
+      "proposed_wording_status": "Conserver ARITHMETICALLY_REPRODUCED et ASSUMPTION_DEPENDENT, en citant aussi la revendication universelle et son absence de test indépendant.",
+      "reason": "P32 généralise aux Products et aux lieux/époques, avec prémisses d’homogénéité. (8/6)^2−1 est reproductible; cette opération n’établit ni homogénéité interproduits ni énergie économique indépendante."
+    },
+    {
+      "target": "Citations CORE tronquées",
+      "current_wording_status": "Les citations isolées omettent une partie du contraste nécessaire.",
+      "review_finding": "ER-011",
+      "proposed_wording_status": "Étendre les extraits associés sans changer les IDs ni le sens du claim.",
+      "reason": "Le voisinage p35 ajoute Cash au Product; p185 précise le référent des actifs et de Money. Les citations ne sont pas inventées, mais leur contexte fait partie de la preuve."
+    }
+  ],
+  "core_before": [
+    {
+      "id": "CPC-0001",
+      "statement": "Comprendre le passage de la subsistance à l’abondance et les dommages environnementaux associés à la hausse du niveau de vie.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 2,
+        "pages": [
+          2,
+          3
+        ],
+        "quotation": "The key question is therefore to understand how the increase in living standards has led to these environmental damages, or how we have moved from a subsistence society to an affluent society.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Question de recherche, non proposition causale déjà démontrée; objet et périmètre de l'étude.",
+      "status": [
+        "NOT_IDENTIFIED"
+      ],
+      "global_review_status": "SOURCE_EXTENDED",
+      "global_qualification": "La question de p3 demeure racine; p29 restreint le préambule, pas tout le manuscrit. Les liens environnementaux existent p72/454/460.",
+      "formal_support": "Pas de théorème tiré de la seule formulation.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "CBIB-05",
+        "BIB-0004"
+      ],
+      "literature_support": "living standards, environmental accounts; Programme transversal utile, pas nouvelle variable ou réponse causale par la question seule",
+      "objections": "La question de p3 demeure racine; p29 restreint le préambule, pas tout le manuscrit. Les liens environnementaux existent p72/454/460. Not established independently of definitions/calibration",
+      "confidence": "MEDIUM",
+      "questions": [
+        "RQ-01",
+        "RQ-01.01",
+        "RQ-01.02",
+        "RQ-11",
+        "RQ-11.01",
+        "RQ-12",
+        "RQ-12.02",
+        "RQ-12.03"
+      ],
+      "internal_coherence": "Pas de théorème tiré de la seule formulation.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0003",
+      "statement": "L’étude compare la transformation du travail en monnaie à celle de la chaleur en travail, en les distinguant.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 2,
+        "pages": [
+          2
+        ],
+        "quotation": "similar, but not identical, to the energy transformations of heat into work.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Distinguer puis relier les formalismes physique et économique.",
+      "status": [
+        "ASSUMPTION_DEPENDENT",
+        "NOT_IDENTIFIED"
+      ],
+      "global_review_status": "QUALIFIED",
+      "global_qualification": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique.",
+      "formal_support": "Ressemblance de forme ne mesure pas une conversion.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "CBIB-02",
+        "BIB-0017"
+      ],
+      "literature_support": "useful work / energy-growth; physical analogy; Deux domaines distingués; équivalence économique demande plus que parallèle physique",
+      "objections": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique. Not established independently of definitions/calibration",
+      "confidence": "MEDIUM",
+      "questions": [
+        "RQ-01",
+        "RQ-01.01",
+        "RQ-09",
+        "RQ-09.02",
+        "RQ-12",
+        "RQ-12.01",
+        "RQ-12.03"
+      ],
+      "internal_coherence": "Ressemblance de forme ne mesure pas une conversion.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0005",
+      "statement": "Le manuscrit affirme que modifier seulement le nombre d’unités, sans Work productif, ne crée pas de richesse globale; il distingue cependant émission accompagnant une création, inertie et évolutions incohérentes.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 12,
+        "pages": [
+          12
+        ],
+        "quotation": "any variation in the number of monetary units can only derive from a human will and induces absolutely no overall change in the wealth of the system.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Restriction de création globale par changement nominal seul.",
+      "status": [
+        "ASSUMPTION_DEPENDENT",
+        "NOT_IDENTIFIED"
+      ],
+      "global_review_status": "QUALIFIED",
+      "global_qualification": "L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité.",
+      "formal_support": "M constant et absence de Work sont des conditions;32scénarios ne disparaissent pas.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "CBIB-01",
+        "BIB-0001"
+      ],
+      "literature_support": "nominal/real adjustment; bank credit; Nominal seul ne prouve pas gain réel; conditions de crédit et horizon non réductibles à identité",
+      "objections": "L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité. Not established independently of definitions/calibration",
+      "confidence": "MEDIUM",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02"
+      ],
+      "internal_coherence": "M constant et absence de Work sont des conditions;32scénarios ne disparaissent pas.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0009",
+      "statement": "Seul le travail engendre un changement.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 14,
+        "pages": [
+          14
+        ],
+        "quotation": "only work generates change, all other criteria are inoperative.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Principe d'exclusivité de la transformation productive.",
+      "status": [
+        "ASSUMPTION_DEPENDENT",
+        "NOT_IDENTIFIED"
+      ],
+      "global_review_status": "QUALIFIED",
+      "global_qualification": "Principe de création par transformation Utility, non exclusion de toute activité humaine/sociale. Technologie productive et rente coexistent; Core Laws admises comme hypothèses.",
+      "formal_support": "Peut devenir définitionnel sans grandeur de Work indépendante.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "BIB-0002"
+      ],
+      "literature_support": "causal production mechanisms / technical change; Exclusivité Work risque de devenir définitionnelle; distinguer changement technique, demande et institutions",
+      "objections": "Principe de création par transformation Utility, non exclusion de toute activité humaine/sociale. Technologie productive et rente coexistent; Core Laws admises comme hypothèses. Not established independently of definitions/calibration",
+      "confidence": "LOW",
+      "questions": [
+        "RQ-02",
+        "RQ-02.02",
+        "RQ-02.03",
+        "RQ-12",
+        "RQ-12.02"
+      ],
+      "internal_coherence": "Peut devenir définitionnel sans grandeur de Work indépendante.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "HISTORICAL_NOVELTY_UNRESOLVED; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0010",
+      "statement": "Money est défini comme le nombre d’unités multiplié par la valeur de l’unité.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 15,
+        "pages": [
+          15
+        ],
+        "quotation": "M=n.u",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Relier nombre d'unités et valeur unitaire dans une frontière.",
+      "status": [
+        "DEFINITIONAL"
+      ],
+      "global_review_status": "CONFIRMED",
+      "global_qualification": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+      "formal_support": "Identité et différentielle du produit, aucune neutralité autonome.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "CBIB-01",
+        "BIB-0008"
+      ],
+      "literature_support": "nominal balance times purchasing power per unit; Identité multiplicative; contenu de u et M doit être fixé avant équivalence à real balances",
+      "objections": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local. Not established independently of definitions/calibration",
+      "confidence": "HIGH",
+      "questions": [
+        "RQ-06",
+        "RQ-06.01"
+      ],
+      "internal_coherence": "Identité et différentielle du produit, aucune neutralité autonome.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "RECOMBINATION_OF_KNOWN_CONCEPTS; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0012",
+      "statement": "À Money global constant (hypothèse 1, possibilité 2), la variation de n est compensée inversement par u; l’attribution du crédit à cette branche et son extension finale sont des thèses distinctes.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 17,
+        "pages": [
+          17
+        ],
+        "quotation": "any variation in the number of monetary units automatically and inexorably generates the same inverse variation in the value of the unit, implying the impossibility of creating money.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Branche de compensation inverse et attribution monétaire distincte.",
+      "status": [
+        "FORMALLY_DERIVED",
+        "ASSUMPTION_DEPENDENT",
+        "NOT_IDENTIFIED"
+      ],
+      "global_review_status": "QUALIFIED",
+      "global_qualification": "L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité.",
+      "formal_support": "u=M/n à M fixe; mécanisme causal et délai non dérivés.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "CBIB-01",
+        "BIB-0001"
+      ],
+      "literature_support": "conditional quantity-price adjustment; Compensation inverse sous M constant est algébrique; attribution du crédit demeure proposition séparée",
+      "objections": "L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité. Not established independently of definitions/calibration",
+      "confidence": "HIGH",
+      "questions": [
+        "RQ-06",
+        "RQ-06.02"
+      ],
+      "internal_coherence": "u=M/n à M fixe; mécanisme causal et délai non dérivés.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "KNOWN_WITH_DIFFERENT_TERMINOLOGY; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0015",
+      "statement": "Money créé désigne le supplément détenu par le consommateur après une baisse de prix.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 19,
+        "pages": [
+          19
+        ],
+        "quotation": "The Money is what a consumer holds in addition after a price drop.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Nommer le supplément du consommateur dans un scénario de prix.",
+      "status": [
+        "DEFINITIONAL",
+        "NON_DISCRIMINATING",
+        "NOT_IDENTIFIED"
+      ],
+      "global_review_status": "QUALIFIED",
+      "global_qualification": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+      "formal_support": "Gain de panier calculable, pas surplus ou Money indépendamment mesuré.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "BIB-0008",
+        "CBIB-08",
+        "CBIB-10"
+      ],
+      "literature_support": "fixed-basket spending saving vs surplus; Budget restant connu; désigner cette quantité création de Money ne crée pas nouvelle observation",
+      "objections": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507. Not established independently of definitions/calibration",
+      "confidence": "MEDIUM",
+      "questions": [
+        "RQ-06",
+        "RQ-06.03",
+        "RQ-10",
+        "RQ-10.01"
+      ],
+      "internal_coherence": "Gain de panier calculable, pas surplus ou Money indépendamment mesuré.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "RECOMBINATION_OF_KNOWN_CONCEPTS; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0016",
+      "statement": "Le mécanisme productif proposé relie Work supplémentaire, productivité et baisse de prix à Money accru : u augmente à n constant (3a), ou n est ensuite ajusté pour stabiliser u (4a).",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 19,
+        "pages": [
+          19
+        ],
+        "quotation": "Additional work of the supplier ⇒ increased productivity ⇒ price decline ⇒ increase of monetary unit ⇒ creation of money ⇒ additional money of the consumer.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Chaîne centrale Work→coût/prix→supplément, émission éventuellement accompagnatrice.",
+      "status": [
+        "ASSUMPTION_DEPENDENT",
+        "EMPIRICALLY_COMPATIBLE",
+        "NON_DISCRIMINATING"
+      ],
+      "global_review_status": "QUALIFIED",
+      "global_qualification": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+      "formal_support": "Coût moindre et profit fixe impliquent prix moindre dans ce modèle local seulement.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Compatibilité indirecte non exclusive des mécanismes voisins.",
+      "literature": [
+        "CBIB-02",
+        "CBIB-06"
+      ],
+      "literature_support": "process innovation / pass-through / real income; Chaîne productive parallèle; bilans Work/Money additionnels et branches de compensation à préserver",
+      "objections": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507. Not established independently of definitions/calibration",
+      "confidence": "MEDIUM",
+      "questions": [
+        "RQ-06",
+        "RQ-06.03",
+        "RQ-10",
+        "RQ-10.01"
+      ],
+      "internal_coherence": "Coût moindre et profit fixe impliquent prix moindre dans ce modèle local seulement.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Compatibilité indirecte non exclusive des mécanismes voisins.",
+      "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0017",
+      "statement": "Une hausse de productivité exige nécessairement un travail supplémentaire assimilé ici à une énergie.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 19,
+        "pages": [
+          19
+        ],
+        "quotation": "this increase in productivity necessarily requires the execution of additional Work",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Condition énergétique supplémentaire revendiquée pour productivité.",
+      "status": [
+        "ASSUMPTION_DEPENDENT",
+        "NOT_IDENTIFIED"
+      ],
+      "global_review_status": "QUALIFIED",
+      "global_qualification": "Nécessité énergétique et récit historique sont affirmations du corpus, non résultats indépendamment mesurés; énergie utile, pertes et énergie sans création distinguent les branches. Macro extrapolations non démontrées.",
+      "formal_support": "Nécessité physique totale non déduite d'une relation de T définie par vitesse.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "BIB-0002",
+        "CBIB-02",
+        "CBIB-11"
+      ],
+      "literature_support": "productivity measurement / substitution of inputs; Nécessité de Work énergétique supplémentaire plus restrictive que simple gain de productivité; T sans mesure indépendante",
+      "objections": "Nécessité énergétique et récit historique sont affirmations du corpus, non résultats indépendamment mesurés; énergie utile, pertes et énergie sans création distinguent les branches. Macro extrapolations non démontrées. Not established independently of definitions/calibration",
+      "confidence": "LOW",
+      "questions": [
+        "RQ-04",
+        "RQ-04.01",
+        "RQ-09",
+        "RQ-09.01",
+        "RQ-09.02"
+      ],
+      "internal_coherence": "Nécessité physique totale non déduite d'une relation de T définie par vitesse.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "DISTINCT_FORMAL_RESTRICTION; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0022",
+      "statement": "L’auteur postule la transformation du travail supplémentaire du fournisseur en Money supplémentaire du consommateur.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 22,
+        "pages": [
+          22
+        ],
+        "quotation": "SUPPLEMENTARY WORK performed by the supplier is TRANSFORMED into SUPPLEMENTARY MONEY held by the consumer.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Postuler conversion du Work fournisseur en Money consommateur.",
+      "status": [
+        "ASSUMPTION_DEPENDENT",
+        "NOT_IDENTIFIED"
+      ],
+      "global_review_status": "QUALIFIED",
+      "global_qualification": "Principe de création par transformation Utility, non exclusion de toute activité humaine/sociale. Technologie productive et rente coexistent; Core Laws admises comme hypothèses.",
+      "formal_support": "Ce n'est pas identité standard de valeur ajoutée ou double entrée.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "CBIB-06",
+        "BIB-0003"
+      ],
+      "literature_support": "producer/consumer gain and surplus incidence; Conversion entre Work fournisseur et Money consommateur non identité comptable standard",
+      "objections": "Principe de création par transformation Utility, non exclusion de toute activité humaine/sociale. Technologie productive et rente coexistent; Core Laws admises comme hypothèses. Not established independently of definitions/calibration",
+      "confidence": "LOW",
+      "questions": [
+        "RQ-02",
+        "RQ-02.02",
+        "RQ-02.03"
+      ],
+      "internal_coherence": "Ce n'est pas identité standard de valeur ajoutée ou double entrée.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "DISTINCT_FORMAL_RESTRICTION; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0023",
+      "statement": "Dans un système isolé, la baisse du travail restant à faire compense la hausse de Money créé.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 22,
+        "pages": [
+          22
+        ],
+        "quotation": "the decrease (destruction) of the Work to be done is compensated by the increase (creation) of the Money generated and vice versa",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Bilan isolé de restant et création.",
+      "status": [
+        "ASSUMPTION_DEPENDENT",
+        "AMBIGUOUS",
+        "NOT_IDENTIFIED"
+      ],
+      "global_review_status": "QUALIFIED",
+      "global_qualification": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat.",
+      "formal_support": "Conventions/g et frontière fixées; compensation potentielle ne démontre pas causalité.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "BIB-0003",
+        "BIB-0017"
+      ],
+      "literature_support": "consolidated balances / conservation; Conservation dT+dM dans domaine isolé est restriction économique ajoutée, non double entrée standard",
+      "objections": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat. Not established independently of definitions/calibration",
+      "confidence": "MEDIUM",
+      "questions": [
+        "RQ-03",
+        "RQ-03.02",
+        "RQ-03.04"
+      ],
+      "internal_coherence": "Conventions/g et frontière fixées; compensation potentielle ne démontre pas causalité.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "DISTINCT_FORMAL_RESTRICTION; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0032",
+      "statement": "L’économie de travail augmente vers un maximum sous contraintes externes.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 31,
+        "pages": [
+          31
+        ],
+        "quotation": "the Economy of Work naturally always increases towards a maximum, limited by external constraints",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Principe d'économie de Work sous contraintes.",
+      "status": [
+        "ASSUMPTION_DEPENDENT",
+        "NON_DISCRIMINATING"
+      ],
+      "global_review_status": "QUALIFIED",
+      "global_qualification": "Maximisation sous contraintes; antagonisme par copie, non par heure. Conditions et échelles des diagrammes indispensables; équilibre social supplémentaire.",
+      "formal_support": "Objectif, domaine et maximum doivent être spécifiés.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "BIB-0002",
+        "BIB-0006"
+      ],
+      "literature_support": "constrained optimisation / efficiency; Existence de contraintes et recherche de gain connues; fonction objectif et domaine particuliers restent à définir",
+      "objections": "Maximisation sous contraintes; antagonisme par copie, non par heure. Conditions et échelles des diagrammes indispensables; équilibre social supplémentaire. Not established independently of definitions/calibration",
+      "confidence": "MEDIUM",
+      "questions": [
+        "RQ-04",
+        "RQ-04.04"
+      ],
+      "internal_coherence": "Objectif, domaine et maximum doivent être spécifiés.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0033",
+      "statement": "L’économie de Money augmente vers un maximum sous contraintes externes.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 31,
+        "pages": [
+          31
+        ],
+        "quotation": "the Economy of Money naturally always increases towards a maximum, limited by external constraints.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Principe d'économie de Money sous contraintes.",
+      "status": [
+        "ASSUMPTION_DEPENDENT",
+        "NON_DISCRIMINATING"
+      ],
+      "global_review_status": "QUALIFIED",
+      "global_qualification": "Maximisation sous contraintes; antagonisme par copie, non par heure. Conditions et échelles des diagrammes indispensables; équilibre social supplémentaire.",
+      "formal_support": "Ne se substitue pas à préférences et budget mesurés.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "CBIB-03",
+        "CBIB-08"
+      ],
+      "literature_support": "constrained consumer optimisation; Recherche de gain parallèle; Money différent de l’utilité maximisée ou du budget",
+      "objections": "Maximisation sous contraintes; antagonisme par copie, non par heure. Conditions et échelles des diagrammes indispensables; équilibre social supplémentaire. Not established independently of definitions/calibration",
+      "confidence": "MEDIUM",
+      "questions": [
+        "RQ-04",
+        "RQ-04.04"
+      ],
+      "internal_coherence": "Ne se substitue pas à préférences et budget mesurés.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0035",
+      "statement": "L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 32,
+        "pages": [
+          32
+        ],
+        "quotation": "The second hypothesis therefore requires more Work than the first (about 78% more).",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Exemple quantitatif d'accélération8h→6h.",
+      "status": [
+        "FORMALLY_DERIVED",
+        "ASSUMPTION_DEPENDENT",
+        "NOT_IDENTIFIED"
+      ],
+      "global_review_status": "CONFIRMED",
+      "global_qualification": "+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.",
+      "formal_support": "77.777...% reproduit à cp fixe et carré de la vitesse; aucune loi empirique certifiée.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "BIB-0017",
+        "BIB-0002"
+      ],
+      "literature_support": "quadratic speed-energy relation / process engineering; +78% conditionné à loi quadratique, cp et tâche fixes; pas règle générale de productivité",
+      "objections": "+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique. Not established independently of definitions/calibration",
+      "confidence": "HIGH",
+      "questions": [
+        "RQ-04",
+        "RQ-04.02"
+      ],
+      "internal_coherence": "77.777...% reproduit à cp fixe et carré de la vitesse; aucune loi empirique certifiée.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "DISTINCT_FORMAL_RESTRICTION; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0039",
+      "statement": "Economic Work et Money sont posés comme deux formes d’énergie économique.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 35,
+        "pages": [
+          35
+        ],
+        "quotation": "Economic Work and Money are logically considered two different forms of Economic Energy",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Nommer deux formes d'énergie économique.",
+      "status": [
+        "DEFINITIONAL",
+        "ASSUMPTION_DEPENDENT",
+        "NOT_IDENTIFIED"
+      ],
+      "global_review_status": "QUALIFIED",
+      "global_qualification": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique.",
+      "formal_support": "Déclaration de grandeurs distinctes, pas identité de joules et unités monétaires.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "CBIB-02",
+        "BIB-0003"
+      ],
+      "literature_support": "physical energy accounts vs economic values; Deux formes d’énergie économique proposées; elles ne sont ni unités physiques ni valeurs ajoutées par traduction",
+      "objections": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique. Not established independently of definitions/calibration",
+      "confidence": "MEDIUM",
+      "questions": [
+        "RQ-03",
+        "RQ-03.03",
+        "RQ-03.04",
+        "RQ-09",
+        "RQ-09.02"
+      ],
+      "internal_coherence": "Déclaration de grandeurs distinctes, pas identité de joules et unités monétaires.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "DISTINCT_FORMAL_RESTRICTION; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0040",
+      "statement": "Le modèle doit compter le travail à effectuer et non le travail déjà effectué.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 35,
+        "pages": [
+          35
+        ],
+        "quotation": "only the Work to be done must be taken into account and not the Work performed.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Fixer le référent du Work restant.",
+      "status": [
+        "DEFINITIONAL",
+        "AMBIGUOUS"
+      ],
+      "global_review_status": "QUALIFIED",
+      "global_qualification": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat.",
+      "formal_support": "État/réserve/transfert localement conciliables; usages accomplis et δ explicites ailleurs.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "BIB-0002",
+        "BIB-0003"
+      ],
+      "literature_support": "remaining task / inventories / state and flow accounting; Tâche restante plutôt qu’activité cumulée modifie le référent; bénéfice possible de séparation, pas nouveauté historique établie",
+      "objections": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat. Not established independently of definitions/calibration",
+      "confidence": "MEDIUM",
+      "questions": [
+        "RQ-03",
+        "RQ-03.01",
+        "RQ-03.02"
+      ],
+      "internal_coherence": "État/réserve/transfert localement conciliables; usages accomplis et δ explicites ailleurs.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "DISTINCT_DECOMPOSITION; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0041",
+      "statement": "Product supporte Work et Cash supporte Money.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 35,
+        "pages": [
+          35
+        ],
+        "quotation": "the Product as the vector-support of the economic Work,",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Séparer supports et caractéristiques.",
+      "status": [
+        "DEFINITIONAL"
+      ],
+      "global_review_status": "CONFIRMED",
+      "global_qualification": "Supports distingués de caractéristiques; conservation comptable d'un support ne prouve pas transformation productive.",
+      "formal_support": "Cohérence de typage; support conservé≠transformation productive établie.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "BIB-0003",
+        "BIB-0020"
+      ],
+      "literature_support": "goods/services and payment instruments; Couplage support/grandeur synthétique; pont Work/Money perdu si supports seuls remplacent toute construction",
+      "objections": "Supports distingués de caractéristiques; conservation comptable d'un support ne prouve pas transformation productive. Not established independently of definitions/calibration",
+      "confidence": "HIGH",
+      "questions": [
+        "RQ-03",
+        "RQ-03.01",
+        "RQ-06",
+        "RQ-06.01"
+      ],
+      "internal_coherence": "Cohérence de typage; support conservé≠transformation productive établie.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "RECOMBINATION_OF_KNOWN_CONCEPTS; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0043",
+      "statement": "Le principe d’équivalence est écrit M=g.T.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 36,
+        "pages": [
+          36
+        ],
+        "quotation": "M=g.T",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Coefficient de conversion g entre Work et Money.",
+      "status": [
+        "ASSUMPTION_DEPENDENT",
+        "NOT_IDENTIFIED"
+      ],
+      "global_review_status": "QUALIFIED",
+      "global_qualification": "Équivalence avec coefficient, g variable admis puis égalité recherchée/posée. K agrégé n'est pas garanti constant par nombre de produits; pas confusion g/r/K.",
+      "formal_support": "g constant est restriction; g=M/T recalculé serait résidu, pas test.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "BIB-0002",
+        "BIB-0015"
+      ],
+      "literature_support": "conversion coefficient / production mapping; g constant serait restriction; g=M/T recalculé serait ratio résiduel; aucun équivalent universel",
+      "objections": "Équivalence avec coefficient, g variable admis puis égalité recherchée/posée. K agrégé n'est pas garanti constant par nombre de produits; pas confusion g/r/K. Not established independently of definitions/calibration",
+      "confidence": "MEDIUM",
+      "questions": [
+        "RQ-03",
+        "RQ-03.03",
+        "RQ-03.04",
+        "RQ-08",
+        "RQ-08.02"
+      ],
+      "internal_coherence": "g constant est restriction; g=M/T recalculé serait résidu, pas test.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "DISTINCT_FORMAL_RESTRICTION; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0045",
+      "statement": "Le différentiel de Money est défini par dM=-F.dp.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 36,
+        "pages": [
+          36
+        ],
+        "quotation": "dM=−F.dp",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Différentielle reliant Money et variation de prix via Force.",
+      "status": [
+        "DEFINITIONAL",
+        "ASSUMPTION_DEPENDENT",
+        "AMBIGUOUS",
+        "NOT_IDENTIFIED"
+      ],
+      "global_review_status": "QUALIFIED",
+      "global_qualification": "dM=-Fdp sous Force et orientation définies; FA extérieur signé peut apparaître avec plus. Les normalisations locales/globales restent différentes.",
+      "formal_support": "Force interne/externe et signe explicités; ne pas remplacer F par quantité demandée sans preuve.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "CBIB-08",
+        "BIB-0008",
+        "CBIB-10"
+      ],
+      "literature_support": "marginal budget effect / expenditure derivative; Ressemble à −q dp seulement si Force est identifiée à demande compensée, ce qui n’est pas établi",
+      "objections": "dM=-Fdp sous Force et orientation définies; FA extérieur signé peut apparaître avec plus. Les normalisations locales/globales restent différentes. Not established independently of definitions/calibration",
+      "confidence": "MEDIUM",
+      "questions": [
+        "RQ-03",
+        "RQ-03.02"
+      ],
+      "internal_coherence": "Force interne/externe et signe explicités; ne pas remplacer F par quantité demandée sans preuve.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0046",
+      "statement": "Money est la valeur de Cash, lequel en est le support.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 184,
+        "pages": [
+          184
+        ],
+        "quotation": "Money as the value of Cash,",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Définir Money comme valeur du support Cash.",
+      "status": [
+        "DEFINITIONAL",
+        "NON_DISCRIMINATING"
+      ],
+      "global_review_status": "CONFIRMED",
+      "global_qualification": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+      "formal_support": "Comparaison nominal/réel partielle; pas équivalence avec dépôts bancaires.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "BIB-0001",
+        "BIB-0020",
+        "CBIB-01"
+      ],
+      "literature_support": "real balances and monetary instruments; Valeur/support se recoupe avec distinctions usuelles; définition de Money reste contextualisée",
+      "objections": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local. Not established independently of definitions/calibration",
+      "confidence": "HIGH",
+      "questions": [
+        "RQ-06",
+        "RQ-06.01"
+      ],
+      "internal_coherence": "Comparaison nominal/réel partielle; pas équivalence avec dépôts bancaires.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "RECOMBINATION_OF_KNOWN_CONCEPTS; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0048",
+      "statement": "Wealth désigne exclusivement la quantité de Money, sans inclure les actifs patrimoniaux.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 185,
+        "pages": [
+          185
+        ],
+        "quotation": "It never takes into account the assets that an economic agent",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Restreindre Wealth à Money hors patrimoine.",
+      "status": [
+        "DEFINITIONAL"
+      ],
+      "global_review_status": "SOURCE_EXTENDED",
+      "global_qualification": "Wealth monétaire exclut patrimoine sans nier richesse sociale; épargne comme potentiel et PIB final exigent horizon. Ne pas conclure que tout service exclu est inutile.",
+      "formal_support": "Périmètre explicite, pas mesure complète du niveau de vie.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "BIB-0003",
+        "CBIB-04",
+        "CBIB-05"
+      ],
+      "literature_support": "monetary resources vs total net worth; Restriction explicite au Money exclut patrimoine; nouveau périmètre de mot, pas diagnostic inédit du PIB",
+      "objections": "Wealth monétaire exclut patrimoine sans nier richesse sociale; épargne comme potentiel et PIB final exigent horizon. Ne pas conclure que tout service exclu est inutile. Not established independently of definitions/calibration",
+      "confidence": "HIGH",
+      "questions": [
+        "RQ-01",
+        "RQ-01.02",
+        "RQ-02",
+        "RQ-02.01",
+        "RQ-12",
+        "RQ-12.03"
+      ],
+      "internal_coherence": "Périmètre explicite, pas mesure complète du niveau de vie.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "DISTINCT_DECOMPOSITION; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0051",
+      "statement": "Labour désigne la tâche, constante pour un produit et une méthode de fabrication donnés.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 187,
+        "pages": [
+          187,
+          188
+        ],
+        "quotation": "labour (l) must be understood as the thing to be done, the task, the job to be done. It is constant for a given Product and manufacturing method.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Tâche constante pour Product et méthode donnés.",
+      "status": [
+        "DEFINITIONAL"
+      ],
+      "global_review_status": "QUALIFIED",
+      "global_qualification": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver.",
+      "formal_support": "Humain ou machine; pas synonyme d'heures salariées.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "BIB-0002",
+        "CBIB-11"
+      ],
+      "literature_support": "task input vs human hours; Même tâche peut être effectuée par machine: ne pas traduire labour automatiquement par travail salarié",
+      "objections": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver. Not established independently of definitions/calibration",
+      "confidence": "HIGH",
+      "questions": [
+        "RQ-03",
+        "RQ-03.01"
+      ],
+      "internal_coherence": "Humain ou machine; pas synonyme d'heures salariées.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0052",
+      "statement": "Pour une tâche constante, Work dépend de sa vitesse d’exécution.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 188,
+        "pages": [
+          188
+        ],
+        "quotation": "for a constant labour, the Work varies according to its speed of execution.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Relier Work à vitesse pour tâche fixée.",
+      "status": [
+        "FORMALLY_DERIVED",
+        "ASSUMPTION_DEPENDENT",
+        "NOT_IDENTIFIED"
+      ],
+      "global_review_status": "QUALIFIED",
+      "global_qualification": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver.",
+      "formal_support": "Primitive quadratique conditionnelle et cp fixe; terme supplémentaire si cp varie.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "BIB-0002",
+        "BIB-0017",
+        "CBIB-11"
+      ],
+      "literature_support": "process productivity and rate of execution; Dépendance de T à vitesse et interprétation différentielle particulières; ne se réduit pas à TFP",
+      "objections": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver. Not established independently of definitions/calibration",
+      "confidence": "MEDIUM",
+      "questions": [
+        "RQ-03",
+        "RQ-03.01",
+        "RQ-03.03",
+        "RQ-04",
+        "RQ-04.01"
+      ],
+      "internal_coherence": "Primitive quadratique conditionnelle et cp fixe; terme supplémentaire si cp varie.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "DISTINCT_FORMAL_RESTRICTION; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    },
+    {
+      "id": "CPC-0053",
+      "statement": "Money mesure la valeur de Cash ; cette valeur varie dans le temps et selon le lieu.",
+      "source": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 188,
+        "pages": [
+          188
+        ],
+        "quotation": "the Money (M) is defined as the measure of the value of Cash",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      },
+      "role": "Valeur de Cash dans le temps et l'espace.",
+      "status": [
+        "DEFINITIONAL",
+        "NOT_IDENTIFIED"
+      ],
+      "global_review_status": "CONFIRMED",
+      "global_qualification": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+      "formal_support": "L'existence de prix observés ne donne pas u universel ni Money mesuré.",
+      "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "literature": [
+        "BIB-0008",
+        "CBIB-01"
+      ],
+      "literature_support": "purchasing power across time/place; Temporalité et géographie connues; panier et support économique pas encore mesure universelle",
+      "objections": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local. Not established independently of definitions/calibration",
+      "confidence": "MEDIUM",
+      "questions": [
+        "RQ-06",
+        "RQ-06.01",
+        "RQ-10",
+        "RQ-10.01"
+      ],
+      "internal_coherence": "L'existence de prix observés ne donne pas u universel ni Money mesuré.",
+      "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+      "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+      "source_artifacts": [
+        "analysis/data/claims.jsonl",
+        "analysis/global_corpus_pass/claim_rechecks.json",
+        "research_questions/contribution/core_comparisons.json"
+      ],
+      "epistemic_kind": "INTERPRETATION",
+      "global_validation": false
+    }
+  ]
+}

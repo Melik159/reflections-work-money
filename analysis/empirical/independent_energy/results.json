@@ -1,0 +1,1495 @@
+{
+  "status": "EXECUTED_DESCRIPTIVE_NOT_CAUSAL",
+  "experiments": [
+    "TEST-E1",
+    "TEST-E2",
+    "TEST-E3"
+  ],
+  "energy_independent_of_gdp_construction": true,
+  "statistically_exogenous": false,
+  "source_commit": "4249f7c21c2c833d76741e757be92a639517caa3",
+  "gdp_input_sha256": "f0e5e5edb9d0f509699444b075fb51b5bb550187ba81d7f28643d746e472bb4a",
+  "rows": 204,
+  "missing_observations": [],
+  "period": [
+    1990,
+    2023
+  ],
+  "uncertainty": "HAC Newey-West lag 3, Bartlett weights, finite-sample n/(n-p), asymptotic normal 95%; does not correct common trends or measurement bias",
+  "old_reconstruction_max_relative_error": 2.212757496021225e-16,
+  "results": [
+    {
+      "N": 34,
+      "coefficients": [
+        -2694.0720456590434,
+        0.4043646478242622
+      ],
+      "se_HAC": [
+        467.8041007145692,
+        0.02187769876025834
+      ],
+      "ci95": [
+        [
+          -3610.968083059599,
+          -1777.1760082584879
+        ],
+        [
+          0.3614843582541558,
+          0.44724493739436855
+        ]
+      ],
+      "R2": 0.9659201856897475,
+      "experiment": "TEST-E1",
+      "country": "CHN",
+      "model": "level",
+      "start": 1990,
+      "end": 2023,
+      "unit": "billion constant market USD / TWh",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        -5.999437037923859,
+        1.4630841260552265
+      ],
+      "se_HAC": [
+        0.6324863085888393,
+        0.06174121304166811
+      ],
+      "ci95": [
+        [
+          -7.239110202757984,
+          -4.759763873089734
+        ],
+        [
+          1.3420713484935571,
+          1.584096903616896
+        ]
+      ],
+      "R2": 0.9811366026297972,
+      "experiment": "TEST-E1",
+      "country": "CHN",
+      "model": "loglog",
+      "start": 1990,
+      "end": 2023,
+      "unit": "elasticity",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 33,
+      "coefficients": [
+        0.0682359750302027,
+        0.32377982550384704
+      ],
+      "se_HAC": [
+        0.009854428228640768,
+        0.1207420668105089
+      ],
+      "ci95": [
+        [
+          0.0489212957020668,
+          0.08755065435833861
+        ],
+        [
+          0.0871253745552496,
+          0.5604342764524445
+        ]
+      ],
+      "R2": 0.21895688405106306,
+      "experiment": "TEST-E1",
+      "country": "CHN",
+      "model": "dlog",
+      "start": 1991,
+      "end": 2023,
+      "unit": "annual log-change slope",
+      "classification": "TEMPORAL_CO_MOVEMENT",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        -5.75497164580738,
+        1.5127489007965484
+      ],
+      "se_HAC": [
+        0.738606671187523,
+        0.07435517769201568
+      ],
+      "ci95": [
+        [
+          -7.202640721334925,
+          -4.307302570279836
+        ],
+        [
+          1.3670127525201976,
+          1.6584850490728993
+        ]
+      ],
+      "R2": 0.975676452415088,
+      "experiment": "TEST-E2",
+      "country": "CHN",
+      "model": "per_capita_loglog",
+      "start": 1990,
+      "end": 2023,
+      "unit": "PPP GDP/person on kWh/person elasticity",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        -5.979609389191503,
+        1.4622190659940353,
+        -3.9126560524932517,
+        0.37194866953434713
+      ],
+      "se_HAC": [
+        1.809314104738417,
+        0.1913665980323309,
+        1.9369091421450362,
+        0.20304820813220795
+      ],
+      "ci95": [
+        [
+          -9.5258650344788,
+          -2.4333537439042057
+        ],
+        [
+          1.0871405338506668,
+          1.8372975981374038
+        ],
+        [
+          -7.7089979710975225,
+          -0.11631413388898082
+        ],
+        [
+          -0.02602581840478041,
+          0.7699231574734746
+        ]
+      ],
+      "R2": 0.9844057770868042,
+      "experiment": "TEST-E3",
+      "country": "CHN",
+      "model": "loglog_break_2007",
+      "start": 1990,
+      "end": 2023,
+      "coefficient_order": [
+        "intercept_pre",
+        "slope_pre",
+        "intercept_shift",
+        "slope_shift"
+      ],
+      "classification": "ASSOCIATION",
+      "causal_identified": false,
+      "predictive_validated": false,
+      "specificity": [
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "discrimination": "NO: stability of a descriptive proxy, not of the unmeasured Campergue yield chain",
+      "periods": [
+        {
+          "N": 17,
+          "coefficients": [
+            -5.979609389191563,
+            1.4622190659940413
+          ],
+          "se_HAC": [
+            1.8093141047382568,
+            0.19136659803231523
+          ],
+          "ci95": [
+            [
+              -9.525865034478546,
+              -2.43335374390458
+            ],
+            [
+              1.0871405338507034,
+              1.8372975981373791
+            ]
+          ],
+          "R2": 0.9012934653866069,
+          "period": "1990-2006"
+        },
+        {
+          "N": 17,
+          "coefficients": [
+            -9.892265441684756,
+            1.834167735528382
+          ],
+          "se_HAC": [
+            0.5789185453698814,
+            0.0560564687902252
+          ],
+          "ci95": [
+            [
+              -11.026945790609723,
+              -8.75758509275979
+            ],
+            [
+              1.7242970566995406,
+              1.9440384143572236
+            ]
+          ],
+          "R2": 0.9832760412662446,
+          "period": "2007-2023"
+        }
+      ]
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        8768.881069605279,
+        -1.4667261072382614
+      ],
+      "se_HAC": [
+        1007.6058826292851,
+        0.26473810894799643
+      ],
+      "ci95": [
+        [
+          6793.97353965188,
+          10743.788599558677
+        ],
+        [
+          -1.9856128007763343,
+          -0.9478394137001883
+        ]
+      ],
+      "R2": 0.581312505603345,
+      "experiment": "TEST-E1",
+      "country": "DEU",
+      "model": "level",
+      "start": 1990,
+      "end": 2023,
+      "unit": "billion constant market USD / TWh",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        22.301966567805245,
+        -1.7281802462411502
+      ],
+      "se_HAC": [
+        3.0845393365455864,
+        0.37434394010886624
+      ],
+      "ci95": [
+        [
+          16.256269468175894,
+          28.347663667434595
+        ],
+        [
+          -2.461894368854528,
+          -0.9944661236277724
+        ]
+      ],
+      "R2": 0.5434428549180081,
+      "experiment": "TEST-E1",
+      "country": "DEU",
+      "model": "loglog",
+      "start": 1990,
+      "end": 2023,
+      "unit": "elasticity",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 33,
+      "coefficients": [
+        0.016311072082601408,
+        0.33099518006238576
+      ],
+      "se_HAC": [
+        0.00215862516527498,
+        0.13502032300787964
+      ],
+      "ci95": [
+        [
+          0.012080166758662447,
+          0.020541977406540367
+        ],
+        [
+          0.06635534696694168,
+          0.5956350131578299
+        ]
+      ],
+      "R2": 0.2224267244796756,
+      "experiment": "TEST-E1",
+      "country": "DEU",
+      "model": "dlog",
+      "start": 1991,
+      "end": 2023,
+      "unit": "annual log-change slope",
+      "classification": "TEMPORAL_CO_MOVEMENT",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        26.017592296612584,
+        -1.406727975593266
+      ],
+      "se_HAC": [
+        3.749381535187894,
+        0.34869401423368385
+      ],
+      "ci95": [
+        [
+          18.668804487644312,
+          33.36638010558086
+        ],
+        [
+          -2.0901682434912865,
+          -0.7232877076952456
+        ]
+      ],
+      "R2": 0.546606716561111,
+      "experiment": "TEST-E2",
+      "country": "DEU",
+      "model": "per_capita_loglog",
+      "start": 1990,
+      "end": 2023,
+      "unit": "PPP GDP/person on kWh/person elasticity",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        23.15228601250914,
+        -1.8357828644112593,
+        -10.547722882915119,
+        1.292353530156643
+      ],
+      "se_HAC": [
+        11.12613755066613,
+        1.3399373307481677,
+        11.330316851040578,
+        1.3654529922581153
+      ],
+      "ci95": [
+        [
+          1.345056413203526,
+          44.95951561181475
+        ],
+        [
+          -4.462060032677668,
+          0.7904943038551495
+        ],
+        [
+          -32.75514391095465,
+          11.659698145124414
+        ],
+        [
+          -1.383934334669263,
+          3.9686413949825488
+        ]
+      ],
+      "R2": 0.7683107315388353,
+      "experiment": "TEST-E3",
+      "country": "DEU",
+      "model": "loglog_break_2007",
+      "start": 1990,
+      "end": 2023,
+      "coefficient_order": [
+        "intercept_pre",
+        "slope_pre",
+        "intercept_shift",
+        "slope_shift"
+      ],
+      "classification": "ASSOCIATION",
+      "causal_identified": false,
+      "predictive_validated": false,
+      "specificity": [
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "discrimination": "NO: stability of a descriptive proxy, not of the unmeasured Campergue yield chain",
+      "periods": [
+        {
+          "N": 17,
+          "coefficients": [
+            23.15228601251003,
+            -1.8357828644113636
+          ],
+          "se_HAC": [
+            11.126137553901048,
+            1.339937331077847
+          ],
+          "ci95": [
+            [
+              1.345056406863975,
+              44.95951561815608
+            ],
+            [
+              -4.462060033323944,
+              0.7904943045012167
+            ]
+          ],
+          "R2": 0.1321371566481,
+          "period": "1990-2006"
+        },
+        {
+          "N": 17,
+          "coefficients": [
+            12.604563129593757,
+            -0.5434293342545855
+          ],
+          "se_HAC": [
+            1.8564937687568117,
+            0.2277903177241277
+          ],
+          "ci95": [
+            [
+              8.965835342830406,
+              16.243290916357108
+            ],
+            [
+              -0.9898983569938757,
+              -0.09696031151529522
+            ]
+          ],
+          "R2": 0.21334783177452277,
+          "period": "2007-2023"
+        }
+      ]
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        3799.2945604251413,
+        -0.560271088926577
+      ],
+      "se_HAC": [
+        797.115576546405,
+        0.2642072582767987
+      ],
+      "ci95": [
+        [
+          2236.9480303941873,
+          5361.641090456095
+        ],
+        [
+          -1.0781173151491024,
+          -0.04242486270405155
+        ]
+      ],
+      "R2": 0.1441799370169673,
+      "experiment": "TEST-E1",
+      "country": "FRA",
+      "model": "level",
+      "start": 1990,
+      "end": 2023,
+      "unit": "billion constant market USD / TWh",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        12.952674655046119,
+        -0.662440068504281
+      ],
+      "se_HAC": [
+        2.6868451732360064,
+        0.33575143101612953
+      ],
+      "ci95": [
+        [
+          7.686458115503546,
+          18.218891194588693
+        ],
+        [
+          -1.320512873295895,
+          -0.004367263712667158
+        ]
+      ],
+      "R2": 0.11504201349086896,
+      "experiment": "TEST-E1",
+      "country": "FRA",
+      "model": "loglog",
+      "start": 1990,
+      "end": 2023,
+      "unit": "elasticity",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 33,
+      "coefficients": [
+        0.01603925820315633,
+        0.3062520566745905
+      ],
+      "se_HAC": [
+        0.0025571143450077373,
+        0.14628065073721527
+      ],
+      "ci95": [
+        [
+          0.011027314086941164,
+          0.021051202319371493
+        ],
+        [
+          0.019541981229648564,
+          0.5929621321195324
+        ]
+      ],
+      "R2": 0.2843662769891466,
+      "experiment": "TEST-E1",
+      "country": "FRA",
+      "model": "dlog",
+      "start": 1991,
+      "end": 2023,
+      "unit": "annual log-change slope",
+      "classification": "TEMPORAL_CO_MOVEMENT",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        17.019631529901062,
+        -0.5803608910456713
+      ],
+      "se_HAC": [
+        1.4927148333368891,
+        0.1407014107192737
+      ],
+      "ci95": [
+        [
+          14.09391045656076,
+          19.945352603241364
+        ],
+        [
+          -0.8561356560554478,
+          -0.3045861260358949
+        ]
+      ],
+      "R2": 0.37913830043934327,
+      "experiment": "TEST-E2",
+      "country": "FRA",
+      "model": "per_capita_loglog",
+      "start": 1990,
+      "end": 2023,
+      "unit": "PPP GDP/person on kWh/person elasticity",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        -8.113019301600865,
+        1.9562846225725106,
+        19.66476828784156,
+        -2.429118238441999
+      ],
+      "se_HAC": [
+        2.2707523718759193,
+        0.2840839575984594,
+        2.3955584776252667,
+        0.3000966011092485
+      ],
+      "ci95": [
+        [
+          -12.563693950477667,
+          -3.6623446527240633
+        ],
+        [
+          1.3994800656795303,
+          2.513089179465491
+        ],
+        [
+          14.969473671696038,
+          24.360062903987085
+        ],
+        [
+          -3.017307576616126,
+          -1.8409289002678717
+        ]
+      ],
+      "R2": 0.9397617546009432,
+      "experiment": "TEST-E3",
+      "country": "FRA",
+      "model": "loglog_break_2007",
+      "start": 1990,
+      "end": 2023,
+      "coefficient_order": [
+        "intercept_pre",
+        "slope_pre",
+        "intercept_shift",
+        "slope_shift"
+      ],
+      "classification": "ASSOCIATION",
+      "causal_identified": false,
+      "predictive_validated": false,
+      "specificity": [
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "discrimination": "NO: stability of a descriptive proxy, not of the unmeasured Campergue yield chain",
+      "periods": [
+        {
+          "N": 17,
+          "coefficients": [
+            -8.113019301600394,
+            1.9562846225724502
+          ],
+          "se_HAC": [
+            2.2707523718959792,
+            0.28408395760143973
+          ],
+          "ci95": [
+            [
+              -12.563693950516512,
+              -3.6623446526842747
+            ],
+            [
+              1.3994800656736284,
+              2.513089179471272
+            ]
+          ],
+          "R2": 0.8410195712724609,
+          "period": "1990-2006"
+        },
+        {
+          "N": 17,
+          "coefficients": [
+            11.551748986240558,
+            -0.4728336158694677
+          ],
+          "se_HAC": [
+            0.6991365250578109,
+            0.08857273237185609
+          ],
+          "ci95": [
+            [
+              10.181441397127248,
+              12.922056575353867
+            ],
+            [
+              -0.6464361713183057,
+              -0.29923106042062975
+            ]
+          ],
+          "R2": 0.6078752274976233,
+          "period": "2007-2023"
+        }
+      ]
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        -390.3506491895776,
+        0.3241526209660351
+      ],
+      "se_HAC": [
+        47.57804785289719,
+        0.009702888251246567
+      ],
+      "ci95": [
+        [
+          -483.6036229812561,
+          -297.09767539789914
+        ],
+        [
+          0.3051349599935918,
+          0.34317028193847837
+        ]
+      ],
+      "R2": 0.9911423809672395,
+      "experiment": "TEST-E1",
+      "country": "IND",
+      "model": "level",
+      "start": 1990,
+      "end": 2023,
+      "unit": "billion constant market USD / TWh",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        -3.8238853446996335,
+        1.2801140092413588
+      ],
+      "se_HAC": [
+        0.12823824166387396,
+        0.015484797169990593
+      ],
+      "ci95": [
+        [
+          -4.0752322983608265,
+          -3.5725383910384405
+        ],
+        [
+          1.2497638067881771,
+          1.3104642116945404
+        ]
+      ],
+      "R2": 0.9974509068245513,
+      "experiment": "TEST-E1",
+      "country": "IND",
+      "model": "loglog",
+      "start": 1990,
+      "end": 2023,
+      "unit": "elasticity",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 33,
+      "coefficients": [
+        0.02389350680089395,
+        0.749037285336094
+      ],
+      "se_HAC": [
+        0.013101759527495664,
+        0.24859074863763983
+      ],
+      "ci95": [
+        [
+          -0.001785941872997552,
+          0.04957295547478545
+        ],
+        [
+          0.26179941800632,
+          1.236275152665868
+        ]
+      ],
+      "R2": 0.4593319085961166,
+      "experiment": "TEST-E1",
+      "country": "IND",
+      "model": "dlog",
+      "start": 1991,
+      "end": 2023,
+      "unit": "annual log-change slope",
+      "classification": "TEMPORAL_CO_MOVEMENT",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        -3.479473774240321,
+        1.4120956998602532
+      ],
+      "se_HAC": [
+        0.18520126509825455,
+        0.022350787067325927
+      ],
+      "ci95": [
+        [
+          -3.8424682538329,
+          -3.1164792946477418
+        ],
+        [
+          1.3682881572082943,
+          1.455903242512212
+        ]
+      ],
+      "R2": 0.9948858179644545,
+      "experiment": "TEST-E2",
+      "country": "IND",
+      "model": "per_capita_loglog",
+      "start": 1990,
+      "end": 2023,
+      "unit": "PPP GDP/person on kWh/person elasticity",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        -4.0282757413587555,
+        1.3062176234747858,
+        -0.8310296324003051,
+        0.08876931474714844
+      ],
+      "se_HAC": [
+        0.26661988306036716,
+        0.03275858522934907,
+        0.4509540504543687,
+        0.05239493282847654
+      ],
+      "ci95": [
+        [
+          -4.550850712157075,
+          -3.505700770560436
+        ],
+        [
+          1.2420107964252616,
+          1.37042445052431
+        ],
+        [
+          -1.714899571290868,
+          0.052840306490257505
+        ],
+        [
+          -0.013924753596665576,
+          0.19146338309096245
+        ]
+      ],
+      "R2": 0.9984231917757193,
+      "experiment": "TEST-E3",
+      "country": "IND",
+      "model": "loglog_break_2007",
+      "start": 1990,
+      "end": 2023,
+      "coefficient_order": [
+        "intercept_pre",
+        "slope_pre",
+        "intercept_shift",
+        "slope_shift"
+      ],
+      "classification": "ASSOCIATION",
+      "causal_identified": false,
+      "predictive_validated": false,
+      "specificity": [
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "discrimination": "NO: stability of a descriptive proxy, not of the unmeasured Campergue yield chain",
+      "periods": [
+        {
+          "N": 17,
+          "coefficients": [
+            -4.028275741358759,
+            1.306217623474786
+          ],
+          "se_HAC": [
+            0.26661988305956064,
+            0.03275858522923832
+          ],
+          "ci95": [
+            [
+              -4.550850712155498,
+              -3.5057007705620205
+            ],
+            [
+              1.242010796425479,
+              1.370424450524093
+            ]
+          ],
+          "R2": 0.9926556636594617,
+          "period": "1990-2006"
+        },
+        {
+          "N": 17,
+          "coefficients": [
+            -4.8593053737590495,
+            1.3949869382219333
+          ],
+          "se_HAC": [
+            0.31174060618295085,
+            0.03444449680886323
+          ],
+          "ci95": [
+            [
+              -5.470316961877633,
+              -4.248293785640466
+            ],
+            [
+              1.3274757244765614,
+              1.4624981519673053
+            ]
+          ],
+          "R2": 0.9936808579674211,
+          "period": "2007-2023"
+        }
+      ]
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        -31484.319431081138,
+        1.8374240053998436
+      ],
+      "se_HAC": [
+        9572.493332933605,
+        0.3908482690196832
+      ],
+      "ci95": [
+        [
+          -50246.406363631,
+          -12722.23249853127
+        ],
+        [
+          1.0713613981212644,
+          2.603486612678423
+        ]
+      ],
+      "R2": 0.4057401667435375,
+      "experiment": "TEST-E1",
+      "country": "USA",
+      "model": "level",
+      "start": 1990,
+      "end": 2023,
+      "unit": "billion constant market USD / TWh",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        -24.871146275248318,
+        3.3989855374440228
+      ],
+      "se_HAC": [
+        5.948995843266172,
+        0.5885478300403033
+      ],
+      "ci95": [
+        [
+          -36.531178128050016,
+          -13.211114422446622
+        ],
+        [
+          2.2454317905650285,
+          4.552539284323017
+        ]
+      ],
+      "R2": 0.494437197612569,
+      "experiment": "TEST-E1",
+      "country": "USA",
+      "model": "loglog",
+      "start": 1990,
+      "end": 2023,
+      "unit": "elasticity",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 33,
+      "coefficients": [
+        0.022239787983334123,
+        0.5343025483828369
+      ],
+      "se_HAC": [
+        0.0022008313736201924,
+        0.07263412855923629
+      ],
+      "ci95": [
+        [
+          0.017926158491038548,
+          0.026553417475629698
+        ],
+        [
+          0.3919396564067337,
+          0.67666544035894
+        ]
+      ],
+      "R2": 0.5978968535393394,
+      "experiment": "TEST-E1",
+      "country": "USA",
+      "model": "dlog",
+      "start": 1991,
+      "end": 2023,
+      "unit": "annual log-change slope",
+      "classification": "TEMPORAL_CO_MOVEMENT",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        26.80848456888445,
+        -1.3965868614871366
+      ],
+      "se_HAC": [
+        3.403310401667409,
+        0.30208671599869413
+      ],
+      "ci95": [
+        [
+          20.137996181616327,
+          33.47897295615257
+        ],
+        [
+          -1.988676824844577,
+          -0.8044968981296962
+        ]
+      ],
+      "R2": 0.5144054470704391,
+      "experiment": "TEST-E2",
+      "country": "USA",
+      "model": "per_capita_loglog",
+      "start": 1990,
+      "end": 2023,
+      "unit": "PPP GDP/person on kWh/person elasticity",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        -16.514028684787128,
+        2.5603438395718907,
+        18.554338903733168,
+        -1.795631622363841
+      ],
+      "se_HAC": [
+        2.1503379881551106,
+        0.21290102572665148,
+        10.982646154161914,
+        1.0825291576137268
+      ],
+      "ci95": [
+        [
+          -20.728691141571144,
+          -12.299366228003112
+        ],
+        [
+          2.143057829147654,
+          2.9776298499961276
+        ],
+        [
+          -2.971647558424184,
+          40.080325365890516
+        ],
+        [
+          -3.9173887712867455,
+          0.32612552655906324
+        ]
+      ],
+      "R2": 0.8941907488622439,
+      "experiment": "TEST-E3",
+      "country": "USA",
+      "model": "loglog_break_2007",
+      "start": 1990,
+      "end": 2023,
+      "coefficient_order": [
+        "intercept_pre",
+        "slope_pre",
+        "intercept_shift",
+        "slope_shift"
+      ],
+      "classification": "ASSOCIATION",
+      "causal_identified": false,
+      "predictive_validated": false,
+      "specificity": [
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "discrimination": "NO: stability of a descriptive proxy, not of the unmeasured Campergue yield chain",
+      "periods": [
+        {
+          "N": 17,
+          "coefficients": [
+            -16.51402868478669,
+            2.560343839571848
+          ],
+          "se_HAC": [
+            2.1503379882366445,
+            0.21290102572809486
+          ],
+          "ci95": [
+            [
+              -20.728691141730515,
+              -12.299366227842867
+            ],
+            [
+              2.143057829144782,
+              2.9776298499989142
+            ]
+          ],
+          "R2": 0.9323369061046838,
+          "period": "1990-2006"
+        },
+        {
+          "N": 17,
+          "coefficients": [
+            2.0403102189471105,
+            0.7647122172079418
+          ],
+          "se_HAC": [
+            9.979088437503846,
+            0.9828006620169616
+          ],
+          "ci95": [
+            [
+              -17.518703118560428,
+              21.599323556454646
+            ],
+            [
+              -1.1615770803453027,
+              2.6910015147611865
+            ]
+          ],
+          "R2": 0.03142441774921878,
+          "period": "2007-2023"
+        }
+      ]
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        -31687.79283319481,
+        0.7069810076684162
+      ],
+      "se_HAC": [
+        2738.5499500882765,
+        0.02330233192951495
+      ],
+      "ci95": [
+        [
+          -37055.35073536783,
+          -26320.234931021787
+        ],
+        [
+          0.661308437086567,
+          0.7526535782502655
+        ]
+      ],
+      "R2": 0.9876268817004468,
+      "experiment": "TEST-E1",
+      "country": "WLD",
+      "model": "level",
+      "start": 1990,
+      "end": 2023,
+      "unit": "billion constant market USD / TWh",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        -7.0834501877103335,
+        1.534921335909251
+      ],
+      "se_HAC": [
+        0.46015352845801416,
+        0.03900306177913061
+      ],
+      "ci95": [
+        [
+          -7.985351103488041,
+          -6.181549271932626
+        ],
+        [
+          1.458475334822155,
+          1.611367336996347
+        ]
+      ],
+      "R2": 0.9917688616818087,
+      "experiment": "TEST-E1",
+      "country": "WLD",
+      "model": "loglog",
+      "start": 1990,
+      "end": 2023,
+      "unit": "elasticity",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 33,
+      "coefficients": [
+        0.013711173904761778,
+        0.8645764831855736
+      ],
+      "se_HAC": [
+        0.0028266517955494144,
+        0.12466329890703715
+      ],
+      "ci95": [
+        [
+          0.008170936385484925,
+          0.01925141142403863
+        ],
+        [
+          0.6202364173277808,
+          1.1089165490433663
+        ]
+      ],
+      "R2": 0.785889977021907,
+      "experiment": "TEST-E1",
+      "country": "WLD",
+      "model": "dlog",
+      "start": 1991,
+      "end": 2023,
+      "unit": "annual log-change slope",
+      "classification": "TEMPORAL_CO_MOVEMENT",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        -18.710241742420536,
+        2.870173870485994
+      ],
+      "se_HAC": [
+        2.0682748110208857,
+        0.20977977997151193
+      ],
+      "ci95": [
+        [
+          -22.764060372021472,
+          -14.6564231128196
+        ],
+        [
+          2.4590055017418306,
+          3.281342239230157
+        ]
+      ],
+      "R2": 0.9354969032798484,
+      "experiment": "TEST-E2",
+      "country": "WLD",
+      "model": "per_capita_loglog",
+      "start": 1990,
+      "end": 2023,
+      "unit": "PPP GDP/person on kWh/person elasticity",
+      "classification": "ASSOCIATION",
+      "specificity": [
+        "COMPATIBLE_WITH_CAMPERGUE",
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "compatibility_scope": "Broad energy-production relevance only; not a test of Money, Work, fixed yields or a universal positive slope",
+      "causal_identified": false,
+      "predictive_validated": false
+    },
+    {
+      "N": 34,
+      "coefficients": [
+        -7.678290387964377,
+        1.586701126357921,
+        -2.3503861098334786,
+        0.19456306152331737
+      ],
+      "se_HAC": [
+        1.288743199030034,
+        0.11135601428400278,
+        1.278492639441342,
+        0.10998900338555836
+      ],
+      "ci95": [
+        [
+          -10.204227058063243,
+          -5.152353717865511
+        ],
+        [
+          1.3684433383612755,
+          1.8049589143545663
+        ],
+        [
+          -4.856231683138509,
+          0.15545946347155182
+        ],
+        [
+          -0.021015385112377022,
+          0.41014150815901174
+        ]
+      ],
+      "R2": 0.9941475561511524,
+      "experiment": "TEST-E3",
+      "country": "WLD",
+      "model": "loglog_break_2007",
+      "start": 1990,
+      "end": 2023,
+      "coefficient_order": [
+        "intercept_pre",
+        "slope_pre",
+        "intercept_shift",
+        "slope_shift"
+      ],
+      "classification": "ASSOCIATION",
+      "causal_identified": false,
+      "predictive_validated": false,
+      "specificity": [
+        "ALSO_COMPATIBLE_WITH_STANDARD_EXPLANATIONS"
+      ],
+      "discrimination": "NO: stability of a descriptive proxy, not of the unmeasured Campergue yield chain",
+      "periods": [
+        {
+          "N": 17,
+          "coefficients": [
+            -7.678290387964493,
+            1.5867011263579296
+          ],
+          "se_HAC": [
+            1.2887431990442864,
+            0.11135601428507602
+          ],
+          "ci95": [
+            [
+              -10.204227058091295,
+              -5.152353717837691
+            ],
+            [
+              1.3684433383591805,
+              1.8049589143566787
+            ]
+          ],
+          "R2": 0.9679752604773436,
+          "period": "1990-2006"
+        },
+        {
+          "N": 17,
+          "coefficients": [
+            -10.028676497798102,
+            1.781264187881259
+          ],
+          "se_HAC": [
+            0.6467073184836842,
+            0.05396556760539815
+          ],
+          "ci95": [
+            [
+              -11.296222842026124,
+              -8.76113015357008
+            ],
+            [
+              1.6754916753746787,
+              1.8870367003878392
+            ]
+          ],
+          "R2": 0.9863693787035624,
+          "period": "2007-2023"
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "No cointegration or causal instrument",
+    "GDP is not Campergue Money or a full living-standard index",
+    "Primary energy substitution convention, not final energy/exergy",
+    "Country domestic production boundaries, not consumption footprint",
+    "Population common denominator can induce association; E2 is within-country descriptive",
+    "Six purposively selected economies, not a representative cross-country sample",
+    "2020 shock retained; short split samples and no multiple-testing correction"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "cycle": "ITER001-C03",
+  "category": "FORMAL",
+  "origin": "ANALYST_SYNTHETIC_DIAGNOSTIC",
+  "assumptions": [
+    "Same measurand and state",
+    "Positive multiplicative scales",
+    "No additive offsets",
+    "Exact ratios; no measurement uncertainty modeled"
+  ],
+  "cases": [
+    {
+      "case": "consistent",
+      "ratios": [
+        "2",
+        "3",
+        "1/6"
+      ],
+      "product": "1",
+      "cycle_consistent": true
+    },
+    {
+      "case": "inconsistent",
+      "ratios": [
+        "2",
+        "3",
+        "1/5"
+      ],
+      "product": "6/5",
+      "cycle_consistent": false
+    }
+  ],
+  "assertions": "PASS",
+  "utility_measurement": false,
+  "empirical_result": false,
+  "source_property_attribution": false,
+  "historical_novelty_claim": false,
+  "scientific_decision": null,
+  "limit": "Cycle closure is necessary under assumptions; it does not establish a valid common Utility scale."
+}

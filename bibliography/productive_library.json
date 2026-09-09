@@ -1,0 +1,25 @@
+[
+  {
+    "id": "BIB-0009",
+    "authors": "Lucia Foster and John Haltiwanger and Chad Syverson",
+    "title": "Reallocation, Firm Turnover, and Efficiency: Selection on Productivity or Profitability?",
+    "year": 2005,
+    "doi": "10.3386/w11555",
+    "url": "https://www.nber.org/papers/w11555",
+    "verification_url": "https://www.census.gov/library/working-papers/2005/adrm/ces-wp-05-11.html",
+    "status": "VERIFIED",
+    "access": "Primary metadata and abstract read; full study and microdata not reproduced",
+    "summary": "Physical and revenue productivity have different price correlations; not evidence for a universal speed-squared law."
+  },
+  {
+    "id": "BIB-0010",
+    "authors": "Cyrille Schwellnus and Andreas Kappeler and Pierre-Alain Pionnier",
+    "title": "Decoupling of wages from productivity: Macro-level facts",
+    "year": 2017,
+    "doi": "10.1787/d4764493-en",
+    "url": "https://www.oecd.org/en/publications/decoupling-of-wages-from-productivity_d4764493-en.html",
+    "status": "VERIFIED",
+    "access": "Official DOI, authors, date and abstract read; full study not reproduced",
+    "summary": "Labour shares and wage distribution qualify transmission to real median compensation."
+  }
+]

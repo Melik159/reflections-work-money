@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CPC-0040",
+    "action": "UNCHANGED",
+    "old_statement": "Le modèle doit compter le travail à effectuer et non le travail déjà effectué.",
+    "new_statement": "Le modèle doit compter le travail à effectuer et non le travail déjà effectué.",
+    "reason": "Original statement and attribution preserved; no new empirical identification.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-09"
+    ],
+    "claim_epistemic_status_unchanged": true
+  },
+  {
+    "id": "CPC-0044",
+    "action": "UNCHANGED",
+    "old_statement": "La constance du coefficient g n’est pas garantie en économie.",
+    "new_statement": "La constance du coefficient g n’est pas garantie en économie.",
+    "reason": "Original statement and attribution preserved; no new empirical identification.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-03"
+    ],
+    "claim_epistemic_status_unchanged": true
+  },
+  {
+    "id": "CPC-0052",
+    "action": "QUALIFIED",
+    "old_statement": "Pour une tâche constante, Work dépend de sa vitesse d’exécution.",
+    "new_statement": "Pour une tâche constante, Work dépend de sa vitesse d’exécution.",
+    "reason": "State depends on speed; transfer depends on change and reference. No independent calibration.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-09"
+    ],
+    "claim_epistemic_status_unchanged": true
+  },
+  {
+    "id": "CPC-0054",
+    "action": "UNCHANGED",
+    "old_statement": "La complexité désigne l’inertie du produit face au changement de vitesse d’exécution de la tâche.",
+    "new_statement": "La complexité désigne l’inertie du produit face au changement de vitesse d’exécution de la tâche.",
+    "reason": "Original statement and attribution preserved; no new empirical identification.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-09"
+    ],
+    "claim_epistemic_status_unchanged": true
+  },
+  {
+    "id": "CPC-0055",
+    "action": "UNCHANGED",
+    "old_statement": "L’utilité peut être objective, subjective, exacte ou erronée et concerne les échanges.",
+    "new_statement": "L’utilité peut être objective, subjective, exacte ou erronée et concerne les échanges.",
+    "reason": "Original statement and attribution preserved; no new empirical identification.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-02"
+    ],
+    "claim_epistemic_status_unchanged": true
+  },
+  {
+    "id": "CPC-0056",
+    "action": "UNCHANGED",
+    "old_statement": "Le manuscrit écarte l’utilité marginale et revendique le sens de Walras.",
+    "new_statement": "Le manuscrit écarte l’utilité marginale et revendique le sens de Walras.",
+    "reason": "Original statement and attribution preserved; no new empirical identification.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-02"
+    ],
+    "claim_epistemic_status_unchanged": true
+  },
+  {
+    "id": "CPC-0057",
+    "action": "UNCHANGED",
+    "old_statement": "L’utilité varie selon l’agent et le moment ; l’exemple de l’air distingue abondance et manque.",
+    "new_statement": "L’utilité varie selon l’agent et le moment ; l’exemple de l’air distingue abondance et manque.",
+    "reason": "Original statement and attribution preserved; no new empirical identification.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-02"
+    ],
+    "claim_epistemic_status_unchanged": true
+  },
+  {
+    "id": "CPC-0066",
+    "action": "UNCHANGED",
+    "old_statement": "Les complexités du Product et de Cash ne sont pas égales malgré une notation c parfois commune.",
+    "new_statement": "Les complexités du Product et de Cash ne sont pas égales malgré une notation c parfois commune.",
+    "reason": "Original statement and attribution preserved; no new empirical identification.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-09"
+    ],
+    "claim_epistemic_status_unchanged": true
+  },
+  {
+    "id": "CPC-0068",
+    "action": "UNCHANGED",
+    "old_statement": "Les relations de vitesse mesurent les évolutions sans en déterminer les causes.",
+    "new_statement": "Les relations de vitesse mesurent les évolutions sans en déterminer les causes.",
+    "reason": "Original statement and attribution preserved; no new empirical identification.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-09"
+    ],
+    "claim_epistemic_status_unchanged": true
+  },
+  {
+    "id": "CPC-0076",
+    "action": "UNCHANGED",
+    "old_statement": "Prix et utilité baissent : enrichissement : Enrichissement; rP constant dans le tableau, sous les conditions du scénario SC-MONEY-12.",
+    "new_statement": "Prix et utilité baissent : enrichissement : Enrichissement; rP constant dans le tableau, sous les conditions du scénario SC-MONEY-12.",
+    "reason": "Original statement and attribution preserved; no new empirical identification.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-02"
+    ],
+    "claim_epistemic_status_unchanged": true
+  },
+  {
+    "id": "CPC-0077",
+    "action": "UNCHANGED",
+    "old_statement": "Prix baisse et utilité augmente : déflation : Déflation, pas enrichissement automatique, sous les conditions du scénario SC-MONEY-13.",
+    "new_statement": "Prix baisse et utilité augmente : déflation : Déflation, pas enrichissement automatique, sous les conditions du scénario SC-MONEY-13.",
+    "reason": "Original statement and attribution preserved; no new empirical identification.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-02"
+    ],
+    "claim_epistemic_status_unchanged": true
+  },
+  {
+    "id": "CPC-0078",
+    "action": "UNCHANGED",
+    "old_statement": "Prix augmente et utilité baisse : inflation : Pouvoir d’achat décroissant dans ce passage, sous les conditions du scénario SC-MONEY-14.",
+    "new_statement": "Prix augmente et utilité baisse : inflation : Pouvoir d’achat décroissant dans ce passage, sous les conditions du scénario SC-MONEY-14.",
+    "reason": "Original statement and attribution preserved; no new empirical identification.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-02"
+    ],
+    "claim_epistemic_status_unchanged": true
+  },
+  {
+    "id": "CPC-0079",
+    "action": "UNCHANGED",
+    "old_statement": "Prix et utilité augmentent : appauvrissement : Appauvrissement; rP constant dans le tableau, sous les conditions du scénario SC-MONEY-15.",
+    "new_statement": "Prix et utilité augmentent : appauvrissement : Appauvrissement; rP constant dans le tableau, sous les conditions du scénario SC-MONEY-15.",
+    "reason": "Original statement and attribution preserved; no new empirical identification.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-02"
+    ],
+    "claim_epistemic_status_unchanged": true
+  },
+  {
+    "id": "CPC-0109",
+    "action": "UNCHANGED",
+    "old_statement": "Coefficients de transformation variables : Même Work peut être associé à Money différent; compensation par g.",
+    "new_statement": "Coefficients de transformation variables : Même Work peut être associé à Money différent; compensation par g.",
+    "reason": "Original statement and attribution preserved; no new empirical identification.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-03"
+    ],
+    "claim_epistemic_status_unchanged": true
+  },
+  {
+    "id": "CPC-0113",
+    "action": "UNCHANGED",
+    "old_statement": "Utility, négociation et complexité : Prix et quantités peuvent changer via appréciation/complexité, pas seulement coût.",
+    "new_statement": "Utility, négociation et complexité : Prix et quantités peuvent changer via appréciation/complexité, pas seulement coût.",
+    "reason": "Original statement and attribution preserved; no new empirical identification.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-02"
+    ],
+    "claim_epistemic_status_unchanged": true
+  },
+  {
+    "id": "CPC-0117",
+    "action": "REQUIRES_NEW_CONDITION",
+    "old_statement": "Le manuscrit suppose qu’agréger davantage de Products stabilise K, pourtant variable selon le produit, jusqu’à ne plus dépendre que des unités.",
+    "new_statement": "Le manuscrit suppose qu’agréger davantage de Products stabilise K, pourtant variable selon le produit, jusqu’à ne plus dépendre que des unités.",
+    "reason": "Stability needs restrictions on coefficients/weights; product count alone insufficient in the reconstructed aggregation.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-03"
+    ],
+    "claim_epistemic_status_unchanged": true
+  },
+  {
+    "id": "CPC-0118",
+    "action": "UNCHANGED",
+    "old_statement": "La fin du manuscrit propose GDP=K·Wconsumed comme couplage absolu, en absorbant dans K l’énergie sans création de Money.",
+    "new_statement": "La fin du manuscrit propose GDP=K·Wconsumed comme couplage absolu, en absorbant dans K l’énergie sans création de Money.",
+    "reason": "Original statement and attribution preserved; no new empirical identification.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-03"
+    ],
+    "claim_epistemic_status_unchanged": true
+  },
+  {
+    "id": "CPC-0121",
+    "action": "QUALIFIED",
+    "old_statement": "La conservation du Work total est obtenue en compensant la variation cinétique par la variation de Work potentiel restant.",
+    "new_statement": "La conservation du Work total est obtenue en compensant la variation cinétique par la variation de Work potentiel restant.",
+    "reason": "Balance locally consistent when reserve, state and transfer are separated and signs fixed.",
+    "source_unchanged": true,
+    "experiments": [
+      "EXP-09"
+    ],
+    "claim_epistemic_status_unchanged": true
+  }
+]

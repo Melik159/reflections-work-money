@@ -1,0 +1,286 @@
+{
+  "case": "US electricity, gas generation cost context and residential service",
+  "period": [
+    2001,
+    2023
+  ],
+  "N_levels": 23,
+  "N_changes": 22,
+  "metadata": [
+    {
+      "column": "retail_cents_kwh",
+      "file": "T09.08.csv",
+      "series": "ESRCUUS",
+      "unit": "Cents per Kilowatthour,  Including Taxes",
+      "description": "Average Price of Electricity to Ultimate Customers, Residential",
+      "annual_selection": "YYYYMM ends in13; official annual observations, not unweighted monthly prices",
+      "missing_years": []
+    },
+    {
+      "column": "gas_usd_mmbtu",
+      "file": "T09.09.csv",
+      "series": "NGERDUS",
+      "unit": "Dollars per Million Btu, Including Taxes",
+      "description": "Cost of Natural Gas Receipts at Electric Generating Plants",
+      "annual_selection": "YYYYMM ends in13; official annual observations, not unweighted monthly prices",
+      "missing_years": []
+    },
+    {
+      "column": "gas_heat_btu_kwh",
+      "file": "TA6.csv",
+      "series": "NGETKUS",
+      "unit": "Btu per Kilowatthour",
+      "description": "Approximate Natural Gas Heat Rate",
+      "annual_selection": "YYYYMM ends in13; official annual observations, not unweighted monthly prices",
+      "missing_years": []
+    },
+    {
+      "column": "gas_generation_million_kwh",
+      "file": "T07.02B.csv",
+      "series": "NGEGPUS",
+      "unit": "Million Kilowatthours",
+      "description": "Electricity Net Generation From Natural Gas, Electric Power Sector",
+      "annual_selection": "YYYYMM ends in13; official annual observations, not unweighted monthly prices",
+      "missing_years": []
+    },
+    {
+      "column": "generation_million_kwh",
+      "file": "T07.02B.csv",
+      "series": "ELEGPUS",
+      "unit": "Million Kilowatthours",
+      "description": "Electricity Net Generation Total (including from sources not shown), Electric Power Sector",
+      "annual_selection": "YYYYMM ends in13; official annual observations, not unweighted monthly prices",
+      "missing_years": []
+    },
+    {
+      "column": "residential_sales_million_kwh",
+      "file": "T07.06.csv",
+      "series": "ESRCPUS",
+      "unit": "Million Kilowatthours",
+      "description": "Electricity Sales to Ultimate Customers, Residential",
+      "annual_selection": "YYYYMM ends in13; official annual observations, not unweighted monthly prices",
+      "missing_years": []
+    }
+  ],
+  "missing": {
+    "retail_cents_kwh": [],
+    "gas_usd_mmbtu": [],
+    "gas_heat_btu_kwh": [],
+    "gas_generation_million_kwh": [],
+    "generation_million_kwh": [],
+    "residential_sales_million_kwh": [],
+    "cpi": []
+  },
+  "regression": {
+    "N": 20,
+    "years": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023
+    ],
+    "coefficient": 0.014281692705171439,
+    "intercept": 0.03129122089378734,
+    "se_HAC2": 0.01093931199762277,
+    "ci95": [
+      -0.007159358810169188,
+      0.03572274422051207
+    ],
+    "R2": 0.03189711194056222,
+    "uncertainty": "Calendar-lag Newey-West/Bartlett2, n/(n−2), asymptotic normal95%; no causal interpretation",
+    "formula": "Δlog(residential average price) ~ 1 + Δlog(gas fuel cost weak proxy)",
+    "excluded_changes": [
+      2002,
+      2013
+    ],
+    "result_status": "EMPIRICALLY_QUALIFIED",
+    "specificity_status": "NON_DISCRIMINATING",
+    "causal_identified": false,
+    "structural_pass_through_identified": false
+  },
+  "trends": {
+    "retail_cents_kwh": {
+      "first": 8.58,
+      "last": 16.0,
+      "change_pct": 86.48018648018648
+    },
+    "retail_real2023_cents_kwh": {
+      "first": 14.764719041792166,
+      "last": 16.0,
+      "change_pct": 8.366437280054706
+    },
+    "gas_usd_mmbtu": {
+      "first": 4.487,
+      "last": 3.36,
+      "change_pct": -25.117004680187215
+    },
+    "gas_heat_btu_kwh": {
+      "first": 10051.0,
+      "last": 7721.0,
+      "change_pct": -23.18177295791464
+    },
+    "heat_efficiency_proxy": {
+      "first": 0.33946870958113623,
+      "last": 0.4419116694728662,
+      "change_pct": 30.177438155679305
+    },
+    "fuel_cost_proxy_cents_kwh": {
+      "first": 4.5098837,
+      "last": 2.5942559999999997,
+      "change_pct": -42.47621063931205
+    },
+    "gas_generation_million_kwh": {
+      "first": 554939.682,
+      "last": 1699855.345,
+      "change_pct": 206.31353282823986
+    },
+    "generation_million_kwh": {
+      "first": 3580053.03,
+      "last": 4028541.091,
+      "change_pct": 12.52741390258123
+    },
+    "residential_sales_million_kwh": {
+      "first": 1201606.593,
+      "last": 1450025.184,
+      "change_pct": 20.67387050363827
+    },
+    "nominal_budget100_kwh": {
+      "first": 1165.5011655011656,
+      "last": 625.0,
+      "change_pct": -46.375
+    },
+    "real2023_budget100_kwh": {
+      "first": 677.2902330003418,
+      "last": 625.0,
+      "change_pct": -7.720505988798953
+    }
+  },
+  "predictions": [
+    {
+      "id": "PRED-MICRO-01",
+      "result_status": "FORMALLY_CONSISTENT",
+      "specificity_status": "NON_DISCRIMINATING",
+      "reason": "At fixed gas price, lower heat rate lowers the constructed fuel-cost proxy by definition; heat-rate trends are not a direct test of Economic Work."
+    },
+    {
+      "id": "PRED-MICRO-02",
+      "result_status": "NOT_IDENTIFIABLE",
+      "specificity_status": "NON_DISCRIMINATING",
+      "reason": "No total cost, unit profit or matched retail quality observed; sector regression does not test conditional one-for-one pass-through."
+    },
+    {
+      "id": "PRED-MICRO-03",
+      "result_status": "NOT_IDENTIFIABLE",
+      "specificity_status": "NON_DISCRIMINATING",
+      "reason": "Near-stable price and declining fuel proxy can be screened; total cost and profit retention cannot be determined."
+    },
+    {
+      "id": "PRED-MICRO-04",
+      "result_status": "FORMALLY_CONSISTENT",
+      "specificity_status": "NON_DISCRIMINATING",
+      "reason": "Fixed-budget/fixed-quantity arithmetic computed in nominal and CPI-deflated terms; actual household gain, quality-adjusted surplus and Money unobserved."
+    },
+    {
+      "id": "PRED-MICRO-05",
+      "result_status": "NOT_IDENTIFIABLE",
+      "specificity_status": "NON_DISCRIMINATING",
+      "reason": "T, cp, task-speed and Utility not independently measured; physical efficiency cannot supply the missing quadratic test."
+    }
+  ],
+  "branch_years": {
+    "A_PROXY_COST_DOWN_PRICE_DOWN": [
+      2002
+    ],
+    "B_PROXY_COST_DOWN_PRICE_NEAR_STABLE": [
+      2016
+    ],
+    "E_PROXY_COST_DOWN_PRICE_UP": [
+      2006,
+      2009,
+      2011,
+      2012,
+      2015,
+      2019,
+      2020,
+      2023
+    ],
+    "NO_COST_PROXY_DECLINE": [
+      2003,
+      2004,
+      2005,
+      2007,
+      2008,
+      2010,
+      2013,
+      2014,
+      2017,
+      2018,
+      2021,
+      2022
+    ],
+    "NO_PREVIOUS_YEAR": [
+      2001
+    ]
+  },
+  "nominal_gain_years": [
+    2002,
+    2016,
+    2018
+  ],
+  "real_gain_years": [
+    2002,
+    2004,
+    2007,
+    2010,
+    2011,
+    2012,
+    2016,
+    2018,
+    2019,
+    2020,
+    2021
+  ],
+  "quality": {
+    "N": 10,
+    "period": [
+      2014,
+      2023
+    ],
+    "first": {
+      "year": 2014.0,
+      "saidi_ieee_all": 236.2,
+      "saidi_ieee_without_major": 114.2
+    },
+    "last": {
+      "year": 2023.0,
+      "saidi_ieee_all": 366.6,
+      "saidi_ieee_without_major": 123.9
+    },
+    "result_status": "EMPIRICALLY_QUALIFIED",
+    "utility_status": "UTILITY_NOT_IDENTIFIABLE",
+    "note": "IEEE method separated with/without major events; reporting population and weather not held constant"
+  },
+  "money_identification": "NOT_IDENTIFIED",
+  "chain_result_status": "NOT_IDENTIFIABLE",
+  "specificity_status": "NON_DISCRIMINATING",
+  "margin_identification": "NOT_IDENTIFIABLE",
+  "actual_consumer_surplus": "NOT_IDENTIFIABLE",
+  "total_generation_energy_NOT_COMPUTED": true,
+  "global_theory_verdict": null
+}

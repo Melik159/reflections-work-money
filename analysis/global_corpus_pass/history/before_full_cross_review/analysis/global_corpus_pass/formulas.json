@@ -1,0 +1,722 @@
+[
+  {
+    "id": "GC-FORM-001",
+    "label": "17-01",
+    "page": 431,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "alphaTM=-(1/V)(∂V/∂UP)_FA",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DEFINITION",
+    "conditions": "V≠0, dérivées locales et contraintes fixes",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Coefficients écoélastiques alpha,beta,chi définis par dérivées partielles normalisées; ne pas les assimiler à des mesures disponibles.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "fb393220f363249ae008f6f00f67f5af6e10def556a8308b7e62277bbad9e816"
+  },
+  {
+    "id": "GC-FORM-002",
+    "label": "17-02",
+    "page": 431,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "betaTM=-(1/FA)(∂FA/∂UP)_V",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DEFINITION",
+    "conditions": "FA≠0; ne pas dériver son réciproque",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Coefficients écoélastiques alpha,beta,chi définis par dérivées partielles normalisées; ne pas les assimiler à des mesures disponibles.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "fb393220f363249ae008f6f00f67f5af6e10def556a8308b7e62277bbad9e816"
+  },
+  {
+    "id": "GC-FORM-003",
+    "label": "17-03",
+    "page": 431,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "chiTM=(1/V)(∂V/∂FA)_UP",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DEFINITION",
+    "conditions": "V≠0; branche TM",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Coefficients écoélastiques alpha,beta,chi définis par dérivées partielles normalisées; ne pas les assimiler à des mesures disponibles.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "fb393220f363249ae008f6f00f67f5af6e10def556a8308b7e62277bbad9e816"
+  },
+  {
+    "id": "GC-FORM-004",
+    "label": "17-04",
+    "page": 433,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "FA=-alphaTM/(betaTM chiTM)",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DERIVATION",
+    "conditions": "Inversibilité locale, dénominateurs non nuls; pas conclusion de préférence autonome",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "FA=-alpha/(beta chi); recommandations de choix plus fortes que l’identité; cas Product parfait avec Core Law.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "5ec8d63551a763297335137fb46780192aaeba21fd53e0a4d47a9875987b86e3"
+  },
+  {
+    "id": "GC-FORM-005",
+    "label": "17-05",
+    "page": 434,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "alphaTM=-1/UP",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DERIVATION",
+    "conditions": "rP et FA constants; UP≠0",
+    "questions": [
+      "RQ-05.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Dérivation alpha=-1/UP: résultat compatible avec Core Law à r et FA constants; ligne intermédiaire opérateur isolé mal formée.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "33db848b6225d7c34a0e247f53d0ece211da96890fde37ebf2a1dc706d28f196"
+  },
+  {
+    "id": "GC-FORM-006",
+    "label": "17-06",
+    "page": 435,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "betaTM=-1/UP",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_CONFLICT",
+    "epistemic_type": "DERIVATION",
+    "conditions": "Résultat final compatible avec définition; intermédiaire réciproque incompatible",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Beta=-1/UP cohérent avec définition, mais étape imprimée utilise la dérivée du réciproque et donne signe inverse. Figure vérifiée.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "350b979b4e4638a2839d428bf10b041ca04cdd046935f655874903a00562f38c"
+  },
+  {
+    "id": "GC-FORM-007",
+    "label": "17-07",
+    "page": 435,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "chiTM=-1/FA",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DERIVATION",
+    "conditions": "Core Law, UP constant, FA≠0",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Beta=-1/UP cohérent avec définition, mais étape imprimée utilise la dérivée du réciproque et donne signe inverse. Figure vérifiée.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "350b979b4e4638a2839d428bf10b041ca04cdd046935f655874903a00562f38c"
+  },
+  {
+    "id": "GC-FORM-008",
+    "label": "17-08",
+    "page": 436,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "alphaMT=(1/B)(∂B/∂UA)_FP",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DEFINITION",
+    "conditions": "B≠0, FP constant",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Branche MT: 17-10 recopie chiTM et V,FA,UP; ligne suivante emploie chiMT,B,FP,UA et signe moins. Discordance visuellement confirmée.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "1b412eceb71f665646d65246a32335d963ace557570133cdcdf727015b281747"
+  },
+  {
+    "id": "GC-FORM-009",
+    "label": "17-09",
+    "page": 436,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "betaMT=(1/FP)(∂FP/∂UA)_B",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DEFINITION",
+    "conditions": "FP≠0, B constant",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Branche MT: 17-10 recopie chiTM et V,FA,UP; ligne suivante emploie chiMT,B,FP,UA et signe moins. Discordance visuellement confirmée.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "1b412eceb71f665646d65246a32335d963ace557570133cdcdf727015b281747"
+  },
+  {
+    "id": "GC-FORM-010",
+    "label": "17-10",
+    "page": 436,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "chiTM=(1/V)(∂V/∂FA)_UP",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_CONFLICT",
+    "epistemic_type": "PRINTED_DEFINITION",
+    "conditions": "Source imprime TM dans section MT; ligne suivante chiMT,B,FP,UA avec signe moins",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Branche MT: 17-10 recopie chiTM et V,FA,UP; ligne suivante emploie chiMT,B,FP,UA et signe moins. Discordance visuellement confirmée.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "1b412eceb71f665646d65246a32335d963ace557570133cdcdf727015b281747"
+  },
+  {
+    "id": "GC-FORM-011",
+    "label": "17-11",
+    "page": 437,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "FP=alphaMT/(betaMT chiMT)",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DERIVATION",
+    "conditions": "Convention chiMT de la ligne de substitution, non de17-10 imprimée",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "FP=alphaMT/(betaMT chiMT); recommandations fournisseur ne découlent pas seules de l’identité cyclique.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "8869a83f166995f86b5511831c7f8a200072d0f1c7f586d9dc1c0bd97941e50b"
+  },
+  {
+    "id": "GC-FORM-012",
+    "label": "17-12",
+    "page": 439,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "alphaMT=1/UA",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DERIVATION",
+    "conditions": "rA,FP constants; UA≠0",
+    "questions": [
+      "RQ-05.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "BetaMT final +1/UA compatible avec définition initiale, mais réciproque intermédiaire donne signe négatif. Ne pas invalider le résultat final pour cette coquille.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "5429036ccc97a345b688b93b7194ef9b26b7e7dd227f283773a0107577ee6564"
+  },
+  {
+    "id": "GC-FORM-013",
+    "label": "17-13",
+    "page": 439,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "betaMT=1/UA",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_CONFLICT",
+    "epistemic_type": "DERIVATION",
+    "conditions": "Résultat final compatible; intermédiaire imprimé au signe opposé",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "BetaMT final +1/UA compatible avec définition initiale, mais réciproque intermédiaire donne signe négatif. Ne pas invalider le résultat final pour cette coquille.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "5429036ccc97a345b688b93b7194ef9b26b7e7dd227f283773a0107577ee6564"
+  },
+  {
+    "id": "GC-FORM-014",
+    "label": "17-14",
+    "page": 440,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "chiMT=1/FP",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DERIVATION",
+    "conditions": "Convention chiMT=-∂B/∂FP/B; pas équivalence silencieuse avec17-10",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Rapport FA/FP des coefficients; simplification au cas parfait, non relation empirique nouvelle.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "15e8955c6992afabde82f5f80623434401252c2b1239a0b89475fd0f7707a078"
+  },
+  {
+    "id": "GC-FORM-015",
+    "label": "18-03",
+    "page": 443,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "dT=PhiV dUP+lTM dV",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DERIVATION",
+    "conditions": "Potentiel differentiable, paire UP,V et domaine commun",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "18-03 puis développement d’Empraxia; Work exprimé avec UP,V ou UP,FA.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "2c9f8e92b0f3d27da443430868fe36e418345df78adae95fdf4cdb6a79a13606"
+  },
+  {
+    "id": "GC-FORM-016",
+    "label": "18-04",
+    "page": 444,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "dT=PhiFA dUP+hTM dFA",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DERIVATION",
+    "conditions": "Paire UP,FA; mêmes conventions",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "18-04 et 18-05: dV absent dans formule imprimée 18-05, mais restauré dans substitution suivante; image contrôlée.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "eede161652c80e1349379e3fe00465e8d4a8a8fedc5fe94d1d68486e7a6969ad"
+  },
+  {
+    "id": "GC-FORM-017",
+    "label": "18-05",
+    "page": 444,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "dUP=(∂UP/∂FA)_V dFA+(∂UP/∂V)",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_CONFLICT",
+    "epistemic_type": "PRINTED_DERIVATION",
+    "conditions": "dV et contrainte finale manquent sur ligne imprimée, reviennent plus bas",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "18-04 et 18-05: dV absent dans formule imprimée 18-05, mais restauré dans substitution suivante; image contrôlée.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "eede161652c80e1349379e3fe00465e8d4a8a8fedc5fe94d1d68486e7a6969ad"
+  },
+  {
+    "id": "GC-FORM-018",
+    "label": "18-07",
+    "page": 445,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "dT=lambdaTM dFA+[PhiV (∂UP/∂V)",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_CONFLICT",
+    "epistemic_type": "PRINTED_DERIVATION",
+    "conditions": "Formule imprimée inachevée; ne pas compléter comme citation",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "18-07 tronquée dans le PDF lui-même; substitution précédente permet une reconstruction minimale distincte. 18-10 identifie coefficients compatibles.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "77dfb3a5b79672bc4f30f8d8920139371c08aaac6c36a98a8ae4379bf6fa6fa7"
+  },
+  {
+    "id": "GC-FORM-019",
+    "label": "18-10",
+    "page": 445,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "dT=lambdaTM dFA+muTM dV",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DERIVATION",
+    "conditions": "Compatibilité des deux représentations et coefficients",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "18-07 tronquée dans le PDF lui-même; substitution précédente permet une reconstruction minimale distincte. 18-10 identifie coefficients compatibles.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "77dfb3a5b79672bc4f30f8d8920139371c08aaac6c36a98a8ae4379bf6fa6fa7"
+  },
+  {
+    "id": "GC-FORM-020",
+    "label": "18-17",
+    "page": 449,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "dM=PhiB dUA+lMT dB",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DERIVATION",
+    "conditions": "EMT differentiable, paire UA,B",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "18-17 et début UA,FP; titre Utility of Money avec variable UA définie ailleurs Utility of Cash: prudence terminologique.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "a663cd2471822384af51a81d2400612be539d922e6ebe1c59408bcca3e73c3cc"
+  },
+  {
+    "id": "GC-FORM-021",
+    "label": "18-18",
+    "page": 450,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "dM=PhiFP dUA+hMT dFP",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DERIVATION",
+    "conditions": "Potentiel L differentiable, paire UA,FP",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "18-18 puis 18-19: schéma symétrique; formule dUA semble sans dernier dB, suite non lue dans ce bloc.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "1fb8a3961df7c1e9bdb9f9e6e75a0c30c1589dde4bdbbc1fff7ebc8ea86e0dd7"
+  },
+  {
+    "id": "GC-FORM-022",
+    "label": "24-03",
+    "page": 501,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "p=(1/2)e Ch l/T",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_REINTERPRETED",
+    "epistemic_type": "DERIVATION",
+    "conditions": "Labour accompli, signe changé explicitement; coût moyen, trajectoire régulière; T≠0",
+    "questions": [
+      "RQ-03.02"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "24-03: p=1/2 e Ch l/T après choix de labour accompli et abandon explicite du signe; exception au seul travail restant.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "281b6aa10bd0190c67c413c50fba66c685da5d628b0ecdd199266ad28666d6dd"
+  },
+  {
+    "id": "GC-FORM-023",
+    "label": "24-04",
+    "page": 511,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "p2≤p1(rP2/rP1)(UP2/UP1)",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "PROPOSED_RESTRICTION",
+    "conditions": "Core Law, critère Choice, signes autorisant division et ratios Utility",
+    "questions": [
+      "RQ-05.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "24-04: borne de substitution via ratios r et Utility, déclarée sans hypothèse et générale, pourtant conditionnée à Core Law et choix.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "c93852971ca93fda8e4c921199ebeec3904da323b489f825ebec4c1df0adef83"
+  },
+  {
+    "id": "GC-FORM-024",
+    "label": "24-08",
+    "page": 513,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "l2≤l1(rA2/rA1)(UA2/UA1)",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "PROPOSED_RESTRICTION",
+    "conditions": "Cash: ratios UA et facteurs rA, même observateur et domaine",
+    "questions": [
+      "RQ-05.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Symétrie Cash/labour, borne 24-08; ratios Utility de Cash et facteurs rA.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "0bfea3695e548d9d2c30292923356af9cb065dde4b5ea6b416cef5157ec18ebc"
+  },
+  {
+    "id": "GC-FORM-025",
+    "label": "24-12",
+    "page": 519,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "pl=(rP/FA(c))UP1(c)-(rP/FA(f))UP2(f)",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DERIVATION",
+    "conditions": "Deux agents, deux instants et frontière location",
+    "questions": [
+      "RQ-07.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Deux agents et deux instants dans Core Law; équation 24-12 prix de location avec Forces distinctes.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "ca0b4a0efe757d3628c8cc6e68f78a59513838baf4dc9ebfa97e52b3651bd932"
+  },
+  {
+    "id": "GC-FORM-026",
+    "label": "24-13",
+    "page": 520,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "pl=(rP/FA)(UP1(c)-UA2(c))",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DERIVATION",
+    "conditions": "Égalité Forces et correspondance Product/Cash postulées; échelles compatibles",
+    "questions": [
+      "RQ-05.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Action-réaction égalise Forces; différences entre Utility de Product et de Cash, puis somme interagents: exigences d’échelle supplémentaires.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "24835d1f48b697b13fbb0cf719e5236a68296b8f76201e1adf084d32b2a6c1d7"
+  },
+  {
+    "id": "GC-FORM-027",
+    "label": "24-17",
+    "page": 522,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "pl=(r/FA)(UP-UA)",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "PROPOSED_RESTRICTION",
+    "conditions": "Emprunteur, indices abrégés; exception spéculation",
+    "questions": [
+      "RQ-07.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Crédit assimilé à location; exception expresse finance spéculative; intérêts comme différences de Utility, non mesure autonome.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "c3370618ba9588364a8de94962c561a4b018b201aa547ec26feab34af5d9d784"
+  },
+  {
+    "id": "GC-FORM-028",
+    "label": "25-01",
+    "page": 524,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "Mcreated/Mspent≥1",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_REINTERPRETED",
+    "epistemic_type": "PROPOSED_RESTRICTION",
+    "conditions": "Frontière et horizon, stock antérieur; denominator non nul",
+    "questions": [
+      "RQ-10.02"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Tcréé/Tdépensé≤gTMgMT; puis ≤1 en mêmes unités: unités seules insuffisantes sans restriction de rendement supplémentaire.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "e608eba29a93df6127ef070c400ceb80579fe02c7c5f722bc795e50b1e08c624"
+  },
+  {
+    "id": "GC-FORM-029",
+    "label": "25-02",
+    "page": 524,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "Tcreated/Tspent≤1",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "PROPOSED_RESTRICTION",
+    "conditions": "Passage depuis ≤gTMgMT requiert borne du produit, pas seules unités communes",
+    "questions": [
+      "RQ-08.02"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Tcréé/Tdépensé≤gTMgMT; puis ≤1 en mêmes unités: unités seules insuffisantes sans restriction de rendement supplémentaire.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "e608eba29a93df6127ef070c400ceb80579fe02c7c5f722bc795e50b1e08c624"
+  },
+  {
+    "id": "GC-FORM-030",
+    "label": "25-03",
+    "page": 526,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "P=rP/ln(p)",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_CONFLICT",
+    "epistemic_type": "PRINTED_DERIVATION",
+    "conditions": "Différentiel p525 dP=-(rP/gTM)dp/p, g/r constants; origine et référence logarithme",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Intégration imprimée P=rP/ln p et A=rA/ln l; pas les primitives des lignes p525 à r,g constants. G=A+P introduit.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "15a1dd1d7a804abe995d72860b41a83625e4ae1759c21949843a7a3c5b754e15"
+  },
+  {
+    "id": "GC-FORM-031",
+    "label": "25-04",
+    "page": 526,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "A=rA/ln(l)",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_CONFLICT",
+    "epistemic_type": "PRINTED_DERIVATION",
+    "conditions": "Différentiel p525 dA=-(rA/gMT)dl/l; même défaut local",
+    "questions": [
+      "RQ-08.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Intégration imprimée P=rP/ln p et A=rA/ln l; pas les primitives des lignes p525 à r,g constants. G=A+P introduit.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "15a1dd1d7a804abe995d72860b41a83625e4ae1759c21949843a7a3c5b754e15"
+  },
+  {
+    "id": "GC-FORM-032",
+    "label": "25-05",
+    "page": 526,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "G=A+P",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "PROPOSED_DEFINITION",
+    "conditions": "Addition A,P suppose commensurabilité; Egoism non moral",
+    "questions": [
+      "RQ-08.01"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Intégration imprimée P=rP/ln p et A=rA/ln l; pas les primitives des lignes p525 à r,g constants. G=A+P introduit.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "15a1dd1d7a804abe995d72860b41a83625e4ae1759c21949843a7a3c5b754e15"
+  },
+  {
+    "id": "GC-FORM-033",
+    "label": "25-07",
+    "page": 527,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "dMc=gTM dTd+Td dgTM",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DERIVATION",
+    "conditions": "Règle du produit, g variable permis",
+    "questions": [
+      "RQ-08.02"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Egoism non moral; g assumés constants localement; différentiation correcte des produits et quotients avec g variable.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "feebae8c5aa6d067c99dd8cefb7b8d758dca5ebae637f638866595d94bcce561"
+  },
+  {
+    "id": "GC-FORM-034",
+    "label": "25-08",
+    "page": 527,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "dMd=(gMT dTc-Tc dgMT)/gMT^2",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_NEW",
+    "epistemic_type": "DERIVATION",
+    "conditions": "gMT≠0; règle du quotient",
+    "questions": [
+      "RQ-08.02"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Egoism non moral; g assumés constants localement; différentiation correcte des produits et quotients avec g variable.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "feebae8c5aa6d067c99dd8cefb7b8d758dca5ebae637f638866595d94bcce561"
+  },
+  {
+    "id": "GC-FORM-035",
+    "label": "25-09",
+    "page": 528,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "gTM dTd+Td dgTM≥(gMT dTc-Tc dgMT)/gMT^2",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_CONFLICT",
+    "epistemic_type": "PROPOSED_DERIVATION",
+    "conditions": "Mc≥Md ne donne pas automatiquement dMc≥dMd",
+    "questions": [
+      "RQ-08.02"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Passage Mc≥Md vers inégalité de différentiels non automatique; puis ≥ devient = sans condition de saturation explicite.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "635cb94c4393a330d03d409ec98818faba631389878e7d9a49a3a38b7cac28e4"
+  },
+  {
+    "id": "GC-FORM-036",
+    "label": "25-10",
+    "page": 528,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "gTM gMT=dTc/dTd",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_CONFLICT",
+    "epistemic_type": "PROPOSED_DERIVATION",
+    "conditions": "Constance g ne convertit pas inégalité en égalité; dTd≠0",
+    "questions": [
+      "RQ-08.02"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Passage Mc≥Md vers inégalité de différentiels non automatique; puis ≥ devient = sans condition de saturation explicite.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "635cb94c4393a330d03d409ec98818faba631389878e7d9a49a3a38b7cac28e4"
+  },
+  {
+    "id": "GC-FORM-037",
+    "label": "26-01",
+    "page": 537,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "(∂M)_(n,N)=(n/N)∂u",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_ALREADY_COVERED",
+    "epistemic_type": "PROPOSED_NORMALIZATION",
+    "conditions": "N ajouté, unité de M changée à préciser",
+    "questions": [
+      "RQ-08.04"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Insertion n/N et conclusions toutes actions à prix baisse/hausse; changement de normalisation et contexte requis.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "1de39c9e94e82d1311a17ead2b0b16a466bc2afd01be56a96234aab3c78d465a"
+  },
+  {
+    "id": "GC-FORM-038",
+    "label": "26-08",
+    "page": 550,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "Omega^2=omega^2+varpi^2",
+    "transcription": "MANUAL_FROM_EXTRACTION",
+    "status": "FORMULA_ALREADY_COVERED",
+    "epistemic_type": "DEFINITION",
+    "conditions": "Métrique commune pour axes labour/prix",
+    "questions": [
+      "RQ-08.04"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Vecteur et norme Ω²=ω²+varpi²; exige métrique/normalisation commune; scalarisation sans temps ne démontre pas absence d’évolution de ratios.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "d18b6d5639413cb3c0569b65c736df130914f0211290445971b7994d27935231"
+  },
+  {
+    "id": "GC-FORM-039",
+    "label": "26-17",
+    "page": 554,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "Omega=sqrt(2(M/cA-T/cP))=sqrt(a^2/cA+e^2/cP)",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_CONFLICT",
+    "epistemic_type": "PRINTED_DERIVATION",
+    "conditions": "Coefficients non unitaires; exposants et conventions pos/neg",
+    "questions": [
+      "RQ-08.04"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "26-16/17 norme via e,a contient coefficients simples; conflit de puissance des cp/ca déjà relevé, confirmé visuellement.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "e163631090278cf99087d1538ce72f0d64df9578097b58c815030f45adb56d29"
+  },
+  {
+    "id": "GC-FORM-040",
+    "label": "GDP-final",
+    "page": 559,
+    "document": "Reflections_PierreCampergue.pdf",
+    "expression": "GDP=K Wconsumed",
+    "transcription": "MANUAL_VISUAL",
+    "status": "FORMULA_ALREADY_COVERED",
+    "epistemic_type": "PROPOSED_MACRO_RELATION",
+    "conditions": "Composition, stocks, rendement, pertes, unités; pas causalité établie",
+    "questions": [
+      "RQ-09.03"
+    ],
+    "variables": "Variables et contraintes dans expression et conditions; noms conservés, pas unités SI attribuées.",
+    "derivation_review": "Glissements local→moyenne→g constant→PIB; pertes absorbées dans pente. Nécessité création préalable ne prouve pas égalité dépense/création.",
+    "subsequent_use": "Voir contexte et labels; suivi exhaustif non terminé.",
+    "source_page_sha256": "34854e5fe62bc019f411bc83336a2e0f284e0a3243e30f4f19f81ababcd99447"
+  }
+]

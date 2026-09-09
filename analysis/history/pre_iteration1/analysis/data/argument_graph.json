@@ -1,0 +1,1028 @@
+{
+  "status": "INCOMPLETE",
+  "nodes": [
+    {
+      "id": "QUESTION_RACINE",
+      "kind": "ROOT_QUESTION"
+    },
+    {
+      "id": "CPC-0001",
+      "kind": "OPEN_QUESTION"
+    },
+    {
+      "id": "CPC-0002",
+      "kind": "CONCEPTUAL"
+    },
+    {
+      "id": "CPC-0003",
+      "kind": "ANALOGICAL"
+    },
+    {
+      "id": "CPC-0004",
+      "kind": "ASSUMPTION"
+    },
+    {
+      "id": "CPC-0005",
+      "kind": "HYPOTHESIS"
+    },
+    {
+      "id": "CPC-0006",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0007",
+      "kind": "CONCEPTUAL"
+    },
+    {
+      "id": "CPC-0008",
+      "kind": "CONCEPTUAL"
+    },
+    {
+      "id": "CPC-0009",
+      "kind": "AXIOM"
+    },
+    {
+      "id": "CPC-0010",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0011",
+      "kind": "DERIVED"
+    },
+    {
+      "id": "CPC-0012",
+      "kind": "HYPOTHESIS"
+    },
+    {
+      "id": "CPC-0013",
+      "kind": "DERIVED"
+    },
+    {
+      "id": "CPC-0014",
+      "kind": "DERIVED"
+    },
+    {
+      "id": "CPC-0015",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0016",
+      "kind": "MECHANISM"
+    },
+    {
+      "id": "CPC-0017",
+      "kind": "HYPOTHESIS"
+    },
+    {
+      "id": "CPC-0018",
+      "kind": "HYPOTHESIS"
+    },
+    {
+      "id": "CPC-0019",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0020",
+      "kind": "CONCEPTUAL"
+    },
+    {
+      "id": "CPC-0021",
+      "kind": "CONCEPTUAL"
+    },
+    {
+      "id": "CPC-0022",
+      "kind": "HYPOTHESIS"
+    },
+    {
+      "id": "CPC-0023",
+      "kind": "AXIOM"
+    },
+    {
+      "id": "CPC-0024",
+      "kind": "CONCEPTUAL"
+    },
+    {
+      "id": "CPC-0025",
+      "kind": "HYPOTHESIS"
+    },
+    {
+      "id": "CPC-0026",
+      "kind": "HYPOTHESIS"
+    },
+    {
+      "id": "CPC-0027",
+      "kind": "NORMATIVE"
+    },
+    {
+      "id": "CPC-0028",
+      "kind": "CONCEPTUAL"
+    },
+    {
+      "id": "CPC-0029",
+      "kind": "EMPIRICAL"
+    },
+    {
+      "id": "CPC-0030",
+      "kind": "METHODOLOGICAL"
+    },
+    {
+      "id": "CPC-0031",
+      "kind": "METHODOLOGICAL"
+    },
+    {
+      "id": "CPC-0032",
+      "kind": "AXIOM"
+    },
+    {
+      "id": "CPC-0033",
+      "kind": "AXIOM"
+    },
+    {
+      "id": "CPC-0034",
+      "kind": "AXIOM"
+    },
+    {
+      "id": "CPC-0035",
+      "kind": "HYPOTHESIS"
+    },
+    {
+      "id": "CPC-0036",
+      "kind": "CONCEPTUAL"
+    },
+    {
+      "id": "CPC-0037",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0038",
+      "kind": "ANALOGICAL"
+    },
+    {
+      "id": "CPC-0039",
+      "kind": "ASSUMPTION"
+    },
+    {
+      "id": "CPC-0040",
+      "kind": "METHODOLOGICAL"
+    },
+    {
+      "id": "CPC-0041",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0042",
+      "kind": "METHODOLOGICAL"
+    },
+    {
+      "id": "CPC-0043",
+      "kind": "AXIOM"
+    },
+    {
+      "id": "CPC-0044",
+      "kind": "ASSUMPTION"
+    },
+    {
+      "id": "CPC-0045",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0046",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0047",
+      "kind": "ASSUMPTION"
+    },
+    {
+      "id": "CPC-0048",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0049",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0050",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0051",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0052",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0053",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0054",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0055",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0056",
+      "kind": "METHODOLOGICAL"
+    },
+    {
+      "id": "CPC-0057",
+      "kind": "CONCEPTUAL"
+    },
+    {
+      "id": "CPC-0058",
+      "kind": "HYPOTHESIS"
+    },
+    {
+      "id": "CPC-0059",
+      "kind": "HYPOTHESIS"
+    },
+    {
+      "id": "CPC-0060",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0061",
+      "kind": "DEFINITION"
+    },
+    {
+      "id": "CPC-0062",
+      "kind": "CONCEPTUAL"
+    },
+    {
+      "id": "CPC-0063",
+      "kind": "DEFINITION"
+    }
+  ],
+  "edges": [
+    {
+      "source": "CPC-0009",
+      "target": "CPC-0005",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 12,
+        "pages": [
+          12
+        ],
+        "quotation": "any variation in the number of monetary units can only derive from a human will and induces absolutely no overall change in the wealth of the system.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0011",
+      "target": "CPC-0005",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 12,
+        "pages": [
+          12
+        ],
+        "quotation": "any variation in the number of monetary units can only derive from a human will and induces absolutely no overall change in the wealth of the system.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0010",
+      "target": "CPC-0011",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 15,
+        "pages": [
+          15
+        ],
+        "quotation": "dM=n.du+u.dn",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0009",
+      "target": "CPC-0012",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 17,
+        "pages": [
+          17
+        ],
+        "quotation": "any variation in the number of monetary units automatically and inexorably generates the same inverse variation in the value of the unit, implying the impossibility of creating money.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0010",
+      "target": "CPC-0012",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 17,
+        "pages": [
+          17
+        ],
+        "quotation": "any variation in the number of monetary units automatically and inexorably generates the same inverse variation in the value of the unit, implying the impossibility of creating money.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0005",
+      "target": "CPC-0013",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 18,
+        "pages": [
+          18
+        ],
+        "quotation": "the increase in the number of monetary units (granting of a loan not covered by deposits) doesn’t create money",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0012",
+      "target": "CPC-0013",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 18,
+        "pages": [
+          18
+        ],
+        "quotation": "the increase in the number of monetary units (granting of a loan not covered by deposits) doesn’t create money",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0005",
+      "target": "CPC-0014",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 18,
+        "pages": [
+          18
+        ],
+        "quotation": "Any economic policy measure that doesn’t involve Work expenditure leaves the existing quantity of Money in the system constant",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0009",
+      "target": "CPC-0014",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 18,
+        "pages": [
+          18
+        ],
+        "quotation": "Any economic policy measure that doesn’t involve Work expenditure leaves the existing quantity of Money in the system constant",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0015",
+      "target": "CPC-0016",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 19,
+        "pages": [
+          19
+        ],
+        "quotation": "Additional work of the supplier ⇒ increased productivity ⇒ price decline ⇒ increase of monetary unit ⇒ creation of money ⇒ additional money of the consumer.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0017",
+      "target": "CPC-0016",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 19,
+        "pages": [
+          19
+        ],
+        "quotation": "Additional work of the supplier ⇒ increased productivity ⇒ price decline ⇒ increase of monetary unit ⇒ creation of money ⇒ additional money of the consumer.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0016",
+      "target": "CPC-0018",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 20,
+        "pages": [
+          20
+        ],
+        "quotation": "It seems that it's the availability of these low-cost artificial sources of energy over the last two centuries that has made the transition possible:",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0017",
+      "target": "CPC-0018",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 20,
+        "pages": [
+          20
+        ],
+        "quotation": "It seems that it's the availability of these low-cost artificial sources of energy over the last two centuries that has made the transition possible:",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0016",
+      "target": "CPC-0022",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 22,
+        "pages": [
+          22
+        ],
+        "quotation": "SUPPLEMENTARY WORK performed by the supplier is TRANSFORMED into SUPPLEMENTARY MONEY held by the consumer.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0010",
+      "target": "CPC-0025",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 24,
+        "pages": [
+          24
+        ],
+        "quotation": "because the value decreases less as the number increases, the consumer gets richer.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0010",
+      "target": "CPC-0026",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 25,
+        "pages": [
+          25
+        ],
+        "quotation": "because the value increases less as the number decreases, the consumer becomes poorer.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0013",
+      "target": "CPC-0028",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 28,
+        "pages": [
+          28
+        ],
+        "quotation": "it's never written here that bankers, in their actions, cannot be useful for the smooth running of society",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0007",
+      "target": "CPC-0030",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 29,
+        "pages": [
+          29
+        ],
+        "quotation": "any study whose aim is solely the creation of Money must be free of any reference to the Human Being.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0017",
+      "target": "CPC-0035",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 32,
+        "pages": [
+          32
+        ],
+        "quotation": "The second hypothesis therefore requires more Work than the first (about 78% more).",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0017",
+      "target": "CPC-0036",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 33,
+        "pages": [
+          33
+        ],
+        "quotation": "a WORK VARIATION is never used to manufacture a Product but exclusively to VARY its price.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0003",
+      "target": "CPC-0038",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 34,
+        "pages": [
+          34
+        ],
+        "quotation": "the steps of the thermodynamic cycle in accordance:",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0003",
+      "target": "CPC-0042",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 36,
+        "pages": [
+          36
+        ],
+        "quotation": "entropy doesn’t have to be used in this context.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0046",
+      "target": "CPC-0050",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 187,
+        "pages": [
+          187
+        ],
+        "quotation": "the inscription of a line of bank credit should not be considered as Money but only as Cash.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0055",
+      "target": "CPC-0057",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 190,
+        "pages": [
+          190
+        ],
+        "quotation": "this Utility is variable according to the agents considered",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0055",
+      "target": "CPC-0058",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 191,
+        "pages": [
+          191
+        ],
+        "quotation": "since its Utility is almost constant over time, its price will not decrease.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0055",
+      "target": "CPC-0062",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 193,
+        "pages": [
+          193
+        ],
+        "quotation": "this is a function of the position of the observer",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0061",
+      "target": "CPC-0062",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 193,
+        "pages": [
+          193
+        ],
+        "quotation": "this is a function of the position of the observer",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0061",
+      "target": "CPC-0063",
+      "relation": "DEPENDS_ON",
+      "interpretive": true,
+      "direction": "premise_to_dependent",
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 194,
+        "pages": [
+          194
+        ],
+        "quotation": "everything that enters the system, that is to say, everything that the Transformer receives will be counted positively;",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "QUESTION_RACINE",
+      "target": "CPC-0001",
+      "relation": "DEFINES",
+      "interpretive": false,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 2,
+        "pages": [
+          2,
+          3
+        ],
+        "quotation": "The key question is therefore to understand how the increase in living standards has led to these environmental damages, or how we have moved from a subsistence society to an affluent society.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0016",
+      "target": "QUESTION_RACINE",
+      "relation": "ANSWERS",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 19,
+        "pages": [
+          19
+        ],
+        "quotation": "Additional work of the supplier ⇒ increased productivity ⇒ price decline ⇒ increase of monetary unit ⇒ creation of money ⇒ additional money of the consumer.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0018",
+      "target": "QUESTION_RACINE",
+      "relation": "ANSWERS",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 20,
+        "pages": [
+          20
+        ],
+        "quotation": "It seems that it's the availability of these low-cost artificial sources of energy over the last two centuries that has made the transition possible:",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0002",
+      "target": "CPC-0010",
+      "relation": "QUALIFIES",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 3,
+        "pages": [
+          3
+        ],
+        "quotation": "the economy dispenses with this constraint and appropriates the prerogative to modify the value of the unit over time.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0020",
+      "target": "CPC-0016",
+      "relation": "QUALIFIES",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 20,
+        "pages": [
+          20
+        ],
+        "quotation": "if the selling price is kept constant despite this drop in cost price",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0021",
+      "target": "CPC-0016",
+      "relation": "QUALIFIES",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 21,
+        "pages": [
+          21
+        ],
+        "quotation": "They are the sole judge and person responsible for selling prices, but always subject to the external constraints (competition, regulations, etc.) to which they are subject.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0028",
+      "target": "CPC-0013",
+      "relation": "QUALIFIES",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 28,
+        "pages": [
+          28
+        ],
+        "quotation": "it's never written here that bankers, in their actions, cannot be useful for the smooth running of society",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0031",
+      "target": "CPC-0001",
+      "relation": "QUALIFIES",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 29,
+        "pages": [
+          29
+        ],
+        "quotation": "in no way about the effects, impacts, repercussions or other environmental impacts of the plethora of energy",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0040",
+      "target": "CPC-0023",
+      "relation": "ASSUMES",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 35,
+        "pages": [
+          35
+        ],
+        "quotation": "only the Work to be done must be taken into account and not the Work performed.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0039",
+      "target": "CPC-0043",
+      "relation": "ASSUMES",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 35,
+        "pages": [
+          35
+        ],
+        "quotation": "Economic Work and Money are logically considered two different forms of Economic Energy",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0044",
+      "target": "CPC-0043",
+      "relation": "QUALIFIES",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 36,
+        "pages": [
+          36
+        ],
+        "quotation": "the transformation coefficient g should be a constant, which isn't necessarily the case in Economics",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0042",
+      "target": "CPC-0003",
+      "relation": "QUALIFIES",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 36,
+        "pages": [
+          36
+        ],
+        "quotation": "entropy doesn’t have to be used in this context.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0051",
+      "target": "CPC-0052",
+      "relation": "DEFINES",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 187,
+        "pages": [
+          187,
+          188
+        ],
+        "quotation": "labour (l) must be understood as the thing to be done, the task, the job to be done. It is constant for a given Product and manufacturing method.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0049",
+      "target": "CPC-0041",
+      "relation": "DEFINES",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 187,
+        "pages": [
+          187
+        ],
+        "quotation": "the Product represents any object, merchandise, product, good or service that an economic agent",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0053",
+      "target": "CPC-0046",
+      "relation": "DEFINES",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 188,
+        "pages": [
+          188
+        ],
+        "quotation": "the Money (M) is defined as the measure of the value of Cash",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0047",
+      "target": "CPC-0004",
+      "relation": "QUALIFIES",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 185,
+        "pages": [
+          185
+        ],
+        "quotation": "small enough and close enough in time to be judged as continuous.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0056",
+      "target": "CPC-0055",
+      "relation": "QUALIFIES",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 189,
+        "pages": [
+          189
+        ],
+        "quotation": "Utility should be taken, in this study, in the sense of Walras",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0060",
+      "target": "CPC-0061",
+      "relation": "QUALIFIES",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 192,
+        "pages": [
+          192
+        ],
+        "quotation": "A manufacturer can therefore be a wholesaler, a trader, etc., although it doesn't necessarily modify a Product.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0019",
+      "target": "CPC-0017",
+      "relation": "QUALIFIES",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 20,
+        "pages": [
+          20
+        ],
+        "quotation": "Work (energy) that allows a reduction in the cost price can be described as “productive Work”, while work that doesn’t allow a reduction in price can be defined as “unproductive work”.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0029",
+      "target": "CPC-0018",
+      "relation": "SUPPORTS",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 29,
+        "pages": [
+          29
+        ],
+        "quotation": "purchasing power and, incidentally, the standard of living remained constant from the Neolithic period until the 18th century.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    },
+    {
+      "source": "CPC-0048",
+      "target": "CPC-0005",
+      "relation": "DEFINES",
+      "interpretive": true,
+      "evidence": {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 185,
+        "pages": [
+          185
+        ],
+        "quotation": "It never takes into account the assets that an economic agent",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    }
+  ]
+}

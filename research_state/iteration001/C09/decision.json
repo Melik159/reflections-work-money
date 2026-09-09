@@ -1,0 +1,39 @@
+{
+  "id": "ITER001-C09",
+  "task": "ITER001-P0-09",
+  "decision": "QUALIFY",
+  "finding_class": "NEW_MEASUREMENT_ISSUE",
+  "finding": "Pour la formulation forte p112, taux de dommage et dommage par tâche peuvent se situer de part et d’autre du carré de vitesse; préciser grandeur/horizon avant test.",
+  "claims": [
+    "CPC-0001",
+    "CPC-0031",
+    "CPC-0120"
+  ],
+  "questions": [
+    "RQ-01.04",
+    "RQ-11.01",
+    "RQ-11.03"
+  ],
+  "sources": [
+    "agents/reports/ITER001-C09/specialist.md",
+    "agents/reports/ITER001-C09/adversarial.md",
+    "agents/reports/ITER001-C09/evidence.md",
+    "agents/reports/ITER001-C09/results.json",
+    "agents/reports/ITER001-C09/source_pages.txt",
+    "agents/reports/ITER001-C09/provenance.json"
+  ],
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C09/specialist.md",
+    "adversarial": "agents/reports/ITER001-C09/adversarial.md",
+    "evidence": "agents/reports/ITER001-C09/evidence.md"
+  },
+  "candidate_path": "candidate_changes/concepts/ITER001-C09.json",
+  "negative_results": [
+    "NOT_IDENTIFIABLE",
+    "AMBIGUOUS",
+    "NON_DISCRIMINATING"
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "tests": "FORMAL: taux32>16, durée1/4 et dommage intégré8<16 vérifiés; unités/horizon conditionnels, aucun résultat empirique.",
+  "experiment": "ITER001-EXP-09"
+}

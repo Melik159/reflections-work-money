@@ -1,0 +1,1280 @@
+[
+  {
+    "id": "SC-MONEY-01",
+    "name": "Stabilité globale",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "quotation": "In this case the number of units is constant (dn = 0 - no issue of monetary units), which leads to the simplification of the relationship as follows : n ⋅∂u = 0 and one can write : if : M , n = constant so : u =constant (Constant Money) It is possible to consider this possibility as a system-wide case where nothing happens. Indeed, everything being",
+        "normalization": "whitespace",
+        "context_before": "eriod of time because the prices of products would themselves double. This would only be true if prices remained constant despite the doubling of Andorrans' income. The same would be true for any economic system envisaged. 1. Possibility 1 ",
+        "context_after": " constant, there is therefore no variation. However, this is only valid if the entire system is considered. This expresses that the total wealth of the system is constant, but this",
+        "argument_function": "Aucune variation globale; redistribution interne possible"
+      }
+    ],
+    "conditions": "M et n constants; système entier",
+    "campergue_result": "u constant",
+    "standard_comparison": "État stationnaire des soldes nominaux et de leur pouvoir d’achat",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-02",
+    "name": "Émission à Money constant",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 173,
+        "pages": [
+          173
+        ],
+        "quotation": "In this case the number of units is variable (dn 0 - issue of monetary units by the State, banks or possibly others), which leads to the writing of the relation as follows : n ⋅du = −u ⋅dn either : du u = −dn n whose integration gives : ln u = −ln n and one can write : if : M = constant , n≠constant so : u = 1 n (Constant Money )",
+        "normalization": "whitespace",
+        "context_before": "oach equilibrium, where in principle there are only fluctuations. In Economics, the functioning of a system should not be an exception to this rule. Increasing deviations necessarily imply a vitiated process in the system. 2. Possibility 2 ",
+        "context_after": "",
+        "argument_function": "Compensation inverse de u; interprétée comme ajustement des prix"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 172,
+        "pages": [
+          172
+        ],
+        "quotation": "Since the overall quantity of Money existing in the system is considered constant its variation is obviously zero and the differential relationship becomes : n.du+u.dn=0 In economic reality, it often happens that the remuneration of certain categories of economic agents (individuals, households, companies, associations, administrations, communities, ...) is",
+        "normalization": "whitespace",
+        "context_before": "172 overall quantity of Money that may or may not vary. This fact can be confusing and therefore requires special attention. Hypothesis 1 ⇒ The overall quantity of money is constant ",
+        "context_after": " increased. It is quite obvious that it's not because certain remunerations are increased that the wealth of the economic system under consideration is automatically increased. If, for example, all the wages, salaries, paycheck, etc. of the",
+        "argument_function": "Compensation inverse de u; interprétée comme ajustement des prix"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 175,
+        "pages": [
+          175
+        ],
+        "quotation": "Consequently, if nothing else changes, the modification of the number of monetary units by issuing paper money (by the State) or credits (by the banks) is pure fantasy because the value of the unit will vary in an inversely proportional way. Obviously, agents who will receive a surplus of monetary units will be favoured at the expense of those who will not",
+        "normalization": "whitespace",
+        "context_before": "s and from Francs to Euros corresponds to a destruction of Money, which nobody pronounces. In fact, bankers create monetary units (n) and the above-mentioned events have destroyed them: 100 n in the first case and 6.55 957 n in the second. ",
+        "context_after": " have received any, because the latter will see their income decrease at the same time as the value of the unit, which, as before, increases inequality. Of course, any economic system has a certain inertia (like any physical system), the in",
+        "argument_function": "Compensation inverse de u; interprétée comme ajustement des prix"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 57,
+        "pages": [
+          57
+        ],
+        "quotation": "or the prices of Products evolve either upwards or downwards; the wealth of consumers doesn’t vary, because if the number (n) of units increases prices also increase, and conversely if the number (n) decreases prices also fall. Of course and as already mentioned, you have to reason as a physicist and not as an accountant. In fact, some disgruntled minds",
+        "normalization": "whitespace",
+        "context_before": "",
+        "context_after": "",
+        "argument_function": "Formulation complémentaire à comparer au scénario, sans équivalence causale automatique."
+      }
+    ],
+    "conditions": "M constant, n croissant, sans création productive",
+    "campergue_result": "u décroît; M final inchangé",
+    "standard_comparison": "Émission nominale avec ajustement réel supposé; crédit et compensation ne sont pas synonymes",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-03",
+    "name": "Retrait et remboursement à Money constant",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 18,
+        "pages": [
+          18
+        ],
+        "quotation": "Conversely, the repayment of a loan is similar to possibility 2b, with :  makes the number (n) of units to fall (dn < 0)  causes the value of the unit (u) increase (du > 0) Thus the increase in the number of monetary units (granting of a loan not covered by deposits) doesn’t create money and its decrease (repayment of a loan) doesn't destroy it. The",
+        "normalization": "whitespace",
+        "context_before": "es money would be a simplification instigating an abuse of language. The only thing that can be said is that bankers create monetary units and only monetary units, but by systematically varying the unit in an inversely proportional manner. ",
+        "context_after": " various developments represented by all the possibilities (1, 2, 3, 4) listed above exist and form a mixture that shapes daily reality. Whichever economic system is considered, it follows from this paragraph that any change in the number o",
+        "argument_function": "Retrait des unités; appréciation inverse postulée"
+      }
+    ],
+    "conditions": "M constant, n décroissant",
+    "campergue_result": "u augmente; pas de destruction de Money",
+    "standard_comparison": "Remboursement de dépôts/dette; effet sur richesse réelle séparé",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-04",
+    "name": "Création productive sans émission",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 19,
+        "pages": [
+          19
+        ],
+        "quotation": "if yesterday a 1$ coin made it possible to buy 1 kg of pasta and today the price per kilogram falls to 0.9$, then the consumer keeps 0.1$ in his or her pocket, which he or she holds in addition, and has therefore become richer. This operation (price drop) causes the number (n) of units to remain constant (0.9 + 0.1 = 1), but also the unit (u) to increase by",
+        "normalization": "whitespace",
+        "context_before": " increase the wealth of any economic system, it's imperative to increase the value (u) of the monetary unit (possibility 3a). The only way to do this is to decrease the price of the Products (goods and services) put on the market. In fact, ",
+        "context_after": " 11.1% since 1$ consents to the purchase of this extra pasta (1 / 9 = 0.111). It is only later that the consumer will use the extra Money he holds after a price reduction to purchase another good or service. However, all conventional econom",
+        "argument_function": "Work supplémentaire → productivité → prix inférieur → pouvoir d’achat"
+      }
+    ],
+    "conditions": "n constant; produit comparable, baisse du prix transmise au consommateur",
+    "campergue_result": "u et M augmentent",
+    "standard_comparison": "Baisse de prix à soldes nominaux fixes; gain de panier",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-05",
+    "name": "Destruction à nombre constant",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 178,
+        "pages": [
+          178
+        ],
+        "quotation": "Analytical possibilities 3 and 4 above are obviously valid both when the quantity of money decreases and when it increases, i.e. when its variation is negative (dM < 0) or positive (dM > 0), this variation determining respectively a decrease or an increase in purchasing power, i.e. an impoverishment or an enrichment of the system under consideration. This",
+        "normalization": "whitespace",
+        "context_before": " long ago. Moreover, loans should never be repaid, because each repayment would impoverish the poor. Economic crises, which are often due to excess liquidity from credit, would in this case have no purpose and therefore should never exist. ",
+        "context_after": " hypothesis (composed of possibilities 3 and 4, with variable money) shows that :  monetary wealth is created when the price decreases,  monetary wealth is destroyed when the price rises. Conclusion It is undeniable that increasing the nu",
+        "argument_function": "Diminution de Work et hausse des prix décrites comme destruction"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 16,
+        "pages": [
+          16
+        ],
+        "quotation": "3b. dn = 0 and : du < 0 ⇒ (∂M)n < 0 ⇒ Destruction of money 4a. dn > 0 and : du = 0 ⇒ (∂M)u >0 ⇒ Creation of money 4b. dn < 0 and : du = 0 ⇒ (∂M)u <0 ⇒ Destruction of money These four results are the only ones capable of showing the different possible coherent evolutions. Of course, it's possible to highlight that in possibility 2 (2a, 2b), if the variations",
+        "normalization": "whitespace",
+        "context_before": "16 ",
+        "context_after": " (|dn|, |du|), in absolute value, of the number (n) and the unit (u) are not equal, then the variation (dM) of the Money (M) isn't zero. This is correct, but in this hypothesis the economic system under examination can only be subject to di",
+        "argument_function": "Diminution de Work et hausse des prix décrites comme destruction"
+      }
+    ],
+    "conditions": "n constant; destruction productive/prix en hausse",
+    "campergue_result": "u et M diminuent",
+    "standard_comparison": "Érosion du pouvoir d’achat à soldes fixes",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-06",
+    "name": "Émission accompagnant une création préalable",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 177,
+        "pages": [
+          177
+        ],
+        "quotation": "Since by an increase of the Work performed a proportional quantity of Money is created, the State (or any other issuer of Money) has the right to issue as many monetary units (units of account in fiduciary or scriptural form) as Money created in order to keep the value of the monetary unit constant. In the same way as in the previous possibility, this",
+        "normalization": "whitespace",
+        "context_before": ". Possibility 4 In this case the number of units is variable (dn 0 - issue of monetary units), resulting in the relationship being written as follows : ∂nu= 1 u ⋅∂M and one can write : if : M ,n ≠constant so : u = constant (Current Money) ",
+        "context_after": " creation of Money increases the wealth of the system. However, it's quite obvious that the Money issued by the State must be equitably distributed among the agents composing the system, otherwise inequalities would be inevitably increased.",
+        "argument_function": "Émission proportionnée à Money déjà créé; distribution distincte"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 17,
+        "pages": [
+          17
+        ],
+        "quotation": "It should be noted that possibility 4 always results in the same phenomenon. If human doesn’t increase or decrease the number (n) of units, then we find ourselves in hypothesis 3. In this possibility (3a, 3b), it's clear that after a variation (u) in the unit, if the same inverse variation (n) in the number of units is made, it brings the unit back to its",
+        "normalization": "whitespace",
+        "context_before": "aper doesn't require 100 times as much energy as printing the number 10. A banker is no more tired (400 times) by granting a loan of 200,000 $ for the construction of a house than by granting a loan of 500 for the purchase of a dishwasher. ",
+        "context_after": " original value. Human is therefore authorised to emit or destroy a certain number (n) of monetary units in such a way that : Δu = 0 In conclusion, it can be argued that :  any variation in the number of monetary units automatically and in",
+        "argument_function": "Émission proportionnée à Money déjà créé; distribution distincte"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 18,
+        "pages": [
+          18
+        ],
+        "quotation": "Once this creation has taken place, it would possibly be possible for any issuer to strike, as far as necessary, a number (n) of monetary units in order to keep the unit (u) constant, which would correspond to possibility 4a, i.e. : 4a. ∂n > 0 and : du = 0 ⇒ ∂M >0",
+        "normalization": "whitespace",
+        "context_before": "plications Of all the possibilities for Money development listed above, only the one referred to in 3a, namely : 3a. dn = 0 and : ∂u > 0 ⇒ ∂M> 0 allows its creation, which is logically sought after since it's the one that increases wealth. ",
+        "context_after": "",
+        "argument_function": "Émission proportionnée à Money déjà créé; distribution distincte"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 58,
+        "pages": [
+          58
+        ],
+        "quotation": "point N°3 can be summarised as case N°2. In fact, to maintain that prices being constant the number (n) of units increases is equivalent to saying that prices fall with a constant number of units, and vice versa, which is in line with possibility N° 2. As a result, after a reduction in prices, consumers may use this quantity of Money to purchase another",
+        "normalization": "whitespace",
+        "context_before": "",
+        "context_after": "",
+        "argument_function": "Formulation complémentaire à comparer au scénario, sans équivalence causale automatique."
+      }
+    ],
+    "conditions": "M augmente productivement; émetteur calibre n pour garder u constant",
+    "campergue_result": "n et M augmentent, u constant",
+    "standard_comparison": "Accommodation nominale après modification productive; causalité à établir",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-07",
+    "name": "Retrait accompagnant une destruction",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 178,
+        "pages": [
+          178
+        ],
+        "quotation": "Analytical possibilities 3 and 4 above are obviously valid both when the quantity of money decreases and when it increases, i.e. when its variation is negative (dM < 0) or positive (dM > 0), this variation determining respectively a decrease or an increase in purchasing power, i.e. an impoverishment or an enrichment of the system under consideration. This",
+        "normalization": "whitespace",
+        "context_before": " long ago. Moreover, loans should never be repaid, because each repayment would impoverish the poor. Economic crises, which are often due to excess liquidity from credit, would in this case have no purpose and therefore should never exist. ",
+        "context_after": " hypothesis (composed of possibilities 3 and 4, with variable money) shows that :  monetary wealth is created when the price decreases,  monetary wealth is destroyed when the price rises. Conclusion It is undeniable that increasing the nu",
+        "argument_function": "Symétrique négatif de 4a explicitement admis"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 16,
+        "pages": [
+          16
+        ],
+        "quotation": "4b. dn < 0 and : du = 0 ⇒ (∂M)u <0 ⇒ Destruction of money These four results are the only ones capable of showing the different possible coherent evolutions. Of course, it's possible to highlight that in possibility 2 (2a, 2b), if the variations (|dn|, |du|), in absolute value, of the number (n) and the unit (u) are not equal, then the variation (dM) of the",
+        "normalization": "whitespace",
+        "context_before": "16 3b. dn = 0 and : du < 0 ⇒ (∂M)n < 0 ⇒ Destruction of money 4a. dn > 0 and : du = 0 ⇒ (∂M)u >0 ⇒ Creation of money ",
+        "context_after": " Money (M) isn't zero. This is correct, but in this hypothesis the economic system under examination can only be subject to distortions, alterations, etc., which disguise the proper functioning of the system, as will be seen later in the pa",
+        "argument_function": "Symétrique négatif de 4a explicitement admis"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 57,
+        "pages": [
+          57
+        ],
+        "quotation": "either the prices of the Products are constant; if the number (n) of units decreases consumers become poorer since they have fewer units, and conversely become richer if the number (n) increases, 4. or the prices of Products evolve either upwards or downwards; the wealth of consumers doesn’t vary, because if the number (n) of units increases prices also",
+        "normalization": "whitespace",
+        "context_before": "",
+        "context_after": "",
+        "argument_function": "Formulation complémentaire à comparer au scénario, sans équivalence causale automatique."
+      }
+    ],
+    "conditions": "M diminue; retrait calibré, u maintenu constant",
+    "campergue_result": "n et M diminuent, u constant",
+    "standard_comparison": "Contraction nominale après perte réelle postulée",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-08",
+    "name": "Inflation dite incohérente",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 24,
+        "pages": [
+          24
+        ],
+        "quotation": "As the number n increases the consumer has more units available but the value of each unit decreases. But because the value decreases less as the number increases, the consumer gets richer. This fact encourages him to increase his consumption, which is well observed in reality. Little by little, the difference between the number n and the value of the unit",
+        "normalization": "whitespace",
+        "context_before": "d, without taking into account the value of the unit with which it's measured, makes it impossible to understand monetary developments.  Possibility 2a1 – Inflation The variables evolve as follows:  dn > 0 and : δu < 0 with : |dn| > |δu| ",
+        "context_after": " u increases. However, if the consumer wins, the supplier loses. This causes the company's income to decrease and encourages it first to separate from the manpower, and then eventually leads it to stop its activities, thus instigating an in",
+        "argument_function": "Gain consommateur, consommation accrue, perte fournisseur; g variable aux pages 526–532"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 526,
+        "pages": [
+          526
+        ],
+        "quotation": "However, it is possible to envisage other processes that correspond to the incoherent developments (2a1 and 2a2, 2b1 and 2b2). In these hypotheses, the transformation coefficients are therefore no longer constant and vary according to the laziness and avarice of the agents. However, it is of course understood that these transformations must normally be",
+        "normalization": "whitespace",
+        "context_before": " constant. This is in line with the coherent evolutions (1, 2a and 2b, 3a and 3b, 4a and 4b) because : • the Money created Mc is always proportional to the Work spent Td, • the Work created Tc is always proportional to the Money spent Md . ",
+        "context_after": " prohibited. It is therefore the coherent procedure which has been used throughout the trial since it is the only one which is rational. Egoism Let us assume any economic agent (individual, family, company, administration, ...) that we know",
+        "argument_function": "Gain consommateur, consommation accrue, perte fournisseur; g variable aux pages 526–532"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 532,
+        "pages": [
+          532
+        ],
+        "quotation": "It is very clear from these two tables that all coherent evolutions have a fixed transformation coefficient, whereas incoherent evolutions systematically have a variable coefficient. The chapter “00- Preamble - Monetary developments” provides information and explains the four incoherent developments of inflation and devaluation on the one hand, and",
+        "normalization": "whitespace",
+        "context_before": "532 ",
+        "context_after": " deflation and revaluation on the other. So to highlight the different possibilities, they can be presented as follows: Designation Rep. Transformation T→M Transformation M→T Work T D Coef. gTM Money M C Money M d Coef. gMT Work TC coherent",
+        "argument_function": "Gain consommateur, consommation accrue, perte fournisseur; g variable aux pages 526–532"
+      }
+    ],
+    "conditions": "n augmente, u baisse insuffisamment selon la comparaison du manuscrit",
+    "campergue_result": "Enrichissement du consommateur puis désorganisation alléguée",
+    "standard_comparison": "Inflation du corpus définie aussi par Utility: pas taux CPI automatiquement",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-09",
+    "name": "Dévaluation correctrice",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 25,
+        "pages": [
+          25
+        ],
+        "quotation": "It is therefore necessary for the unit u to decrease more than the number n increases in order to destroy unduly earned Money. It is possible to conceive of devaluation as a return of the value of the unit to its real level of reference, which favours and causes the economic system to be put back in order.  Possibility 2b1 – Deflation The variables evolve",
+        "normalization": "whitespace",
+        "context_before": "25 number n logically implies the same decrease in the unit u. But since inflation has increased the consumer's purchasing power, it's imperative that it should decrease so that he loses what he has previously gained. ",
+        "context_after": " as follows:  dn < 0 and : δu > 0 with : |dn| > |δu| Since the number n decreases the consumer has fewer units but the value of each unit increases. However, because the value increases less as the number decreases, the consumer becomes po",
+        "argument_function": "Perte compensant le gain jugé indu; retour obligatoire affirmé"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 535,
+        "pages": [
+          535
+        ],
+        "quotation": "As these developments are abnormal, sooner or later an opposite evolution, either devaluation or revaluation, will inevitably occur, bringing the system back to a correct functioning. To explain this differently, it is possible to ensure that inflation and deflation are incoherent evolutions exclusively due to voluntary human actions. It is therefore",
+        "normalization": "whitespace",
+        "context_before": "and no longer contribute to the creation of Money, leading to its general impoverishment. Consequently, it is necessary and indispensable to establish rules to prevent any attempt to apply one or the other of the supply or demand policies. ",
+        "context_after": " imperative to prevent these actions through regulations and/or laws prohibiting and possibly sanctioning them.",
+        "argument_function": "Perte compensant le gain jugé indu; retour obligatoire affirmé"
+      }
+    ],
+    "conditions": "Suite de 2a1; u baisse plus fortement que n ne croît",
+    "campergue_result": "Destruction du supplément, retour de référence",
+    "standard_comparison": "Dévaluation externe ou changement de valeur interne à distinguer",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-10",
+    "name": "Déflation dite incohérente",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 25,
+        "pages": [
+          25
+        ],
+        "quotation": "Since the number n decreases the consumer has fewer units but the value of each unit increases. However, because the value increases less as the number decreases, the consumer becomes poorer. This fact encourages him to decrease his consumption, which is well observed in reality. Little by little, the difference between the number n and the unit u",
+        "normalization": "whitespace",
+        "context_before": "a return of the value of the unit to its real level of reference, which favours and causes the economic system to be put back in order.  Possibility 2b1 – Deflation The variables evolve as follows:  dn < 0 and : δu > 0 with : |dn| > |δu| ",
+        "context_after": " increases. However, if the consumer loses, the supplier wins. A priori, the entrepreneur is happy. However, since the consumer loses, he consumes less. This causes the company's income to decrease and encourages it first to separate from t",
+        "argument_function": "Consommation moindre malgré avantage initial fournisseur; g variable"
+      }
+    ],
+    "conditions": "n baisse, u augmente insuffisamment selon le manuscrit",
+    "campergue_result": "Appauvrissement consommateur, activité puis emploi menacés",
+    "standard_comparison": "Déflation du corpus et déflation d’un indice non équivalentes",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-11",
+    "name": "Réévaluation correctrice",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 25,
+        "pages": [
+          25
+        ],
+        "quotation": "The undervaluation of the Money due to deflation necessarily leads to its revaluation in the more or less long term. Normally, the decrease in the number n logically implies the same increase in the unit u. But since deflation has reduced the purchasing power of the consumer, it's imperative that it increases so that it gains what it has previously lost.",
+        "normalization": "whitespace",
+        "context_before": ". It is possible to conceive of deflation as an undervaluation of the monetary unit that can lead to the ruin of the economic system.  Possibility 2b2 – Revaluation The variables evolve as follows:  δn < 0 and : du > 0 with : |δn| < |du| ",
+        "context_after": "",
+        "argument_function": "Restitution du pouvoir d’achat antérieurement perdu"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 26,
+        "pages": [
+          26
+        ],
+        "quotation": "It is therefore necessary that the value of the unit u increases more than the number n decreases. It is possible to conceive of revaluation as a return of the value of the unit u to its real reference level, which favours and causes the economic system to be put back in order. Comparing the cases of inflation and deflation shows that the natural trend in",
+        "normalization": "whitespace",
+        "context_before": "26 ",
+        "context_after": " price evolution is inflation, since this is what consumers are looking for: this hypothesis allows them to acquire a Product supplement. This is indeed what has been observed historically: inflationary episodes, which are advantageous for ",
+        "argument_function": "Restitution du pouvoir d’achat antérieurement perdu"
+      }
+    ],
+    "conditions": "Suite de 2b1; appréciation de u supérieure au retrait de n",
+    "campergue_result": "Retour au niveau de référence affirmé",
+    "standard_comparison": "Réévaluation et appréciation réelle dépendent du référent",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-12",
+    "name": "Prix et utilité baissent : enrichissement",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 291,
+        "pages": [
+          291
+        ],
+        "quotation": "This hypothesis indicates that the majority of the agents under consideration see their purchasing power increase since they can acquire Products for which their need is of lower and lower priority than those they could previously purchase, since Utility decreases. If, for example, they could only buy, with the income they have, 50% of the Products put on",
+        "normalization": "whitespace",
+        "context_before": " the opposite. When analysing the table, it's implicit that the price or Utility can remain stable, which corresponds to a borderline situation between the different possibilities. 1. Possibility 1 ⇒ Price and Utility decrease ⇔ Enrichment ",
+        "context_after": " the market, they are now able to acquire 51%, 52% or more of these Products. Thus, this hypothesis corresponds to the enrichment of the economic system to which these agents belong, which is in principle the aim of any economic policy. 2. ",
+        "argument_function": "Extension des besoins satisfaits à revenu donné"
+      }
+    ],
+    "conditions": "Force FA constante; produits moins prioritaires accessibles",
+    "campergue_result": "Enrichissement; rP constant dans le tableau",
+    "standard_comparison": "Prix et Utility baissent: nomenclature de scénario, pas surplus mesuré",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01",
+      "CBIB-06",
+      "CBIB-10"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-13",
+    "name": "Prix baisse et utilité augmente : déflation",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 291,
+        "pages": [
+          291
+        ],
+        "quotation": "despite a fall in prices, agents can only satisfy, with the income at their disposal, increasingly indispensable needs, which is what happens when the economic system is in deflation. 3. Possibility 3 ⇒ Price increases and Utility decreases ⇔ Inflation This hypothesis corresponds to the common case where agents see their purchasing power decrease by price",
+        "normalization": "whitespace",
+        "context_before": "o the enrichment of the economic system to which these agents belong, which is in principle the aim of any economic policy. 2. Possibility 2 ⇒ Price decreases and Utility increases ⇔ Deflation This hypothesis corresponds to the case where, ",
+        "context_after": " increases. However, they can always acquire Products whose Utility decreases. For example, if an agent already owns Products with a high Utility, he will buy with his income those with a lower Utility, but with increasing difficulty. 4. Po",
+        "argument_function": "Baisse de prix ne suffit pas; rP diminue pour rétablir la Core Law (292–293)"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 292,
+        "pages": [
+          292
+        ],
+        "quotation": "the only solution is to change the r P coefficient. By posing : ↓ = Significant downward variation (greater than ) ↑ = Significant upward variation (greater than ) the table then changes as follows: Utility of Product  Utility of Product  Price  1. Enrichment : r P  2. Deflation : r P ↓ Price  3. Inflation : r P ↑ 4. Impoverishment : r P ",
+        "normalization": "whitespace",
+        "context_before": "rrect and damaging march of the Economy, which must be fought against. Furthermore, it should be noted that : Enrichment = Impoverishment ̶ Inflation = Deflation ̶ In order to find the truth of the law, for cases of deflation or inflation, ",
+        "context_after": "",
+        "argument_function": "Baisse de prix ne suffit pas; rP diminue pour rétablir la Core Law (292–293)"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 293,
+        "pages": [
+          293
+        ],
+        "quotation": "It should be noted that it's necessary to decrease (box 2) or increase (box 3) in greater proportions the complexity and quantity of material (r P) to counterbalance the variation in Utility in order to maintain the Force at its original value. Transformation T→M ⇒ Laws with constant characteristics Still on the basis of the core law or market law (relation",
+        "normalization": "whitespace",
+        "context_before": "ture in order to increase complexity and thus the r P coefficient, as indicated in the table above, in order to slow down the price drop; producers add many gadgets. The increase in price caused by these manipulations does cause inflation. ",
+        "context_after": " 08-04), it's possible to present three particular cases of transformations that may occur, namely :  an isobaric transformation (at constant F A Force),  an isoaxial transformation (at constant p price),  an isopheles transformation (wi",
+        "argument_function": "Baisse de prix ne suffit pas; rP diminue pour rétablir la Core Law (292–293)"
+      }
+    ],
+    "conditions": "FA constante; besoins satisfaits plus indispensables",
+    "campergue_result": "Déflation, pas enrichissement automatique",
+    "standard_comparison": "Prix baisse et Utility augmente: ne pas confondre qualité supérieure et déflation standard",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01",
+      "CBIB-06",
+      "CBIB-10"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-14",
+    "name": "Prix augmente et utilité baisse : inflation",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 291,
+        "pages": [
+          291
+        ],
+        "quotation": "This hypothesis corresponds to the common case where agents see their purchasing power decrease by price increases. However, they can always acquire Products whose Utility decreases. For example, if an agent already owns Products with a high Utility, he will buy with his income those with a lower Utility, but with increasing difficulty. 4. Possibility 4 ⇒",
+        "normalization": "whitespace",
+        "context_before": "l in prices, agents can only satisfy, with the income at their disposal, increasingly indispensable needs, which is what happens when the economic system is in deflation. 3. Possibility 3 ⇒ Price increases and Utility decreases ⇔ Inflation ",
+        "context_after": " Price and Utility increase ⇔ Impoverishment Conversely to case 1, a development during which the Utility of the Products acquired as well as their price increases corresponds to an impoverishment of the system. Indeed, with the income they",
+        "argument_function": "Achats devenant difficiles; rP augmente (292–293)"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 292,
+        "pages": [
+          292
+        ],
+        "quotation": "the only solution is to change the r P coefficient. By posing : ↓ = Significant downward variation (greater than ) ↑ = Significant upward variation (greater than ) the table then changes as follows: Utility of Product  Utility of Product  Price  1. Enrichment : r P  2. Deflation : r P ↓ Price  3. Inflation : r P ↑ 4. Impoverishment : r P ",
+        "normalization": "whitespace",
+        "context_before": "rrect and damaging march of the Economy, which must be fought against. Furthermore, it should be noted that : Enrichment = Impoverishment ̶ Inflation = Deflation ̶ In order to find the truth of the law, for cases of deflation or inflation, ",
+        "context_after": "",
+        "argument_function": "Achats devenant difficiles; rP augmente (292–293)"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 293,
+        "pages": [
+          293
+        ],
+        "quotation": "For everyday Consumer Products, essentially Type 2 Products as defined above, as producers are subject to a trend price drop to satisfy agents as to their Utility, they modify the Products they manufacture in order to increase complexity and thus the r P coefficient, as indicated in the table above, in order to slow down the price drop; producers add many",
+        "normalization": "whitespace",
+        "context_before": "etary units look for the simplest and therefore cheapest Products. On the other hand, during inflationary episodes, individuals tend to acquire increasingly complex Products because they normally have more monetary units at their disposal. ",
+        "context_after": " gadgets. The increase in price caused by these manipulations does cause inflation. It should be noted that it's necessary to decrease (box 2) or increase (box 3) in greater proportions the complexity and quantity of material (r P) to count",
+        "argument_function": "Achats devenant difficiles; rP augmente (292–293)"
+      }
+    ],
+    "conditions": "FA constante; besoins moins prioritaires encore accessibles",
+    "campergue_result": "Pouvoir d’achat décroissant dans ce passage",
+    "standard_comparison": "Prix monte et Utility baisse: prix ajusté/évolution du besoin à distinguer",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01",
+      "CBIB-06",
+      "CBIB-10"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-15",
+    "name": "Prix et utilité augmentent : appauvrissement",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 291,
+        "pages": [
+          291
+        ],
+        "quotation": "Conversely to case 1, a development during which the Utility of the Products acquired as well as their price increases corresponds to an impoverishment of the system. Indeed, with the income they have, agents can only acquire",
+        "normalization": "whitespace",
+        "context_before": "e Utility decreases. For example, if an agent already owns Products with a high Utility, he will buy with his income those with a lower Utility, but with increasing difficulty. 4. Possibility 4 ⇒ Price and Utility increase ⇔ Impoverishment ",
+        "context_after": "",
+        "argument_function": "Produits plus chers et priorités plus urgentes"
+      }
+    ],
+    "conditions": "FA constante; retour aux besoins indispensables",
+    "campergue_result": "Appauvrissement; rP constant dans le tableau",
+    "standard_comparison": "Prix et Utility montent: préférence contextuelle distincte de prix réel",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01",
+      "CBIB-06",
+      "CBIB-10"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-16",
+    "name": "Changement de dénomination",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 174,
+        "pages": [
+          174
+        ],
+        "quotation": "Two typical examples of this case are respectively the transition from the old to the new Francs in 1959 and, closer to us, the transition from Francs to Euros. Indeed, in the first example, the number of monetary units was divided by 100 and therefore the value of the monetary unit was multiplied by the same amount with 1 New Franc equal to 100 Old Francs.",
+        "normalization": "whitespace",
+        "context_before": "174 ",
+        "context_after": " The changeover to the Single European Money represents the same mechanism with the same coefficient. As the number of monetary units has been divided by 6.55 957 in relation to the Franc, the value of the unit has been multiplied by this c",
+        "argument_function": "Ancien/nouveau franc; franc/euro comme illustration de 2b"
+      }
+    ],
+    "conditions": "Conversion de tous les montants par un même facteur; pas de transformation réelle",
+    "campergue_result": "n divisé, u multiplié; richesse inchangée",
+    "standard_comparison": "Redénomination et invariance à l’unité de compte",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-17",
+    "name": "Redistribution entre agents",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 173,
+        "pages": [
+          173
+        ],
+        "quotation": "if some agents have increases in income (salary or other) this necessarily implies a loss (decrease) of income for other agents, because it will have been necessary to take the Money before it's redistributed to the agents whose salaries are increased. For example, if we consider an economic system made up of 20 million agents, and of these 200,000 (1%)",
+        "normalization": "whitespace",
+        "context_before": "173 doesn't mean that within the system there cannot be variations between the different parts of the system. In the case we are concerned with, ",
+        "context_after": " have their income increased by 5%, the average loss of other agents (19,800,000) will be 0.05%. In any case, this doesn't in any way increase the overall wealth of the system. However, in any system, physical or otherwise, gradients always",
+        "argument_function": "Gain de certains payé par les autres"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 147,
+        "pages": [
+          147
+        ],
+        "quotation": "if their own remuneration were to be reduced, the number of monetary units (n) circulating in the economic system could decrease, thus implying an increase in the value of the unit (u), and incidentally the enrichment of others (as already specified). This hypothesis would thus embody the true principle of trickle-down (from the bottom up), but this study",
+        "normalization": "whitespace",
+        "context_before": "",
+        "context_after": "",
+        "argument_function": "Formulation complémentaire à comparer au scénario, sans équivalence causale automatique."
+      }
+    ],
+    "conditions": "M global constant; système isolé, prélèvements et transferts",
+    "campergue_result": "Richesse globale constante, distribution variable",
+    "standard_comparison": "Incidence distributive et transferts entre agents",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01",
+      "BIB-0003",
+      "CBIB-04"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-18",
+    "name": "Attribution exclusive du crédit bancaire au cas 2",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 98,
+        "pages": [
+          98
+        ],
+        "quotation": "a banker's professional actions only comply with :  possibility N° 1 and only to this one, when he refuses a credit,  possibility N° 2 and only to this one, when granting a credit not covered by deposits. These two possibilities indicate the absolute constancy of the Money, i.e. the monetary wealth of the system under consideration. The only thing a",
+        "normalization": "whitespace",
+        "context_before": "ng four possibilities: 1. n is constant and : u is constant ⇒M is constant 2. n is variable and : u is variable ⇒M is constant 3. n is constant and : u is variable ⇒M is variable 4. n is variable and : u is constant ⇒M is variable However, ",
+        "context_after": " banker is",
+        "argument_function": "Banque crée Cash/n, pas Work; impossibilité de 3/4 affirmée page99"
+      }
+    ],
+    "conditions": "Crédit non couvert classé uniquement en 2; refus uniquement en 1",
+    "campergue_result": "Pas de création de Money par le crédit selon Campergue",
+    "standard_comparison": "Création bancaire de dépôts ≠ attribution exclusive à neutralité réelle",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-19",
+    "name": "Inertie et compensation différée",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 175,
+        "pages": [
+          175
+        ],
+        "quotation": "Of course, any economic system has a certain inertia (like any physical system), the increase in certain incomes being immediate and the increase in prices being delayed for a certain period of time because of this inertia, resulting in a momentary increase in wealth. But because of this inertia, this temporary enrichment will necessarily be followed, later",
+        "normalization": "whitespace",
+        "context_before": "ceive a surplus of monetary units will be favoured at the expense of those who will not have received any, because the latter will see their income decrease at the same time as the value of the unit, which, as before, increases inequality. ",
+        "context_after": " on, by a decrease in the latter, i.e. by an impoverishment, the overall final result of the system being absolutely and rigorously zero. This hypothesis (composed of constant money possibilities 1 and 2) shows that no monetary wealth is ne",
+        "argument_function": "Gain temporaire puis impoverishment compensatrice"
+      }
+    ],
+    "conditions": "Revenus immédiats, prix retardés; clôture globale annoncée",
+    "campergue_result": "Résultat final rigoureusement nul affirmé, non instantané",
+    "standard_comparison": "Délais d’ajustement, inertie des prix; horizon explicite",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-20",
+    "name": "Support métallique, surémission et confiance",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 101,
+        "pages": [
+          101
+        ],
+        "quotation": "As long as the number (n) of monetary units issued on paper (by the “General Bank”) was equivalent to the metal stocks (gold and silver), the functioning of the economic system set up by Law was correct. There came a time when the issuance of monetary units was much higher than the gold and silver held. As the number (n) increased, the monetary unit (u)",
+        "normalization": "whitespace",
+        "context_before": "it leads to no-confidence ⇒ if u  (∂u < 0)⇒ no- confidence The John Law case corroborates the above in every respect. The Relationship : M=n.u=Constante is always true even when there is no difference, i.e. when the Work is nil or absent. ",
+        "context_after": " dropped to ensure the consistency of the previous relationship, since no Work was provided. This isn't special to paper- money but to any Cash (support of Money) whatsoever. If, quite unexpectedly, a gigantic deposit containing several hun",
+        "argument_function": "Baisse proportionnelle de u; confiance tenue pour conséquence, non cause"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 100,
+        "pages": [
+          100
+        ],
+        "quotation": "From this paragraph it can be concluded that “confidence (no-confidence) in cash” is never the cause of a phenomenon but only the consequence of a hypothetical positive (negative) change in the monetary unit. This expression therefore doesn’t need to be used and is therefore excluded from this study where only the variation (∂u ≠ 0) of the unit's allowed.",
+        "normalization": "whitespace",
+        "context_before": "ies precisely to the monetary unit (u). Thus :  a positive variation in the monetary unit leads to confidence ⇒ if u  (∂u > 0)⇒ confidence  a negative variation in the monetary unit leads to no-confidence ⇒ if u (∂u < 0)⇒ no-confidence ",
+        "context_after": "",
+        "argument_function": "Baisse proportionnelle de u; confiance tenue pour conséquence, non cause"
+      }
+    ],
+    "conditions": "Sans Work; émission au-delà des stocks ou découverte massive d’or",
+    "campergue_result": "M supposé constant quelle que soit la nature de Cash",
+    "standard_comparison": "Monnaie marchandise, confiance et moyens de paiement",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-21",
+    "name": "Vitesse des prix dépassant la consommation",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 26,
+        "pages": [
+          26
+        ],
+        "quotation": "As long as the speed of price increases remains lower than that of consumption, all consumers are winners and savers are losers. But when the speed of inflation becomes higher, all consumers also lose out because they no longer have enough time to consume before prices rise again. They can therefore be described as savers. The latter hypothesis can be",
+        "normalization": "whitespace",
+        "context_before": " etc., of a correct and adequate functioning of the economic system. It is therefore possible to argue that :  only the balance between supply and demand policy is to be sought, so that developments remain coherent (possibilities 2a, 2b). ",
+        "context_after": " defined as a state of hyperinflation. Conclusion",
+        "argument_function": "Consommateurs gagnants deviennent perdants faute de dépenser assez vite"
+      }
+    ],
+    "conditions": "Comparer vitesse de hausse des prix et délai de dépense",
+    "campergue_result": "Hyperinflation définie comme limite temporelle",
+    "standard_comparison": "Prix relatifs à revenu/consommation; dynamique nominale et réelle",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-22",
+    "name": "Money créé non entièrement dépensé",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 523,
+        "pages": [
+          523
+        ],
+        "quotation": "However, the created Money Mc can be hoarded, so : Mc ≥M d or : gTM⋅T d ≥ T c gMT : hence:",
+        "normalization": "whitespace",
+        "context_before": "o account the cause (index d for spent) and the effect (index c for created), these relations are respectively written : M c = gTM⋅T d and : T c = gMT⋅M d ⇒M d = T c gMT However, the Money spent Md was necessarily created prior to its use. ",
+        "context_after": "",
+        "argument_function": "Thésaurisation admise: Mc ≥ Md"
+      }
+    ],
+    "conditions": "Création antérieure à usage; Mc et Md distincts",
+    "campergue_result": "Pas d’égalité obligatoire création/dépense",
+    "standard_comparison": "Épargne, encaisse de précaution et dépense différée",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-23",
+    "name": "Revenu et prix fixes : intérieur et extérieur",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 183,
+        "pages": [
+          183
+        ],
+        "quotation": "Some might indeed think that increasing income by holding prices constant is similar to lowering prices by holding income constant. However, this view of things is only valid within the economic system under consideration, i.e., as a general rule, within the same country. On the other hand, compared to another system, i.e. another country with a different",
+        "normalization": "whitespace",
+        "context_before": "tant wage level: this is strictly specified in the box above. All of this demonstrates in the most formal way that coinage, minting money, is by no means a creation. Every German in 1923 was a multi-billionaire and yet lived very sparsely. ",
+        "context_after": " currency, the increase in income necessarily implies a devaluation corresponding to the decrease in the value of the Money (analytical possibility 2). This chapter demonstrates that it's imperative to distinguish Money from Cash. Indeed, a",
+        "argument_function": "Équivalence intérieure admise, dévaluation extérieure nécessaire affirmée"
+      }
+    ],
+    "conditions": "Revenu augmente à prix constants; distinction pays/devise",
+    "campergue_result": "Avantage intérieur opposé à compensation extérieure",
+    "standard_comparison": "Budget local et effets externes; frontière de système",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-24",
+    "name": "Combinaison quotidienne des possibilités",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 18,
+        "pages": [
+          18
+        ],
+        "quotation": "The various developments represented by all the possibilities (1, 2, 3, 4) listed above exist and form a mixture that shapes daily reality. Whichever economic system is considered, it follows from this paragraph that any change in the number of monetary units doesn't alter the overall wealth of that system. This is due to the fact that no Work (energy)",
+        "normalization": "whitespace",
+        "context_before": "ll (dn < 0)  causes the value of the unit (u) increase (du > 0) Thus the increase in the number of monetary units (granting of a loan not covered by deposits) doesn’t create money and its decrease (repayment of a loan) doesn't destroy it. ",
+        "context_after": " commensurate with this change is required, as it derives from human initiative and behaviour following an accounting procedure. The result can only be a change strictly within the system, but without any global modification of the system. ",
+        "argument_function": "Composition des possibilités 1–4 explicitement admise"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 182,
+        "pages": [
+          182
+        ],
+        "quotation": "In everyday reality, developments can be seen as being formed from different possibilities that have just been defined. In an isolated system, if for some reason part of the population sees its income increase, it's certain that the rest of the population will see its income decrease, all other things being equal. If the heads of companies and shareholders",
+        "normalization": "whitespace",
+        "context_before": " and, consequently, of reason. Moreover :  these four analytical possibilities identify all possible monetary developments,  all the monetary considerations that one can imagine necessarily reside there.  NO OTHER POSSIBILITY CAN EXIST. ",
+        "context_after": " are",
+        "argument_function": "Composition des possibilités 1–4 explicitement admise"
+      }
+    ],
+    "conditions": "Plusieurs opérations/régimes; pas une seule expérience toutes choses égales",
+    "campergue_result": "n,u,M observés agrégés peuvent combiner plusieurs effets",
+    "standard_comparison": "Combinaison de chocs nominaux, réels et distributifs",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-25",
+    "name": "Couplage spéculateur–fournisseur et coefficients",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 533,
+        "pages": [
+          533
+        ],
+        "quotation": "If we assume a speculator increases his Avarice as indicated in possibility 2b1 (table M→T of the transformation), he decreases the Money Md he spends, which increases the coefficient gMT and leaves the created Work Tc constant. But the supplier is then obliged to increase the Work Td it provides in order to try to make up for what it has previously lost",
+        "normalization": "whitespace",
+        "context_before": "ation is to make a maximum profit as quickly as possible: speculators with a very high Avarice. In order to increase their profit, they evade the proper functioning of the economy by pursuing an incoherent course of action by taking risks. ",
+        "context_after": " according to possibility 2b2 (T→M transformation table). This induces a decrease in the gTM coefficient by leaving the created Money Mc constant. Here it is necessary to notice that the created Work Tc in the M→T transformation is null but",
+        "argument_function": "Md baisse,gMT monte,Tc constant; Td augmente,gTM baisse,Mc constant"
+      }
+    ],
+    "conditions": "2b1 M→T couplé à 2b2 T→M; coefficients variables",
+    "campergue_result": "Transfert et inégalités accrus",
+    "standard_comparison": "Gain de détention / prix spéculatif / coefficient de conversion",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01",
+      "BIB-0003",
+      "CBIB-04"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-26",
+    "name": "Variations simultanées de même signe exclues",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 30,
+        "pages": [
+          30
+        ],
+        "quotation": "The dark shaded areas represent the variation dn in the number n of units and the variation of the unit u simultaneously either positive or negative, which is strictly impossible as this would call into question the validity of the Sacred Principle of Conservation. 1.2 Core Elements ABSTRACT: This chapter is the foundation on which the essay is built.",
+        "normalization": "whitespace",
+        "context_before": "30 Synthesis Diagram 26-07, on the right, (extract chapter 26) lists all the possible coherent and incoherent developments in the Money that have just been defined above. ",
+        "context_after": " Because the previous chapter strongly encourages the application of the formalism of thermodynamics, it is necessary to present the principles and premises, without however justifying them analytically here, which are in conformity with an",
+        "argument_function": "Exclusion invoquant la conservation, non l’identité seule"
+      }
+    ],
+    "conditions": "dn et du tous deux positifs ou négatifs",
+    "campergue_result": "Cas déclaré strictement impossible",
+    "standard_comparison": "Restriction de co-variation n,u: non déduite de simple identité",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-27",
+    "name": "Coût décroissant, prix de vente constant",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 20,
+        "pages": [
+          20
+        ],
+        "quotation": "if the selling price is kept constant despite this drop in cost price, then it's possible to consider that there are two variations, namely : 1. a prior reduction in price which is related to physics, 2. a subsequent consecutive price increase which is related to accounting.",
+        "normalization": "whitespace",
+        "context_before": "s reduce prices (at least “cost prices”). Work (energy) that allows a reduction in the cost price can be described as “productive Work”, while work that doesn’t allow a reduction in price can be defined as “unproductive work”. For example, ",
+        "context_after": "",
+        "argument_function": "Décomposition en baisse productive puis hausse comptable"
+      }
+    ],
+    "conditions": "Coût baisse mais entrepreneur maintient prix",
+    "campergue_result": "Gain non automatiquement transmis au consommateur",
+    "standard_comparison": "Baisse de coût, prix fixe et marge unitaire conditionnelle",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01",
+      "CBIB-06",
+      "CBIB-10"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-28",
+    "name": "Prix local et nombre global N",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 537,
+        "pages": [
+          537
+        ],
+        "quotation": "However, the number n of units is the one involved in the transformation considered and only it. It is obvious that in a complex system, such as a country, it is necessary to take into account the total number N of units that exist there. The relationship becomes : (∂M )n ,N = n N ⋅∂u ‹26-01› But we also know the 04-08 relationship giving the Money",
+        "normalization": "whitespace",
+        "context_before": "537 The quantity of Money created or destroyed is therefore directly proportional to the variation du in the value of the unit u. ",
+        "context_after": " according to price, namely : dM = −F A⋅dp It is therefore possible to write : n N ⋅∂u = −FA ⋅∂p which gives: ∂u = −F A⋅N n ⋅∂p ‹26-02› This relationship (26-02) and the relationship 04-08 show that : • if the price decreases, wealth increa",
+        "argument_function": "Pondération locale/globale proposée; limite macro explicite page538"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 538,
+        "pages": [
+          538
+        ],
+        "quotation": "If we consider a complex (macroeconomic) system, such as a country, with a very large number of elements that can provide Work and therefore create Money, then this essay is still valid for the understanding of each of the transformations, but it cannot apprehend this creation of wealth directly in its entirety. In physics, certain generalisations could be",
+        "normalization": "whitespace",
+        "context_before": "power, ...) through the study of the transformation of Work into Money. This is only valid for a single transformation, that is to say, what a single Transformer carries out in order to produce a single copy of the Product he manufactures. ",
+        "context_after": " “understood” by the notion of field. For example, in meteorology, it is possible to consider a volume of atmosphere for which certain characteristics (pressure, temperature, speed, etc.) allow its dynamics to be calculated. But in order to",
+        "argument_function": "Pondération locale/globale proposée; limite macro explicite page538"
+      }
+    ],
+    "conditions": "n de transformation distinct de N du système",
+    "campergue_result": "Ne pas identifier un prix local au pouvoir d’achat national",
+    "standard_comparison": "Normalisation locale/globale, agrégation et choix de numéraire",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-29",
+    "name": "Appréciation spéculative de u sans retrait de n",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 146,
+        "pages": [
+          146
+        ],
+        "quotation": "However, it's always possible to cheat momentarily by increasing the value of the unit (u) without decreasing its number (n). In general, this is what happens when stock market indices rise during episodes of upward speculation. But, sooner or later and inexorably, the return to equilibrium, between the number of units and its value, will happen in such a",
+        "normalization": "whitespace",
+        "context_before": ", the Money is always constant as long as there is no Economic Work provided, which means that if the number (n) of units varies, the value of that unit changes strictly and proportionally inversely. ",
+        "context_after": " way that the Money is constant, inevitably provoking economic crises (Black Thursday of 24 October 1929, Asian crisis of July 1997, Internet bubble of March 2000, subprime crisis of 2007, ...). 2. Th",
+        "argument_function": "Hausse des indices interprétée comme u accru; retour ultérieur obligatoire"
+      }
+    ],
+    "conditions": "Sans Work, n non diminué; spéculation temporaire",
+    "campergue_result": "Gain transitoire puis crise rétablissant M constant",
+    "standard_comparison": "Plus-value et réévaluation, pas nouvelle production automatiquement",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01",
+      "BIB-0003",
+      "CBIB-04"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-30",
+    "name": "Bouclage par dévaluation",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 344,
+        "pages": [
+          344
+        ],
+        "quotation": "The equality between these two Money will thus only be acquired : 1. either by devaluation, which causes an economic distortion, 2. or by a Work spent in excess of the Work created. For this reason, more Work is needed to pay the interest. As stated in the chapter “Value of the monetary unit”, the second hypothesis (possibilities 3 and 4) is therefore the",
+        "normalization": "whitespace",
+        "context_before": "es Mcreated of Money, with : M spent > T created = T spent > M created ‹11-06› We see in this latter relationship that the Money spent is greater than the Money created, which is strictly impossible. ",
+        "context_after": " only economically valid method. Consequently, it can be said that : • the Work done is always greater than the Work to be done, the supplement is a function of external constraints, • the Work done i",
+        "argument_function": "Dévaluation présentée comme première voie pour restaurer égalité"
+      }
+    ],
+    "conditions": "Cycle Money→Work→Money avec pertes et Money dépensé supérieur à Money créé",
+    "campergue_result": "Égalité recherchée au prix d’une distorsion",
+    "standard_comparison": "Dévaluation dans bilan d’intérêts; lien économique non identité",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01",
+      "BIB-0003",
+      "CBIB-04"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-31",
+    "name": "Bouclage par Work supplémentaire pour les intérêts",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 344,
+        "pages": [
+          344
+        ],
+        "quotation": "or by a Work spent in excess of the Work created. For this reason, more Work is needed to pay the interest. As stated in the chapter “Value of the monetary unit”, the second hypothesis (possibilities 3 and 4) is therefore the only economically valid method. Consequently, it can be said that : • the Work done is always greater than the Work to be done, the",
+        "normalization": "whitespace",
+        "context_before": "nt is greater than the Money created, which is strictly impossible. The equality between these two Money will thus only be acquired : 1. either by devaluation, which causes an economic distortion, 2. ",
+        "context_after": " supplement is a function of external constraints, • the Work done is always greater than the minimum necessary Work and sufficient to obtain the Money. This is another expression of the Second Princi",
+        "argument_function": "Seconde voie : davantage de Work, reliée aux possibilités3/4"
+      }
+    ],
+    "conditions": "Même cycle; Work dépensé supplémentaire",
+    "campergue_result": "Surplus productif pour payer les intérêts, voie dite valide",
+    "standard_comparison": "Production couvrant service de dette; paiement d’intérêt ≠ nécessité universelle de Work supplémentaire",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01",
+      "BIB-0003",
+      "CBIB-04"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  },
+  {
+    "id": "SC-MONEY-32",
+    "name": "Non-neutralité réciproque entre acteurs",
+    "sources": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 400,
+        "pages": [
+          400
+        ],
+        "quotation": "AN ECONOMIC DECISION IS NEVER NEUTRAL, NEITHER ON WORK NOR ON MONEY. ◦ it acts inversely for an actor, ◦ it acts identically for two actors.",
+        "normalization": "whitespace",
+        "context_before": "n fact, the greater the Work done by the supplier, the lower the price, which leads to a surplus of Money for the consumer and, therefore, allows him to acquire more and/or higher quality Products. • ",
+        "context_after": "",
+        "argument_function": "Money gagné par un acteur associé à Work inverse; configuration opposée et état constant explicités"
+      },
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 380,
+        "pages": [
+          380
+        ],
+        "quotation": "An economic decision acting on one actor always acts in the opposite direction on the other actor. • IT CAN NEVER BE NEUTRAL. However, it's possible to reflect further on the different evolutions that may occur. In the transformation Work→Money we have seen that : • for an Unconstrained Transformer, we have: U P2 U P1 →1 ⇒ U P1 −U P2 →0 Since the difference",
+        "normalization": "whitespace",
+        "context_before": "",
+        "context_after": "",
+        "argument_function": "Formulation complémentaire à comparer au scénario, sans équivalence causale automatique."
+      }
+    ],
+    "conditions": "Consommateur et fournisseur; trois configurations aux tableaux399–400",
+    "campergue_result": "Décision déclarée non neutre sur Work et Money, sans identité avec neutralité monétaire agrégée",
+    "standard_comparison": "Incidence réciproque des échanges; gain de transaction et transfert distincts",
+    "translation": "Cash: specified instruments/nominal accounts; Money: corpus value concept, not automatically bank deposits or standard real balance",
+    "difference": "Preserve scenario conditions, Utility and actor/horizon; institutional deposit creation alone does not decide real gain.",
+    "relation": "PARTIAL_PARALLEL",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01",
+      "BIB-0003",
+      "CBIB-04"
+    ],
+    "automatic_money_mapping": false,
+    "theoretical_contradiction_inferred_from_terms": false
+  }
+]

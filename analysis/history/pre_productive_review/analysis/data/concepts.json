@@ -1,0 +1,1608 @@
+[
+  {
+    "id": "supply",
+    "preferred_term": "supply",
+    "variants": [
+      "offer"
+    ],
+    "definition_by_campergue": "L’offre est définie comme un nombre de cycles de fabrication par unité de temps.",
+    "contextual_use": "L’offre est définie comme un nombre de cycles de fabrication par unité de temps.",
+    "definition_status": "SOURCE_LINKED_INTERPRETATION",
+    "source_pages": [
+      34
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 34,
+        "pages": [
+          34
+        ],
+        "quotation": "The offer of a Product can be defined as the number of times the manufacturing cycle is performed per unit of time.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "production"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0037"
+    ],
+    "ambiguities": [
+      "Définie ici comme cycles de fabrication par unité de temps ; pas une courbe de marché."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "work",
+    "preferred_term": "Economic Work",
+    "variants": [
+      "Work",
+      "T"
+    ],
+    "definition_by_campergue": "Pour une tâche constante, Work dépend de sa vitesse d’exécution.",
+    "contextual_use": "Pour une tâche constante, Work dépend de sa vitesse d’exécution.",
+    "definition_status": "SOURCE_LINKED_INTERPRETATION",
+    "source_pages": [
+      188
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 188,
+        "pages": [
+          188
+        ],
+        "quotation": "for a constant labour, the Work varies according to its speed of execution.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "labour",
+      "productivity",
+      "force"
+    ],
+    "distinguished_from": [
+      "labour"
+    ],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0003",
+      "CPC-0009",
+      "CPC-0016",
+      "CPC-0017",
+      "CPC-0018",
+      "CPC-0019",
+      "CPC-0022",
+      "CPC-0023",
+      "CPC-0032",
+      "CPC-0035",
+      "CPC-0036",
+      "CPC-0039",
+      "CPC-0040",
+      "CPC-0041",
+      "CPC-0043",
+      "CPC-0049",
+      "CPC-0051",
+      "CPC-0052",
+      "CPC-0064",
+      "CPC-0065"
+    ],
+    "ambiguities": [
+      "Ne pas confondre travail mécanique W, Work T, travail accompli et restant."
+    ],
+    "definition_changes": [
+      "p203 : T effectué nul à vitesse constante ; ne pas confondre niveau cinétique et différentiel."
+    ],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "labour",
+    "preferred_term": "labour",
+    "variants": [
+      "l",
+      "task"
+    ],
+    "definition_by_campergue": "Labour désigne la tâche, constante pour un produit et une méthode de fabrication donnés.",
+    "contextual_use": "Labour désigne la tâche, constante pour un produit et une méthode de fabrication donnés.",
+    "definition_status": "SOURCE_LINKED_INTERPRETATION",
+    "source_pages": [
+      187,
+      188
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 187,
+        "pages": [
+          187,
+          188
+        ],
+        "quotation": "labour (l) must be understood as the thing to be done, the task, the job to be done. It is constant for a given Product and manufacturing method.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "work"
+    ],
+    "distinguished_from": [
+      "work"
+    ],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0051",
+      "CPC-0052",
+      "CPC-0054",
+      "CPC-0064"
+    ],
+    "ambiguities": [
+      "Tâche constante seulement à produit et méthode donnés."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "money",
+    "preferred_term": "Money",
+    "variants": [
+      "M"
+    ],
+    "definition_by_campergue": "Money mesure la valeur de Cash ; cette valeur varie dans le temps et selon le lieu.",
+    "contextual_use": "Money mesure la valeur de Cash ; cette valeur varie dans le temps et selon le lieu.",
+    "definition_status": "SOURCE_LINKED_INTERPRETATION",
+    "source_pages": [
+      188
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 188,
+        "pages": [
+          188
+        ],
+        "quotation": "the Money (M) is defined as the measure of the value of Cash",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "cash"
+    ],
+    "distinguished_from": [
+      "cash"
+    ],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0002",
+      "CPC-0003",
+      "CPC-0005",
+      "CPC-0010",
+      "CPC-0011",
+      "CPC-0012",
+      "CPC-0013",
+      "CPC-0015",
+      "CPC-0016",
+      "CPC-0022",
+      "CPC-0023",
+      "CPC-0028",
+      "CPC-0030",
+      "CPC-0032",
+      "CPC-0033",
+      "CPC-0034",
+      "CPC-0039",
+      "CPC-0041",
+      "CPC-0043",
+      "CPC-0045",
+      "CPC-0046",
+      "CPC-0048",
+      "CPC-0050",
+      "CPC-0053",
+      "CPC-0069",
+      "CPC-0070",
+      "CPC-0071",
+      "CPC-0072",
+      "CPC-0073",
+      "CPC-0074",
+      "CPC-0075",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079",
+      "CPC-0080",
+      "CPC-0081",
+      "CPC-0082",
+      "CPC-0083",
+      "CPC-0084",
+      "CPC-0085",
+      "CPC-0086",
+      "CPC-0087",
+      "CPC-0088",
+      "CPC-0089",
+      "CPC-0090",
+      "CPC-0091",
+      "CPC-0092",
+      "CPC-0093"
+    ],
+    "ambiguities": [
+      "Pages 19 et 188 : supplément après baisse de prix versus mesure de valeur de Cash ; articulation à poursuivre.",
+      "Révision ciblée : ne pas confondre M constant et u constant; libellés Constant/Current divergents pp171,173,177; inflation pp24 et291 à réconcilier."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false,
+    "money_review": "analysis/24_money_compensation_scenarios.md"
+  },
+  {
+    "id": "cash",
+    "preferred_term": "Cash",
+    "variants": [],
+    "definition_by_campergue": "Une ligne de crédit bancaire est Cash, pas Money dans ce vocabulaire.",
+    "contextual_use": "Une ligne de crédit bancaire est Cash, pas Money dans ce vocabulaire.",
+    "definition_status": "SOURCE_LINKED_INTERPRETATION",
+    "source_pages": [
+      187
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 187,
+        "pages": [
+          187
+        ],
+        "quotation": "the inscription of a line of bank credit should not be considered as Money but only as Cash.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "money",
+      "accounting"
+    ],
+    "distinguished_from": [
+      "money"
+    ],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0041",
+      "CPC-0046",
+      "CPC-0050",
+      "CPC-0053",
+      "CPC-0059",
+      "CPC-0066",
+      "CPC-0069",
+      "CPC-0070",
+      "CPC-0071",
+      "CPC-0072",
+      "CPC-0073",
+      "CPC-0074",
+      "CPC-0075",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079",
+      "CPC-0080",
+      "CPC-0081",
+      "CPC-0082",
+      "CPC-0083",
+      "CPC-0084",
+      "CPC-0085",
+      "CPC-0086",
+      "CPC-0087",
+      "CPC-0088",
+      "CPC-0089",
+      "CPC-0090",
+      "CPC-0091",
+      "CPC-0092",
+      "CPC-0093"
+    ],
+    "ambiguities": [
+      "Inclut supports physiques et inscription de crédit ; ne signifie pas seulement espèces.",
+      "Révision ciblée : ne pas confondre M constant et u constant; libellés Constant/Current divergents pp171,173,177; inflation pp24 et291 à réconcilier."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false,
+    "money_review": "analysis/24_money_compensation_scenarios.md"
+  },
+  {
+    "id": "product",
+    "preferred_term": "Product",
+    "variants": [],
+    "definition_by_campergue": "Product est défini par sa capacité à être acquis, transformé ou vendu et comme support de Work.",
+    "contextual_use": "Product est défini par sa capacité à être acquis, transformé ou vendu et comme support de Work.",
+    "definition_status": "SOURCE_LINKED_INTERPRETATION",
+    "source_pages": [
+      187
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 187,
+        "pages": [
+          187
+        ],
+        "quotation": "the Product represents any object, merchandise, product, good or service that an economic agent",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "work"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0006",
+      "CPC-0036",
+      "CPC-0041",
+      "CPC-0049",
+      "CPC-0054",
+      "CPC-0055",
+      "CPC-0057",
+      "CPC-0066"
+    ],
+    "ambiguities": [
+      "Page 12 insiste sur fabrication humaine ; page 187 inclut matières premières et échangeabilité."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "production",
+    "preferred_term": "production",
+    "variants": [
+      "manufacturing"
+    ],
+    "definition_by_campergue": null,
+    "contextual_use": "La production précède la consommation.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      13
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 13,
+        "pages": [
+          13
+        ],
+        "quotation": "production being, of course, always prior to consumption.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "creation",
+      "use"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0006",
+      "CPC-0008",
+      "CPC-0037"
+    ],
+    "ambiguities": [
+      "Emploi contextuel ; définition indépendante non établie ici."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "productivity",
+    "preferred_term": "productivity",
+    "variants": [
+      "speed of production"
+    ],
+    "definition_by_campergue": null,
+    "contextual_use": "Une hausse de productivité exige nécessairement un travail supplémentaire assimilé ici à une énergie.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      19
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 19,
+        "pages": [
+          19
+        ],
+        "quotation": "this increase in productivity necessarily requires the execution of additional Work",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "work",
+      "energy"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0016",
+      "CPC-0017",
+      "CPC-0035",
+      "CPC-0052",
+      "CPC-0064",
+      "CPC-0068"
+    ],
+    "ambiguities": [
+      "Lien nécessaire à énergie supplémentaire affirmé, pas démontré par le calcul de prix."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "price",
+    "preferred_term": "price",
+    "variants": [
+      "selling price",
+      "p"
+    ],
+    "definition_by_campergue": null,
+    "contextual_use": "Le prix de vente relève du choix de l’entrepreneur sous contraintes de concurrence et de réglementation.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      21
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 21,
+        "pages": [
+          21
+        ],
+        "quotation": "They are the sole judge and person responsible for selling prices, but always subject to the external constraints (competition, regulations, etc.) to which they are subject.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "cost"
+    ],
+    "distinguished_from": [
+      "cost"
+    ],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0015",
+      "CPC-0016",
+      "CPC-0019",
+      "CPC-0020",
+      "CPC-0021",
+      "CPC-0036",
+      "CPC-0045",
+      "CPC-0047",
+      "CPC-0058",
+      "CPC-0068"
+    ],
+    "ambiguities": [
+      "Prix de vente et coût de revient doivent être distingués."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "cost",
+    "preferred_term": "cost price",
+    "variants": [],
+    "definition_by_campergue": null,
+    "contextual_use": "Une baisse du coût peut coexister avec un prix de vente constant.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      20
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 20,
+        "pages": [
+          20
+        ],
+        "quotation": "if the selling price is kept constant despite this drop in cost price",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "price",
+      "accounting"
+    ],
+    "distinguished_from": [
+      "price"
+    ],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0020",
+      "CPC-0021"
+    ],
+    "ambiguities": [
+      "Emploi contextuel du coût de revient."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "unit",
+    "preferred_term": "value of the monetary unit",
+    "variants": [
+      "u"
+    ],
+    "definition_by_campergue": "Money est défini comme le nombre d’unités multiplié par la valeur de l’unité.",
+    "contextual_use": "Money est défini comme le nombre d’unités multiplié par la valeur de l’unité.",
+    "definition_status": "SOURCE_LINKED_INTERPRETATION",
+    "source_pages": [
+      15
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 15,
+        "pages": [
+          15
+        ],
+        "quotation": "M=n.u",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "money"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0002",
+      "CPC-0005",
+      "CPC-0010",
+      "CPC-0011",
+      "CPC-0012",
+      "CPC-0013",
+      "CPC-0016",
+      "CPC-0025",
+      "CPC-0026",
+      "CPC-0069",
+      "CPC-0070",
+      "CPC-0071",
+      "CPC-0072",
+      "CPC-0073",
+      "CPC-0074",
+      "CPC-0075",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079",
+      "CPC-0080",
+      "CPC-0081",
+      "CPC-0082",
+      "CPC-0083",
+      "CPC-0084",
+      "CPC-0085",
+      "CPC-0086",
+      "CPC-0087",
+      "CPC-0088",
+      "CPC-0089",
+      "CPC-0090",
+      "CPC-0091",
+      "CPC-0092",
+      "CPC-0093"
+    ],
+    "ambiguities": [
+      "Panier de référence et dimensions de n et u à spécifier.",
+      "Révision ciblée : ne pas confondre M constant et u constant; libellés Constant/Current divergents pp171,173,177; inflation pp24 et291 à réconcilier."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false,
+    "money_review": "analysis/24_money_compensation_scenarios.md"
+  },
+  {
+    "id": "purchasing",
+    "preferred_term": "purchasing power",
+    "variants": [],
+    "definition_by_campergue": "Money créé désigne le supplément détenu par le consommateur après une baisse de prix.",
+    "contextual_use": "Money créé désigne le supplément détenu par le consommateur après une baisse de prix.",
+    "definition_status": "SOURCE_LINKED_INTERPRETATION",
+    "source_pages": [
+      19
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 19,
+        "pages": [
+          19
+        ],
+        "quotation": "The Money is what a consumer holds in addition after a price drop.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "money",
+      "price"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0015",
+      "CPC-0016",
+      "CPC-0025",
+      "CPC-0026",
+      "CPC-0059",
+      "CPC-0069",
+      "CPC-0070",
+      "CPC-0071",
+      "CPC-0072",
+      "CPC-0073",
+      "CPC-0074",
+      "CPC-0075",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079",
+      "CPC-0080",
+      "CPC-0081",
+      "CPC-0082",
+      "CPC-0083",
+      "CPC-0084",
+      "CPC-0085",
+      "CPC-0086",
+      "CPC-0087",
+      "CPC-0088",
+      "CPC-0089",
+      "CPC-0090",
+      "CPC-0091",
+      "CPC-0092",
+      "CPC-0093"
+    ],
+    "ambiguities": [
+      "Associé au supplément de biens accessible après baisse de prix."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "creation",
+    "preferred_term": "creation",
+    "variants": [],
+    "definition_by_campergue": null,
+    "contextual_use": "La création et l’usage relèvent des lois naturelles ; la distribution relève de décisions humaines.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      13
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 13,
+        "pages": [
+          13
+        ],
+        "quotation": "points 1 (creation) and 3 (use) undeniably belong to the “Natural Sciences” and that point 2 (distribution) is systematically related to the “Human Sciences”.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "distribution",
+      "use"
+    ],
+    "distinguished_from": [
+      "distribution"
+    ],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0007",
+      "CPC-0008",
+      "CPC-0030"
+    ],
+    "ambiguities": [
+      "Distinction de portée revendiquée entre physique et décision humaine."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "distribution",
+    "preferred_term": "distribution",
+    "variants": [],
+    "definition_by_campergue": null,
+    "contextual_use": "La création et l’usage relèvent des lois naturelles ; la distribution relève de décisions humaines.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      13
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 13,
+        "pages": [
+          13
+        ],
+        "quotation": "points 1 (creation) and 3 (use) undeniably belong to the “Natural Sciences” and that point 2 (distribution) is systematically related to the “Human Sciences”.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "creation",
+      "use"
+    ],
+    "distinguished_from": [
+      "creation"
+    ],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0007",
+      "CPC-0014",
+      "CPC-0027"
+    ],
+    "ambiguities": [
+      "Redistribution interne, à distinguer de variation globale."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "use",
+    "preferred_term": "use",
+    "variants": [
+      "consumption"
+    ],
+    "definition_by_campergue": null,
+    "contextual_use": "La production précède la consommation.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      13
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 13,
+        "pages": [
+          13
+        ],
+        "quotation": "production being, of course, always prior to consumption.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "creation",
+      "production"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0007",
+      "CPC-0008"
+    ],
+    "ambiguities": [
+      "Postérieur à la création dans le préambule."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "energy",
+    "preferred_term": "energy",
+    "variants": [
+      "Economic Energy"
+    ],
+    "definition_by_campergue": null,
+    "contextual_use": "Economic Work et Money sont posés comme deux formes d’énergie économique.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      35
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 35,
+        "pages": [
+          35
+        ],
+        "quotation": "Economic Work and Money are logically considered two different forms of Economic Energy",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "work",
+      "money"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0003",
+      "CPC-0017",
+      "CPC-0018",
+      "CPC-0029",
+      "CPC-0031",
+      "CPC-0035",
+      "CPC-0039",
+      "CPC-0042",
+      "CPC-0067"
+    ],
+    "ambiguities": [
+      "Les formes économiques sont postulées distinctes des grandeurs physiques."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "wealth",
+    "preferred_term": "wealth",
+    "variants": [
+      "Rm",
+      "monetary wealth"
+    ],
+    "definition_by_campergue": "Wealth désigne exclusivement la quantité de Money, sans inclure les actifs patrimoniaux.",
+    "contextual_use": "Wealth désigne exclusivement la quantité de Money, sans inclure les actifs patrimoniaux.",
+    "definition_status": "SOURCE_LINKED_INTERPRETATION",
+    "source_pages": [
+      185
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 185,
+        "pages": [
+          185
+        ],
+        "quotation": "It never takes into account the assets that an economic agent",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "money"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0005",
+      "CPC-0014",
+      "CPC-0048",
+      "CPC-0065"
+    ],
+    "ambiguities": [
+      "Exclusion explicite du patrimoine p185 ; tension avec money supply à préciser."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "growth",
+    "preferred_term": "growth",
+    "variants": [],
+    "definition_by_campergue": null,
+    "contextual_use": "Les sources artificielles d’énergie peu coûteuses auraient permis le passage à l’abondance.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      20
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 20,
+        "pages": [
+          20
+        ],
+        "quotation": "It seems that it's the availability of these low-cost artificial sources of energy over the last two centuries that has made the transition possible:",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "energy",
+      "work",
+      "living"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0001",
+      "CPC-0018",
+      "CPC-0029"
+    ],
+    "ambiguities": [
+      "Terme de programme historique ; pas de définition formelle examinée."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "living",
+    "preferred_term": "standard of living",
+    "variants": [
+      "subsistence society",
+      "affluent society"
+    ],
+    "definition_by_campergue": null,
+    "contextual_use": "Le manuscrit affirme un niveau de vie constant du Néolithique au XVIIIe siècle sous sources naturelles limitées.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      29
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 29,
+        "pages": [
+          29
+        ],
+        "quotation": "purchasing power and, incidentally, the standard of living remained constant from the Neolithic period until the 18th century.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "energy",
+      "growth"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0001",
+      "CPC-0018",
+      "CPC-0029"
+    ],
+    "ambiguities": [
+      "États historiques invoqués sans indicateur fixé ici."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "environment",
+    "preferred_term": "environmental damage",
+    "variants": [],
+    "definition_by_campergue": null,
+    "contextual_use": "Le préambule limite explicitement son propos économique en excluant les répercussions environnementales.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      29
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 29,
+        "pages": [
+          29
+        ],
+        "quotation": "in no way about the effects, impacts, repercussions or other environmental impacts of the plethora of energy",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "energy"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0001",
+      "CPC-0031"
+    ],
+    "ambiguities": [
+      "Question racine p2–3, mais préambule exclut les impacts p29."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "transformation",
+    "preferred_term": "transformation",
+    "variants": [],
+    "definition_by_campergue": null,
+    "contextual_use": "Une transformation physique est distinguée du flux comptable.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      22
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 22,
+        "pages": [
+          22
+        ],
+        "quotation": "a transformation, which is relative to physics, and no longer a flow, which is relative to accounting",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "accounting"
+    ],
+    "distinguished_from": [
+      "accounting"
+    ],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0003",
+      "CPC-0004",
+      "CPC-0009",
+      "CPC-0022",
+      "CPC-0023",
+      "CPC-0024",
+      "CPC-0038",
+      "CPC-0047",
+      "CPC-0061",
+      "CPC-0063"
+    ],
+    "ambiguities": [
+      "Différente du transfert comptable dans le passage examiné."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "productive",
+    "preferred_term": "productive Work",
+    "variants": [],
+    "definition_by_campergue": "Le travail productif est défini par sa capacité à réduire le coût de revient.",
+    "contextual_use": "Le travail productif est défini par sa capacité à réduire le coût de revient.",
+    "definition_status": "SOURCE_LINKED_INTERPRETATION",
+    "source_pages": [
+      20
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 20,
+        "pages": [
+          20
+        ],
+        "quotation": "Work (energy) that allows a reduction in the cost price can be described as “productive Work”, while work that doesn’t allow a reduction in price can be defined as “unproductive work”.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "unproductive",
+      "work",
+      "price"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0019"
+    ],
+    "ambiguities": [
+      "Critère de réduction de coût ; ne pas étendre sans source à toute productive operation."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "unproductive",
+    "preferred_term": "unproductive work",
+    "variants": [],
+    "definition_by_campergue": "Le travail productif est défini par sa capacité à réduire le coût de revient.",
+    "contextual_use": "Le travail productif est défini par sa capacité à réduire le coût de revient.",
+    "definition_status": "SOURCE_LINKED_INTERPRETATION",
+    "source_pages": [
+      20
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 20,
+        "pages": [
+          20
+        ],
+        "quotation": "Work (energy) that allows a reduction in the cost price can be described as “productive Work”, while work that doesn’t allow a reduction in price can be defined as “unproductive work”.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "productive",
+      "work",
+      "price"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0019"
+    ],
+    "ambiguities": [
+      "Absence de réduction de prix dans la définition p20."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "accounting",
+    "preferred_term": "accounting flow",
+    "variants": [
+      "accounting procedure"
+    ],
+    "definition_by_campergue": null,
+    "contextual_use": "Une transformation physique est distinguée du flux comptable.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      22
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 22,
+        "pages": [
+          22
+        ],
+        "quotation": "a transformation, which is relative to physics, and no longer a flow, which is relative to accounting",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "transformation"
+    ],
+    "distinguished_from": [
+      "transformation"
+    ],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0005",
+      "CPC-0013",
+      "CPC-0014",
+      "CPC-0020",
+      "CPC-0024",
+      "CPC-0028",
+      "CPC-0050"
+    ],
+    "ambiguities": [
+      "N’implique pas une création globale selon l’auteur."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "remaining",
+    "preferred_term": "Work to be done",
+    "variants": [],
+    "definition_by_campergue": null,
+    "contextual_use": "Le modèle doit compter le travail à effectuer et non le travail déjà effectué.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      35
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 35,
+        "pages": [
+          35
+        ],
+        "quotation": "only the Work to be done must be taken into account and not the Work performed.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "work"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0023",
+      "CPC-0040"
+    ],
+    "ambiguities": [
+      "À distinguer de Work performed ; distinction nécessaire au signe de conservation."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "constraints",
+    "preferred_term": "external constraints",
+    "variants": [],
+    "definition_by_campergue": null,
+    "contextual_use": "L’économie de travail augmente vers un maximum sous contraintes externes.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      31
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 31,
+        "pages": [
+          31
+        ],
+        "quotation": "the Economy of Work naturally always increases towards a maximum, limited by external constraints",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "work",
+      "money"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0032",
+      "CPC-0033"
+    ],
+    "ambiguities": [
+      "Limites des principes d’économie de Work et Money."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "barter",
+    "preferred_term": "barter",
+    "variants": [],
+    "definition_by_campergue": null,
+    "contextual_use": "Le troc est présenté comme un échange sans Money entre produits d’utilités égales.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      31
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 31,
+        "pages": [
+          31
+        ],
+        "quotation": "in a barter, there is no Money exchanged.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "utility",
+      "money"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0034"
+    ],
+    "ambiguities": [
+      "Principe d’égalité des utilités affirmé ; pas un résultat empirique établi."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "utility",
+    "preferred_term": "Utility",
+    "variants": [
+      "UP",
+      "UA"
+    ],
+    "definition_by_campergue": "L’utilité peut être objective, subjective, exacte ou erronée et concerne les échanges.",
+    "contextual_use": "L’utilité peut être objective, subjective, exacte ou erronée et concerne les échanges.",
+    "definition_status": "SOURCE_LINKED_INTERPRETATION",
+    "source_pages": [
+      189
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 189,
+        "pages": [
+          189
+        ],
+        "quotation": "which can be both objective and subjective, accurate and erroneous",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "product"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0034",
+      "CPC-0055",
+      "CPC-0056",
+      "CPC-0057",
+      "CPC-0058",
+      "CPC-0059",
+      "CPC-0060",
+      "CPC-0062"
+    ],
+    "ambiguities": [
+      "Relative à l’agent ; marginal utility explicitement exclue."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "cycle",
+    "preferred_term": "cycle",
+    "variants": [],
+    "definition_by_campergue": null,
+    "contextual_use": "Le cycle économique est mis en correspondance avec quatre étapes thermodynamiques.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      34
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 34,
+        "pages": [
+          34
+        ],
+        "quotation": "the steps of the thermodynamic cycle in accordance:",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "transformation"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0038"
+    ],
+    "ambiguities": [
+      "Quatre étapes analogiques ; calculs ultérieurs non examinés."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "entropy",
+    "preferred_term": "entropy",
+    "variants": [],
+    "definition_by_campergue": null,
+    "contextual_use": "L’emploi du formalisme thermodynamique exclut ici les variables physiques et notamment l’entropie.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      36
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 36,
+        "pages": [
+          36
+        ],
+        "quotation": "entropy doesn’t have to be used in this context.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "energy"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0042",
+      "CPC-0067"
+    ],
+    "ambiguities": [
+      "Exclue dans le résumé p36 ; section Entropy annoncée p463 à examiner."
+    ],
+    "definition_changes": [
+      "p463–464 : réintroduction informative de l’entropie physique ; distinguer du formalisme économique p36."
+    ],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "coefficient",
+    "preferred_term": "transformation coefficient",
+    "variants": [
+      "g"
+    ],
+    "definition_by_campergue": null,
+    "contextual_use": "La constance du coefficient g n’est pas garantie en économie.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      36
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 36,
+        "pages": [
+          36
+        ],
+        "quotation": "the transformation coefficient g should be a constant, which isn't necessarily the case in Economics",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0043",
+      "CPC-0044",
+      "CPC-0067"
+    ],
+    "ambiguities": [
+      "Constance conditionnelle ; dimensions requises pour conservation."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "force",
+    "preferred_term": "Force",
+    "variants": [
+      "F"
+    ],
+    "definition_by_campergue": "Le différentiel de Money est défini par dM=-F.dp.",
+    "contextual_use": "Le différentiel de Money est défini par dM=-F.dp.",
+    "definition_status": "SOURCE_LINKED_INTERPRETATION",
+    "source_pages": [
+      36
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 36,
+        "pages": [
+          36
+        ],
+        "quotation": "dM=−F.dp",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "money",
+      "price"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0045",
+      "CPC-0052"
+    ],
+    "ambiguities": [
+      "Pression consommateur ; opérationnalisation encore requise."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "complexity",
+    "preferred_term": "complexity",
+    "variants": [
+      "c"
+    ],
+    "definition_by_campergue": "La complexité désigne l’inertie du produit face au changement de vitesse d’exécution de la tâche.",
+    "contextual_use": "La complexité désigne l’inertie du produit face au changement de vitesse d’exécution de la tâche.",
+    "definition_status": "SOURCE_LINKED_INTERPRETATION",
+    "source_pages": [
+      189
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 189,
+        "pages": [
+          189
+        ],
+        "quotation": "the complexity (c) must be understood as the inertia that a Product presents at the change in speed of execution of the labour.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "product",
+      "labour"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0054",
+      "CPC-0066"
+    ],
+    "ambiguities": [
+      "Inertie économique par rapport à la vitesse de la tâche."
+    ],
+    "definition_changes": [
+      "p202 : cP et cA distincts malgré notation parfois commune."
+    ],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "agent",
+    "preferred_term": "economic agent",
+    "variants": [
+      "Seller",
+      "Transformer",
+      "Acquirer",
+      "manufacturer"
+    ],
+    "definition_by_campergue": "Le terme manufacturer inclut fournisseur et revendeur, même sans modification du produit.",
+    "contextual_use": "Le terme manufacturer inclut fournisseur et revendeur, même sans modification du produit.",
+    "definition_status": "SOURCE_LINKED_INTERPRETATION",
+    "source_pages": [
+      192
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 192,
+        "pages": [
+          192
+        ],
+        "quotation": "A manufacturer can therefore be a wholesaler, a trader, etc., although it doesn't necessarily modify a Product.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "utility"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0060",
+      "CPC-0061",
+      "CPC-0062",
+      "CPC-0063"
+    ],
+    "ambiguities": [
+      "Rôles et observateur ; manufacturer ne signifie pas nécessairement fabrication."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false
+  },
+  {
+    "id": "inflation",
+    "preferred_term": "inflation",
+    "variants": [],
+    "definition_by_campergue": null,
+    "contextual_use": "Dans le cas inflationniste décrit, le consommateur s’enrichit si la valeur unitaire baisse moins que le nombre d’unités ne croît.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      24
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 24,
+        "pages": [
+          24
+        ],
+        "quotation": "because the value decreases less as the number increases, the consumer gets richer.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "unit",
+      "purchasing"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0025",
+      "CPC-0027"
+    ],
+    "ambiguities": [
+      "Sens du cas 2a1, pas une substitution automatique au sens courant.",
+      "Révision ciblée : ne pas confondre M constant et u constant; libellés Constant/Current divergents pp171,173,177; inflation pp24 et291 à réconcilier."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false,
+    "money_review": "analysis/24_money_compensation_scenarios.md"
+  },
+  {
+    "id": "deflation",
+    "preferred_term": "deflation",
+    "variants": [],
+    "definition_by_campergue": null,
+    "contextual_use": "Dans le cas déflationniste décrit, la baisse du nombre d’unités domine leur appréciation et appauvrit le consommateur.",
+    "definition_status": "CONTEXTUAL_NOT_FORMALIZED",
+    "source_pages": [
+      25
+    ],
+    "quotations": [
+      {
+        "document": "Reflections_PierreCampergue.pdf",
+        "page": 25,
+        "pages": [
+          25
+        ],
+        "quotation": "because the value increases less as the number decreases, the consumer becomes poorer.",
+        "normalization": "whitespace; standalone leading page numbers removed"
+      }
+    ],
+    "related_terms": [
+      "unit",
+      "purchasing"
+    ],
+    "distinguished_from": [],
+    "depends_on": [],
+    "used_in_claims": [
+      "CPC-0026",
+      "CPC-0027"
+    ],
+    "ambiguities": [
+      "Sens du cas 2b1.",
+      "Révision ciblée : ne pas confondre M constant et u constant; libellés Constant/Current divergents pp171,173,177; inflation pp24 et291 à réconcilier."
+    ],
+    "definition_changes": [],
+    "full_manuscript_review": false,
+    "money_review": "analysis/24_money_compensation_scenarios.md"
+  }
+]

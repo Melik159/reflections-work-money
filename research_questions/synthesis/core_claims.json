@@ -1,0 +1,1101 @@
+[
+  {
+    "id": "CPC-0001",
+    "statement": "Comprendre le passage de la subsistance à l’abondance et les dommages environnementaux associés à la hausse du niveau de vie.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 2,
+      "pages": [
+        2,
+        3
+      ],
+      "quotation": "The key question is therefore to understand how the increase in living standards has led to these environmental damages, or how we have moved from a subsistence society to an affluent society.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Question de recherche, non proposition causale déjà démontrée; objet et périmètre de l'étude.",
+    "status": [
+      "NOT_IDENTIFIED"
+    ],
+    "global_review_status": "SOURCE_EXTENDED",
+    "global_qualification": "La question de p3 demeure racine; p29 restreint le préambule, pas tout le manuscrit. Les liens environnementaux existent p72/454/460.",
+    "formal_support": "Pas de théorème tiré de la seule formulation.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "CBIB-05",
+      "BIB-0004"
+    ],
+    "literature_support": "living standards, environmental accounts; Programme transversal utile, pas nouvelle variable ou réponse causale par la question seule",
+    "objections": "La question de p3 demeure racine; p29 restreint le préambule, pas tout le manuscrit. Les liens environnementaux existent p72/454/460. Not established independently of definitions/calibration",
+    "confidence": "MEDIUM",
+    "questions": [
+      "RQ-01",
+      "RQ-01.01",
+      "RQ-01.02",
+      "RQ-11",
+      "RQ-11.01",
+      "RQ-12",
+      "RQ-12.02",
+      "RQ-12.03"
+    ],
+    "internal_coherence": "Pas de théorème tiré de la seule formulation.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0003",
+    "statement": "L’étude compare la transformation du travail en monnaie à celle de la chaleur en travail, en les distinguant.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 2,
+      "pages": [
+        2
+      ],
+      "quotation": "similar, but not identical, to the energy transformations of heat into work.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Distinguer puis relier les formalismes physique et économique.",
+    "status": [
+      "ASSUMPTION_DEPENDENT",
+      "NOT_IDENTIFIED"
+    ],
+    "global_review_status": "QUALIFIED",
+    "global_qualification": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique.",
+    "formal_support": "Ressemblance de forme ne mesure pas une conversion.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "CBIB-02",
+      "BIB-0017"
+    ],
+    "literature_support": "useful work / energy-growth; physical analogy; Deux domaines distingués; équivalence économique demande plus que parallèle physique",
+    "objections": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique. Not established independently of definitions/calibration",
+    "confidence": "MEDIUM",
+    "questions": [
+      "RQ-01",
+      "RQ-01.01",
+      "RQ-09",
+      "RQ-09.02",
+      "RQ-12",
+      "RQ-12.01",
+      "RQ-12.03"
+    ],
+    "internal_coherence": "Ressemblance de forme ne mesure pas une conversion.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0005",
+    "statement": "Le manuscrit affirme que modifier seulement le nombre d’unités, sans Work productif, ne crée pas de richesse globale; il distingue cependant émission accompagnant une création, inertie et évolutions incohérentes.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 12,
+      "pages": [
+        12
+      ],
+      "quotation": "any variation in the number of monetary units can only derive from a human will and induces absolutely no overall change in the wealth of the system.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Restriction de création globale par changement nominal seul.",
+    "status": [
+      "ASSUMPTION_DEPENDENT",
+      "NOT_IDENTIFIED"
+    ],
+    "global_review_status": "QUALIFIED",
+    "global_qualification": "L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité.",
+    "formal_support": "M constant et absence de Work sont des conditions;32scénarios ne disparaissent pas.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "CBIB-01",
+      "BIB-0001"
+    ],
+    "literature_support": "nominal/real adjustment; bank credit; Nominal seul ne prouve pas gain réel; conditions de crédit et horizon non réductibles à identité",
+    "objections": "L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité. Not established independently of definitions/calibration",
+    "confidence": "MEDIUM",
+    "questions": [
+      "RQ-06",
+      "RQ-06.02"
+    ],
+    "internal_coherence": "M constant et absence de Work sont des conditions;32scénarios ne disparaissent pas.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0009",
+    "statement": "Seul le travail engendre un changement.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 14,
+      "pages": [
+        14
+      ],
+      "quotation": "only work generates change, all other criteria are inoperative.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Principe d'exclusivité de la transformation productive.",
+    "status": [
+      "ASSUMPTION_DEPENDENT",
+      "NOT_IDENTIFIED"
+    ],
+    "global_review_status": "QUALIFIED",
+    "global_qualification": "Principe de création par transformation Utility, non exclusion de toute activité humaine/sociale. Technologie productive et rente coexistent; Core Laws admises comme hypothèses.",
+    "formal_support": "Peut devenir définitionnel sans grandeur de Work indépendante.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "BIB-0002"
+    ],
+    "literature_support": "causal production mechanisms / technical change; Exclusivité Work risque de devenir définitionnelle; distinguer changement technique, demande et institutions",
+    "objections": "Principe de création par transformation Utility, non exclusion de toute activité humaine/sociale. Technologie productive et rente coexistent; Core Laws admises comme hypothèses. Not established independently of definitions/calibration",
+    "confidence": "LOW",
+    "questions": [
+      "RQ-02",
+      "RQ-02.02",
+      "RQ-02.03",
+      "RQ-12",
+      "RQ-12.02"
+    ],
+    "internal_coherence": "Peut devenir définitionnel sans grandeur de Work indépendante.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "HISTORICAL_NOVELTY_UNRESOLVED; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0010",
+    "statement": "Money est défini comme le nombre d’unités multiplié par la valeur de l’unité.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 15,
+      "pages": [
+        15
+      ],
+      "quotation": "M=n.u",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Relier nombre d'unités et valeur unitaire dans une frontière.",
+    "status": [
+      "DEFINITIONAL"
+    ],
+    "global_review_status": "CONFIRMED",
+    "global_qualification": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+    "formal_support": "Identité et différentielle du produit, aucune neutralité autonome.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "CBIB-01",
+      "BIB-0008"
+    ],
+    "literature_support": "nominal balance times purchasing power per unit; Identité multiplicative; contenu de u et M doit être fixé avant équivalence à real balances",
+    "objections": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local. Not established independently of definitions/calibration",
+    "confidence": "HIGH",
+    "questions": [
+      "RQ-06",
+      "RQ-06.01"
+    ],
+    "internal_coherence": "Identité et différentielle du produit, aucune neutralité autonome.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "RECOMBINATION_OF_KNOWN_CONCEPTS; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0012",
+    "statement": "À Money global constant (hypothèse 1, possibilité 2), la variation de n est compensée inversement par u; l’attribution du crédit à cette branche et son extension finale sont des thèses distinctes.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 17,
+      "pages": [
+        17
+      ],
+      "quotation": "any variation in the number of monetary units automatically and inexorably generates the same inverse variation in the value of the unit, implying the impossibility of creating money.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Branche de compensation inverse et attribution monétaire distincte.",
+    "status": [
+      "FORMALLY_DERIVED",
+      "ASSUMPTION_DEPENDENT",
+      "NOT_IDENTIFIED"
+    ],
+    "global_review_status": "QUALIFIED",
+    "global_qualification": "L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité.",
+    "formal_support": "u=M/n à M fixe; mécanisme causal et délai non dérivés.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "CBIB-01",
+      "BIB-0001"
+    ],
+    "literature_support": "conditional quantity-price adjustment; Compensation inverse sous M constant est algébrique; attribution du crédit demeure proposition séparée",
+    "objections": "L'attribution est fidèle, mais neutralité concerne système isolé, absence de Work et bilan final; délai, épargne, crédit/productivité et bénéficiaires empêchent une implication unique M=n.u→neutralité. Not established independently of definitions/calibration",
+    "confidence": "HIGH",
+    "questions": [
+      "RQ-06",
+      "RQ-06.02"
+    ],
+    "internal_coherence": "u=M/n à M fixe; mécanisme causal et délai non dérivés.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "KNOWN_WITH_DIFFERENT_TERMINOLOGY; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0015",
+    "statement": "Money créé désigne le supplément détenu par le consommateur après une baisse de prix.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 19,
+      "pages": [
+        19
+      ],
+      "quotation": "The Money is what a consumer holds in addition after a price drop.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Nommer le supplément du consommateur dans un scénario de prix.",
+    "status": [
+      "DEFINITIONAL",
+      "NON_DISCRIMINATING",
+      "NOT_IDENTIFIED"
+    ],
+    "global_review_status": "QUALIFIED",
+    "global_qualification": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+    "formal_support": "Gain de panier calculable, pas surplus ou Money indépendamment mesuré.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "BIB-0008",
+      "CBIB-08",
+      "CBIB-10"
+    ],
+    "literature_support": "fixed-basket spending saving vs surplus; Budget restant connu; désigner cette quantité création de Money ne crée pas nouvelle observation",
+    "objections": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507. Not established independently of definitions/calibration",
+    "confidence": "MEDIUM",
+    "questions": [
+      "RQ-06",
+      "RQ-06.03",
+      "RQ-10",
+      "RQ-10.01"
+    ],
+    "internal_coherence": "Gain de panier calculable, pas surplus ou Money indépendamment mesuré.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "RECOMBINATION_OF_KNOWN_CONCEPTS; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0016",
+    "statement": "Le mécanisme productif proposé relie Work supplémentaire, productivité et baisse de prix à Money accru : u augmente à n constant (3a), ou n est ensuite ajusté pour stabiliser u (4a).",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 19,
+      "pages": [
+        19
+      ],
+      "quotation": "Additional work of the supplier ⇒ increased productivity ⇒ price decline ⇒ increase of monetary unit ⇒ creation of money ⇒ additional money of the consumer.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Chaîne centrale Work→coût/prix→supplément, émission éventuellement accompagnatrice.",
+    "status": [
+      "ASSUMPTION_DEPENDENT",
+      "NON_DISCRIMINATING",
+      "NOT_IDENTIFIED"
+    ],
+    "global_review_status": "QUALIFIED",
+    "global_qualification": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507.",
+    "formal_support": "Coût moindre et profit fixe impliquent prix moindre dans ce modèle local seulement.",
+    "empirical_support": "NOT_IDENTIFIED pour Work→u→Money complet; les sous-relations descriptives ne le confirment pas.",
+    "literature": [
+      "CBIB-02",
+      "CBIB-06"
+    ],
+    "literature_support": "process innovation / pass-through / real income; Chaîne productive parallèle; bilans Work/Money additionnels et branches de compensation à préserver",
+    "objections": "Scénario coût/prix à conserver avec profits, copies, horizon et bénéficiaires. Profit fixe n'est pas universel; tableau217→189 utilise35 malgré24 dans le texte. Surplus partagé ou retenu p507. Not established independently of definitions/calibration",
+    "confidence": "MEDIUM",
+    "questions": [
+      "RQ-06",
+      "RQ-06.03",
+      "RQ-10",
+      "RQ-10.01"
+    ],
+    "internal_coherence": "Coût moindre et profit fixe impliquent prix moindre dans ce modèle local seulement.",
+    "external_compatibility": "NOT_IDENTIFIED pour Work→u→Money complet; les sous-relations descriptives ne le confirment pas.",
+    "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0017",
+    "statement": "Une hausse de productivité exige nécessairement un travail supplémentaire assimilé ici à une énergie.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 19,
+      "pages": [
+        19
+      ],
+      "quotation": "this increase in productivity necessarily requires the execution of additional Work",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Condition énergétique supplémentaire revendiquée pour productivité.",
+    "status": [
+      "ASSUMPTION_DEPENDENT",
+      "NOT_IDENTIFIED"
+    ],
+    "global_review_status": "QUALIFIED",
+    "global_qualification": "Nécessité énergétique et récit historique sont affirmations du corpus, non résultats indépendamment mesurés; énergie utile, pertes et énergie sans création distinguent les branches. Macro extrapolations non démontrées.",
+    "formal_support": "Nécessité physique totale non déduite d'une relation de T définie par vitesse.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "BIB-0002",
+      "CBIB-02",
+      "CBIB-11"
+    ],
+    "literature_support": "productivity measurement / substitution of inputs; Nécessité de Work énergétique supplémentaire plus restrictive que simple gain de productivité; T sans mesure indépendante",
+    "objections": "Nécessité énergétique et récit historique sont affirmations du corpus, non résultats indépendamment mesurés; énergie utile, pertes et énergie sans création distinguent les branches. Macro extrapolations non démontrées. Not established independently of definitions/calibration",
+    "confidence": "LOW",
+    "questions": [
+      "RQ-04",
+      "RQ-04.01",
+      "RQ-09",
+      "RQ-09.01",
+      "RQ-09.02"
+    ],
+    "internal_coherence": "Nécessité physique totale non déduite d'une relation de T définie par vitesse.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "DISTINCT_FORMAL_RESTRICTION; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0022",
+    "statement": "L’auteur postule la transformation du travail supplémentaire du fournisseur en Money supplémentaire du consommateur.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 22,
+      "pages": [
+        22
+      ],
+      "quotation": "SUPPLEMENTARY WORK performed by the supplier is TRANSFORMED into SUPPLEMENTARY MONEY held by the consumer.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Postuler conversion du Work fournisseur en Money consommateur.",
+    "status": [
+      "ASSUMPTION_DEPENDENT",
+      "NOT_IDENTIFIED"
+    ],
+    "global_review_status": "QUALIFIED",
+    "global_qualification": "Principe de création par transformation Utility, non exclusion de toute activité humaine/sociale. Technologie productive et rente coexistent; Core Laws admises comme hypothèses.",
+    "formal_support": "Ce n'est pas identité standard de valeur ajoutée ou double entrée.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "CBIB-06",
+      "BIB-0003"
+    ],
+    "literature_support": "producer/consumer gain and surplus incidence; Conversion entre Work fournisseur et Money consommateur non identité comptable standard",
+    "objections": "Principe de création par transformation Utility, non exclusion de toute activité humaine/sociale. Technologie productive et rente coexistent; Core Laws admises comme hypothèses. Not established independently of definitions/calibration",
+    "confidence": "LOW",
+    "questions": [
+      "RQ-02",
+      "RQ-02.02",
+      "RQ-02.03"
+    ],
+    "internal_coherence": "Ce n'est pas identité standard de valeur ajoutée ou double entrée.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "DISTINCT_FORMAL_RESTRICTION; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0023",
+    "statement": "Dans un système isolé, la baisse du travail restant à faire compense la hausse de Money créé.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 22,
+      "pages": [
+        22
+      ],
+      "quotation": "the decrease (destruction) of the Work to be done is compensated by the increase (creation) of the Money generated and vice versa",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Bilan isolé de restant et création.",
+    "status": [
+      "ASSUMPTION_DEPENDENT",
+      "AMBIGUOUS",
+      "NOT_IDENTIFIED"
+    ],
+    "global_review_status": "QUALIFIED",
+    "global_qualification": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat.",
+    "formal_support": "Conventions/g et frontière fixées; compensation potentielle ne démontre pas causalité.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "BIB-0003",
+      "BIB-0017"
+    ],
+    "literature_support": "consolidated balances / conservation; Conservation dT+dM dans domaine isolé est restriction économique ajoutée, non double entrée standard",
+    "objections": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat. Not established independently of definitions/calibration",
+    "confidence": "MEDIUM",
+    "questions": [
+      "RQ-03",
+      "RQ-03.02",
+      "RQ-03.04"
+    ],
+    "internal_coherence": "Conventions/g et frontière fixées; compensation potentielle ne démontre pas causalité.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "DISTINCT_FORMAL_RESTRICTION; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0032",
+    "statement": "L’économie de travail augmente vers un maximum sous contraintes externes.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 31,
+      "pages": [
+        31
+      ],
+      "quotation": "the Economy of Work naturally always increases towards a maximum, limited by external constraints",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Principe d'économie de Work sous contraintes.",
+    "status": [
+      "ASSUMPTION_DEPENDENT",
+      "NON_DISCRIMINATING"
+    ],
+    "global_review_status": "QUALIFIED",
+    "global_qualification": "Maximisation sous contraintes; antagonisme par copie, non par heure. Conditions et échelles des diagrammes indispensables; équilibre social supplémentaire.",
+    "formal_support": "Objectif, domaine et maximum doivent être spécifiés.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "BIB-0002",
+      "BIB-0006"
+    ],
+    "literature_support": "constrained optimisation / efficiency; Existence de contraintes et recherche de gain connues; fonction objectif et domaine particuliers restent à définir",
+    "objections": "Maximisation sous contraintes; antagonisme par copie, non par heure. Conditions et échelles des diagrammes indispensables; équilibre social supplémentaire. Not established independently of definitions/calibration",
+    "confidence": "MEDIUM",
+    "questions": [
+      "RQ-04",
+      "RQ-04.04"
+    ],
+    "internal_coherence": "Objectif, domaine et maximum doivent être spécifiés.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0033",
+    "statement": "L’économie de Money augmente vers un maximum sous contraintes externes.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 31,
+      "pages": [
+        31
+      ],
+      "quotation": "the Economy of Money naturally always increases towards a maximum, limited by external constraints.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Principe d'économie de Money sous contraintes.",
+    "status": [
+      "ASSUMPTION_DEPENDENT",
+      "NON_DISCRIMINATING"
+    ],
+    "global_review_status": "QUALIFIED",
+    "global_qualification": "Maximisation sous contraintes; antagonisme par copie, non par heure. Conditions et échelles des diagrammes indispensables; équilibre social supplémentaire.",
+    "formal_support": "Ne se substitue pas à préférences et budget mesurés.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "CBIB-03",
+      "CBIB-08"
+    ],
+    "literature_support": "constrained consumer optimisation; Recherche de gain parallèle; Money différent de l’utilité maximisée ou du budget",
+    "objections": "Maximisation sous contraintes; antagonisme par copie, non par heure. Conditions et échelles des diagrammes indispensables; équilibre social supplémentaire. Not established independently of definitions/calibration",
+    "confidence": "MEDIUM",
+    "questions": [
+      "RQ-04",
+      "RQ-04.04"
+    ],
+    "internal_coherence": "Ne se substitue pas à préférences et budget mesurés.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0035",
+    "statement": "L’exemple 8 heures vers 6 heures prétend nécessiter environ 78 % de travail supplémentaire.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 32,
+      "pages": [
+        32
+      ],
+      "quotation": "The second hypothesis therefore requires more Work than the first (about 78% more).",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Exemple quantitatif d'accélération8h→6h.",
+    "status": [
+      "FORMALLY_DERIVED",
+      "ASSUMPTION_DEPENDENT",
+      "NOT_IDENTIFIED"
+    ],
+    "global_review_status": "CONFIRMED",
+    "global_qualification": "+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique.",
+    "formal_support": "77.777...% reproduit à cp fixe et carré de la vitesse; aucune loi empirique certifiée.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "BIB-0017",
+      "BIB-0002"
+    ],
+    "literature_support": "quadratic speed-energy relation / process engineering; +78% conditionné à loi quadratique, cp et tâche fixes; pas règle générale de productivité",
+    "objections": "+78% reste calcul conditionnel à cp fixe et primitive quadratique, pas mesure indépendante de Work. Nouvelle lecture ne rend pas ce calcul empirique. Not established independently of definitions/calibration",
+    "confidence": "HIGH",
+    "questions": [
+      "RQ-04",
+      "RQ-04.02"
+    ],
+    "internal_coherence": "77.777...% reproduit à cp fixe et carré de la vitesse; aucune loi empirique certifiée.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "DISTINCT_FORMAL_RESTRICTION; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false,
+    "scope_qualification": "NOT_GENERALIZED_EMPIRICALLY; p32 revendique une généralité sous homogénéité, non établie par 7/9."
+  },
+  {
+    "id": "CPC-0039",
+    "statement": "Economic Work et Money sont posés comme deux formes d’énergie économique.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 35,
+      "pages": [
+        35
+      ],
+      "quotation": "Economic Work and Money are logically considered two different forms of Economic Energy",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Nommer deux formes d'énergie économique.",
+    "status": [
+      "DEFINITIONAL",
+      "ASSUMPTION_DEPENDENT",
+      "NOT_IDENTIFIED"
+    ],
+    "global_review_status": "QUALIFIED",
+    "global_qualification": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique.",
+    "formal_support": "Déclaration de grandeurs distinctes, pas identité de joules et unités monétaires.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "CBIB-02",
+      "BIB-0003"
+    ],
+    "literature_support": "physical energy accounts vs economic values; Deux formes d’énergie économique proposées; elles ne sont ni unités physiques ni valeurs ajoutées par traduction",
+    "objections": "Distinction physique/économique explicite mais analogie, pont utile et entropie physique réintroduits. L'exclusion initiale est locale; identité d'équations n'est pas équivalence empirique. Not established independently of definitions/calibration",
+    "confidence": "MEDIUM",
+    "questions": [
+      "RQ-03",
+      "RQ-03.03",
+      "RQ-03.04",
+      "RQ-09",
+      "RQ-09.02"
+    ],
+    "internal_coherence": "Déclaration de grandeurs distinctes, pas identité de joules et unités monétaires.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "DISTINCT_FORMAL_RESTRICTION; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0040",
+    "statement": "Le modèle doit compter le travail à effectuer et non le travail déjà effectué.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 35,
+      "pages": [
+        35
+      ],
+      "quotation": "only the Work to be done must be taken into account and not the Work performed.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Fixer le référent du Work restant.",
+    "status": [
+      "DEFINITIONAL",
+      "AMBIGUOUS"
+    ],
+    "global_review_status": "QUALIFIED",
+    "global_qualification": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat.",
+    "formal_support": "État/réserve/transfert localement conciliables; usages accomplis et δ explicites ailleurs.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "BIB-0002",
+      "BIB-0003"
+    ],
+    "literature_support": "remaining task / inventories / state and flow accounting; Tâche restante plutôt qu’activité cumulée modifie le référent; bénéfice possible de séparation, pas nouveauté historique établie",
+    "objections": "Work restant/Work effectué et transfert/variation doivent rester séparés. Constante intégration nulle explicite; dT=0 ne signifie pas T=0. Force constante ne suffit pas à la conservation de l'emploi ou du pouvoir d'achat. Not established independently of definitions/calibration",
+    "confidence": "MEDIUM",
+    "questions": [
+      "RQ-03",
+      "RQ-03.01",
+      "RQ-03.02"
+    ],
+    "internal_coherence": "État/réserve/transfert localement conciliables; usages accomplis et δ explicites ailleurs.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "DISTINCT_DECOMPOSITION; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0041",
+    "statement": "Product supporte Work et Cash supporte Money.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 35,
+      "pages": [
+        35
+      ],
+      "quotation": "the Product as the vector-support of the economic Work,",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Séparer supports et caractéristiques.",
+    "status": [
+      "DEFINITIONAL"
+    ],
+    "global_review_status": "CONFIRMED",
+    "global_qualification": "Supports distingués de caractéristiques; conservation comptable d'un support ne prouve pas transformation productive.",
+    "formal_support": "Cohérence de typage; support conservé≠transformation productive établie.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "BIB-0003",
+      "BIB-0020"
+    ],
+    "literature_support": "goods/services and payment instruments; Couplage support/grandeur synthétique; pont Work/Money perdu si supports seuls remplacent toute construction",
+    "objections": "Supports distingués de caractéristiques; conservation comptable d'un support ne prouve pas transformation productive. Not established independently of definitions/calibration",
+    "confidence": "HIGH",
+    "questions": [
+      "RQ-03",
+      "RQ-03.01",
+      "RQ-06",
+      "RQ-06.01"
+    ],
+    "internal_coherence": "Cohérence de typage; support conservé≠transformation productive établie.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "RECOMBINATION_OF_KNOWN_CONCEPTS; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false,
+    "source_context_extension": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 35,
+      "text": "35 Conclusion At this stage, when only a few ideas are presented, it's out of the question to go into them in depth in a few lines, it must therefore be admitted, a priori, that :  the Work is considered here as economic Work (with an economic purpose) and no longer physical work, likely to cause a fall in the price of the Product. This Work doesn’t have the same analytical definition as physical Work, despite its similarity,  Economic Work and Money are logically considered two different forms of Economic Energy, just as heat and mechanical work are considered two different forms of physical energy,  only the Work to be done must be taken into account and not the Work performed. In fact, the economically interesting Work is indeed the first one because it's the one that will define the job, the second one being of no further use because the machines will be stopped and the employees unemployed. In addition, it's necessary to consider :  the Product as the vector-support of the economic Work,  the Cash as the vector-support of the Money, identical to thermodynamics where :  gas (steam) is the vector-support of the heat. It is possible to show analytically that among the different possibilities (four) of monetary evolution, the only ones that allow the real creation of Money, that is, the only ones that allow the increase of Wealth (purchasing power) necessarily require the expenditure of Work (for economic purposes). The fact that the execution of economic Work has as a corollary the creation of Money urges us to consider this phenomenon as a transformation. Mathematical analysis, having never been taken for granted as to the explanation of Nature's phenomena, therefore points the way forward. Consequently, the formal and normally hardly questionable similarities presented above therefore incite to :  the exclusive application of formalism, reasoning and thermomechanics to economic exchanges, but prohibiting",
+      "kind": "SOURCE",
+      "finding": "ER-011"
+    }
+  },
+  {
+    "id": "CPC-0043",
+    "statement": "Le principe d’équivalence est écrit M=g.T.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 36,
+      "pages": [
+        36
+      ],
+      "quotation": "M=g.T",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Coefficient de conversion g entre Work et Money.",
+    "status": [
+      "ASSUMPTION_DEPENDENT",
+      "NOT_IDENTIFIED"
+    ],
+    "global_review_status": "QUALIFIED",
+    "global_qualification": "Équivalence avec coefficient, g variable admis puis égalité recherchée/posée. K agrégé n'est pas garanti constant par nombre de produits; pas confusion g/r/K.",
+    "formal_support": "g constant est restriction; g=M/T recalculé serait résidu, pas test.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "BIB-0002",
+      "BIB-0015"
+    ],
+    "literature_support": "conversion coefficient / production mapping; g constant serait restriction; g=M/T recalculé serait ratio résiduel; aucun équivalent universel",
+    "objections": "Équivalence avec coefficient, g variable admis puis égalité recherchée/posée. K agrégé n'est pas garanti constant par nombre de produits; pas confusion g/r/K. Not established independently of definitions/calibration",
+    "confidence": "MEDIUM",
+    "questions": [
+      "RQ-03",
+      "RQ-03.03",
+      "RQ-03.04",
+      "RQ-08",
+      "RQ-08.02"
+    ],
+    "internal_coherence": "g constant est restriction; g=M/T recalculé serait résidu, pas test.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "DISTINCT_FORMAL_RESTRICTION; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0045",
+    "statement": "Le différentiel de Money est défini par dM=-F.dp.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 36,
+      "pages": [
+        36
+      ],
+      "quotation": "dM=−F.dp",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Différentielle reliant Money et variation de prix via Force.",
+    "status": [
+      "DEFINITIONAL",
+      "ASSUMPTION_DEPENDENT",
+      "AMBIGUOUS",
+      "NOT_IDENTIFIED"
+    ],
+    "global_review_status": "QUALIFIED",
+    "global_qualification": "dM=-Fdp sous Force et orientation définies; FA extérieur signé peut apparaître avec plus. Les normalisations locales/globales restent différentes.",
+    "formal_support": "Force interne/externe et signe explicités; ne pas remplacer F par quantité demandée sans preuve.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "CBIB-08",
+      "BIB-0008",
+      "CBIB-10"
+    ],
+    "literature_support": "marginal budget effect / expenditure derivative; Ressemble à −q dp seulement si Force est identifiée à demande compensée, ce qui n’est pas établi",
+    "objections": "dM=-Fdp sous Force et orientation définies; FA extérieur signé peut apparaître avec plus. Les normalisations locales/globales restent différentes. Not established independently of definitions/calibration",
+    "confidence": "MEDIUM",
+    "questions": [
+      "RQ-03",
+      "RQ-03.02"
+    ],
+    "internal_coherence": "Force interne/externe et signe explicités; ne pas remplacer F par quantité demandée sans preuve.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0046",
+    "statement": "Money est la valeur de Cash, lequel en est le support.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 184,
+      "pages": [
+        184
+      ],
+      "quotation": "Money as the value of Cash,",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Définir Money comme valeur du support Cash.",
+    "status": [
+      "DEFINITIONAL",
+      "NON_DISCRIMINATING"
+    ],
+    "global_review_status": "CONFIRMED",
+    "global_qualification": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+    "formal_support": "Comparaison nominal/réel partielle; pas équivalence avec dépôts bancaires.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "BIB-0001",
+      "BIB-0020",
+      "CBIB-01"
+    ],
+    "literature_support": "real balances and monetary instruments; Valeur/support se recoupe avec distinctions usuelles; définition de Money reste contextualisée",
+    "objections": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local. Not established independently of definitions/calibration",
+    "confidence": "HIGH",
+    "questions": [
+      "RQ-06",
+      "RQ-06.01"
+    ],
+    "internal_coherence": "Comparaison nominal/réel partielle; pas équivalence avec dépôts bancaires.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "RECOMBINATION_OF_KNOWN_CONCEPTS; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0048",
+    "statement": "Wealth désigne exclusivement la quantité de Money, sans inclure les actifs patrimoniaux.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 185,
+      "pages": [
+        185
+      ],
+      "quotation": "It never takes into account the assets that an economic agent",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Restreindre Wealth à Money hors patrimoine.",
+    "status": [
+      "DEFINITIONAL"
+    ],
+    "global_review_status": "SOURCE_EXTENDED",
+    "global_qualification": "Wealth monétaire exclut patrimoine sans nier richesse sociale; épargne comme potentiel et PIB final exigent horizon. Ne pas conclure que tout service exclu est inutile.",
+    "formal_support": "Périmètre explicite, pas mesure complète du niveau de vie.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "BIB-0003",
+      "CBIB-04",
+      "CBIB-05"
+    ],
+    "literature_support": "monetary resources vs total net worth; Restriction explicite au Money exclut patrimoine; nouveau périmètre de mot, pas diagnostic inédit du PIB",
+    "objections": "Wealth monétaire exclut patrimoine sans nier richesse sociale; épargne comme potentiel et PIB final exigent horizon. Ne pas conclure que tout service exclu est inutile. Not established independently of definitions/calibration",
+    "confidence": "HIGH",
+    "questions": [
+      "RQ-01",
+      "RQ-01.02",
+      "RQ-02",
+      "RQ-02.01",
+      "RQ-12",
+      "RQ-12.03"
+    ],
+    "internal_coherence": "Périmètre explicite, pas mesure complète du niveau de vie.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "DISTINCT_DECOMPOSITION; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false,
+    "source_context_extension": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 185,
+      "text": "185 General Normally the arguments, criteria and conditions for the validity of the reasoning would have to be developed here. However and a priori, the application of analytical reasoning can be accepted and applied to economic phenomena on condition that the variations in the characteristics of the economic system under examination are small enough and close enough in time to be judged as continuous. For example, the evolution of the price of a Product can be considered as continuous because it doesn't generally change abruptly over a long enough period of time. Obviously, this isn't always the case in reality. For example, at the time of sales, prices fall by 20 to 50% (or even more) in one go. It is quite obvious that in this case, the evolution of prices is difficult to assimilate to a continuous and regular variation. Nevertheless, at the end of the sales, prices return substantially to their previous level and this period can be assimilated to a temporary anomaly which doesn't call into question this supposed continuity of evolution for a sufficiently long period. The noun “wealth” refers, here and throughout this study, only to the quantity of Money existing in the economic system under consideration, i.e. to the only money supply in any form whatsoever, both scriptural and fiduciary. Monetary aggregates (M0, M1, ...) don’t have to be used here, as their definition only comes from a human resolution. It never takes into account the assets that an economic agent (definition below) or any community may have. Indeed, for the constitution of a certain patrimony, it has always been necessary to create a Money beforehand. By posing : Rm = monetary wealth i = economic agent (definition below) n = number of economic agents The monetary wealth of an economic system can be defined as follows: Rm=∑Rm❑(i) The aim of the whole paper is to find out how it's possible to have : dRm>0 ‹03-01›",
+      "kind": "SOURCE",
+      "finding": "ER-011"
+    }
+  },
+  {
+    "id": "CPC-0051",
+    "statement": "Labour désigne la tâche, constante pour un produit et une méthode de fabrication donnés.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 187,
+      "pages": [
+        187,
+        188
+      ],
+      "quotation": "labour (l) must be understood as the thing to be done, the task, the job to be done. It is constant for a given Product and manufacturing method.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Tâche constante pour Product et méthode donnés.",
+    "status": [
+      "DEFINITIONAL"
+    ],
+    "global_review_status": "QUALIFIED",
+    "global_qualification": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver.",
+    "formal_support": "Humain ou machine; pas synonyme d'heures salariées.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "BIB-0002",
+      "CBIB-11"
+    ],
+    "literature_support": "task input vs human hours; Même tâche peut être effectuée par machine: ne pas traduire labour automatiquement par travail salarié",
+    "objections": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver. Not established independently of definitions/calibration",
+    "confidence": "HIGH",
+    "questions": [
+      "RQ-03",
+      "RQ-03.01"
+    ],
+    "internal_coherence": "Humain ou machine; pas synonyme d'heures salariées.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0052",
+    "statement": "Pour une tâche constante, Work dépend de sa vitesse d’exécution.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 188,
+      "pages": [
+        188
+      ],
+      "quotation": "for a constant labour, the Work varies according to its speed of execution.",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Relier Work à vitesse pour tâche fixée.",
+    "status": [
+      "FORMALLY_DERIVED",
+      "ASSUMPTION_DEPENDENT",
+      "NOT_IDENTIFIED"
+    ],
+    "global_review_status": "QUALIFIED",
+    "global_qualification": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver.",
+    "formal_support": "Primitive quadratique conditionnelle et cp fixe; terme supplémentaire si cp varie.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "BIB-0002",
+      "BIB-0017",
+      "CBIB-11"
+    ],
+    "literature_support": "process productivity and rate of execution; Dépendance de T à vitesse et interprétation différentielle particulières; ne se réduit pas à TFP",
+    "objections": "Tâche et méthode fixées, cp/ca distincts; dérivations quadratiques supposent complexité constante. Normalisation par copies et coefficients supplémentaires à conserver. Not established independently of definitions/calibration",
+    "confidence": "MEDIUM",
+    "questions": [
+      "RQ-03",
+      "RQ-03.01",
+      "RQ-03.03",
+      "RQ-04",
+      "RQ-04.01"
+    ],
+    "internal_coherence": "Primitive quadratique conditionnelle et cp fixe; terme supplémentaire si cp varie.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "DISTINCT_FORMAL_RESTRICTION; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  },
+  {
+    "id": "CPC-0053",
+    "statement": "Money mesure la valeur de Cash ; cette valeur varie dans le temps et selon le lieu.",
+    "source": {
+      "document": "Reflections_PierreCampergue.pdf",
+      "page": 188,
+      "pages": [
+        188
+      ],
+      "quotation": "the Money (M) is defined as the measure of the value of Cash",
+      "normalization": "whitespace; standalone leading page numbers removed"
+    },
+    "role": "Valeur de Cash dans le temps et l'espace.",
+    "status": [
+      "DEFINITIONAL",
+      "NOT_IDENTIFIED"
+    ],
+    "global_review_status": "CONFIRMED",
+    "global_qualification": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local.",
+    "formal_support": "L'existence de prix observés ne donne pas u universel ni Money mesuré.",
+    "empirical_support": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "literature": [
+      "BIB-0008",
+      "CBIB-01"
+    ],
+    "literature_support": "purchasing power across time/place; Temporalité et géographie connues; panier et support économique pas encore mesure universelle",
+    "objections": "Définition support/valeur et produit n.u stable; différentielle locale, pas preuve indépendante de neutralité. N global ne se confond pas avec n local. Not established independently of definitions/calibration",
+    "confidence": "MEDIUM",
+    "questions": [
+      "RQ-06",
+      "RQ-06.01",
+      "RQ-10",
+      "RQ-10.01"
+    ],
+    "internal_coherence": "L'existence de prix observés ne donne pas u universel ni Money mesuré.",
+    "external_compatibility": "Aucune mesure indépendante confirmant ce claim spécifique. Les définitions et contrôles formels ne sont pas des observations économiques.",
+    "distinctive_explanation": "PARTIAL_PARALLEL; Not established independently of definitions/calibration",
+    "source_artifacts": [
+      "analysis/data/claims.jsonl",
+      "analysis/global_corpus_pass/claim_rechecks.json",
+      "research_questions/contribution/core_comparisons.json"
+    ],
+    "epistemic_kind": "INTERPRETATION",
+    "global_validation": false
+  }
+]

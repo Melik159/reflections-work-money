@@ -1,0 +1,65 @@
+[
+  {
+    "usage": "Valeur portée / mesure",
+    "pages": [
+      15
+    ],
+    "context": "M=n u; nombre et valeur unitaire",
+    "same_variable": "Non démontré avec les autres référents",
+    "compatible": "Conditionnel: étalon et panier communs",
+    "ambiguity": "Valeur de u non opérationnalisée indépendamment"
+  },
+  {
+    "usage": "Gain du consommateur",
+    "pages": [
+      19,
+      204
+    ],
+    "context": "0.1 dollar conservé pour un kilogramme après baisse de prix",
+    "same_variable": "deltaM_gain, label analytique seulement",
+    "compatible": "Budget fixe mesurable; pas identité démontrée avec toute richesse",
+    "ambiguity": "Panier, qualité, revenu et dépenses ultérieures"
+  },
+  {
+    "usage": "Solde / Money disponible",
+    "pages": [
+      204
+    ],
+    "context": "Même dollar avant/après, plus grande possibilité d’achat",
+    "same_variable": "M_solde, pas symbole nouveau de l’auteur",
+    "compatible": "Ne pas additionner le gain au Cash nominal comme une émission",
+    "ambiguity": "Solde nominal vs valeur portée"
+  },
+  {
+    "usage": "Grandeur cinétique relative",
+    "pages": [
+      207
+    ],
+    "context": "M=−½caϖ², constante choisie nulle",
+    "same_variable": "M_cinétique, référent analytique",
+    "compatible": "Possible avec origine et signe orientés; non identité automatique au solde",
+    "ambiguity": "Étalon, ca et référence"
+  },
+  {
+    "usage": "Potentiel / total",
+    "pages": [
+      467
+    ],
+    "context": "Total = cinétique échange + potentiel épargne",
+    "same_variable": "Total composé, pas forcément M cinétique seul",
+    "compatible": "Décomposition à expliciter",
+    "ambiguity": "Épargne comptable vs potentiel"
+  },
+  {
+    "usage": "Transfert orienté",
+    "pages": [
+      205,
+      206,
+      455
+    ],
+    "context": "Entrée/sortie de système, création/destruction orientées",
+    "same_variable": "Flux/transfert, pas état",
+    "compatible": "Frontière, temps, convention et conversion nécessaires",
+    "ambiguity": "Création locale ne signifie pas création globale"
+  }
+]

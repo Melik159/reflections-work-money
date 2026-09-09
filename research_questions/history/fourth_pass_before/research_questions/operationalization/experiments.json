@@ -1,0 +1,332 @@
+[
+  {
+    "id": "EXP-01",
+    "question": "RQ-03.03",
+    "claims": [
+      "CPC-0039",
+      "CPC-0043",
+      "CPC-0044",
+      "CPC-0052",
+      "CPC-0054",
+      "CPC-0066",
+      "CPC-0068"
+    ],
+    "variables": [
+      {
+        "id": "VAR-01",
+        "name": "T",
+        "measurement_level": 1
+      },
+      {
+        "id": "VAR-03",
+        "name": "cp",
+        "measurement_level": 1
+      },
+      {
+        "id": "VAR-04",
+        "name": "ω",
+        "measurement_level": 3
+      },
+      {
+        "id": "VAR-05",
+        "name": "Force / Forces",
+        "measurement_level": 1
+      }
+    ],
+    "data": "Élevé; instrument économique absent",
+    "design": "Définir et étalonner une indication indépendante de Force, puis comparer T intégré à la loi quadratique hors calibration.",
+    "prediction": "T∝ω² à cp fixe",
+    "alternative_prediction": "Exposant non quadratique ou cp variable",
+    "discriminating_power": "NOT_TESTABLE",
+    "cost_complexity": "Élevé; instrument économique absent",
+    "feasibility": "NEEDS_DEFINITION",
+    "execution_status": "DESIGNED_NOT_EXECUTED",
+    "measurement_scope": "Formal diagnostics do not claim empirical observation of L0/L1 variables",
+    "independent_law_test": false
+  },
+  {
+    "id": "EXP-02",
+    "question": "RQ-05.03",
+    "claims": [
+      "CPC-0034",
+      "CPC-0055",
+      "CPC-0056",
+      "CPC-0057",
+      "CPC-0058",
+      "CPC-0059",
+      "CPC-0076",
+      "CPC-0077",
+      "CPC-0078",
+      "CPC-0079",
+      "CPC-0113"
+    ],
+    "variables": [
+      {
+        "id": "VAR-06",
+        "name": "Utility",
+        "measurement_level": 2
+      },
+      {
+        "id": "VAR-13",
+        "name": "price",
+        "measurement_level": 3
+      }
+    ],
+    "data": "Synthetic only",
+    "design": "Comparer classements et ratios sous transformations croissantes; données synthétiques uniquement.",
+    "prediction": "Classement insuffisant pour rapport Utility",
+    "alternative_prediction": "Échelle cardinale indépendante pourrait lever indétermination",
+    "discriminating_power": "MEDIUM",
+    "cost_complexity": "Faible; diagnostic formel",
+    "feasibility": "DO_NOW",
+    "execution_status": "EXECUTED_FORMAL",
+    "measurement_scope": "Formal diagnostics do not claim empirical observation of L0/L1 variables",
+    "independent_law_test": false
+  },
+  {
+    "id": "EXP-03",
+    "question": "RQ-08.02",
+    "claims": [
+      "CPC-0043",
+      "CPC-0044",
+      "CPC-0109",
+      "CPC-0116",
+      "CPC-0117",
+      "CPC-0118"
+    ],
+    "variables": [
+      {
+        "id": "VAR-11",
+        "name": "K",
+        "measurement_level": 1
+      },
+      {
+        "id": "VAR-01",
+        "name": "T",
+        "measurement_level": 1
+      },
+      {
+        "id": "VAR-07",
+        "name": "Money",
+        "measurement_level": 1
+      }
+    ],
+    "data": "Synthetic only",
+    "design": "Deux et trois produits; réplication de composition fixe puis poids variables.",
+    "prediction": "K invariant sous réplication proportionnelle, pas sous recomposition générale",
+    "alternative_prediction": "Homogénéité des Ki stabilise K même avec composition variable",
+    "discriminating_power": "MEDIUM",
+    "cost_complexity": "Faible; formal_results.json",
+    "feasibility": "DO_NOW",
+    "execution_status": "EXECUTED_FORMAL",
+    "measurement_scope": "Formal diagnostics do not claim empirical observation of L0/L1 variables",
+    "independent_law_test": false
+  },
+  {
+    "id": "EXP-04",
+    "question": "RQ-04.04",
+    "claims": [
+      "CPC-0032",
+      "CPC-0033",
+      "CPC-0038",
+      "CPC-0101",
+      "CPC-0102",
+      "CPC-0103",
+      "CPC-0104",
+      "CPC-0108"
+    ],
+    "variables": [
+      {
+        "id": "VAR-26",
+        "name": "η",
+        "measurement_level": 1
+      },
+      {
+        "id": "VAR-06",
+        "name": "Utility",
+        "measurement_level": 2
+      }
+    ],
+    "data": "Synthetic only",
+    "design": "Calcul conditionnel à π/8 puis examen de dérivée libre, sans confondre optimum contraint et libre.",
+    "prediction": "Valeur .3431 conditionnelle; contrainte supplémentaire nécessaire",
+    "alternative_prediction": "Autre domaine admissible sélectionne autre valeur",
+    "discriminating_power": "MEDIUM",
+    "cost_complexity": "Faible; formal_results.json",
+    "feasibility": "DO_NOW",
+    "execution_status": "EXECUTED_FORMAL",
+    "measurement_scope": "Formal diagnostics do not claim empirical observation of L0/L1 variables",
+    "independent_law_test": false
+  },
+  {
+    "id": "EXP-05",
+    "question": "RQ-09.02",
+    "claims": [
+      "CPC-0003",
+      "CPC-0017",
+      "CPC-0039",
+      "CPC-0042",
+      "CPC-0067",
+      "CPC-0119",
+      "CPC-0122"
+    ],
+    "variables": [
+      {
+        "id": "VAR-16",
+        "name": "energy",
+        "measurement_level": 5
+      },
+      {
+        "id": "VAR-17",
+        "name": "useful work",
+        "measurement_level": 3
+      },
+      {
+        "id": "VAR-04",
+        "name": "ω",
+        "measurement_level": 3
+      }
+    ],
+    "data": "Modéré; laboratoire ou usine; domaine à pré-spécifier",
+    "design": "Procédé homogène à plusieurs vitesses; compteur, couple, durée et déchets, qualité fixée.",
+    "prediction": "Tester la proposition physique de pertes p165 séparément de T",
+    "alternative_prediction": "Pertes linéaires, fixes ou rendement croissant selon procédé",
+    "discriminating_power": "MEDIUM",
+    "cost_complexity": "Modéré; laboratoire ou usine; domaine à pré-spécifier",
+    "feasibility": "NEEDS_DATA",
+    "execution_status": "DESIGNED_NOT_EXECUTED",
+    "measurement_scope": "Formal diagnostics do not claim empirical observation of L0/L1 variables",
+    "independent_law_test": false
+  },
+  {
+    "id": "EXP-06",
+    "question": "RQ-05.01",
+    "claims": [
+      "CPC-0019",
+      "CPC-0020",
+      "CPC-0021",
+      "CPC-0097",
+      "CPC-0098",
+      "CPC-0105",
+      "CPC-0110"
+    ],
+    "variables": [
+      {
+        "id": "VAR-12",
+        "name": "cost",
+        "measurement_level": 2
+      },
+      {
+        "id": "VAR-13",
+        "name": "price",
+        "measurement_level": 3
+      },
+      {
+        "id": "VAR-14",
+        "name": "profit",
+        "measurement_level": 3
+      },
+      {
+        "id": "VAR-15",
+        "name": "productivity",
+        "measurement_level": 3
+      },
+      {
+        "id": "VAR-06",
+        "name": "Utility",
+        "measurement_level": 2
+      },
+      {
+        "id": "VAR-20",
+        "name": "consumer gain",
+        "measurement_level": 2
+      }
+    ],
+    "data": "Élevé; données commerciales appariées",
+    "design": "Panel produit-usine-client; coûts complets, factures, caractéristiques, quantités et énergie avant/après procédé.",
+    "prediction": "Branches de partage conditionnelles, pas transmission automatique",
+    "alternative_prediction": "Concurrence, markups, demande et autres intrants",
+    "discriminating_power": "LOW",
+    "cost_complexity": "Élevé; données commerciales appariées",
+    "feasibility": "NEEDS_DATA",
+    "execution_status": "DESIGNED_NOT_EXECUTED",
+    "measurement_scope": "Formal diagnostics do not claim empirical observation of L0/L1 variables",
+    "independent_law_test": false
+  },
+  {
+    "id": "EXP-07",
+    "question": "RQ-10.02",
+    "claims": [
+      "CPC-0008",
+      "CPC-0084",
+      "CPC-0099",
+      "CPC-0127"
+    ],
+    "variables": [
+      {
+        "id": "VAR-20",
+        "name": "consumer gain",
+        "measurement_level": 2
+      },
+      {
+        "id": "VAR-13",
+        "name": "price",
+        "measurement_level": 3
+      },
+      {
+        "id": "VAR-22",
+        "name": "standard of living",
+        "measurement_level": 2
+      },
+      {
+        "id": "VAR-23",
+        "name": "environmental damage",
+        "measurement_level": 2
+      }
+    ],
+    "data": "Élevé; contrefactuel et données de panel",
+    "design": "Panel ménages avec exposition exogène à baisse de prix; dépenses, actifs, dettes, transferts; empreintes séparées.",
+    "prediction": "Usage variable entre consommation, épargne et autres destinations",
+    "alternative_prediction": "Effets revenu/substitution standards et chocs de revenu simultanés",
+    "discriminating_power": "LOW",
+    "cost_complexity": "Élevé; contrefactuel et données de panel",
+    "feasibility": "NEEDS_DATA",
+    "execution_status": "DESIGNED_NOT_EXECUTED",
+    "measurement_scope": "Formal diagnostics do not claim empirical observation of L0/L1 variables",
+    "independent_law_test": false
+  },
+  {
+    "id": "EXP-08",
+    "question": "RQ-12.02",
+    "claims": [
+      "CPC-0001",
+      "CPC-0009",
+      "CPC-0018",
+      "CPC-0029",
+      "CPC-0118",
+      "CPC-0120"
+    ],
+    "variables": [
+      {
+        "id": "VAR-11",
+        "name": "K",
+        "measurement_level": 1
+      },
+      {
+        "id": "VAR-16",
+        "name": "energy",
+        "measurement_level": 5
+      }
+    ],
+    "data": "Faible; données indépendantes déjà archivées; pas de régression cette passe",
+    "design": "Pré-spécifier K=GDP/E sur période de calibration et prévoir période tenue à l’écart; proxies seulement.",
+    "prediction": "Couplage stable sous conditions constantes",
+    "alternative_prediction": "Intensité énergétique évolutive et changement de composition",
+    "discriminating_power": "LOW",
+    "cost_complexity": "Faible; données indépendantes déjà archivées; pas de régression cette passe",
+    "feasibility": "DO_LATER",
+    "execution_status": "DESIGNED_NOT_EXECUTED",
+    "measurement_scope": "Formal diagnostics do not claim empirical observation of L0/L1 variables",
+    "independent_law_test": false
+  }
+]

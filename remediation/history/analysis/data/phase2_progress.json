@@ -1,0 +1,37 @@
+{
+  "status": "SUFFICIENT_FOR_ITERATIVE_RESEARCH",
+  "pages_total": 562,
+  "pages_examined": 447,
+  "claims": 127,
+  "concepts": 36,
+  "criticality": {
+    "CORE": 24,
+    "MAJOR": 96,
+    "SUPPORTING": 7
+  },
+  "types": {
+    "OPEN_QUESTION": 1,
+    "CONCEPTUAL": 22,
+    "ANALOGICAL": 2,
+    "ASSUMPTION": 7,
+    "HYPOTHESIS": 50,
+    "DEFINITION": 21,
+    "AXIOM": 6,
+    "DERIVED": 2,
+    "MECHANISM": 4,
+    "NORMATIVE": 1,
+    "EMPIRICAL": 1,
+    "METHODOLOGICAL": 10
+  },
+  "ready_for_bibliographic_adversarial_review": true,
+  "coverage_status": "COVERAGE_IN_PROGRESS",
+  "policy": "User authorizes iterative research without exhaustive prior reading.",
+  "money_review_status": "QUALIFIED",
+  "productive_review_status": "QUALIFIED",
+  "terminal_review_status": "QUALIFIED",
+  "metric_update_note": "Energy review: counts recomputed from current claims and coverage; previous stale type/criticality counters archived.",
+  "second_question_pass": "10 targeted dossiers, no global verdict",
+  "third_question_pass": "Targeted conceptual metrology; no global verdict",
+  "global_consolidation_status": "GLOBAL_CORPUS_PASS_INCOMPLETE",
+  "global_consolidation_note": "562/562 SCANNED_FOR_RELEVANCE; couverture analytique distincte, pas de nouvelle résolution scientifique."
+}

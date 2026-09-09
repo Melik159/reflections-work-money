@@ -1,0 +1,14 @@
+[
+  {
+    "field": "NEW MATERIAL FOUND / added ALTERNATIVE_SCENARIO",
+    "old_value": 3,
+    "new_value": 2,
+    "reason": "Le chiffre 3 était le total global, incluant GC-01 hérité. Parmi les 20 ajouts, seuls GC-17 et GC-32 portent ce type. Vérifié directement dans findings.json; aucune fiche modifiée."
+  },
+  {
+    "field": "FORMAL ISSUES / typography",
+    "old_value": "p·l=1408",
+    "new_value": "p·l=1 (page 408)",
+    "reason": "Séparation de la formule et du numéro de page; aucune modification mathématique. Espacement des principales statistiques également corrigé."
+  }
+]

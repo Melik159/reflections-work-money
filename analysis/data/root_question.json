@@ -1,0 +1,19 @@
+{
+  "id": "QUESTION_RACINE",
+  "source": {
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 2,
+    "pages": [
+      2,
+      3
+    ],
+    "quotation": "The key question is therefore to understand how the increase in living standards has led to these environmental damages, or how we have moved from a subsistence society to an affluent society.",
+    "normalization": "whitespace; standalone leading page numbers removed"
+  },
+  "associated_sentence": {
+    "document": "Reflections_PierreCampergue.pdf",
+    "page": 3,
+    "quotation": "This essay should only be understood as a proposed answer to this question."
+  },
+  "correction": "Previously attributed exclusively to page 3; begins page 2."
+}

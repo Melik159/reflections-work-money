@@ -1,0 +1,58 @@
+{
+  "task": "ITER001-P0-10",
+  "cycle": "ITER001-C10",
+  "stage": "DOCUMENTARY_PREPARATION_ONLY",
+  "reading_attestation": false,
+  "analysis_performed": false,
+  "decision_performed": false,
+  "pages_hint_extracted": [
+    63,
+    64,
+    65,
+    79,
+    80,
+    198,
+    301,
+    561,
+    562
+  ],
+  "document": "Reflections_PierreCampergue.pdf",
+  "source_type": "SOURCE_CORPUS",
+  "input_sha256": {
+    "Reflections_PierreCampergue.pdf": "7981eca40bca1c5ce54d96b3c840eda34d0e7d01fdc89fe9748c3c047c6f3827",
+    "corpus/extracted/Reflections_PierreCampergue.pages.jsonl": "cc774cf5d62505450b50ba891fbd85d0d57a39750676e6b16459ea1056674239",
+    "rag/index/iterative.json": "91e2acaa1dfd9c0b8da43e067e14470854b908e48005310bac077ddaa2ff271a",
+    "research_state/iteration001/initial_tasks.json": "20c43c7ed94e2031ea42c2316ac2588b4c6a6ad113c381f4c1beffe501ef79f0"
+  },
+  "page_text_sha256": {
+    "63": "36d646bc4edfa840b4946671ea48f89e5450de56425d17270c9860abe9c75fa8",
+    "64": "e795e16bb880db0ad2f279f4c756e0d98f1ee1e46340fa389b531c05c8247d8f",
+    "65": "26c16ff9b4f646aa84b8f635473e03094f6a94983b0e46f16227695c7ece7249",
+    "79": "75824b49e99a6da7ac7147ced3e35bb5de0cc2f172db69a7367098867feb846e",
+    "80": "67189566247288efbe1ddf6ca02c0dfab575d7b34866f2da55f60585458681c5",
+    "198": "e4729f5421c27e60659f7943bab965b44000fdc9e482eedbc631a096db3a2368",
+    "301": "ce24f78ed295bd57dd7fc8577ac0590d02419ebb7cf458810a9de02f7285ee62",
+    "561": "088958ce7333b6fb2bd52dc44c0d2ac57989859ba555ce0db2b9b3303af0425d",
+    "562": "881f615fabe7a83f2ff5f2aed9375ee5008bdb8e9436fde4a6fce5aacf985f89"
+  },
+  "source_pages_sha256": "b420cda21dd9eb84ebc6f79e0c219ba9996558ec7c0ab9d69b4250bca92a7171",
+  "retrieval": [
+    {
+      "collection": "SOURCE_CORPUS",
+      "query": "Programme épistémologique et cohérence interne Quelle règle de recherche distingue identité, hypothèse assumée et restriction réfutable ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_source.jsonl",
+      "hits": 3
+    },
+    {
+      "collection": "DERIVED_ANALYSIS",
+      "query": "Programme épistémologique et cohérence interne Quelle règle de recherche distingue identité, hypothèse assumée et restriction réfutable ?",
+      "k": 3,
+      "method": "bm25",
+      "file": "rag_derived.jsonl",
+      "hits": 3
+    }
+  ],
+  "note": "Extraction intégrale préparée pour lecture ultérieure. Ne constitue ni attestation de lecture ni preuve finale RAG."
+}

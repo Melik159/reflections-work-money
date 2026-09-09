@@ -1,0 +1,401 @@
+{
+  "date": "2026-09-08",
+  "integration_corrections": [
+    {"claim_id": "CPC-0125", "old_dependency": "CPC-0124", "new_dependency": "CPC-0055", "reason": "Le brevet productif est une branche alternative fondée sur Utility, non une conséquence du monopole sans Work; graphe et claim synchronisés."},
+    {"old_metric": "phase2_progress pages_examined=175 et compteurs de types antérieurs", "new_metric": "pages_examined=247, claims=127 et répartition recalculée", "reason": "Premier verify a détecté le défaut de synchronisation; trace conservée, test non désactivé."}
+  ],
+  "baseline": {
+    "claims": 113,
+    "examined": 175,
+    "tests_pass": 40
+  },
+  "new_claims": 127,
+  "old_examined": 175,
+  "new_examined": 247,
+  "changes": [
+    {
+      "id": "CPC-0114",
+      "action": "ADD",
+      "old_statement": null,
+      "new_statement": "La demande D est définie comme un débit de copies vendues, symétriquement à l’offre de copies fabriquées.",
+      "reason": "Distinct proposition in newly scoped terminal reconstruction.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 403,
+          "pages": [
+            403
+          ],
+          "quotation": "In the same way as supply, demand D must be considered as speed, as it's necessary to specify the time during which a certain number of copies of the Product are sold.",
+          "normalization": "whitespace",
+          "context_before": "different speeds. Consequently, the number of copies produced QS is the number of times the labour or the task has been done during the time period considered (unit of time). Definition of the demand ",
+          "context_after": " Indeed, it's said, for example, that demand is 888 pairs of Charentaises per day. This number will be indicated by \"D\" as an index. However, as a general rule, there are several suppliers who do not "
+        }
+      ]
+    },
+    {
+      "id": "CPC-0115",
+      "action": "ADD",
+      "old_statement": null,
+      "new_statement": "Les potentiels économiques sont présentés comme fonctions d’état sous une restriction explicite d’absence de pertes.",
+      "reason": "Distinct proposition in newly scoped terminal reconstruction.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 413,
+          "pages": [
+            413
+          ],
+          "quotation": "However, it should be noted that these relationships are only valid in the absence of losses.",
+          "normalization": "whitespace",
+          "context_before": "ction of the final and initial values and in no way of the method and path followed between these values. Only the values at the end and at the beginning of the transformation are taken into account. ",
+          "context_after": " In Economics, in the two transformations T→M and M→T, the functions already known (Internal Energy ETM and Empraxia X on the one hand and Internal Energy EMT and Enomailia L on the other hand) as wel"
+        }
+      ]
+    },
+    {
+      "id": "CPC-0116",
+      "action": "ADD",
+      "old_statement": null,
+      "new_statement": "Le calcul des coefficients écométriques emploie deux variables parmi FA, V, UP, avec rP constant dans la Core Law.",
+      "reason": "Distinct proposition in newly scoped terminal reconstruction.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 441,
+          "pages": [
+            441
+          ],
+          "quotation": "By choosing any 2 variables among them and since r P is a constant, there are therefore three possibilities, namely :",
+          "normalization": "whitespace",
+          "context_before": "that the evolution of an economic system in the transformation T→M is a function of the following 3 independent variables: FA ,V ,U P linked together by the Core Law (08-04), namely : FA ⋅V = r P⋅U P ",
+          "context_after": " 1. Utility and Added Value ⇒ U P and V 2. Utility and Force ⇒ U P and FA 3. Force and Added Value ⇒ FA and V Relationships giving the variation of Internal Energy (06-02) and Empraxia (09-10), namely"
+        }
+      ]
+    },
+    {
+      "id": "CPC-0117",
+      "action": "ADD",
+      "old_statement": null,
+      "new_statement": "Le manuscrit suppose qu’agréger davantage de Products stabilise K, pourtant variable selon le produit, jusqu’à ne plus dépendre que des unités.",
+      "reason": "Distinct proposition in newly scoped terminal reconstruction.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 559,
+          "pages": [
+            559
+          ],
+          "quotation": "Then, the more Products are taken into account, the more the coefficient K can be considered constant, and therefore only a function of the units used.",
+          "normalization": "whitespace",
+          "context_before": " of the units used for their respective measurement. This relationship is only valid for one product, the coefficient K being variablefor each. However, it is possible to design an average speed ωm . ",
+          "context_after": " At the macroeconomic level, it is therefore possible to pose : M CREATED=K⋅T SPENT We know that GDP is the sum of all the Money spent in a system for each Money→Work transformation, but also that all"
+        }
+      ]
+    },
+    {
+      "id": "CPC-0118",
+      "action": "ADD",
+      "old_statement": null,
+      "new_statement": "La fin du manuscrit propose GDP=K·Wconsumed comme couplage absolu, en absorbant dans K l’énergie sans création de Money.",
+      "reason": "Distinct proposition in newly scoped terminal reconstruction.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 559,
+          "pages": [
+            559
+          ],
+          "quotation": "which shows the absolute coupling of the GDP of a system to the energy consumed in it.",
+          "normalization": "whitespace",
+          "context_before": "n the creation of Money, i.e, in the enrichment of the system. If we take into account this energy, which only influences the slope of the right-hand side, the relationship becomes : GDP=K⋅W consumed ",
+          "context_after": ""
+        }
+      ]
+    },
+    {
+      "id": "CPC-0119",
+      "action": "ADD",
+      "old_statement": null,
+      "new_statement": "Le pont Tused=−Wcreated est restreint au travail mécanique économiquement utile, qui fait évoluer l’Utility du Product.",
+      "reason": "Distinct proposition in newly scoped terminal reconstruction.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 455,
+          "pages": [
+            455
+          ],
+          "quotation": "However, it must be kept in mind that this mechanical work (Wcreated) is only economically useful if it allows the Utility of a Product to evolve.",
+          "normalization": "whitespace",
+          "context_before": "conomic Work (Tutilized) (positive since it enters the economic system) which is going to be used by an individual, an employee, a slave, an animal, a motor or a machine to increase productivity (ω). ",
+          "context_after": " If this condition isn't fulfilled, the Economic Work spent (Tutilized) is absolutely nil and therefore the Money created (Mcreated) too. This is why the contract worker, mentioned above in the chapte"
+        }
+      ]
+    },
+    {
+      "id": "CPC-0120",
+      "action": "ADD",
+      "old_statement": null,
+      "new_statement": "Campergue relie accélération productive, pertes croissant plus vite que la productivité, consommation accrue de combustibles et dommages environnementaux.",
+      "reason": "Distinct proposition in newly scoped terminal reconstruction.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 460,
+          "pages": [
+            460
+          ],
+          "quotation": "This remark therefore highlights the increasing consumption of fuels induced by the acceleration of manufacturing processes, and consequently its inevitable increasingly intense impact on the environment.",
+          "normalization": "whitespace",
+          "context_before": ", social, health, etc. clashes, while the second doesn't. Knowing that losses increase faster than productivity, the final output of an economic system increases more slowly than productivity itself. ",
+          "context_after": " Note 2 Historical analysis shows that, in general, the more “advanced” a society is, the more the ratio between the number of productive people (performing economic work) and the number of unproducti"
+        }
+      ]
+    },
+    {
+      "id": "CPC-0121",
+      "action": "ADD",
+      "old_statement": null,
+      "new_statement": "La conservation du Work total est obtenue en compensant la variation cinétique par la variation de Work potentiel restant.",
+      "reason": "Distinct proposition in newly scoped terminal reconstruction.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 472,
+          "pages": [
+            472
+          ],
+          "quotation": "which shows the conservation, over time, of the total Work (Work created + Work to be done).",
+          "normalization": "whitespace",
+          "context_before": "472 or again: Et 2 pot + Et 2 cin = Et 1 pot + Et 1 cin Accordingly, it comes: Et 2 tot = Et1 tot ‹20-04› ",
+          "context_after": ""
+        }
+      ]
+    },
+    {
+      "id": "CPC-0122",
+      "action": "ADD",
+      "old_statement": null,
+      "new_statement": "Les conservations économiques sont présentées avec des caractéristiques similaires, mais explicitement non mécaniques, avant leur application ceteris paribus.",
+      "reason": "Distinct proposition in newly scoped terminal reconstruction.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 466,
+          "pages": [
+            466
+          ],
+          "quotation": "In this note, which is outside the realm of physics, there is neither quantity of movement nor energy in the mechanical sense.",
+          "normalization": "whitespace",
+          "context_before": "466 ",
+          "context_after": " Here, similar characteristics have been determined as follows (chapter “Mechanics of Exchanges”): • in the transformation Work→Money : ◦ quantity of motion ⇔ purchasing power ◦ total energy ⇔ total M"
+        }
+      ]
+    },
+    {
+      "id": "CPC-0123",
+      "action": "ADD",
+      "old_statement": null,
+      "new_statement": "Les Makers réalisent du labour sans création de Money; les Workers sont distingués par Force et variation d’Utility, non par simple utilité sociale.",
+      "reason": "Distinct proposition in newly scoped terminal reconstruction.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 477,
+          "pages": [
+            477
+          ],
+          "quotation": "The “Makers” are the people who done labour at a constant speed, i.e. without exerting Force and therefore without varying the Utility of the Product. No Money is created.",
+          "normalization": "whitespace",
+          "context_before": "n is given below : • The Unemployed are all those agents who don’t perform any labour such as children, students, pensioners, the sick, annuitants, the unemployed, housewives or househusbands, etc. • ",
+          "context_after": " • The Workers are the agents (individuals, slaves, employees, animals, motors) who exert a Force that transforms the Work to be done into Work done by causing a variation in the Utility of the Produc"
+        }
+      ]
+    },
+    {
+      "id": "CPC-0124",
+      "action": "ADD",
+      "old_statement": null,
+      "new_statement": "Dans le scénario monopolistique à service et Utility inchangés, la hausse de prix est attribuée à un transfert de Cash depuis les acheteurs.",
+      "reason": "Distinct proposition in newly scoped terminal reconstruction.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 488,
+          "pages": [
+            488
+          ],
+          "quotation": "Consequently, the Cash covering this price increase will necessarily come from others, i.e. the Buyers. It will therefore only be a transfer of Cash. If the monopoly gets richer, consumers get poorer.",
+          "normalization": "whitespace",
+          "context_before": "ssible to write : dETM = dT = 0 ‹22-01› This relationship shows perfectly that, in the case of a monopoly, if the price of a Product increases, the variation in monetary wealth of the system is zero. ",
+          "context_after": " Furthermore, we have ensured that the absence of a difference in the Utility of the Product implies that the Money created is null and void. Because in the case of a monopoly, the price variation has"
+        }
+      ]
+    },
+    {
+      "id": "CPC-0125",
+      "action": "ADD",
+      "old_statement": null,
+      "new_statement": "Le monopole de brevet peut combiner un Work augmentant l’Utility et une hausse supplémentaire de prix sans travail supplémentaire, attribuée au transfert.",
+      "reason": "Distinct proposition in newly scoped terminal reconstruction.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 490,
+          "pages": [
+            490
+          ],
+          "quotation": "It provides some Work in order to increase the Utility of the Product and it increases the price. But because of his monopoly position, he raises the price even more without having done any extra labour.",
+          "normalization": "whitespace",
+          "context_before": "Utility but also decreases according to the Work provided but less than previously or not at all. A typical example of this monopoly system is an agent or company that holds a patent and exploits it. ",
+          "context_after": " Consequently, the Cash that he will receive in addition will necessarily be a transfer. It will necessarily have been created previously in another transformation and this because of the “time arrow”"
+        }
+      ]
+    },
+    {
+      "id": "CPC-0126",
+      "action": "ADD",
+      "old_statement": null,
+      "new_statement": "Le champ labour-prix juxtapose des vecteurs de compétitivité d’entreprises; il ne fournit pas à lui seul une somme macroéconomique de Work ou Money.",
+      "reason": "Distinct proposition in newly scoped terminal reconstruction.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 558,
+          "pages": [
+            558
+          ],
+          "quotation": "Therefore, considering a group of enterprises, it would be possible to plot a set of vectors, each of which represents the competitiveness of each enterprise.",
+          "normalization": "whitespace",
+          "context_before": "mount of Work he does, the Money he receives can take any value. Consequently, the competitiveness Ω can vary in very large proportions. Now, a company (manufacturer) is assimilated to a Transformer. ",
+          "context_after": " This would be identical to a wind speed field in meteorology. These vectors would be defined : • by their point of application corresponding to the respective values of labour and price. • by their d"
+        }
+      ]
+    },
+    {
+      "id": "CPC-0127",
+      "action": "ADD",
+      "old_statement": null,
+      "new_statement": "Le supplément de Money issu du scénario de baisse de prix permet davantage de Products ou des Products de meilleure qualité.",
+      "reason": "Distinct proposition in newly scoped terminal reconstruction.",
+      "new_sources": [
+        {
+          "document": "Reflections_PierreCampergue.pdf",
+          "page": 400,
+          "pages": [
+            400
+          ],
+          "quotation": "In fact, the greater the Work done by the supplier, the lower the price, which leads to a surplus of Money for the consumer and, therefore, allows him to acquire more and/or higher quality Products.",
+          "normalization": "whitespace",
+          "context_before": "e consumer's Avarice (A) increases, the supplier's Laziness (dP) decreases, therefore his Work (dT) increases and, consequently, the energy needed for this increase. This corresponds well to reality. ",
+          "context_after": " • AN ECONOMIC DECISION IS NEVER NEUTRAL, NEITHER ON WORK NOR ON MONEY. ◦ it acts inversely for an actor, ◦ it acts identically for two actors."
+        }
+      ]
+    }
+  ],
+  "old_claim_statements_changed": [],
+  "chapter_change": "CH08–10 NOT_TESTED → UNCERTAIN, targeted substantive reconstruction",
+  "correction": {
+    "old": "Énergie reconstruite à partir du PIB, donc association nécessairement circulaire",
+    "new": "Construction dérivée confirmée; circularité non automatique si le ratio restitue un bilan énergétique indépendant; nouvelle série directe utilisée.",
+    "reason": "World Bank metadata documents physical IEA denominator; cancellation and vintage qualifications made explicit in report27."
+  },
+  "reading_pages_this_pass": [
+    33,
+    34,
+    380,
+    399,
+    400,
+    402,
+    403,
+    405,
+    406,
+    407,
+    408,
+    409,
+    410,
+    413,
+    414,
+    415,
+    420,
+    422,
+    424,
+    431,
+    432,
+    433,
+    438,
+    441,
+    442,
+    446,
+    452,
+    453,
+    454,
+    455,
+    456,
+    457,
+    458,
+    459,
+    460,
+    461,
+    462,
+    463,
+    464,
+    465,
+    466,
+    467,
+    468,
+    469,
+    470,
+    471,
+    472,
+    473,
+    474,
+    475,
+    476,
+    477,
+    478,
+    479,
+    480,
+    481,
+    482,
+    483,
+    484,
+    485,
+    486,
+    487,
+    488,
+    489,
+    490,
+    491,
+    492,
+    536,
+    537,
+    538,
+    539,
+    540,
+    541,
+    542,
+    543,
+    544,
+    545,
+    546,
+    547,
+    548,
+    549,
+    550,
+    551,
+    552,
+    553,
+    554,
+    555,
+    556,
+    557,
+    558,
+    559,
+    560,
+    561,
+    562
+  ],
+  "history": "analysis/history/pre_energy_review"
+}

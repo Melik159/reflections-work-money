@@ -1,0 +1,410 @@
+[
+  {
+    "id": "VAR-01",
+    "name": "T",
+    "source_pages": [
+      203,
+      207,
+      471
+    ],
+    "definition": "Economic Work; primitive cinétique à origine choisie",
+    "internal_level": 1,
+    "reviewer_level": 1,
+    "internal_status": "NOT_OPERATIONALIZED",
+    "reviewer_status": "NOT_OPERATIONALIZED",
+    "required_assumptions": "cp constant et unité de tâche; calibration indépendante de Force et cp absente",
+    "review": "Conserver L1: pas de calibration indépendante. Définition formelle et mesure ne sont pas interchangeables."
+  },
+  {
+    "id": "VAR-02",
+    "name": "dT",
+    "source_pages": [
+      203,
+      207,
+      471
+    ],
+    "definition": "Variation orientée de Work",
+    "internal_level": 1,
+    "reviewer_level": 1,
+    "internal_status": "NOT_OPERATIONALIZED",
+    "reviewer_status": "NOT_OPERATIONALIZED",
+    "required_assumptions": "dT=0 ne signifie pas T=0; terme 0.5 ω² dcp si cp varie dans la primitive",
+    "review": "Conserver L1: pas de calibration indépendante. Définition formelle et mesure ne sont pas interchangeables."
+  },
+  {
+    "id": "VAR-03",
+    "name": "cp",
+    "source_pages": [
+      189,
+      201,
+      202
+    ],
+    "definition": "Inertie du Product au changement de vitesse",
+    "internal_level": 1,
+    "reviewer_level": 1,
+    "internal_status": "NOT_OPERATIONALIZED",
+    "reviewer_status": "NOT_OPERATIONALIZED",
+    "required_assumptions": "Ni cp ni Force étalonnés indépendamment; cP distinct de cA",
+    "review": "Conserver L1: pas de calibration indépendante. Définition formelle et mesure ne sont pas interchangeables."
+  },
+  {
+    "id": "VAR-04",
+    "name": "ω",
+    "source_pages": [
+      197,
+      198
+    ],
+    "definition": "Vitesse de réalisation de la tâche restante",
+    "internal_level": 3,
+    "reviewer_level": 3,
+    "internal_status": "IDENTIFIABLE_WITH_ASSUMPTIONS",
+    "reviewer_status": "IDENTIFIABLE_WITH_ASSUMPTIONS",
+    "required_assumptions": "Frontière de tâche, échelle, qualité et version du procédé fixes; pas PIB/heure automatiquement",
+    "review": "Niveau conservé dans le périmètre indiqué: une procédure conditionnelle n’est pas une mesure collectée."
+  },
+  {
+    "id": "VAR-05",
+    "name": "Force / Forces",
+    "source_pages": [
+      201,
+      202,
+      283
+    ],
+    "definition": "Action productrice ou pression du consommateur",
+    "internal_level": 1,
+    "reviewer_level": 1,
+    "internal_status": "NOT_OPERATIONALIZED",
+    "reviewer_status": "NOT_OPERATIONALIZED",
+    "required_assumptions": "Une Force économique ne se mesure pas en newtons par renommage",
+    "review": "Conserver L1: pas de calibration indépendante. Définition formelle et mesure ne sont pas interchangeables."
+  },
+  {
+    "id": "VAR-06",
+    "name": "Utility",
+    "source_pages": [
+      108,
+      109,
+      189,
+      190
+    ],
+    "definition": "Caractéristique du Product pour un agent et un usage",
+    "internal_level": 2,
+    "reviewer_level": 1,
+    "internal_status": "PROXY_ONLY",
+    "reviewer_status": "NOT_OPERATIONALIZED",
+    "required_assumptions": "p109 reconnaît absence de mesure; ordinal ne donne pas rapports cardinaux; qualité technique insuffisante",
+    "review": "Cible Utility: L1; classement/qualité candidats L2 ne suffisent pas aux ratios. REQUIRES_CARDINAL_OR_RATIO_SCALE selon formule."
+  },
+  {
+    "id": "VAR-07",
+    "name": "Money",
+    "source_pages": [
+      185,
+      192,
+      204,
+      207
+    ],
+    "definition": "Grandeur économique portée par Cash; disponible pour acquérir",
+    "internal_level": 1,
+    "reviewer_level": 1,
+    "internal_status": "NOT_OPERATIONALIZED",
+    "reviewer_status": "AMBIGUOUS",
+    "required_assumptions": "Ne pas assimiler à dépôts ni USD; les scénarios monétaires ont des conditions distinctes",
+    "review": "Solde, gain, potentiel et transfert nécessitent des référents distincts; gain fixe p204 observable sans mesurer Money général."
+  },
+  {
+    "id": "VAR-08",
+    "name": "Cash",
+    "source_pages": [
+      189,
+      192
+    ],
+    "definition": "Supports de circulation de Money, pas seulement espèces",
+    "internal_level": 3,
+    "reviewer_level": 3,
+    "internal_status": "DIRECTLY_OBSERVABLE",
+    "reviewer_status": "DIRECTLY_OBSERVABLE",
+    "required_assumptions": "Éviter double compte support/solde; cartes et billets ne forment pas un agrégat homogène",
+    "review": "Niveau conservé dans le périmètre indiqué: une procédure conditionnelle n’est pas une mesure collectée. Fixer agent, période, monnaie, qualité, tâche et périmètre comptable; agrégation non automatique."
+  },
+  {
+    "id": "VAR-09",
+    "name": "n",
+    "source_pages": [
+      204,
+      537
+    ],
+    "definition": "Nombre d’unités monétaires dans une frontière donnée",
+    "internal_level": 3,
+    "reviewer_level": 3,
+    "internal_status": "DIRECTLY_OBSERVABLE",
+    "reviewer_status": "DIRECTLY_OBSERVABLE",
+    "required_assumptions": "Fixer monnaie, agents, instruments, consolidation et date; aucune nouvelle mesure collectée",
+    "review": "Niveau conservé dans le périmètre indiqué: une procédure conditionnelle n’est pas une mesure collectée. Fixer agent, période, monnaie, qualité, tâche et périmètre comptable; agrégation non automatique."
+  },
+  {
+    "id": "VAR-10",
+    "name": "u",
+    "source_pages": [
+      204
+    ],
+    "definition": "Valeur économique de l’unité",
+    "internal_level": 2,
+    "reviewer_level": 2,
+    "internal_status": "PROXY_ONLY",
+    "reviewer_status": "PROXY_ONLY",
+    "required_assumptions": "Choix du panier et distribution; ne constitue pas mesure de u universel",
+    "review": "Niveau conservé dans le périmètre indiqué: une procédure conditionnelle n’est pas une mesure collectée."
+  },
+  {
+    "id": "VAR-11",
+    "name": "K",
+    "source_pages": [
+      559
+    ],
+    "definition": "Coefficient local puis de couplage agrégé",
+    "internal_level": 1,
+    "reviewer_level": 1,
+    "internal_status": "AMBIGUOUS",
+    "reviewer_status": "AMBIGUOUS",
+    "required_assumptions": "Ratio estimable des proxies ≠ K_STRUCTURAL; composition, unités, pertes variables",
+    "review": "K ratio résiduel estimable si numérateur/dénominateur observés; K structurel ne l’est pas automatiquement."
+  },
+  {
+    "id": "VAR-12",
+    "name": "cost",
+    "source_pages": [
+      273,
+      501
+    ],
+    "definition": "Coût d’exécution ou d’intrants dans un périmètre productif",
+    "internal_level": 2,
+    "reviewer_level": 2,
+    "internal_status": "PROXY_ONLY",
+    "reviewer_status": "PROXY_ONLY",
+    "required_assumptions": "Coût complet exige capital, travail, réseau, taxes; produit de moyennes ≠ moyenne des produits",
+    "review": "L2 conservé pour le proxy disponible; coût comptable défini avec frontière homogène peut atteindre L3, sans nouvelles données."
+  },
+  {
+    "id": "VAR-13",
+    "name": "price",
+    "source_pages": [
+      197,
+      198,
+      204
+    ],
+    "definition": "Prix d’un exemplaire; distinguer formation et comparaison",
+    "internal_level": 3,
+    "reviewer_level": 3,
+    "internal_status": "DIRECTLY_OBSERVABLE",
+    "reviewer_status": "DIRECTLY_OBSERVABLE",
+    "required_assumptions": "Prix moyen EIA est PROXY du prix d’exemplaire, pas mesure individuelle",
+    "review": "Niveau conservé dans le périmètre indiqué: une procédure conditionnelle n’est pas une mesure collectée. Fixer agent, période, monnaie, qualité, tâche et périmètre comptable; agrégation non automatique."
+  },
+  {
+    "id": "VAR-14",
+    "name": "profit",
+    "source_pages": [
+      43,
+      488,
+      490
+    ],
+    "definition": "Gain conservé par le producteur selon scénario",
+    "internal_level": 3,
+    "reviewer_level": 3,
+    "internal_status": "DERIVABLE_FROM_OBSERVABLES",
+    "reviewer_status": "DERIVABLE_FROM_OBSERVABLES",
+    "required_assumptions": "Écart prix résidentiel−coût gaz n’est pas profit; distinguer rente et profit économique",
+    "review": "Niveau conservé dans le périmètre indiqué: une procédure conditionnelle n’est pas une mesure collectée. Fixer agent, période, monnaie, qualité, tâche et périmètre comptable; agrégation non automatique."
+  },
+  {
+    "id": "VAR-15",
+    "name": "productivity",
+    "source_pages": [
+      197,
+      198,
+      203
+    ],
+    "definition": "Vitesse d’exécution dans le formalisme",
+    "internal_level": 3,
+    "reviewer_level": 3,
+    "internal_status": "IDENTIFIABLE_WITH_ASSUMPTIONS",
+    "reviewer_status": "IDENTIFIABLE_WITH_ASSUMPTIONS",
+    "required_assumptions": "Composition, sous-traitance, qualité et travail des machines; alias de ω non variable indépendante",
+    "review": "Niveau conservé dans le périmètre indiqué: une procédure conditionnelle n’est pas une mesure collectée."
+  },
+  {
+    "id": "VAR-16",
+    "name": "energy",
+    "source_pages": [
+      455,
+      456,
+      459
+    ],
+    "definition": "Énergie physique consommée dans le procédé",
+    "internal_level": 5,
+    "reviewer_level": 5,
+    "internal_status": "DIRECTLY_OBSERVABLE",
+    "reviewer_status": "DERIVABLE_FROM_OBSERVABLES",
+    "required_assumptions": "Niveau5 pour quantité physique uniquement; primary/final/electricity/exergy non interchangeables",
+    "review": "L5 conservé pour série archivée reproductible; énergie primaire substitution est construite avec conventions, indépendante du PIB mais non exogène."
+  },
+  {
+    "id": "VAR-17",
+    "name": "useful work",
+    "source_pages": [
+      455
+    ],
+    "definition": "Travail mécanique utile produit par conversion",
+    "internal_level": 3,
+    "reviewer_level": 3,
+    "internal_status": "IDENTIFIABLE_WITH_ASSUMPTIONS",
+    "reviewer_status": "IDENTIFIABLE_WITH_ASSUMPTIONS",
+    "required_assumptions": "Frontière physique et rendement mesuré; chaleur utile et exergie ne sont pas W mécanique automatiquement",
+    "review": "Niveau conservé dans le périmètre indiqué: une procédure conditionnelle n’est pas une mesure collectée."
+  },
+  {
+    "id": "VAR-18",
+    "name": "complexity",
+    "source_pages": [
+      189,
+      202
+    ],
+    "definition": "Inertie économique, non simple nombre de pièces",
+    "internal_level": 1,
+    "reviewer_level": 1,
+    "internal_status": "NOT_OPERATIONALIZED",
+    "reviewer_status": "NOT_OPERATIONALIZED",
+    "required_assumptions": "Même mot plusieurs usages; ne remplace pas cp par un score arbitraire",
+    "review": "Conserver L1: pas de calibration indépendante. Définition formelle et mesure ne sont pas interchangeables."
+  },
+  {
+    "id": "VAR-19",
+    "name": "labour",
+    "source_pages": [
+      197,
+      203
+    ],
+    "definition": "Tâche à effectuer, par homme, animal ou machine",
+    "internal_level": 3,
+    "reviewer_level": 3,
+    "internal_status": "IDENTIFIABLE_WITH_ASSUMPTIONS",
+    "reviewer_status": "IDENTIFIABLE_WITH_ASSUMPTIONS",
+    "required_assumptions": "Pas heures de salarié par défaut; pondération de tâches hétérogènes à justifier",
+    "review": "Niveau conservé dans le périmètre indiqué: une procédure conditionnelle n’est pas une mesure collectée. Fixer agent, période, monnaie, qualité, tâche et périmètre comptable; agrégation non automatique."
+  },
+  {
+    "id": "VAR-20",
+    "name": "consumer gain",
+    "source_pages": [
+      204,
+      400
+    ],
+    "definition": "Possibilité d’achat libérée dans certains scénarios",
+    "internal_level": 2,
+    "reviewer_level": 2,
+    "internal_status": "PROXY_ONLY",
+    "reviewer_status": "PROXY_ONLY",
+    "required_assumptions": "Ni surplus compensateur, ni revenu observé, ni Money; qualité et consommation différentes",
+    "review": "Gain panier fixe a une procédure L3; gain de bien-être général reste proxy L2, sans demande/qualité."
+  },
+  {
+    "id": "VAR-21",
+    "name": "wealth",
+    "source_pages": [
+      185,
+      204
+    ],
+    "definition": "Richesse monétaire distinguée des patrimoines",
+    "internal_level": 1,
+    "reviewer_level": 1,
+    "internal_status": "NOT_OPERATIONALIZED",
+    "reviewer_status": "NOT_OPERATIONALIZED",
+    "required_assumptions": "Patrimoine net standard ne remplace pas richesse monétaire Campergue",
+    "review": "Niveau conservé dans le périmètre indiqué: une procédure conditionnelle n’est pas une mesure collectée."
+  },
+  {
+    "id": "VAR-22",
+    "name": "standard of living",
+    "source_pages": [
+      29,
+      34,
+      43,
+      180
+    ],
+    "definition": "Disponibilité et usages de biens et services; transition historique",
+    "internal_level": 2,
+    "reviewer_level": 2,
+    "internal_status": "PROXY_ONLY",
+    "reviewer_status": "PROXY_ONLY",
+    "required_assumptions": "Pas seuil source établi subsistance/abondance; moyenne ignore distribution",
+    "review": "Niveau conservé dans le périmètre indiqué: une procédure conditionnelle n’est pas une mesure collectée."
+  },
+  {
+    "id": "VAR-23",
+    "name": "environmental damage",
+    "source_pages": [
+      68,
+      69,
+      112,
+      113,
+      460
+    ],
+    "definition": "Ensemble de dégradations liées aux transformations",
+    "internal_level": 2,
+    "reviewer_level": 1,
+    "internal_status": "PROXY_ONLY",
+    "reviewer_status": "NOT_OPERATIONALIZED",
+    "required_assumptions": "Énergie ou matière ne sont pas dommages; exposition, toxicité et horizon nécessaires",
+    "review": "Pressions candidates L2, dommage cible L1: exposition, réponse, horizon et pondérations manquent."
+  },
+  {
+    "id": "VAR-24",
+    "name": "ca",
+    "source_pages": [
+      202,
+      207
+    ],
+    "definition": "Inertie de Cash relative au système",
+    "internal_level": 1,
+    "reviewer_level": 1,
+    "internal_status": "NOT_OPERATIONALIZED",
+    "reviewer_status": "NOT_OPERATIONALIZED",
+    "required_assumptions": "cp≠ca explicitement; normalisation commune non acquise",
+    "review": "Conserver L1: pas de calibration indépendante. Définition formelle et mesure ne sont pas interchangeables."
+  },
+  {
+    "id": "VAR-25",
+    "name": "ϖ",
+    "source_pages": [
+      198,
+      207
+    ],
+    "definition": "Vitesse de formation du prix",
+    "internal_level": 3,
+    "reviewer_level": 3,
+    "internal_status": "IDENTIFIABLE_WITH_ASSUMPTIONS",
+    "reviewer_status": "IDENTIFIABLE_WITH_ASSUMPTIONS",
+    "required_assumptions": "Prix annuel d’autres exemplaires n’est pas cette trajectoire",
+    "review": "Niveau conservé dans le périmètre indiqué: une procédure conditionnelle n’est pas une mesure collectée. Fixer agent, période, monnaie, qualité, tâche et périmètre comptable; agrégation non automatique."
+  },
+  {
+    "id": "VAR-26",
+    "name": "η",
+    "source_pages": [
+      385,
+      386,
+      387,
+      388,
+      389,
+      390
+    ],
+    "definition": "Rendement de transformations couplées",
+    "internal_level": 1,
+    "reviewer_level": 1,
+    "internal_status": "NOT_OPERATIONALIZED",
+    "reviewer_status": "NOT_OPERATIONALIZED",
+    "required_assumptions": "Rapports Utility et signes requis; optimum conditionné par géométrie",
+    "review": "Conserver L1: pas de calibration indépendante. Définition formelle et mesure ne sont pas interchangeables."
+  }
+]

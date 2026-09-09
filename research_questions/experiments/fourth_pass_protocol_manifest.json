@@ -1,0 +1,16 @@
+{
+  "frozen_at": "2026-09-08T12:25:23.463170+00:00",
+  "protocol_sha256": {
+    "EXP-02": "0c0b9838aeaad1803f44a260a76492e7bc03f0fbe2fab5a3e1649bc127d9d56f",
+    "EXP-03": "7577ffb5c878cb4a17225c3772ce7d07af9a1f9be8cc1444d71f266c5e38da10",
+    "EXP-09": "3a2f290aec0e13a8609084f47a85b9506f2a2c3b2c3a8ff15ca71df0074eab8a"
+  },
+  "selected": [
+    "EXP-02",
+    "EXP-03",
+    "EXP-09"
+  ],
+  "prior_results_known": true,
+  "prior_knowledge": "Third-pass diagnostics explicitly known; only new extensions frozen prospectively.",
+  "amendments": []
+}

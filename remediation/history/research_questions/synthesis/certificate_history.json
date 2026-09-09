@@ -1,0 +1,51 @@
+{
+  "previous_manifest": {
+    "status": "SYNTHESIS_WRITTEN_PENDING_VERIFICATION",
+    "questions": 53,
+    "question_statuses": {
+      "OPEN": 29,
+      "PARTIALLY_RESOLVED": 18,
+      "AMBIGUOUS": 6
+    },
+    "core_claims": 24,
+    "core_classification_counts": {
+      "NOT_IDENTIFIED": 15,
+      "ASSUMPTION_DEPENDENT": 15,
+      "DEFINITIONAL": 10,
+      "FORMALLY_DERIVED": 3,
+      "NON_DISCRIMINATING": 5,
+      "EMPIRICALLY_COMPATIBLE": 1,
+      "AMBIGUOUS": 3
+    },
+    "classification_counts_are_nonexclusive": true,
+    "contributions": 4,
+    "source_pages": 562,
+    "scanned_pages": 562,
+    "analytically_reviewed_cumulative": 447,
+    "source_commit": "a697345c427fca8de0521108a17aa2b76f267654",
+    "source_root_question_pages": [
+      2,
+      3
+    ],
+    "global_validation": false,
+    "ready_for_external_review": false,
+    "readiness_scope": "Documentary and reproducibility review readiness, not empirical resolution.",
+    "scientific_status_changes": [],
+    "canonical_claim_changes": [],
+    "new_empirical_experiments": 0,
+    "input_policy": "Current graph statuses + canonical source quotations + full-corpus qualifications; historic targeted absences superseded.",
+    "literature_policy": "Inherited verification scopes; no new external verification claimed.",
+    "source_sha256": "7981eca40bca1c5ce54d96b3c840eda34d0e7d01fdc89fe9748c3c047c6f3827"
+  },
+  "provenance_extension": {
+    "item": "SYN-08",
+    "old_sources": [
+      "analysis/global_corpus_pass/formal_checks.json"
+    ],
+    "new_sources": [
+      "analysis/global_corpus_pass/formal_checks.json",
+      "analysis/global_corpus_pass/final_report.md"
+    ],
+    "reason": "Separate the complete textual catalogue from the four executable numerical diagnostics; statement unchanged."
+  }
+}

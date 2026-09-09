@@ -1,0 +1,167 @@
+{
+  "scope": "Formal reproduction and identifiability only",
+  "input_sha256": {
+    "articles/campergue_energy_gdp_code/output_macro/merged_energy_gdp.csv": "f0e5e5edb9d0f509699444b075fb51b5bb550187ba81d7f28643d746e472bb4a"
+  },
+  "formal_checks": [
+    {
+      "id": "PCALC-01",
+      "kind": "CONDITIONAL_ARITHMETIC",
+      "result": 0.7777777777777777,
+      "passed": true,
+      "status": [
+        "ARITHMETICALLY_REPRODUCED",
+        "FORMALLY_DERIVED",
+        "ASSUMPTION_DEPENDENT",
+        "NOT_EMPIRICALLY_TESTED"
+      ],
+      "conditions": "Same task, constant cP, zero reference, T proportional to speed squared."
+    },
+    {
+      "id": "PCALC-02",
+      "kind": "COUPLED_VARIABLE_SUBSTITUTION",
+      "prices": [
+        160.0,
+        120.0
+      ],
+      "work_ratio": 1.7777777777777777,
+      "speed_ratio": 1.3333333333333333,
+      "passed": true,
+      "conclusion": "With cP fixed e changes: p∝1/sqrt(T), not 1/T with all other variables silently fixed."
+    },
+    {
+      "id": "PCALC-03",
+      "kind": "CONDITIONAL_YIELD_ARITHMETIC",
+      "eta": 0.3431457505076197,
+      "square_expression_at_zero": 1.0,
+      "passed": true,
+      "conclusion": "Value reproduced. Global maximum of this square expression not established by substitution; reconcile table392 and domain restrictions."
+    },
+    {
+      "id": "PCALC-04",
+      "kind": "LOGICAL_NONIMPLICATION",
+      "utility_ratio": 1,
+      "candidate_yield": 0.2,
+      "passed": true,
+      "conclusion": "Lower bound eta>=0 does not by itself imply eta=0. Does not refute a separately imposed zero-yield condition."
+    },
+    {
+      "id": "PCALC-05",
+      "kind": "ILLUSTRATIVE_COST_ARITHMETIC",
+      "initial_ratio": 0.6,
+      "final_ratio": 0.9272727272727272,
+      "passed": true,
+      "conclusion": "Page461 illustration reproduced; explicitly not a historical estimate."
+    }
+  ],
+  "empirical_protocols": [
+    {
+      "id": "PTEST-01",
+      "hypotheses": [
+        "HYP-0001",
+        "HYP-0006"
+      ],
+      "mechanisms": [
+        "PM-01",
+        "PM-02",
+        "PM-03"
+      ],
+      "question": "Is useful Work quadratic in speed at fixed task and complexity?",
+      "observable": "Matched-process throughput and independently metered physical/useful energy",
+      "prediction": "Conditional exponent2 for T, not necessarily total Q",
+      "alternative": "Fixed overhead, variable efficiency or technology gives another energy-speed curve",
+      "required": [
+        "task identity",
+        "cycle duration",
+        "independent useful energy",
+        "complexity",
+        "efficiency"
+      ],
+      "available": [
+        "Country Name",
+        "Country Code",
+        "year",
+        "gdp_real",
+        "gdp_ppp_real",
+        "gdp_per_energy",
+        "energy",
+        "log_gdp",
+        "log_energy",
+        "dlog_gdp",
+        "dlog_energy"
+      ],
+      "status": "NOT_IDENTIFIABLE_WITH_CURRENT_DATA",
+      "refutation": "Exponent incompatible with2 for independently operationalized T under fixed stated conditions",
+      "nonconclusion": "Only annual GDP/derived energy or different technologies observed"
+    },
+    {
+      "id": "PTEST-02",
+      "hypotheses": [
+        "HYP-0002"
+      ],
+      "mechanisms": [
+        "PM-03",
+        "PM-04",
+        "PM-05",
+        "PM-20"
+      ],
+      "question": "Does a cost gain reach the transaction price under unchanged absolute profit?",
+      "observable": "Matched product cost, price, margin amount and quality before/after productivity shock",
+      "prediction": "Fixed absolute profit: price reduction equals cost reduction; fixed price: retained gain",
+      "alternative": "Variable markups, demand and quality alter transmission",
+      "required": [
+        "unit cost",
+        "transaction price",
+        "profit per unit",
+        "quality",
+        "productivity shock"
+      ],
+      "available": [
+        "Country Name",
+        "Country Code",
+        "year",
+        "gdp_real",
+        "gdp_ppp_real",
+        "gdp_per_energy",
+        "energy",
+        "log_gdp",
+        "log_energy",
+        "dlog_gdp",
+        "dlog_energy"
+      ],
+      "status": "NOT_IDENTIFIABLE_WITH_CURRENT_DATA",
+      "refutation": "A violation of the declared branch after observing its fixed variables, not failure of a universal transmission rule never posited here",
+      "nonconclusion": "No product-level cost/price data; no independent shock"
+    },
+    {
+      "id": "PTEST-03",
+      "hypotheses": [
+        "HYP-0001"
+      ],
+      "mechanisms": [
+        "PM-12",
+        "PM-15",
+        "PM-16"
+      ],
+      "question": "Does repository energy/GDP evidence identify heat→Money transmission?",
+      "status": "NOT_IDENTIFIABLE_WITH_CURRENT_DATA",
+      "diagnostic_executed": true,
+      "n": 204,
+      "energy_reconstruction_max_relative_error": 2.212757496021225e-16,
+      "world_loglog": {
+        "n": 34,
+        "beta": 1.605202870398924,
+        "r2": 0.990862297222976
+      },
+      "world_dlog": {
+        "n": 33,
+        "beta": 0.8088709033741756,
+        "r2": 0.6608595443144262
+      },
+      "prediction": "Conditional proportionality with fixed efficiencies and matched Q/M, not GDP automatically",
+      "alternative": "Common trends, reconstructed energy, changing efficiencies and common causes",
+      "refutation": "Requires independent Q,M and efficiencies; covariance alone does not test the law",
+      "nonconclusion": "Shared construction of energy; GDP is not independently operationalized Money"
+    }
+  ]
+}

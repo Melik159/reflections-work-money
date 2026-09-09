@@ -1,0 +1,102 @@
+{
+  "synthetic": true,
+  "source_pages": [
+    207,
+    208,
+    413,
+    414,
+    415,
+    427,
+    548,
+    553,
+    554,
+    559
+  ],
+  "T": {
+    "state_initial": 9.0,
+    "state_final": 16.0,
+    "increment": 7.0,
+    "fixed_speed_increment": 0,
+    "variable_cp_missing_term": "0.5*omega**2*dcp",
+    "status": "LOCALLY_CONSISTENT"
+  },
+  "three_products": {
+    "prices_initial": [
+      10.0,
+      20.0,
+      5.0
+    ],
+    "prices_final": [
+      8.0,
+      24.0,
+      4.0
+    ],
+    "quantities_initial": [
+      10.0,
+      3.0,
+      8.0
+    ],
+    "quantities_final": [
+      20.0,
+      2.0,
+      1.0
+    ],
+    "base_expenditure": 200.0,
+    "fixed_basket_expenditure": 184.0,
+    "direct_index": 0.92,
+    "normalized_weighted_index": 0.92,
+    "equal_weight_index": 0.9333333333333333,
+    "K_local": [
+      0.5,
+      2.0,
+      4.0
+    ],
+    "T_local": [
+      2.0,
+      5.0,
+      1.0
+    ],
+    "K_aggregate": [
+      1.6744186046511629,
+      0.8627450980392157
+    ],
+    "Utility_summed": false
+  },
+  "potential": {
+    "exact_paths": [
+      1.0,
+      1.0
+    ],
+    "nonexact_paths": [
+      0.0,
+      1.0
+    ],
+    "note": "No losses label alone does not impose equality of mixed partials; toy is not a fitted corpus potential."
+  },
+  "metric": {
+    "substituted_squared": 13.0,
+    "printed_squared": 35.0,
+    "status": "INCONSISTENT_IF_SAME_VARIABLES_NO_HIDDEN_NORMALIZATION",
+    "unnormalised_slopes": [
+      0.5,
+      50.0
+    ],
+    "normalised_slopes": [
+      1.0,
+      1.0
+    ]
+  },
+  "money": {
+    "finite_change": 31.0,
+    "first_order": 30.0,
+    "cross_term": 1.0
+  },
+  "limits": [
+    "Synthetic examples only",
+    "Utility explicitly nonadditive in manuscript p108",
+    "No causal identification",
+    "No new empirical data",
+    "Existing two-product and energy checks remain separate"
+  ],
+  "global_theory_verdict": null
+}

@@ -1,0 +1,82 @@
+{
+  "status": [
+    "FORMALLY_SUPPORTED",
+    "FORMALLY_QUALIFIED",
+    "BLOCKED_BY_MEASUREMENT"
+  ],
+  "findings": [
+    "Order/equality/sign of change survive common strictly increasing recoding",
+    "Numerical differences need interval structure; their ratios are affine invariant",
+    "Utility ratios need a common ratio scale, not merely an ordinal or interval scale",
+    "Core Law level product covaries under U→aU,r→r/a; arbitrary shifts cannot retain one r across states",
+    "r ΔU covaries under affine recoding with r→r/a; an absolute origin is not needed for this difference-only expression"
+  ],
+  "transformed": {
+    "identity": {
+      "values": [
+        "1",
+        "2",
+        "4"
+      ],
+      "order": true,
+      "equality": true,
+      "difference": "2",
+      "ratio": "1/2",
+      "yield_value": "1/2",
+      "ratio_of_differences": "1/2",
+      "level_product": "24",
+      "compensating_r_at_2": "6",
+      "compensating_r_at_4": "6"
+    },
+    "ratio": {
+      "values": [
+        "3",
+        "6",
+        "12"
+      ],
+      "order": true,
+      "equality": true,
+      "difference": "6",
+      "ratio": "1/2",
+      "yield_value": "1/2",
+      "ratio_of_differences": "1/2",
+      "level_product": "72",
+      "compensating_r_at_2": "2",
+      "compensating_r_at_4": "2"
+    },
+    "affine": {
+      "values": [
+        "8",
+        "11",
+        "17"
+      ],
+      "order": true,
+      "equality": true,
+      "difference": "6",
+      "ratio": "11/17",
+      "yield_value": "6/17",
+      "ratio_of_differences": "1/2",
+      "level_product": "102",
+      "compensating_r_at_2": "12/11",
+      "compensating_r_at_4": "24/17"
+    },
+    "nonlinear": {
+      "values": [
+        "1",
+        "4",
+        "16"
+      ],
+      "order": true,
+      "equality": true,
+      "difference": "12",
+      "ratio": "1/4",
+      "yield_value": "3/4",
+      "ratio_of_differences": "1/4",
+      "level_product": "96",
+      "compensating_r_at_2": "3",
+      "compensating_r_at_4": "3/2"
+    }
+  },
+  "independent_Utility_measured": false,
+  "Money_observed": false
+}

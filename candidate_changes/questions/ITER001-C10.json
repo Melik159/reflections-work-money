@@ -1,0 +1,106 @@
+{
+  "id": "ITER001-C10",
+  "target": [
+    "research_questions/RQ-01.01/conclusion.md",
+    "research_questions/RQ-02.03/conclusion.md",
+    "research_questions/RQ-12.03/conclusion.md"
+  ],
+  "current_state": {
+    "baseline": "CAMPERGUE-DOCUMENTARY-BASELINE-1.0",
+    "questions": [
+      {
+        "id": "RQ-01.01",
+        "status": "PARTIALLY_RESOLVED",
+        "target_path": "research_questions/RQ-01.01/conclusion.md",
+        "target_sha256": "830931f7152778a0a45ec81e63d54114d6626f70e99f06b9f05abdbabdd36114"
+      },
+      {
+        "id": "RQ-02.03",
+        "status": "OPEN",
+        "target_path": "research_questions/RQ-02.03/conclusion.md",
+        "target_sha256": "390625897820643eac60ebbcee730bf96412158e482afc4ef677c7a5e24fd259"
+      },
+      {
+        "id": "RQ-12.03",
+        "status": "OPEN",
+        "target_path": "research_questions/RQ-12.03/conclusion.md",
+        "target_sha256": "8ce8c668a2239ba37e49d64e5372f5e9bf841155c085f16f4022293c68b5348b"
+      }
+    ],
+    "claims": [
+      {
+        "id": "CPC-0003",
+        "statement": "L’étude compare la transformation du travail en monnaie à celle de la chaleur en travail, en les distinguant.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 2
+      },
+      {
+        "id": "CPC-0009",
+        "statement": "Seul le travail engendre un changement.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 14
+      },
+      {
+        "id": "CPC-0042",
+        "statement": "L’emploi du formalisme thermodynamique exclut ici les variables physiques et notamment l’entropie.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 36
+      },
+      {
+        "id": "CPC-0068",
+        "statement": "Les relations de vitesse mesurent les évolutions sans en déterminer les causes.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 198
+      }
+    ],
+    "note": "État canonique inchangé; qualifications détaillées lues dans synthèse/remédiation/clôture."
+  },
+  "proposed_state": "Ajouter contrat à dix champs pour expériences futures, sans score de vérité: source/reconstruction/type/grandeur/données/domaine/alternative/falsificateur/diagnostic échec/lien racine. Métrologie ou description peuvent rester utiles sans discrimination. Validation sémantique humaine/agent explicite séparée du validateur structurel.",
+  "evidence": [
+    "agents/reports/ITER001-C10/specialist.md",
+    "agents/reports/ITER001-C10/adversarial.md",
+    "agents/reports/ITER001-C10/evidence.md",
+    "agents/reports/ITER001-C10/source_pages.txt",
+    "agents/reports/ITER001-C10/provenance.json",
+    "Reflections_PierreCampergue.pdf"
+  ],
+  "counterevidence": "Formulaire rempli ne prouve pas validité; claim composite ne doit pas recevoir un type unique; p301 accepte approximation et p198 distingue mesure/cause.",
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C10/specialist.md",
+    "adversarial": "agents/reports/ITER001-C10/adversarial.md",
+    "evidence": "agents/reports/ITER001-C10/evidence.md"
+  },
+  "confidence": "HIGH fidélité des passages ciblés; performance pratique du contrat non évaluée",
+  "reason": "Opérationnalise limites déjà établies pour prochaines tâches; aucune nouvelle évaluation académique globale.",
+  "impact": "Prépare transitions de file expérience, conserve tous négatifs C01–09; aucun changement baseline",
+  "decision": "QUALIFY",
+  "finding_class": "CONFIRMS_EXISTING",
+  "claims": [
+    "CPC-0003",
+    "CPC-0009",
+    "CPC-0042",
+    "CPC-0068"
+  ],
+  "questions": [
+    "RQ-01.01",
+    "RQ-02.03",
+    "RQ-12.03"
+  ],
+  "source_pages": [
+    63,
+    64,
+    65,
+    79,
+    80,
+    198,
+    301,
+    561,
+    562
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "negative_results": [
+    "NON_DISCRIMINATING"
+  ],
+  "source_pages_policy": "Repères d’extraction; lecture effective et rôle du passage attestés séparément dans specialist.md et evidence.md, jamais par la seule préparation.",
+  "supporting_claims_policy": "Les claims sont liens de recherche; toutes les pages complémentaires ne sont pas leurs citations canoniques. Les rapports identifient les sources directes, notamment p112 pour C09 et p385–386 pour C03."
+}

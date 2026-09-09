@@ -1,0 +1,118 @@
+{
+  "id": "ITER001-C01",
+  "target": [
+    "research_questions/RQ-06.01/conclusion.md",
+    "research_questions/RQ-06.03/conclusion.md",
+    "research_questions/RQ-09.03/conclusion.md"
+  ],
+  "current_state": {
+    "baseline": "CAMPERGUE-DOCUMENTARY-BASELINE-1.0",
+    "questions": [
+      {
+        "id": "RQ-06.01",
+        "status": "OPEN",
+        "target_path": "research_questions/RQ-06.01/conclusion.md",
+        "target_sha256": "658c65282b609ec086e425c61cdcfb55f7027cd077c9e0794e7e0928fb99e553"
+      },
+      {
+        "id": "RQ-06.03",
+        "status": "OPEN",
+        "target_path": "research_questions/RQ-06.03/conclusion.md",
+        "target_sha256": "225208dbdbe2aa7ca21fcacafd92715b7c0ad738e422aad91dc3aa7edcbe014b"
+      },
+      {
+        "id": "RQ-09.03",
+        "status": "PARTIALLY_RESOLVED",
+        "target_path": "research_questions/RQ-09.03/conclusion.md",
+        "target_sha256": "f58cb1f229fffb3ca7369a5748b1deccdf24e6b604b7919008d4df219d488cf8"
+      }
+    ],
+    "claims": [
+      {
+        "id": "CPC-0010",
+        "statement": "Money est défini comme le nombre d’unités multiplié par la valeur de l’unité.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 15
+      },
+      {
+        "id": "CPC-0016",
+        "statement": "Le mécanisme productif proposé relie Work supplémentaire, productivité et baisse de prix à Money accru : u augmente à n constant (3a), ou n est ensuite ajusté pour stabiliser u (4a).",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 19
+      },
+      {
+        "id": "CPC-0046",
+        "statement": "Money est la valeur de Cash, lequel en est le support.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 184
+      },
+      {
+        "id": "CPC-0118",
+        "statement": "La fin du manuscrit propose GDP=K·Wconsumed comme couplage absolu, en absorbant dans K l’énergie sans création de Money.",
+        "source_document": "Reflections_PierreCampergue.pdf",
+        "page_pdf": 559
+      }
+    ],
+    "note": "État canonique inchangé; qualifications détaillées lues dans synthèse/remédiation/clôture."
+  },
+  "proposed_state": "Ajouter un protocole de raccord à quatre portes (double compte, frontière, dates/stocks, déflateur) avec bénéficiaires et revenus des contreparties, coûts avant/après, budget maintenu; A sans autres intrants dans le jouet; distinguer gain nominal 0,1 de capacité d’achat relative et Money. Échec démontré=FAIL; opération non classée=UNRESOLVED. Aucun raccord réel validé.",
+  "evidence": [
+    "agents/reports/ITER001-C01/specialist.md",
+    "agents/reports/ITER001-C01/adversarial.md",
+    "agents/reports/ITER001-C01/evidence.md",
+    "agents/reports/ITER001-C01/source_pages.txt",
+    "agents/reports/ITER001-C01/provenance.json",
+    "Reflections_PierreCampergue.pdf"
+  ],
+  "counterevidence": "PDF205 prescrit déjà valeur ajoutée; PDF19/468 autorisent réemploi différé. Gain individuel ne prouve pas gain agrégé; stocks, intrants et qualité doivent être explicites.",
+  "reviewers": {
+    "specialist": "agents/reports/ITER001-C01/specialist.md",
+    "adversarial": "agents/reports/ITER001-C01/adversarial.md",
+    "evidence": "agents/reports/ITER001-C01/evidence.md"
+  },
+  "confidence": "HIGH pour limites textuelles; MEDIUM pour utilité du protocole; aucune confiance empirique estimée",
+  "reason": "Réserves adversariales incorporées dans la proposition; absence de désaccord substantiel à trancher. Les quatre portes sont nécessaires dans le modèle de collecte, pas suffisantes à identité PIB/Money.",
+  "impact": "Précise RQ-06.01/06.03/09.03; ne modifie pas baseline ni comptage scientifique",
+  "decision": "QUALIFY",
+  "finding_class": "CONFIRMS_EXISTING",
+  "claims": [
+    "CPC-0010",
+    "CPC-0016",
+    "CPC-0046",
+    "CPC-0118"
+  ],
+  "questions": [
+    "RQ-06.01",
+    "RQ-06.03",
+    "RQ-09.03"
+  ],
+  "source_pages": [
+    15,
+    19,
+    184,
+    187,
+    204,
+    205,
+    206,
+    207,
+    208,
+    254,
+    255,
+    256,
+    257,
+    258,
+    466,
+    467,
+    468,
+    469,
+    559
+  ],
+  "scientific_scope": "Candidat de recherche séparé, aucune intégration baseline. Diagnostic/protocole analyste; aucune mesure empirique nouvelle.",
+  "negative_results": [
+    "AMBIGUOUS",
+    "NOT_IDENTIFIABLE",
+    "NON_DISCRIMINATING"
+  ],
+  "source_pages_policy": "Repères d’extraction; lecture effective et rôle du passage attestés séparément dans specialist.md et evidence.md, jamais par la seule préparation.",
+  "supporting_claims_policy": "Les claims sont liens de recherche; toutes les pages complémentaires ne sont pas leurs citations canoniques. Les rapports identifient les sources directes, notamment p112 pour C09 et p385–386 pour C03."
+}

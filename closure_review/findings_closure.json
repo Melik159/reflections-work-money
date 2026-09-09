@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ER-001",
+    "severity": "MAJOR",
+    "target": "final_synthesis.md: author/reviewer scope",
+    "problem": "La reconstruction conditionnelle atténue des généralisations explicites.",
+    "review_evidence": "Le manuscrit affirme une dégradation systématique, des limites générales à la croissance et des jugements sectoriels/politiques. Les exemples de services productifs p159/271 empêchent une exclusion sectorielle simple, sans effacer p534.",
+    "correction_proposed": "Séparer AUTHOR_CLAIMED_GENERALITY et REVIEWER_SUPPORTED_SCOPE; conserver les tensions sectorielles et normatives.",
+    "action": "ACCEPT",
+    "action_taken": "Correction documentaire ou formelle appliquée; inconnue scientifique conservée.",
+    "files_modified": [
+      "research_questions/synthesis/final_synthesis.md",
+      "research_questions/methodology/epistemic_program.md"
+    ],
+    "claim_status_impact": "Attribution conservée; qualifications explicites",
+    "question_status_impact": "Aucune promotion; 53 questions et statuts conservés",
+    "remaining_uncertainty": "Généralité de l’auteur désormais explicite; sa justification reste ouverte.",
+    "closure": "CLOSED_WITH_SCIENTIFIC_LIMITS",
+    "closure_status": "CLOSED_WITH_RESIDUAL_UNCERTAINTY",
+    "closure_evidence": "Files inspected, current JSON/Markdown agreement, targeted tests executed separately; see final_verification.json."
+  },
+  {
+    "id": "ER-002",
+    "severity": "MAJOR",
+    "target": "GDP=K W; SYN-11",
+    "problem": "Le raccord comptable au PIB précède et dépasse le problème de stabilité de K.",
+    "review_evidence": "P559 identifie PIB et Money dépensé; gain de pouvoir d’achat, prix total et valeur ajoutée ne sont pas automatiquement la même grandeur. Le contre-exemple brut 100+150=250 contre VA=150 est conditionnel: p205 exige précisément la valeur ajoutée, ce qui peut éviter ce double compte.",
+    "correction_proposed": "Définir flux par période, frontière nette, réemploi des paiements et prix nominal/réel avant de tester K. Ne pas attribuer au corpus un double compte inévitable.",
+    "action": "PARTIALLY_ACCEPT",
+    "action_taken": "Pont incomplet accepté; rattachement corrigé: CPC-0118 p559, non CPC-0127 p400 (destination du gain).",
+    "files_modified": [
+      "remediation/money_gdp_bridge.md",
+      "research_questions/synthesis/results.json"
+    ],
+    "claim_status_impact": "Qualification du raccord CPC-0118, attribution conservée; erreur de rattachement externe documentée.",
+    "question_status_impact": "Aucune promotion; 53 questions et statuts conservés",
+    "remaining_uncertainty": "Raccord net Money/VA/PIB demeure incomplet; CPC-0118 est la cible correcte.",
+    "closure": "CLOSED_WITH_SCIENTIFIC_LIMITS",
+    "closure_status": "CLOSED_WITH_RESIDUAL_UNCERTAINTY",
+    "closure_evidence": "Files inspected, current JSON/Markdown agreement, targeted tests executed separately; see final_verification.json."
+  },
+  {
+    "id": "ER-003",
+    "severity": "MAJOR",
+    "target": "Money: référent, signe et origine",
+    "problem": "Une variable unique mélange solde, gain, potentiel et transfert orienté.",
+    "review_evidence": "M=nu, gain budgétaire p204, primitive négative p207 et somme cinétique/potentielle p467 ne partagent pas nécessairement origine et référent. Le cas numérique 1 contre −1 ne constitue une incompatibilité que si on impose ces référents identiques.",
+    "correction_proposed": "Introduire un dictionnaire explicite M_solde, deltaM_gain, M_cinétique et transfert orienté, comme reconstruction du reviewer, non correction silencieuse du manuscrit.",
+    "action": "ACCEPT",
+    "action_taken": "Correction documentaire ou formelle appliquée; inconnue scientifique conservée.",
+    "files_modified": [
+      "remediation/money_referents.json",
+      "research_questions/operationalization/variables.json"
+    ],
+    "claim_status_impact": "Attribution conservée; qualifications explicites",
+    "question_status_impact": "Aucune promotion; 53 questions et statuts conservés",
+    "remaining_uncertainty": "Six référents distingués sans prouver leur équivalence.",
+    "closure": "CLOSED_WITH_SCIENTIFIC_LIMITS",
+    "closure_status": "CLOSED_WITH_RESIDUAL_UNCERTAINTY",
+    "closure_evidence": "Files inspected, current JSON/Markdown agreement, targeted tests executed separately; see final_verification.json."
+  },
+  {
+    "id": "ER-004",
+    "severity": "MAJOR",
+    "target": "Core Law: dérivation et inversion",
+    "problem": "Les limites invoquées ne justifient pas la dérivée; une inversion imprimée est incorrecte.",
+    "review_evidence": "U/ΔF à U fixe ne tend pas vers dU/dF. Pour Fp=rU, F=rU/p, non (p/r)U. Inspection visuelle p303 confirme la disposition. P301 autorise une hypothèse simplificatrice: la relation peut être postulée, pas ainsi démontrée.",
+    "correction_proposed": "Distinguer loi proposée, dérivation non établie et erreur algébrique locale; préserver le modèle postulé sous conditions.",
+    "action": "ACCEPT",
+    "action_taken": "Correction documentaire ou formelle appliquée; inconnue scientifique conservée.",
+    "files_modified": [
+      "remediation/formal_corrections.json",
+      "research_questions/synthesis/results.json"
+    ],
+    "claim_status_impact": "Attribution conservée; qualifications explicites",
+    "question_status_impact": "Aucune promotion; 53 questions et statuts conservés",
+    "remaining_uncertainty": "Erreur locale conservée comme erreur; postulat non validé par réparation.",
+    "closure": "CLOSED_WITH_SCIENTIFIC_LIMITS",
+    "closure_status": "CLOSED_WITH_RESIDUAL_UNCERTAINTY",
+    "closure_evidence": "Files inspected, current JSON/Markdown agreement, targeted tests executed separately; see final_verification.json."
+  },
+  {
+    "id": "ER-005",
+    "severity": "MODERATE",
+    "target": "SYN-07: moyenne puis carré",
+    "problem": "Le test de moyenne pondérée de K ne couvre pas le passage de moyenne des vitesses au carré.",
+    "review_evidence": "Avec cp=2, les vitesses 1 et 3 donnent moyenne de T=5, contre 4 pour le carré de la moyenne; 2 et 2 donnent 4 avec la même moyenne. Le terme de variance disparaît dans la substitution.",
+    "correction_proposed": "Ajouter une condition sur la dispersion ou conserver les seconds moments. Un K ajusté peut absorber ce terme sans devenir structurellement constant.",
+    "action": "ACCEPT",
+    "action_taken": "Correction documentaire ou formelle appliquée; inconnue scientifique conservée.",
+    "files_modified": [
+      "remediation/formal_corrections.json",
+      "research_questions/synthesis/results.json"
+    ],
+    "claim_status_impact": "Attribution conservée; qualifications explicites",
+    "question_status_impact": "Aucune promotion; 53 questions et statuts conservés",
+    "remaining_uncertainty": "Moments/dispersion et composition restent à mesurer.",
+    "closure": "CLOSED_WITH_SCIENTIFIC_LIMITS",
+    "closure_status": "CLOSED_WITH_RESIDUAL_UNCERTAINTY",
+    "closure_evidence": "Files inspected, current JSON/Markdown agreement, targeted tests executed separately; see final_verification.json."
+  },
+  {
+    "id": "ER-006",
+    "severity": "MODERATE",
+    "target": "VAR-16 energy",
+    "problem": "DIRECTLY_OBSERVABLE est trop fort pour la série primaire par substitution.",
+    "review_evidence": "La série indépendante du PIB utilise des conventions de conversion de l’électricité non fossile. Son acquisition est épinglée à une version; la reproductibilité L5 peut être conservée, pas le caractère directement mesuré de toute la grandeur.",
+    "correction_proposed": "Conserver L5 pour les données reproductibles; classer la quantité harmonisée DERIVABLE_FROM_OBSERVABLES avec hypothèses et méthode.",
+    "action": "ACCEPT",
+    "action_taken": "Correction documentaire ou formelle appliquée; inconnue scientifique conservée.",
+    "files_modified": [
+      "research_questions/operationalization/variables.json"
+    ],
+    "claim_status_impact": "Attribution conservée; qualifications explicites",
+    "question_status_impact": "Aucune promotion; 53 questions et statuts conservés",
+    "remaining_uncertainty": "Correction documentaire spécifique effectivement appliquée; aucune promotion scientifique.",
+    "closure": "CLOSED_WITH_SCIENTIFIC_LIMITS",
+    "closure_status": "CLOSED",
+    "closure_evidence": "Files inspected, current JSON/Markdown agreement, targeted tests executed separately; see final_verification.json."
+  },
+  {
+    "id": "ER-007",
+    "severity": "MODERATE",
+    "target": "Variables: Utility, dommage, coût",
+    "problem": "Le niveau du concept cible est parfois confondu avec celui d’un proxy candidat.",
+    "review_evidence": "Qualité technique ou classement ordinal ne mesurent pas les ratios de Utility; énergie et matières sont des pressions, pas une fonction de dommage. Inversement un coût comptable peut avoir une procédure L3 même si le proxy sectoriel retenu est L2.",
+    "correction_proposed": "Séparer maturité du concept, disponibilité des données et validité de correspondance. Utility/dommage cibles restent L1 tant que cette correspondance manque; proxies candidats L2.",
+    "action": "PARTIALLY_ACCEPT",
+    "action_taken": "Cible/proxy séparés; pas promotion automatique du coût ni critère de mesure inventé.",
+    "files_modified": [
+      "research_questions/operationalization/variables.json",
+      "research_questions/operationalization/experiments.json"
+    ],
+    "claim_status_impact": "Attribution conservée; qualifications explicites",
+    "question_status_impact": "Aucune promotion; 53 questions et statuts conservés",
+    "remaining_uncertainty": "Cibles L1/proxies candidats L2; validité de correspondance ouverte.",
+    "closure": "CLOSED_WITH_SCIENTIFIC_LIMITS",
+    "closure_status": "CLOSED_WITH_RESIDUAL_UNCERTAINTY",
+    "closure_evidence": "Files inspected, current JSON/Markdown agreement, targeted tests executed separately; see final_verification.json."
+  },
+  {
+    "id": "ER-008",
+    "severity": "MODERATE",
+    "target": "Traceabilité sémantique et verify_synthesis",
+    "problem": "Existence de source et contrôle de structure ne vérifient pas son implication.",
+    "review_evidence": "Deux mutations uniquement en mémoire sont acceptées: causalité monétaire générale erronée, puis README.md comme source existante sans rapport. Cela démontre une limite du validateur, pas que toutes les conclusions actuelles sont erronées.",
+    "correction_proposed": "Ajouter passages précis et rôle de chaque preuve; conserver revue humaine et cas négatifs. Ne pas compter les PASS comme confirmations économiques.",
+    "action": "ACCEPT",
+    "action_taken": "Correction documentaire ou formelle appliquée; inconnue scientifique conservée.",
+    "files_modified": [
+      "analysis/verify_synthesis.py",
+      "remediation/validate_contracts.py",
+      "tests/corpus/test_remediation.py"
+    ],
+    "claim_status_impact": "Attribution conservée; qualifications explicites",
+    "question_status_impact": "Aucune promotion; 53 questions et statuts conservés",
+    "remaining_uncertainty": "Contrats et mutations ne font pas une preuve sémantique; SYN-08 reste composite.",
+    "closure": "CLOSED_WITH_SCIENTIFIC_LIMITS",
+    "closure_status": "CLOSED_WITH_RESIDUAL_UNCERTAINTY",
+    "closure_evidence": "Files inspected, current JSON/Markdown agreement, targeted tests executed separately; see final_verification.json."
+  },
+  {
+    "id": "ER-009",
+    "severity": "MODERATE",
+    "target": "CPC-0016: EMPIRICALLY_COMPATIBLE",
+    "problem": "La compatibilité du voisinage empirique est attribuée au claim complet.",
+    "review_evidence": "Les associations énergie/PIB et le cas coût/prix ne mesurent pas indépendamment Work→u→Money. Le texte prudent ne suffit pas à corriger la portée de l’étiquette machine.",
+    "correction_proposed": "NOT_IDENTIFIED pour la chaîne complète; compatibilité descriptive seulement pour sous-relations identifiées et non discriminantes.",
+    "action": "ACCEPT",
+    "action_taken": "Correction documentaire ou formelle appliquée; inconnue scientifique conservée.",
+    "files_modified": [
+      "analysis/data/claims.jsonl",
+      "research_questions/synthesis/core_claims.json"
+    ],
+    "claim_status_impact": "CPC-0016 empirique NOT_IDENTIFIED",
+    "question_status_impact": "Aucune promotion; 53 questions et statuts conservés",
+    "remaining_uncertainty": "Correction documentaire spécifique effectivement appliquée; aucune promotion scientifique.",
+    "closure": "CLOSED_WITH_SCIENTIFIC_LIMITS",
+    "closure_status": "CLOSED",
+    "closure_evidence": "Files inspected, current JSON/Markdown agreement, targeted tests executed separately; see final_verification.json."
+  },
+  {
+    "id": "ER-010",
+    "severity": "MODERATE",
+    "target": "+78%: portée revendiquée",
+    "problem": "Le résultat arithmétique limité ne restitue pas à lui seul la généralité revendiquée.",
+    "review_evidence": "P32 généralise aux Products et aux lieux/époques, avec prémisses d’homogénéité. (8/6)^2−1 est reproductible; cette opération n’établit ni homogénéité interproduits ni énergie économique indépendante.",
+    "correction_proposed": "Conserver ARITHMETICALLY_REPRODUCED et ASSUMPTION_DEPENDENT, en citant aussi la revendication universelle et son absence de test indépendant.",
+    "action": "ACCEPT",
+    "action_taken": "Correction documentaire ou formelle appliquée; inconnue scientifique conservée.",
+    "files_modified": [
+      "analysis/data/claims.jsonl",
+      "research_questions/synthesis/results.json"
+    ],
+    "claim_status_impact": "Attribution conservée; qualifications explicites",
+    "question_status_impact": "Aucune promotion; 53 questions et statuts conservés",
+    "remaining_uncertainty": "Universalité empirique non acquise malgré calcul exact.",
+    "closure": "CLOSED_WITH_SCIENTIFIC_LIMITS",
+    "closure_status": "CLOSED_WITH_RESIDUAL_UNCERTAINTY",
+    "closure_evidence": "Files inspected, current JSON/Markdown agreement, targeted tests executed separately; see final_verification.json."
+  },
+  {
+    "id": "ER-011",
+    "severity": "MINOR",
+    "target": "Citations CORE tronquées",
+    "problem": "Les citations isolées omettent une partie du contraste nécessaire.",
+    "review_evidence": "Le voisinage p35 ajoute Cash au Product; p185 précise le référent des actifs et de Money. Les citations ne sont pas inventées, mais leur contexte fait partie de la preuve.",
+    "correction_proposed": "Étendre les extraits associés sans changer les IDs ni le sens du claim.",
+    "action": "ACCEPT",
+    "action_taken": "Correction documentaire ou formelle appliquée; inconnue scientifique conservée.",
+    "files_modified": [
+      "analysis/data/claims.jsonl",
+      "research_questions/synthesis/core_claims.json"
+    ],
+    "claim_status_impact": "Attribution conservée; qualifications explicites",
+    "question_status_impact": "Aucune promotion; 53 questions et statuts conservés",
+    "remaining_uncertainty": "Correction documentaire spécifique effectivement appliquée; aucune promotion scientifique.",
+    "closure": "CLOSED_WITH_SCIENTIFIC_LIMITS",
+    "closure_status": "CLOSED",
+    "closure_evidence": "Files inspected, current JSON/Markdown agreement, targeted tests executed separately; see final_verification.json."
+  },
+  {
+    "id": "ER-012",
+    "severity": "NOTE",
+    "target": "CC-03: attribution de la contribution",
+    "problem": "Un diagnostic métrologique du reviewer ne doit pas devenir une innovation attribuée à l’auteur.",
+    "review_evidence": "L’analyse interne le signale déjà. Les exigences d’échelles ont un précédent méthodologique explicite; le diagnostic appliqué aux formules reste utile.",
+    "correction_proposed": "Étiqueter CONTRIBUTION_OF_REVIEW pour le diagnostic et distinctement les opérations du corpus; aucune nouveauté historique affirmée.",
+    "action": "ACCEPT",
+    "action_taken": "Correction documentaire ou formelle appliquée; inconnue scientifique conservée.",
+    "files_modified": [
+      "research_questions/synthesis/contributions.json",
+      "research_questions/synthesis/contributions.md"
+    ],
+    "claim_status_impact": "Attribution conservée; qualifications explicites",
+    "question_status_impact": "Aucune promotion; 53 questions et statuts conservés",
+    "remaining_uncertainty": "Correction documentaire spécifique effectivement appliquée; aucune promotion scientifique.",
+    "closure": "CLOSED_WITH_SCIENTIFIC_LIMITS",
+    "closure_status": "CLOSED",
+    "closure_evidence": "Files inspected, current JSON/Markdown agreement, targeted tests executed separately; see final_verification.json."
+  }
+]
